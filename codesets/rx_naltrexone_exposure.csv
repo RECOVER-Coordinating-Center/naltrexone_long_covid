@@ -1,0 +1,1336 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason,partition_0
+45318436,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00555090201,2014-01-01,2020-08-01,D,1
+42949482,Naltrexone 50 MG Oral Tablet [TRAXONE],Drug,RxNorm Extension,Branded Drug,S,OMOP4676066,2018-08-21,2099-12-31,,1
+41411148,0.6 ML methylnaltrexone 20 MG/ML Injection [Relistor] Box of 1 by TMC,Drug,RxNorm Extension,Marketed Product,S,OMOP2609110,2017-08-24,2099-12-31,,1
+42881595,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,5823cedf-6a36-48c4-8c53-b4f882ae25f9,2012-01-18,2099-12-31,,1
+45404988,Naltrexone,Drug,GPI,GPI,,9340003000,1970-01-01,2015-05-05,D,1
+40228624,MORPHINE SO4 50MG/NALTREXONE HCL 2MG CAP.SA,Drug,VANDF,Drug Product,,4029088,1970-01-01,2099-12-31,,1
+21199727,Naltrexone 50mg tablets,Drug,dm+d,VMP,,323281004,1970-01-01,2099-12-31,,1
+21184508,Naltrexone 1mg capsules,Drug,dm+d,AMP,,16015211000001101,1970-01-01,2099-12-31,,1
+45796147,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED [revia],Drug,SPL,Prescription Drug,C,ae904573-9e40-4533-bca3-9983a85368cc,2003-07-18,2099-12-31,,1
+45727271,METHYLNALTREXONE BROMIDE 8 mg/0.4 mL SUB-Q SYRINGE (ML),Drug,GCN_SEQNO,GCN_SEQNO,,068483,2013-11-04,2099-12-31,,1
+45120644,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,51552073701,2013-08-05,2099-12-31,,1
+37141385,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,0e9921e5-8ee7-5fe0-e063-6294a90a8765,2015-03-26,2099-12-31,,1
+41410445,0.6 ML methylnaltrexone 20 MG/ML Injection [Relistor] Box of 7,Drug,RxNorm Extension,Quant Branded Box,S,OMOP2608407,2017-08-24,2099-12-31,,1
+37507286,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,a6166c5f-a254-65ba-e053-2a95a90aad4b,2020-05-01,2099-12-31,,1
+45047744,naltrexone hydrochloride 50 mg/1 TABLET. FILM COATED [NALTREXONE HYDROCHLORIDE],Drug,NDC,9-digit NDC,,068084291,2013-08-05,2099-12-31,,1
+42949487,Naltrexone 50 MG [TRAXONE],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP4676070,2018-08-21,2099-12-31,,1
+45727270,METHYLNALTREXONE BROMIDE 12 mg/0.6 mL SUB-Q SYRINGE (ML),Drug,GCN_SEQNO,GCN_SEQNO,,068482,2013-11-04,2099-12-31,,1
+43821137,Naltrexone 50 MG Oral Tablet [Naltrexon-Hcl Neuraxpharm] by Neuraxpharm,Drug,RxNorm Extension,Marketed Product,S,OMOP675749,2017-08-24,2099-12-31,,1
+35770428,Naltrexone Delayed Release Oral Tablet [Opizone],Drug,RxNorm Extension,Branded Drug Form,S,OMOP2771889,2017-08-24,2099-12-31,,1
+45075937,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,68084029111,2014-01-01,2099-12-31,,1
+45774490,12 HR bupropion hydrochloride 90 MG / naltrexone hydrochloride 8 MG Extended Release Oral Tablet [Contrave],Drug,RxNorm,Quant Branded Drug,S,1551474,2014-12-01,2099-12-31,,1
+21277721,Naltrexone 5mg/5ml oral solution,Drug,dm+d,AMP,,16106411000001103,1970-01-01,2099-12-31,,1
+771336,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,98ec1871-c45f-a4f8-e053-2a95a90a0cd6,2018-07-19,2099-12-31,,1
+45188996,Naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,52125072702,2014-01-01,2017-01-01,D,1
+45103879,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,52372075102,2013-08-05,2099-12-31,,1
+41029843,Naltrexone 50 MG Delayed Release Oral Tablet [Nemexin] Box of 30,Drug,RxNorm Extension,Branded Drug Box,S,OMOP2227805,2017-08-24,2099-12-31,,1
+35605493,naltrexone Injection,Drug,RxNorm,Clinical Drug Form,S,1740871,2016-05-02,2099-12-31,,1
+1764747,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,8efb44e0-ca8e-67ab-e053-2995a90ab832,2014-10-22,2099-12-31,,1
+748328,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335206204,2022-04-01,2099-12-31,,1
+40228626,MORPHINE SO4 80MG/NALTREXONE HCL 3.2MG CAP.SA,Drug,VANDF,Drug Product,,4029086,1970-01-01,2099-12-31,,1
+1610075,NALTREXONE (EQV-VIVITROL) 380MG/VIL INJ.SUSP.SA,Drug,VANDF,Drug Product,,4034566,1970-01-01,2099-12-31,,1
+1509461,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,e6db3030-da43-2199-e053-2a95a90ac06b,2012-12-06,2099-12-31,,1
+44838410,Naltrexone 50 MG Oral Tablet [ReVia],Drug,NDC,11-digit NDC,,00056001122,2007-06-01,2013-01-01,D,1
+42949491,Naltrexone Oral Tablet [WHANIN NALTREXON],Drug,RxNorm Extension,Branded Drug Form,S,OMOP4676074,2018-08-21,2099-12-31,,1
+36276550,Naltrexone 50 MG Oral Tablet [NALTREXONE ACCORD] Box of 28 by Accord,Drug,RxNorm Extension,Marketed Product,S,OMOP3127425,2017-10-01,2099-12-31,,1
+42708190,0.4 ML methylnaltrexone bromide 20 MG/ML Prefilled Syringe,Drug,RxNorm,Quant Clinical Drug,S,1244063,2012-05-07,2099-12-31,,1
+36498746,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,90751991-8e96-7f1e-e053-2a95a90a0696,2018-04-27,2099-12-31,,1
+21294936,Naltrexone 12.5mg/5ml oral suspension,Drug,dm+d,AMP,,8637211000001103,1970-01-01,2099-12-31,,1
+35409654,Naltrexone 50 MG [NALTREXONE ACCORD],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP1143239,2017-08-24,2099-12-31,,1
+21249274,Naltrexone 5mg/5ml oral solution (Drug Tariff Special Order) 1 ml,Drug,dm+d,AMPP,,16106511000001104,1970-01-01,2099-12-31,,1
+40206567,ALFENTANIL/NALTREXONE,Drug,NDFRT,Drug Interaction,,N0000177973,1970-01-01,2014-11-30,D,1
+40228633,MORPHINE/NALTREXONE,Drug,NDFRT,Pharma Preparation,,N0000181659,2010-10-31,2099-12-31,,1
+43210048,Naltrexone 50 MG [NALTREXONE INTAS],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP459126,2017-08-24,2099-12-31,,1
+42949475,Naltrexone 25 MG [NALTRA],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP4676059,2018-08-21,2099-12-31,,1
+40166389,morphine / naltrexone Extended Release Oral Capsule [Embeda],Drug,RxNorm,Branded Drug Form,S,863846,2009-10-04,2099-12-31,,1
+36800731,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,621350242,2017-07-21,2099-12-31,,1
+45313224,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,62991124303,2013-08-05,2099-12-31,,1
+37504699,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,f821dd49-3fa7-4d33-99de-19023ff1ae65,2020-11-20,2099-12-31,,1
+37492332,Naltrexone Hydrochloride,Drug,CTD,Ingredient,,16676-29-2,1970-01-01,2099-12-31,,1
+43133232,Naltrexone 50 MG Delayed Release Oral Tablet Box of 28,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP459164,2017-08-24,2099-12-31,,1
+45729491,NALTREXONE MICROSPHERES 380 mg INTRAMUSC SUSPENSION. EXTENDED RELEASE. RECONST.,Drug,GCN_SEQNO,GCN_SEQNO,,060935,1970-01-01,2099-12-31,,1
+41268674,Naltrexone Delayed Release Oral Tablet [Nrexon Hcl],Drug,RxNorm Extension,Branded Drug Form,,OMOP2466636,2017-07-30,2023-08-02,U,1
+44111687,Naltrexone 50 MG Oral Tablet [Apo-Naltrexone],Drug,RxNorm Extension,Branded Drug,S,OMOP1106318,2017-08-24,2099-12-31,,1
+36663398,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,74062009-01b3-4270-9080-139e0f0e29c9,2014-10-22,2099-12-31,,1
+46239768,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,298d1c96-baeb-5e51-71a3-0b6abdefd410,2015-03-26,2099-12-31,,1
+35505347,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,NDC,9-digit NDC,,500902945,2014-10-22,2099-12-31,,1
+45830460,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED [revia],Drug,NDC,9-digit NDC,,512850275,2003-07-18,2099-12-31,,1
+909841,methylnaltrexone,Drug,RxNorm,Ingredient,S,29899,2008-06-29,2099-12-31,,1
+36987963,methylnaltrexone bromide 150mg/1 / 8mg/.4mL / 12mg/.6mL ORAL. SUBCUTANEOUS INJECTION. SOLUTION. TABLET [relistor],Drug,SPL,Prescription Drug,C,b8cb2e08-e94a-42b5-b762-0f7806b1e8ca,2008-04-24,2099-12-31,,1
+45687693,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,46623a72-461c-4728-b78e-d9bb98d83582,2013-11-04,2099-12-31,,1
+36683913,Methylnaltrexone bromide 20 mg/mL solution for injection,Drug,SNOMED,Clinical Drug,,781993005,2019-01-31,2099-12-31,,1
+40739522,Naltrexone 50 MG Oral Tablet by Sigma,Drug,RxNorm Extension,Marketed Product,S,OMOP4717708,2018-06-04,2099-12-31,,1
+44887170,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,63370015815,2013-08-05,2099-12-31,,1
+44644995,Apo-Naltrexone [Drug],Drug,DPD,Drug Product,,2444275,1970-01-01,2099-12-31,,1
+42375168,naltrexone hydrochloride 50mg,Drug,EDI,Drug Product,,653005830,1970-01-01,2099-12-31,,1
+44041190,Naltrexone 50 MG [Apo-Naltrexone],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP1035821,2017-08-24,2099-12-31,,1
+46276460,NALTREXONE (EQV-VIVITROL) 380MG/VIL INJ.SUSP.SA,Drug,NDFRT,VA Product,,N0000191655,2015-09-08,2099-12-31,,1
+40220708,methylnaltrexone bromide 150 MG Oral Tablet,Drug,RxNorm,Clinical Drug,S,1801514,2016-10-03,2099-12-31,,1
+21323711,Naltrexone 1mg capsules (Special Order) 1 capsule,Drug,dm+d,AMPP,,16015311000001109,1970-01-01,2099-12-31,,1
+36285725,Naltrexone,Drug,GGR,Ingredient,,stof01233,2017-12-26,2018-08-31,D,1
+40151064,methylnaltrexone Injectable Solution,Drug,RxNorm,Clinical Drug Form,,796392,2008-06-29,2015-09-07,D,1
+45282702,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00179179270,2007-06-01,2012-06-01,D,1
+44926878,Naltrexone 25 MG Oral Tablet,Drug,NDC,11-digit NDC,,00756030403,2007-06-01,2012-06-01,D,1
+36682397,Naltrexone only product in oral dose form,Drug,SNOMED,Clinical Drug Form,,779966001,2019-01-31,2099-12-31,,1
+36506883,Naltrexone 50 MG Oral Tablet [Nalorex] by Allomedic,Drug,RxNorm Extension,Marketed Product,S,OMOP4836014,2019-09-04,2099-12-31,,1
+35771696,Naltrexone 1 MG/ML Oral Suspension by Drug Tariff Special Order,Drug,RxNorm Extension,Marketed Product,S,OMOP2773157,2017-08-24,2099-12-31,,1
+42837867,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,687887084,2018-01-25,2099-12-31,,1
+40209649,METHADONE/NALTREXONE,Drug,NDFRT,Drug Interaction,,N0000177995,1970-01-01,2014-11-30,D,1
+46250913,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,42291063230,2015-05-01,2099-12-31,,1
+35605495,naltrexone Injection [Vivitrol],Drug,RxNorm,Branded Drug Form,S,1740874,2016-05-02,2099-12-31,,1
+40221222,naltrexone hydrochloride 7.2 MG,Drug,RxNorm,Clinical Drug Comp,S,1806727,2016-10-03,2099-12-31,,1
+40692869,Naltrexone 25mg/5ml oral solution,Drug,dm+d,VMP,,35575311000001103,1970-01-01,2099-12-31,,1
+45011760,Naltrexone 100 MG Oral Tablet,Drug,NDC,11-digit NDC,,00756030603,2007-06-01,2012-06-01,D,1
+35775806,Naltrexone 50 MG Delayed Release Oral Tablet by A A H,Drug,RxNorm Extension,Marketed Product,S,OMOP2777267,2017-08-24,2099-12-31,,1
+21127844,0.6 ML methylnaltrexone 20 MG/ML Prefilled Syringe Box of 1,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP287655,2017-08-24,2099-12-31,,1
+44013754,Apo-Naltrexone,Drug,RxNorm Extension,Brand Name,,OMOP1008385,1970-01-01,2099-12-31,,1
+35425233,NALTREXONE ACCORD,Drug,BDPM,Brand Name,,OMOP1136968,1970-01-01,2019-10-05,D,1
+40739517,Naltrexone 50 MG Oral Tablet [Adepend] by AOP,Drug,RxNorm Extension,Marketed Product,S,OMOP4717712,2018-06-04,2099-12-31,,1
+42851917,NALTREXONE HCL 50MG TAB,Drug,NDFRT,VA Product,,N0000153222,2012-06-04,2099-12-31,,1
+36376625,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,b0511240-936b-2036-e053-2995a90ac2af,2012-12-06,2099-12-31,,1
+1235600,naltrexone 1.5 MG Oral Tablet,Drug,RxNorm Extension,Clinical Drug,S,OMOP5216306,2023-08-24,2099-12-31,,1
+21262527,Naltrexone 3mg capsules 1 capsule,Drug,dm+d,VMPP,,11480111000001105,1970-01-01,2099-12-31,,1
+21325140,Naltrexone 50mg tablets (Waymade Healthcare Plc) 28 tablet,Drug,dm+d,AMPP,,21817611000001109,1970-01-01,2099-12-31,,1
+45644598,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,81e25c6a-81b6-4cfb-91bf-be20c3ae546b,2023-08-08,2099-12-31,,1
+42902690,methylnaltrexone bromide 20 MG/ML Prefilled Syringe,Drug,RxNorm,Clinical Drug,S,1359803,2012-12-03,2099-12-31,,1
+21178988,Naltrexone,Drug,dm+d,VTM,,87617007,1970-01-01,2018-06-03,D,1
+42949469,Naltrexone 25 MG Oral Tablet [MISLIM],Drug,RxNorm Extension,Branded Drug,S,OMOP4676053,2018-08-21,2099-12-31,,1
+21125590,Naltrexone 1 MG Oral Capsule by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280346,2017-08-24,2023-08-02,U,1
+40959705,Naltrexone 50 MG Oral Tablet Box of 280,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP2157667,2017-08-24,2099-12-31,,1
+36062088,naltrexone 3 MG,Drug,RxNorm Extension,Clinical Drug Comp,S,OMOP4988073,2020-08-17,2099-12-31,,1
+36002125,naltrexone KIT [vivitrol],Drug,SPL,Prescription Drug,C,e0d2f948-6b33-49cb-b248-44f817fbfde1,2006-06-13,2099-12-31,,1
+41218206,methylnaltrexone 20 MG/ML Injection [Relistor] Box of 1,Drug,RxNorm Extension,Branded Drug Box,S,OMOP2416168,2017-08-24,2099-12-31,,1
+40216631,NALTREXONE/PROPOXYPHENE,Drug,NDFRT,Drug Interaction,,N0000178000,1970-01-01,2014-11-30,D,1
+35787000,100 ML Naltrexone 1 MG/ML Oral Suspension by Drug Tariff Special Order,Drug,RxNorm Extension,Marketed Product,S,OMOP2788461,2017-08-24,2099-12-31,,1
+21136574,1 ML Naltrexone 0.2 MG/ML Oral Solution,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP301937,2017-08-24,2099-12-31,,1
+43731064,Naltrexone Oral Tablet [Nemexin],Drug,RxNorm Extension,Branded Drug Form,S,OMOP675742,2017-08-24,2099-12-31,,1
+45793405,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,92e76536-867c-4a28-97bf-35173137abe2,2009-07-29,2099-12-31,,1
+36470957,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,5c623d44-7373-75e9-e053-2991aa0a98f1,2009-07-29,2099-12-31,,1
+45153641,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,49452483501,2013-08-05,2099-12-31,,1
+44461600,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,50090286600,2017-03-01,2099-12-31,,1
+44784872,naltrexone hydrochloride 100 MG [Depade],Drug,RxNorm,Branded Drug Comp,S,1483775,2014-01-06,2099-12-31,,1
+46275649,methylnaltrexone Injection,Drug,RxNorm,Clinical Drug Form,S,1659739,2015-09-08,2099-12-31,,1
+40220713,methylnaltrexone bromide 150 MG Oral Tablet [Relistor],Drug,RxNorm,Branded Drug,S,1801519,2016-10-03,2099-12-31,,1
+35749997,Naltrexone 50 MG Delayed Release Oral Tablet [Opizone] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP2751458,2017-08-24,2099-12-31,,1
+35763241,Naltrexone 50 MG Delayed Release Oral Tablet by Alliance,Drug,RxNorm Extension,Marketed Product,S,OMOP2764702,2017-08-24,2099-12-31,,1
+44922029,naltrexone 380 MG Injection [Vivitrol],Drug,NDC,11-digit NDC,,65757030101,2010-02-01,2099-12-31,,1
+600211,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,68071272103,2022-06-01,2099-12-31,,1
+36175071,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,f11e8829-c23f-4c72-9831-670e1ff3c026,1998-05-08,2099-12-31,,1
+42884010,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,ca584fad-9f6d-43ce-b08c-11fff7b2e335,2014-10-22,2099-12-31,,1
+45935605,NALTREXONE,Drug,CIEL,Drug,,80375,2006-12-17,2099-12-31,,1
+45221463,Naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,43063046915,2014-01-01,2017-09-01,D,1
+37138501,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,63c38be3-b7e3-4fd9-8093-f8eaf6745193,2013-09-23,2099-12-31,,1
+40166415,naltrexone hydrochloride 4 MG,Drug,RxNorm,Clinical Drug Comp,S,863540,2009-10-04,2099-12-31,,1
+42949489,Naltrexone Oral Tablet [NALTRA],Drug,RxNorm Extension,Branded Drug Form,S,OMOP4676072,2018-08-21,2099-12-31,,1
+44360799,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,46f0de78-ef7a-43c0-e054-00144ff8d46c,2020-09-17,2099-12-31,,1
+46251378,Naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,63629530402,2015-05-01,2018-12-01,D,1
+45795596,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,a8e1e7e8-45ee-41de-af32-9a3f8332ca19,2012-01-02,2099-12-31,,1
+36232091,ReVia Pill,Drug,RxNorm,Branded Dose Group,C,1178315,2016-08-01,2099-12-31,,1
+42998752,PHARMA NALTREXONE Oral Tablet,Drug,KDC,Drug Product,,653005830,2018-08-03,2099-12-31,,1
+21166169,1 ML Naltrexone 2.5 MG/ML Oral Suspension by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP301952,2017-08-24,2023-08-02,U,1
+42375169,naltrexone hydrochloride 25mg,Drug,EDI,Drug Product,,657202700,1970-01-01,2099-12-31,,1
+4328949,Methylnaltrexone,Drug,SNOMED,Substance,,431072004,2008-07-31,2099-12-31,,1
+21155300,Naltrexone 50 MG Oral Tablet Box of 28 by Accord,Drug,RxNorm Extension,Marketed Product,S,OMOP280287,2017-08-24,2099-12-31,,1
+43605179,Naltrexone 50 MG Oral Tablet [Nemexin] by Bristol Myers Squibb,Drug,RxNorm Extension,Marketed Product,S,OMOP675751,2017-08-24,2099-12-31,,1
+1606369,METHYLNALTREXONE BROMIDE,Drug,VANDF,Drug Product,,4027432,1970-01-01,2099-12-31,,1
+42949470,Naltrexone 25 MG Oral Tablet [NALTRA],Drug,RxNorm Extension,Branded Drug,S,OMOP4676054,2018-08-21,2099-12-31,,1
+42949494,Naltrexone Oral Tablet [TRAXONE],Drug,RxNorm Extension,Branded Drug Form,S,OMOP4676077,2018-08-21,2099-12-31,,1
+45643110,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,3c7da2bc-e2c1-48f6-8c3f-287119b427e2,2012-05-01,2099-12-31,,1
+44474476,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,NDC,9-digit NDC,,430630772,2014-10-22,2099-12-31,,1
+45415264,methylnaltrexone 8 mg/0.4 mL subcutaneous solution,Drug,Multum,Multum,,27384,2013-08-05,2099-12-31,,1
+44933901,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,52372075103,2013-08-05,2099-12-31,,1
+40185296,methylnaltrexone bromide 20 MG/ML,Drug,RxNorm,Clinical Drug Comp,S,979112,2010-06-06,2099-12-31,,1
+40185299,methylnaltrexone bromide 20 MG/ML [Relistor],Drug,RxNorm,Branded Drug Comp,S,979114,2010-06-06,2099-12-31,,1
+1963366,methylnaltrexone bromide 150mg/1 / 8mg/.4mL / 12mg/.6mL ORAL. SUBCUTANEOUS INJECTION. SOLUTION. TABLET [relistor],Drug,SPL,Prescription Drug,C,7826bcdc-7490-4cef-9b96-094c2220f0c9,2008-04-24,2099-12-31,,1
+42828400,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,68788708401,2018-03-01,2020-06-01,D,1
+42801424,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,06982019-25a2-4bea-9e20-6c42b37c803e,2018-01-25,2099-12-31,,1
+44975601,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00185003901,2014-01-01,2099-12-31,,1
+45195793,Methylnaltrexone bromide 20 MG/ML Injectable Solution [Relistor],Drug,NDC,11-digit NDC,,00008251304,2010-06-01,2014-02-01,D,1
+45403942,Morphine-Naltrexone 80-3.2 MG Oral Capsule Extended Release,Drug,GPI,GPI,,65100055700260,1970-01-01,2099-12-31,,1
+36219426,morphine / naltrexone Pill,Drug,RxNorm,Clinical Dose Group,C,1165402,2016-08-01,2099-12-31,,1
+21174854,Naltrexone 50 MG Oral Tablet by A A H,Drug,RxNorm Extension,Marketed Product,S,OMOP280285,2017-08-24,2099-12-31,,1
+44178523,Naltrexone 50 MG Delayed Release Oral Tablet [Nalorex] Box of 30 by Eurim-Pharm,Drug,RxNorm Extension,Marketed Product,S,OMOP3055246,2017-10-06,2099-12-31,,1
+37204879,Morphine and naltrexone only product in oral dose form,Drug,SNOMED,Clinical Drug Form,,783812005,2019-07-31,2099-12-31,,1
+2918163,bupropion 90 MG / naltrexone 8 MG Extended Release Oral Tablet [Contrave] Box of 112,Drug,RxNorm Extension,Branded Drug Box,S,OMOP5134988,2021-06-30,2099-12-31,,1
+21282064,Naltrexone 50mg tablets 28 tablet,Drug,dm+d,VMPP,,3649911000001100,1970-01-01,2099-12-31,,1
+19019240,Naltrexone 50 MG Oral Tablet,Drug,RxNorm,Clinical Drug,,198011,1970-01-01,2014-01-05,U,1
+40246912,methylnaltrexone bromide 150mg/1 / 8mg/.4mL / 12mg/.6mL ORAL. SUBCUTANEOUS INJECTION. SOLUTION. TABLET [relistor],Drug,SPL,Prescription Drug,C,b8c4bb9a-edb3-4aa5-9e8a-03063fe355ef,2008-04-24,2099-12-31,,1
+36952445,naltrexone 50 MG Oral Tablet [Adepend] Box of 28 by Aop Orphanc,Drug,RxNorm Extension,Marketed Product,S,OMOP5199528,2023-05-22,2099-12-31,,1
+42949474,Naltrexone 25 MG [MISLIM],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP4676058,2018-08-21,2099-12-31,,1
+36899588,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,3b9769f8-1b0e-4dcf-8e88-1b7221f0a588,2014-10-29,2099-12-31,,1
+42540369,NALTREXONE HCL 50MG TAB,Drug,NDFRT,VA Product,,MTHU007810,1970-01-01,2005-07-29,D,1
+21251835,Naltrexone 50mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet,Drug,dm+d,AMPP,,30981611000001104,1970-01-01,2099-12-31,,1
+40692866,Naltrexone 2.5mg capsules,Drug,dm+d,AMP,,32871311000001101,1970-01-01,2099-12-31,,1
+44784881,naltrexone hydrochloride 50 MG [Depade],Drug,RxNorm,Branded Drug Comp,S,1483766,2014-01-06,2099-12-31,,1
+35199348,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,e584f90b-2dab-450b-8968-f736af25e412,2002-03-22,2099-12-31,,1
+4221608,Naltrexone-containing product in parenteral dose form,Drug,SNOMED,Clinical Drug Form,,420826002,2006-07-31,2099-12-31,,1
+45114169,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00756030501,2007-06-01,2012-06-01,D,1
+41248690,Naltrexone 50 MG Oral Tablet [Nalorex] Box of 30,Drug,RxNorm Extension,Branded Drug Box,S,OMOP2446652,2017-08-24,2099-12-31,,1
+37493031,Methylnaltrexone Bromide,Drug,CTD,Ingredient,,916055-92-0,1970-01-01,2099-12-31,,1
+36969468,Naltrexone 50mg tablets (Medihealth (Northern) Ltd) 28 tablet,Drug,dm+d,AMPP,,39883911000001104,1970-01-01,2099-12-31,,1
+718282,METHYLNALTREXONE 150MG TAB,Drug,NDFRT,VA Product,,N0000192785,2017-01-03,2099-12-31,,1
+21115915,Naltrexone 50 MG Oral Tablet Box of 28 by Orphan,Drug,RxNorm Extension,Marketed Product,S,OMOP280288,2017-08-24,2099-12-31,,1
+44382230,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,4f565dd9-d6ee-4599-a974-a3eb24958d3d,2014-10-22,2099-12-31,,1
+36464071,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,521f9396-d825-4164-804f-6001463f2a9b,2012-02-29,2099-12-31,,1
+44353824,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,5a738537-63e4-4a98-98a0-c803fc54d109,2017-03-21,2099-12-31,,1
+4320727,METHYLNALTREXONE BROMIDE 12MG/0.6ML INJ.VIL,Drug,VANDF,Drug Product,,4027409,1970-01-01,2099-12-31,,1
+1610621,BUPROPION 90MG/NALTREXONE HCL 8MG TAB.SA,Drug,VANDF,Drug Product,,4035110,1970-01-01,2099-12-31,,1
+21216661,Methylnaltrexone bromide,Drug,dm+d,VTM,,13807711000001105,1970-01-01,2018-06-03,D,1
+40221210,naltrexone hydrochloride 3.6 MG,Drug,RxNorm,Clinical Drug Comp,S,1806715,2016-10-03,2099-12-31,,1
+4256104,Naltrexone hydrochloride 25 mg oral tablet,Drug,SNOMED,Clinical Drug,,409460004,2004-07-31,2099-12-31,,1
+36466582,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,500903929,2012-02-29,2099-12-31,,1
+42483305,0.6 ML methylnaltrexone 20 MG/ML Prefilled Syringe,Drug,RxNorm Extension,Quant Clinical Drug,,OMOP419488,2015-08-17,2017-08-23,D,1
+42949476,Naltrexone 25 MG [WHANIN NALTREXON],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP4676060,2018-08-21,2099-12-31,,1
+21155302,Naltrexone 5 MG/ML Oral Suspension,Drug,RxNorm Extension,Clinical Drug,S,OMOP280353,2017-08-24,2099-12-31,,1
+44186001,Naltrexone 50 MG Delayed Release Oral Tablet Box of 28 by Neuraxpharm,Drug,RxNorm Extension,Marketed Product,S,OMOP3062724,2017-10-06,2099-12-31,,1
+40967477,Naltrexone 50 MG Delayed Release Oral Tablet [Nrexon Hcl] Box of 28,Drug,RxNorm Extension,Branded Drug Box,,OMOP2165439,2017-07-30,2023-08-02,U,1
+37283433,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,69cb8573-08c1-4957-a768-6cd383f6a3f4,2021-12-14,2099-12-31,,1
+43329662,Naltrexone Hydrochloride (Generic Health) 50 Mg Tablet,Drug,AMT,Trade Product Unit,,920982011000036101,2016-11-01,2099-12-31,,1
+45850449,methylnaltrexone bromide 8mg/.4mL SUBCUTANEOUS INJECTION. SOLUTION,Drug,NDC,9-digit NDC,,656490552,2008-04-24,2099-12-31,,1
+1714345,Naltrexone 100 MG,Drug,RxNorm,Clinical Drug Comp,,451735,1970-01-01,2014-01-05,U,1
+1235599,naltrexone 1.5 MG Delayed Release Oral Tablet,Drug,RxNorm Extension,Clinical Drug,S,OMOP5216305,2023-08-24,2099-12-31,,1
+45117142,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,16729008110,2014-01-01,2099-12-31,,1
+45183797,naltrexone KIT [VIVITROL],Drug,NDC,9-digit NDC,,065757301,2013-08-05,2099-12-31,,1
+44427257,12 HR bupropion hydrochloride 90 MG / naltrexone hydrochloride 8 MG Extended Release Oral Tablet [Contrave],Drug,NDC,11-digit NDC,,51267089099,2016-08-01,2099-12-31,,1
+42683527,Bupropion / Naltrexone Extended Release Oral Capsule,Drug,RxNorm Extension,Clinical Drug Form,S,OMOP4912308,2020-03-01,2099-12-31,,1
+36078465,Naltrexone 50mg tablets (DE Pharmaceuticals) 28 tablet,Drug,dm+d,AMPP,,37453711000001106,1970-01-01,2099-12-31,,1
+40753243,methylnaltrexone Injectable Solution [Relistor],Drug,RxNorm Extension,Branded Drug Form,S,OMOP4703887,2018-06-04,2099-12-31,,1
+45778180,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,05238e96-8d7f-616a-e054-00144ff8d46c,2011-10-01,2099-12-31,,1
+21098490,0.6 ML methylnaltrexone 20 MG/ML Prefilled Syringe [Relistor] by TMC,Drug,RxNorm Extension,Marketed Product,S,OMOP287657,2017-08-24,2099-12-31,,1
+36062085,naltrexone 4.5 MG,Drug,RxNorm Extension,Clinical Drug Comp,S,OMOP4988070,2020-08-17,2099-12-31,,1
+44378286,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,46f0de78-ef7b-43c0-e054-00144ff8d46c,2013-09-23,2099-12-31,,1
+41410808,0.6 ML methylnaltrexone 20 MG/ML Injection [Relistor] Box of 1,Drug,RxNorm Extension,Quant Branded Box,S,OMOP2608770,2017-08-24,2099-12-31,,1
+21027606,Naltrexone 1.5 MG Oral Capsule by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280336,2017-08-24,2023-08-02,U,1
+35116550,methylnaltrexone bromide 150mg/1 / 8mg/.4mL / 12mg/.6mL ORAL. SUBCUTANEOUS INJECTION. SOLUTION. TABLET [relistor],Drug,SPL,Prescription Drug,C,6dc761f2-3bd4-45cd-98ef-bfea4ca36d69,2008-04-24,2099-12-31,,1
+577614,NALTREXONE HCL 100 % MISCELL POWDER (GRAM),Drug,GCN_SEQNO,GCN_SEQNO,,063701,2015-11-19,2099-12-31,,1
+45724093,METHYLNALTREXONE BROMIDE 12 mg/0.6 mL SUB-Q VIAL (ML),Drug,GCN_SEQNO,GCN_SEQNO,,064011,1970-01-01,2099-12-31,,1
+2973082,Naltrexone Hydrochloride 8 Mg + Bupropion Hydrochloride 90 Mg Modified Release Tablet. 28,Drug,AMT,Med Product Pack,,1501481000168101,2016-11-01,2099-12-31,,1
+45192985,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,61392046639,2007-06-01,2012-06-01,D,1
+36377291,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,b0ed0da2-823e-a576-e053-2a95a90a5029,2020-05-01,2099-12-31,,1
+46241191,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,64cc17e8-ff8f-463e-aca3-5e85f3f4ec0a,2012-02-29,2099-12-31,,1
+40213727,FENTANYL/NALTREXONE,Drug,NDFRT,Drug Interaction,,N0000177980,1970-01-01,2014-11-30,D,1
+21096269,Naltrexone 3.2 MG Oral Capsule by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280324,2017-08-24,2023-08-02,U,1
+21115917,Naltrexone 2.5 MG/ML Oral Suspension by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280333,2017-08-24,2023-08-02,U,1
+40739521,Naltrexone 50 MG Oral Tablet by AOP,Drug,RxNorm Extension,Marketed Product,S,OMOP4717709,2018-06-04,2099-12-31,,1
+628624,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,2ce79c32-5c7a-444f-b748-885202e5ccce,2012-01-18,2099-12-31,,1
+45050516,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,38779088704,2013-08-05,2099-12-31,,1
+46230230,Naltrexone-Bupropion HCl ER 8-90 MG Oral Tablet Extended Release 12 Hour,Drug,GPI,GPI,,61259902507420,2015-05-06,2099-12-31,,1
+21179758,Naltrexone 3.5mg capsules,Drug,dm+d,VMP,,15148211000001106,1970-01-01,2099-12-31,,1
+21145359,Naltrexone 50 MG Oral Tablet [Opizone],Drug,RxNorm Extension,Branded Drug,S,OMOP280298,2017-08-24,2099-12-31,,1
+42949488,Naltrexone Oral Tablet [MISLIM],Drug,RxNorm Extension,Branded Drug Form,S,OMOP4676071,2018-08-21,2099-12-31,,1
+21096264,Naltrexone 0.3 MG/ML Oral Solution by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280275,2017-08-24,2023-08-02,U,1
+21146424,1 ML Naltrexone 0.3 MG/ML Oral Solution by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP301941,2017-08-24,2023-08-02,U,1
+45401789,Naltrexone HCl,Drug,GPI,GPI,,9340003010,1970-01-01,2015-05-05,D,1
+3208895,Product containing naltrexone in parenteral dosage form,Drug,Nebraska Lexicon,Pharma/Biol Product,,420826002,2008-07-31,2099-12-31,,1
+45103819,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,52152010530,2007-06-01,2011-02-01,D,1
+45646223,NALTREXONE HYDROCHLORIDE,Drug,SPL,SPL,,cf53026c-0488-4503-a57d-dadcaf7140af,1970-01-01,2099-12-31,,1
+36029682,bupropion / naltrexone,Drug,RxNorm,Multiple Ingredients,,1551467,2014-10-06,2099-12-31,,1
+35767347,Naltrexone 50 MG Delayed Release Oral Tablet Box of 28 by Accord,Drug,RxNorm Extension,Marketed Product,S,OMOP2768808,2017-08-24,2099-12-31,,1
+21135476,Naltrexone 0.3 MG/ML Oral Solution,Drug,RxNorm Extension,Clinical Drug,S,OMOP280273,2017-08-24,2099-12-31,,1
+45144881,Naltrexone 50 MG Oral Tablet [ReVia],Drug,NDC,11-digit NDC,,00056001102,2007-06-01,2013-01-01,D,1
+42949473,Naltrexone 25 MG Oral Tablet [TRAXONE],Drug,RxNorm Extension,Branded Drug,S,OMOP4676057,2018-08-21,2099-12-31,,1
+1356516,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,00c04ff4-b6f2-466c-9ab9-813a60577db0,2023-12-15,2099-12-31,,1
+45269038,Naltrexone Hydrochloride ORAL 20130923 TABLET. FILM COATED [Naltrexone Hydrochloride] ## FDA,Drug,NDC,9-digit NDC,,051224206,2014-03-03,2099-12-31,,1
+21076747,Naltrexone 4.8 MG Oral Capsule Box of 1 by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280322,2017-08-24,2023-08-02,U,1
+45865302,12 HR Bupropion Hydrochloride 90 MG / Naltrexone hydrochloride 8 MG Extended Release Oral Tablet [Contrave],Drug,NDC,11-digit NDC,,64764089000,2014-11-01,2019-08-01,D,1
+36164771,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,6ae04d0d-84db-87cd-e053-2a91aa0abf6f,2018-04-27,2099-12-31,,1
+42375164,naltrexone hydrochloride 50mg,Drug,EDI,Drug Product,,657202360,1970-01-01,2099-12-31,,1
+40216634,NALTREXONE/TRAMADOL HYDROCHLORIDE,Drug,NDFRT,Drug Interaction,,N0000178003,1970-01-01,2014-11-30,D,1
+21096270,Naltrexone 1.5 MG Oral Capsule,Drug,RxNorm Extension,Clinical Drug,S,OMOP280335,2017-08-24,2099-12-31,,1
+21098491,0.6 ML methylnaltrexone 20 MG/ML Prefilled Syringe [Relistor] Box of 1 by TMC,Drug,RxNorm Extension,Marketed Product,S,OMOP287659,2017-08-24,2099-12-31,,1
+35410481,Naltrexone Delayed Release Oral Tablet [NALTREXONE ACCORD],Drug,RxNorm Extension,Branded Drug Form,S,OMOP1144066,2017-08-24,2099-12-31,,1
+21077793,1 ML Naltrexone 0.6 MG/ML Oral Solution by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP301949,2017-08-24,2023-08-02,U,1
+36180686,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,70518114600,2018-06-01,2099-12-31,,1
+748330,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335206202,2022-04-01,2099-12-31,,1
+44784880,naltrexone hydrochloride 50 MG Oral Tablet [ReVia],Drug,RxNorm,Branded Drug,S,1483746,2014-01-06,2099-12-31,,1
+40228625,MORPHINE SO4 60MG/NALTREXONE HCL 2.4MG CAP.SA,Drug,VANDF,Drug Product,,4029087,1970-01-01,2099-12-31,,1
+21174856,Naltrexone 1 MG/ML Oral Solution,Drug,RxNorm Extension,Clinical Drug,S,OMOP280310,2017-08-24,2099-12-31,,1
+37139390,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,680940909,2024-02-15,2099-12-31,,1
+45177164,Naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,65694010010,2014-01-01,2018-01-01,D,1
+43274291,Naltrexone 50 MG Oral Tablet [ReVia] Box of 30,Drug,RxNorm Extension,Branded Drug Box,S,OMOP551517,2017-08-24,2099-12-31,,1
+37295848,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,58447e4a-2ef7-4117-b742-815b73aa0c2e,2013-09-23,2099-12-31,,1
+40209257,MORPHINE/NALTREXONE,Drug,NDFRT,Drug Interaction,,N0000177996,1970-01-01,2014-11-30,D,1
+3947525,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,41d6e9cd-db9e-40f8-8960-2aaf8c9c89f3,2014-10-22,2099-12-31,,1
+44378738,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,4809b267-b0d6-4588-e054-00144ff88e88,2012-01-18,2099-12-31,,1
+21165112,Naltrexone 5 MG/ML Oral Suspension by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280354,2017-08-24,2023-08-02,U,1
+45774491,bupropion hydrochloride 90 MG / naltrexone hydrochloride 8 MG Extended Release Oral Tablet,Drug,RxNorm,Clinical Drug,S,1551475,2014-12-01,2099-12-31,,1
+21235710,Naltrexone 2mg capsules,Drug,dm+d,VMP,,16110111000001108,1970-01-01,2099-12-31,,1
+45388234,Morphine-Naltrexone 60-2.4 MG Oral Capsule Extended Release,Drug,GPI,GPI,,65100055700250,1970-01-01,2099-12-31,,1
+45408403,Naltrexone HCl Anhydrous Powder,Drug,GPI,GPI,,96684240002900,2013-11-04,2099-12-31,,1
+36322864,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,ef694a28-dc11-3786-e053-2a95a90a6d91,2018-04-27,2099-12-31,,1
+999748,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,db507520-0d95-4a1a-8dce-748dc975debb,2013-09-23,2099-12-31,,1
+2973078,Naltrexone (Apo) 50 Mg Tablet. 30,Drug,AMT,Trade Product Pack,,919391000168102,2016-11-01,2099-12-31,,1
+37204878,Morphine- and naltrexone-containing product in oral dose form,Drug,SNOMED,Clinical Drug Form,,783811003,2019-07-31,2099-12-31,,1
+36170426,naltrexone 200mg/1 / 6.5mg/1 SUBCUTANEOUS IMPLANT,Drug,SPL,Prescription Drug,C,7b0350b5-ca48-4aef-8b10-ebd9f51967d0,2018-02-01,2099-12-31,,1
+44060320,methylnaltrexone 20 MG/ML Injectable Solution [Relistor],Drug,RxNorm Extension,Branded Drug,,OMOP1054951,2017-08-24,2018-08-01,U,1
+44865284,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,51552073704,2013-08-05,2099-12-31,,1
+45240384,NALTREXONE POWDER,Drug,NDC,11-digit NDC,,51927354800,2013-08-05,2099-12-31,,1
+44907900,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00179197770,2009-01-01,2012-06-01,D,1
+21317944,Naltrexone 3.5mg capsules 1 capsule,Drug,dm+d,VMPP,,15126011000001102,1970-01-01,2099-12-31,,1
+36463124,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,e71de213-5250-4a63-9ef7-9ef2f9954d8b,2020-01-18,2099-12-31,,1
+42863042,MORPHINE SO4 20MG/NALTREXONE HCL 0.8MG CAP.SA,Drug,NDFRT,VA Product,,N0000181699,2012-06-04,2099-12-31,,1
+36967845,Naltrexone 50mg tablets,Drug,dm+d,AMP,,39883811000001109,1970-01-01,2099-12-31,,1
+43144130,Naltrexone 50 MG Delayed Release Oral Tablet [NALTREXONE INTAS] Box of 28 by Intas,Drug,RxNorm Extension,Marketed Product,S,OMOP459223,2017-08-24,2099-12-31,,1
+45369371,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,005550902,1998-05-08,2099-12-31,,1
+21155301,Naltrexone 1.5 MG Oral Capsule Box of 1 by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280339,2017-08-24,2023-08-02,U,1
+40179849,methylnaltrexone,Drug,NDFRT,Chemical Structure,,N0000179189,1970-01-01,2099-12-31,,1
+21106131,Naltrexone 50 MG Oral Tablet Box of 28 by Alliance,Drug,RxNorm Extension,Marketed Product,S,OMOP280290,2017-08-24,2099-12-31,,1
+44838067,Methylnaltrexone bromide 8 mg/.4mL INJECTION. SOLUTION [Relistor],Drug,NDC,9-digit NDC,,000081225,2013-08-05,2099-12-31,,1
+21251632,Naltrexone 5mg/5ml oral solution (Drug Tariff Special Order) 100 ml,Drug,dm+d,AMPP,,29949011000001100,1970-01-01,2099-12-31,,1
+42949486,Naltrexone 50 MG [NALTREXIN],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP4676069,2018-08-21,2099-12-31,,1
+46325307,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,4bc1ef8d-c313-4723-aad2-874d60331154,2012-01-02,2099-12-31,,1
+3196129,Naltrexone,Drug,Nebraska Lexicon,Substance,,373546002,2002-07-31,2099-12-31,,1
+45023936,0.6 ML Methylnaltrexone bromide 20 MG/ML Prefilled Syringe [Relistor],Drug,NDC,11-digit NDC,,65649055106,2013-10-01,2019-03-01,D,1
+45370229,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00855106030,2008-02-01,2012-06-01,D,1
+40936322,Naltrexone 50 MG Oral Tablet [Nrexon Hcl Kp],Drug,RxNorm Extension,Branded Drug,,OMOP2134284,2017-07-30,2017-08-23,U,1
+45349630,Methylnaltrexone bromide 12 mg/.6mL INJECTION. SOLUTION [Relistor],Drug,NDC,9-digit NDC,,000081218,2013-08-05,2099-12-31,,1
+45281472,Methylnaltrexone bromide 20 MG/ML Injectable Solution [Relistor],Drug,NDC,11-digit NDC,,00008251302,2010-06-01,2014-02-01,D,1
+21213127,Naltrexone 1.5mg/5ml oral solution (Special Order) 1 ml,Drug,dm+d,AMPP,,20091711000001104,1970-01-01,2099-12-31,,1
+43130676,NALTREXONE INTAS,Drug,RxNorm Extension,Brand Name,,OMOP435427,1970-01-01,2099-12-31,,1
+44478712,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,532170261,2013-09-23,2099-12-31,,1
+909863,methylnaltrexone 20 MG/ML Injectable Solution,Drug,RxNorm,Clinical Drug,,796393,2008-06-29,2010-06-05,U,1
+42683525,Bupropion 90 MG / Naltrexone 8 MG Extended Release Oral Capsule,Drug,RxNorm Extension,Clinical Drug,S,OMOP4912310,2020-03-01,2099-12-31,,1
+35861565,naltrexone Oral Tablet [Nuoxinsheng],Drug,RxNorm Extension,Branded Drug Form,S,OMOP5018504,2020-10-02,2099-12-31,,1
+41165701,Naltrexone 50 MG Oral Tablet [Nalorex] Box of 30 by Aca Mueller,Drug,RxNorm Extension,Marketed Product,S,OMOP2363663,2017-08-24,2099-12-31,,1
+42828403,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,68788708406,2018-03-01,2020-06-01,D,1
+45620025,naltrexone KIT [vivitrol],Drug,SPL,Prescription Drug,C,0f451803-1f98-4fa3-b71f-2bb6f9c5624a,2006-06-13,2099-12-31,,1
+36198065,Naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,63629530404,2018-10-01,2018-12-01,D,1
+43785074,Naltrexone 50 MG [Nemexin],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP675746,2017-08-24,2099-12-31,,1
+45112085,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00185003930,2014-01-01,2099-12-31,,1
+45284877,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00756030503,2007-06-01,2012-06-01,D,1
+45051636,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,49452483502,2013-08-05,2099-12-31,,1
+36930771,Naltrexone 3mg capsules (Part VIIID Drug Tariff Special Order) 30 capsule,Drug,dm+d,AMPP,,40537211000001109,1970-01-01,2099-12-31,,1
+35509444,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,0a581e50-5583-4f68-98ab-0841ff6c1339,2013-09-23,2099-12-31,,1
+40739519,Naltrexone 50 MG Oral Tablet Box of 28 by AOP,Drug,RxNorm Extension,Marketed Product,S,OMOP4717711,2018-06-04,2099-12-31,,1
+42375172,naltrexone hydrochloride 25mg,Drug,EDI,Drug Product,,052400450,1970-01-01,2099-12-31,,1
+42806123,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,fa0b0881-97f3-4ca2-bc15-0954293081db,2023-11-27,2099-12-31,,1
+45397634,Morphine-Naltrexone 50-2 MG Oral Capsule Extended Release,Drug,GPI,GPI,,65100055700240,1970-01-01,2099-12-31,,1
+43343232,Methylnaltrexone,Drug,AMT,AU Substance,,79327011000036106,2016-11-01,2099-12-31,,1
+21135474,Naltrexone Oral Solution,Drug,RxNorm Extension,Clinical Drug Form,S,OMOP280258,2017-08-24,2099-12-31,,1
+21174852,Naltrexone 0.2 MG/ML Oral Solution,Drug,RxNorm Extension,Clinical Drug,S,OMOP280266,2017-08-24,2099-12-31,,1
+45035279,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,51129368001,2007-06-01,2012-06-01,D,1
+42375166,naltrexone hydrochloride 50mg,Drug,EDI,Drug Product,,651902170,1970-01-01,2099-12-31,,1
+45177168,Naltrexone 112 MG/ML Injectable Suspension [Vivitrol],Drug,NDC,11-digit NDC,,65757030038,2007-06-01,2007-08-01,D,1
+1562168,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,68094085359,2019-03-01,2099-12-31,,1
+3944451,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,6524f673-ea3d-4705-a0da-6da45f255c58,2002-03-22,2099-12-31,,1
+42998751,PHARMA NALTREXONE,Drug,KDC,Brand Name,,KDC4032,1970-01-01,2099-12-31,,1
+35414682,0.6 ML methylnaltrexone 20 MG/ML Prefilled Syringe [Relistor] Box of 7 by Pharmaswiss,Drug,RxNorm Extension,Marketed Product,S,OMOP1148267,2017-08-24,2099-12-31,,1
+40915538,Naltrexone 50 MG Oral Tablet [Nalorex] Box of 30 by Eurim-Pharm,Drug,RxNorm Extension,Marketed Product,S,OMOP2113500,2017-08-24,2099-12-31,,1
+21206521,Naltrexone 2mg/5ml oral solution 1 ml,Drug,dm+d,VMPP,,12255011000001106,1970-01-01,2099-12-31,,1
+21203206,Naltrexone 1.5mg capsules,Drug,dm+d,AMP,,14790411000001101,1970-01-01,2099-12-31,,1
+21235711,Naltrexone 5mg/5ml oral solution,Drug,dm+d,VMP,,16110211000001102,1970-01-01,2099-12-31,,1
+41265243,Naltrexone 50 MG [Nrexonhydrochlorid Accord],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP2463205,2017-08-24,2099-12-31,,1
+41071624,Naltrexone 50 MG Oral Tablet [Nalorex] Box of 30 by Emra-Med,Drug,RxNorm Extension,Marketed Product,S,OMOP2269586,2017-08-24,2099-12-31,,1
+21155299,Naltrexone 50 MG [Nalorex],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP280278,2017-08-24,2099-12-31,,1
+21027605,Naltrexone 2.5 MG/ML,Drug,RxNorm Extension,Clinical Drug Comp,S,OMOP280331,2017-08-24,2099-12-31,,1
+44463450,12 HR Bupropion Hydrochloride 90 MG / Naltrexone hydrochloride 8 MG Extended Release Oral Tablet [Contrave],Drug,NDC,11-digit NDC,,51267089000,2016-08-01,2017-05-01,D,1
+45847199,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,636295304,1998-05-08,2099-12-31,,1
+36155768,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,ebbf92d2-50af-47d1-838b-6618e6c7fba6,2021-01-13,2099-12-31,,1
+46244822,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,f9103eb7-128f-4eb2-9476-96db03dec3c6,2009-07-29,2099-12-31,,1
+45675370,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,0f30f885-d0cd-4fa6-a8e0-142f08a56792,2023-10-20,2099-12-31,,1
+1994415,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,dea9a508-9ae4-9a58-e053-2a95a90a967f,2014-10-22,2099-12-31,,1
+43029374,Naltrexone 50 MG Delayed Release Oral Tablet Box of 28 by Mylan,Drug,RxNorm Extension,Marketed Product,S,OMOP4844449,2019-10-06,2099-12-31,,1
+2918165,bupropion 90 MG / naltrexone 8 MG Extended Release Oral Tablet Box of 28,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP5134990,2021-06-30,2099-12-31,,1
+43166271,Naltrexone 50 MG Delayed Release Oral Tablet,Drug,RxNorm Extension,Clinical Drug,S,OMOP459154,2017-08-24,2099-12-31,,1
+44857538,Naltrexone hydrochloride 50 MG Oral Tablet [Depade],Drug,NDC,11-digit NDC,,00406009201,2014-01-01,2015-12-01,D,1
+45334929,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,004061170,2002-03-22,2099-12-31,,1
+44859681,NALTREXONE HYDROCHLORIDE 50 mg/1 TABLET. FILM COATED [NALTREXONE HYDROCHLORIDE],Drug,NDC,9-digit NDC,,047335326,2013-08-05,2099-12-31,,1
+21145360,Naltrexone 3.2 MG Oral Capsule Box of 1 by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280327,2017-08-24,2023-08-02,U,1
+749505,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,f9807ec0-3504-4c66-8efe-ea25f84c782b,2023-11-27,2099-12-31,,1
+2971324,Methylnaltrexone Bromide 12 Mg/0.6 Ml Injection. 7 X 0.6 Ml Vials,Drug,AMT,Med Product Pack,,1179631000168100,2016-11-01,2099-12-31,,1
+21097352,1 ML Naltrexone 0.3 MG/ML Oral Solution,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP301939,2017-08-24,2099-12-31,,1
+46245824,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,422910632,2015-03-26,2099-12-31,,1
+44784875,naltrexone hydrochloride 25 MG Oral Tablet [Depade],Drug,RxNorm,Branded Drug,S,1483782,2014-01-06,2099-12-31,,1
+46275650,methylnaltrexone Injection [Relistor],Drug,RxNorm,Branded Drug Form,S,1659741,2015-09-08,2099-12-31,,1
+36194881,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,705181312,2018-07-19,2099-12-31,,1
+42995602,naltrexone hydrochloride,Drug,KDC,Ingredient,,KDC1593,1970-01-01,2099-12-31,,1
+36340839,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,b2fe5253-5551-40bb-a395-72b10785d7a2,2014-10-22,2099-12-31,,1
+36264482,Naltrexone Oral Tablet [NALTREXONE ACCORD],Drug,RxNorm Extension,Branded Drug Form,S,OMOP3115357,2017-10-01,2099-12-31,,1
+42482142,methylnaltrexone 20 MG/ML Prefilled Syringe [Relistor],Drug,RxNorm Extension,Branded Drug,,OMOP419487,2015-08-17,2017-08-23,D,1
+40753242,methylnaltrexone 20 MG/ML Injectable Solution [Relistor],Drug,RxNorm Extension,Branded Drug,S,OMOP4703888,2018-06-04,2099-12-31,,1
+35511041,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,51d8abb3-2712-4015-aede-a082e467ed0e,2012-01-18,2099-12-31,,1
+21046382,methylnaltrexone 20 MG/ML Prefilled Syringe Box of 1,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP264828,2017-08-24,2099-12-31,,1
+45205755,naltrexone hydrochloride 50 MG Oral Tablet [ReVia],Drug,NDC,11-digit NDC,,51285027502,2014-01-01,2099-12-31,,1
+45416392,morphine-naltrexone 20 mg-0.8 mg oral capsule. extended release,Drug,Multum,Multum,,25560,2010-11-01,2099-12-31,,1
+1629519,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,d57e8058-bb7b-3aa6-e053-2a95a90a1520,2015-03-26,2099-12-31,,1
+35763242,Naltrexone 50 MG Delayed Release Oral Tablet by Accord,Drug,RxNorm Extension,Marketed Product,S,OMOP2764703,2017-08-24,2099-12-31,,1
+36219425,morphine / naltrexone Oral Product,Drug,RxNorm,Clinical Dose Group,C,1165401,2016-08-01,2099-12-31,,1
+44921168,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,62991124304,2013-08-05,2099-12-31,,1
+45724092,METHYLNALTREXONE BROMIDE 12 mg/0.6 mL SUB-Q KIT,Drug,GCN_SEQNO,GCN_SEQNO,,064008,1970-01-01,2099-12-31,,1
+45778506,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,06fba9a4-456f-40ac-92e3-1e8d5a0143d0,2012-02-29,2099-12-31,,1
+3209874,Product containing bupropion and naltrexone in oral dosage form,Drug,Nebraska Lexicon,Pharma/Biol Product,,715719000,2016-07-31,2099-12-31,,1
+35745814,Naltrexone 50 MG Delayed Release Oral Tablet [Opizone],Drug,RxNorm Extension,Branded Drug,S,OMOP2747275,2017-08-24,2099-12-31,,1
+43248392,NALTREXONE MYLAN 50 mg. comprimé pelliculé sécable,Drug,BDPM,Drug Product,,3675721,2005-01-05,2099-12-31,,1
+36475786,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,c6c4d7a8-0950-4b3c-905e-c8dab5a9f6dd,2013-09-23,2099-12-31,,1
+45712421,NALTREXONE HCL MISCELL POWDER (GRAM),Drug,GCN_SEQNO,GCN_SEQNO,,044971,1970-01-01,2099-12-31,,1
+45849766,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. FILM COATED. EXTENDED RELEASE,Drug,NDC,9-digit NDC,,647640890,2014-09-10,2099-12-31,,1
+37139989,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,68094090930,2024-02-15,2099-12-31,,1
+36937886,naltrexone 3 MG Oral Capsule Box of 30 by Drug Tariff Special Order,Drug,RxNorm Extension,Marketed Product,S,OMOP5199518,2023-05-22,2099-12-31,,1
+45802467,CONTRAVE - naltrexone hydrochloride and bupropion hydrochloride tablet. film coated. extended release,Drug,SPL,Prescription Drug,C,ed2da3a6-0614-4bea-8e82-962cbaae6428,2014-09-22,2099-12-31,,1
+799996,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,f7ac0547-6c8d-4a03-91f4-2c37215554ae,2002-03-22,2099-12-31,,1
+46276531,NALTREXONE (EQV-REVIA) 50MG TAB,Drug,NDFRT,VA Product,,N0000191654,2015-09-08,2099-12-31,,1
+41029842,Naltrexone 50 MG Delayed Release Oral Tablet [Nemexin] Box of 50,Drug,RxNorm Extension,Branded Drug Box,S,OMOP2227804,2017-08-24,2099-12-31,,1
+43177278,Naltrexone 50 MG Delayed Release Oral Tablet [NALTREXONE MYLAN] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP459241,2017-08-24,2099-12-31,,1
+3175317,Naltrexone microspheres 380mg powder for conventional release solution for injection vial,Drug,Nebraska Lexicon,Pharma/Biol Product,,766211008,2018-07-31,2099-12-31,,1
+21057008,Naltrexone 50 MG Oral Tablet [Nalorex] Box of 28 by Bristol Myers Squibb,Drug,RxNorm Extension,Marketed Product,S,OMOP280308,2017-08-24,2099-12-31,,1
+2973079,Naltrexone (Apo) 50 Mg Tablet. 30. Bottle,Drug,AMT,Containered Pack,,919401000168100,2016-11-01,2099-12-31,,1
+37398937,Bupropion- and naltrexone-containing product in oral dose form,Drug,SNOMED,Clinical Drug Form,,715719000,2016-07-31,2099-12-31,,1
+21243381,Naltrexone 5mg/5ml oral suspension 1 ml,Drug,dm+d,VMPP,,16106611000001100,1970-01-01,2099-12-31,,1
+1714372,naltrexone 380 MG Injection [Vivitrol],Drug,RxNorm,Branded Drug,S,637216,2006-07-09,2099-12-31,,1
+21135479,Naltrexone 0.4 MG/ML Oral Solution by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280317,2017-08-24,2023-08-02,U,1
+45192984,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,61392046630,2007-06-01,2012-06-01,D,1
+45365045,naltrexone 380 MG Injection [Vivitrol],Drug,NDC,11-digit NDC,,65757030302,2010-02-01,2099-12-31,,1
+36186510,VIVITROL - naltrexone kit [Diluent],Drug,NDC,11-digit NDC,,65757030403,2006-06-13,2099-12-31,,1
+623245,VIVITROL - naltrexone kit [Diluent],Drug,NDC,11-digit NDC,,65757030503,1970-01-02,2099-12-31,,1
+21066844,Naltrexone Oral Tablet [Nalorex],Drug,RxNorm Extension,Branded Drug Form,S,OMOP280263,2017-08-24,2099-12-31,,1
+36801674,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,71806820-b0c9-4d19-91a0-54056540c4c1,2012-02-29,2099-12-31,,1
+45101554,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,38779088703,2013-08-05,2099-12-31,,1
+43302696,Naltrexone Hydrochloride (Gh) 50 Mg Tablet. 30. Blister Pack,Drug,AMT,Containered Pack,,116181000036101,2016-11-01,2099-12-31,,1
+42863046,MORPHINE SO4 80MG/NALTREXONE HCL 3.2MG CAP.SA,Drug,NDFRT,VA Product,,N0000181702,2012-06-04,2099-12-31,,1
+1358191,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,50090492500,2020-04-01,2099-12-31,,1
+21273591,Naltrexone 12.5mg/5ml oral suspension,Drug,dm+d,VMP,,8669511000001104,1970-01-01,2099-12-31,,1
+42483304,methylnaltrexone 20 MG/ML Prefilled Syringe,Drug,RxNorm Extension,Clinical Drug,,OMOP419486,2015-08-17,2017-08-23,D,1
+44486120,methylnaltrexone bromide 150mg/1 ORAL TABLET,Drug,NDC,9-digit NDC,,656490150,2008-08-01,2099-12-31,,1
+1611537,METHYLNALTREXONE 150MG TAB,Drug,VANDF,Drug Product,,4036027,1970-01-01,2099-12-31,,1
+21260145,Naltrexone 50mg tablets,Drug,dm+d,AMP,,21817511000001105,1970-01-01,2099-12-31,,1
+41410306,0.6 ML methylnaltrexone 20 MG/ML Injection [Relistor] Box of 7 by Cc,Drug,RxNorm Extension,Marketed Product,S,OMOP2608268,2017-08-24,2099-12-31,,1
+21065982,methylnaltrexone 20 MG/ML Prefilled Syringe Box of 7,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP264829,2017-08-24,2099-12-31,,1
+40719703,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution [Relistor],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4737997,2018-06-04,2099-12-31,,1
+45058953,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,68115068030,2007-06-01,2011-01-01,D,1
+45367803,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00179197772,2009-01-01,2012-06-01,D,1
+41310792,Naltrexone 50 MG Delayed Release Oral Tablet [Nrexon Hcl Neuraxpharm],Drug,RxNorm Extension,Branded Drug,,OMOP2508754,2017-07-30,2023-08-02,U,1
+41018705,Naltrexone Oral Tablet [Nrexon Hcl Neuraxpharm],Drug,RxNorm Extension,Branded Drug Form,,OMOP2216667,2017-07-30,2017-08-23,U,1
+42862087,METHYLNALTREXONE BROMIDE 12MG/0.6ML INJ.VIL,Drug,NDFRT,VA Product,,N0000177881,2012-06-04,2099-12-31,,1
+45162012,Naltrexone 50 MG Oral Tablet [ReVia],Drug,NDC,11-digit NDC,,00056001130,2007-06-01,2013-01-01,D,1
+41228138,Naltrexone 50 MG Delayed Release Oral Tablet [Nalorex] Box of 30 by Emra-Med,Drug,RxNorm Extension,Marketed Product,S,OMOP2426100,2017-08-24,2099-12-31,,1
+44101660,methylnaltrexone 20 MG/ML Injection [Relistor] by Salix,Drug,RxNorm Extension,Marketed Product,S,OMOP1096291,2017-08-24,2099-12-31,,1
+43307226,Methylnaltrexone Bromide 12 Mg/0.6 Ml Injection. 0.6 Ml Vial,Drug,AMT,Med Product Pack,,79808011000036101,2016-11-01,2099-12-31,,1
+42829554,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335001402,2018-02-01,2099-12-31,,1
+587169,methylnaltrexone 20 MG/ML Injection Box of 1,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP3137558,2018-08-02,2099-12-31,,1
+37396050,Bupropion- and naltrexone-containing product,Drug,SNOMED,Pharma/Biol Product,,715718008,2016-07-31,2099-12-31,,1
+43199268,Naltrexone 50 MG Delayed Release Oral Tablet [Nalorex],Drug,RxNorm Extension,Branded Drug,S,OMOP459173,2017-08-24,2099-12-31,,1
+40747734,Bupropion 90 MG / Naltrexone 8 MG Extended Release Oral Tablet [Mysimba] by Consilient,Drug,RxNorm Extension,Marketed Product,S,OMOP4709554,2018-06-04,2099-12-31,,1
+1778309,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,48f0b37b-b1cb-4cc9-ae58-4695e9a501e1,2021-09-01,2099-12-31,,1
+3203061,Product containing bupropion and naltrexone,Drug,Nebraska Lexicon,Pharma/Biol Product,,715718008,2016-07-31,2099-12-31,,1
+45249546,Naltrexone 25 MG Oral Tablet [Depade],Drug,NDC,11-digit NDC,,00406008901,2007-06-01,2012-06-01,D,1
+21126679,1 ML Naltrexone 5 MG/ML Oral Suspension by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP301954,2017-08-24,2023-08-02,U,1
+37131090,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,721622154,2002-03-22,2099-12-31,,1
+40208520,MEPERIDINE/NALTREXONE,Drug,NDFRT,Drug Interaction,,N0000177994,1970-01-01,2014-11-30,D,1
+21076746,Naltrexone 1 MG/ML Oral Suspension,Drug,RxNorm Extension,Clinical Drug,S,OMOP280312,2017-08-24,2099-12-31,,1
+21107214,1 ML Naltrexone 2.5 MG/ML Oral Suspension,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP301950,2017-08-24,2099-12-31,,1
+36829081,NALTREXONE,Drug,OMOP Invest Drug,Ingredient,,5S6W795CQM,1970-01-01,2099-12-31,,1
+43731065,Naltrexone Oral Tablet [Naltrexon Hcl Aop],Drug,RxNorm Extension,Branded Drug Form,S,OMOP675743,2017-08-24,2099-12-31,,1
+748574,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,713352062,2012-02-29,2099-12-31,,1
+36168425,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,71eab181-32ff-0b9b-e053-2995a90af105,2012-12-06,2099-12-31,,1
+42949484,Naltrexone 50 MG [PHARMA NALTREXONE],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP4676067,2018-08-21,2099-12-31,,1
+40739523,Naltrexone 5 MG/ML Oral Solution,Drug,RxNorm Extension,Clinical Drug,S,OMOP4717707,2018-06-04,2099-12-31,,1
+36156804,NALTREXONE - naltrexone implant,Drug,SPL,Prescription Drug,C,40b16844-bc1c-485e-aad3-2cb86e2eb009,2018-03-19,2099-12-31,,1
+37289684,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00904703604,2020-07-01,2099-12-31,,1
+21047258,Naltrexone 1 MG/ML Oral Solution by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280311,2017-08-24,2023-08-02,U,1
+37133342,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,4242e317-1764-436a-aff6-338a58f1b0a2,2012-01-18,2099-12-31,,1
+43528137,METHYLNALTREXONE BROMIDE 8MG/0.4ML INJ.SYR,Drug,NDFRT,VA Product,,N0000186543,2013-06-03,2099-12-31,,1
+44108475,methylnaltrexone Injectable Solution [Relistor],Drug,RxNorm Extension,Branded Drug Form,,OMOP1103106,2017-08-24,2018-08-01,U,1
+40719702,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution [Relistor] by Biovitrum,Drug,RxNorm Extension,Marketed Product,S,OMOP4737998,2018-06-04,2099-12-31,,1
+36132929,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,cea59e0d-83cb-9409-e053-2a95a90ac93c,2014-10-22,2099-12-31,,1
+42949481,Naltrexone 50 MG Oral Tablet [NALTREXIN],Drug,RxNorm Extension,Branded Drug,S,OMOP4676065,2018-08-21,2099-12-31,,1
+45704548,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,4a63f1e0-b2a3-4355-af61-852ea3521707,2011-06-10,2099-12-31,,1
+44462471,12 HR bupropion hydrochloride 90 MG / naltrexone hydrochloride 8 MG Extended Release Oral Tablet [Contrave],Drug,NDC,11-digit NDC,,50090294500,2017-06-01,2099-12-31,,1
+40936321,Naltrexone 50 MG Oral Tablet [Nrexon Hcl],Drug,RxNorm Extension,Branded Drug,,OMOP2134283,2017-07-30,2017-08-23,U,1
+36194197,naltrexone 200mg/1 / 6.5mg/1 SUBCUTANEOUS IMPLANT,Drug,NDC,9-digit NDC,,693643143,2018-02-01,2099-12-31,,1
+36198066,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335001404,2018-10-01,2099-12-31,,1
+3211916,Methylnaltrexone product,Drug,Nebraska Lexicon,Pharma/Biol Product,,429838001,2018-07-31,2099-12-31,,1
+45638437,Naltrexone Hydrochloride,Drug,SPL,SPL,,64b89a33-c588-42fb-994d-0264dcb997c0,1970-01-01,2099-12-31,,1
+36696986,methylnaltrexone bromide 150mg/1 / 8mg/.4mL / 12mg/.6mL ORAL. SUBCUTANEOUS INJECTION. SOLUTION. TABLET [relistor],Drug,SPL,Prescription Drug,C,7501e049-bfca-403b-9cc1-f21aa468ec9e,2008-04-24,2099-12-31,,1
+36239345,Vivitrol Injectable Product,Drug,RxNorm,Branded Dose Group,C,1187405,2016-08-01,2099-12-31,,1
+41248689,Naltrexone 50 MG Oral Tablet [Nemexin] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP2446651,2017-08-24,2099-12-31,,1
+42643641,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,e01731df-1d81-433d-bfb9-f34666541999,2002-03-22,2099-12-31,,1
+35776577,1 ML Naltrexone 1 MG/ML Oral Solution by Drug Tariff Special Order,Drug,RxNorm Extension,Marketed Product,S,OMOP2778038,2017-08-24,2099-12-31,,1
+21118073,0.6 ML methylnaltrexone 20 MG/ML Prefilled Syringe [Relistor] Box of 7 by TMC,Drug,RxNorm Extension,Marketed Product,S,OMOP287661,2017-08-24,2099-12-31,,1
+44447073,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,68071215603,2017-03-01,2021-04-01,D,1
+40228623,MORPHINE SO4 30MG/NALTREXONE HCL 1.2MG CAP.SA,Drug,VANDF,Drug Product,,4029090,1970-01-01,2099-12-31,,1
+21229707,Naltrexone 3mg/5ml oral solution (Special Order) 1 ml,Drug,dm+d,AMPP,,12256111000001101,1970-01-01,2099-12-31,,1
+21224965,Methylnaltrexone bromide 12mg/0.6ml solution for injection vials 7 vial,Drug,dm+d,VMPP,,13799411000001108,2018-10-29,2099-12-31,,1
+46308934,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,242116b0-b874-40cb-911b-49462cf6a245,2014-10-23,2099-12-31,,1
+45300927,Naltrexone 25 MG Oral Tablet [Depade],Drug,NDC,11-digit NDC,,00406008903,2007-06-01,2012-12-01,D,1
+42829555,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335001403,2018-02-01,2099-12-31,,1
+909864,methylnaltrexone 20 MG/ML Injectable Solution [Relistor],Drug,RxNorm,Branded Drug,,796994,2008-06-29,2010-06-05,U,1
+40165109,naltrexone hydrochloride 1.2 MG,Drug,RxNorm,Clinical Drug Comp,S,859964,2009-09-06,2099-12-31,,1
+36168238,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,71600d1e-3d2c-f41c-e053-2a95a90af084,2018-07-19,2099-12-31,,1
+35529412,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,b773726e-1dc9-415a-81f3-32b43b61b9b1,2023-10-18,2099-12-31,,1
+1588191,BUPROPION 90MG/NALTREXONE HCL 8MG TAB.SA,Drug,NDFRT,VA Product,,N0000192212,2016-05-02,2099-12-31,,1
+21057007,Naltrexone 50 MG Oral Tablet Box of 28 by Sigma-Tau,Drug,RxNorm Extension,Marketed Product,S,OMOP280289,2017-08-24,2099-12-31,,1
+21174855,Naltrexone 50 MG Oral Tablet [Adepend] by Orphan,Drug,RxNorm Extension,Marketed Product,S,OMOP280295,2017-08-24,2099-12-31,,1
+1607507,METHYLNALTREXONE BROMIDE 8MG/0.4ML INJ.SYR,Drug,VANDF,Drug Product,,4031997,1970-01-01,2099-12-31,,1
+21279549,Naltrexone 50mg tablets,Drug,dm+d,AMP,,29928111000001109,1970-01-01,2099-12-31,,1
+21214430,Naltrexone 50mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,Drug,dm+d,AMPP,,29928211000001103,1970-01-01,2099-12-31,,1
+44940596,0.6 ML Methylnaltrexone bromide 20 MG/ML Prefilled Syringe [Relistor],Drug,NDC,11-digit NDC,,00008121810,2012-03-01,2014-02-01,D,1
+36062087,naltrexone 3 MG Oral Capsule,Drug,RxNorm Extension,Clinical Drug,S,OMOP4988072,2020-08-17,2099-12-31,,1
+41209923,Naltrexone 50 MG Oral Tablet Box of 50,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP2407885,2017-08-24,2099-12-31,,1
+42838767,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,713350014,2012-01-18,2099-12-31,,1
+748327,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335206205,2022-04-01,2099-12-31,,1
+43320496,Naltrexone Hydrochloride (Gh) 50 Mg Tablet. 30,Drug,AMT,Trade Product Pack,,114431000036103,2016-11-01,2099-12-31,,1
+43320509,Naltrexone Hydrochloride (Qp) 50 Mg Tablet. 30. Blister Pack,Drug,AMT,Containered Pack,,32563011000036107,2016-11-01,2099-12-31,,1
+40165038,Morphine / Naltrexone Oral Capsule [Embeda],Drug,RxNorm,Branded Drug Form,,859961,2009-09-06,2009-10-03,U,1
+36322975,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,ef9ec64d-9fe4-36cb-e053-2995a90aa5e6,2017-07-21,2099-12-31,,1
+36676053,Methylnaltrexone-containing product in parenteral dose form,Drug,SNOMED,Clinical Drug Form,,772614009,2019-01-31,2099-12-31,,1
+36249046,bupropion / naltrexone Pill,Drug,RxNorm,Clinical Dose Group,C,1551465,2016-08-01,2099-12-31,,1
+1714348,Naltrexone 25 MG Oral Tablet [Depade],Drug,RxNorm,Branded Drug,,542212,2005-09-11,2014-01-05,U,1
+1606585,MORPHINE/NALTREXONE,Drug,VANDF,Drug Product,,4029226,1970-01-01,2099-12-31,,1
+45893210,BUPROPION 90MG/NALTREXONE HCL 8MG TAB,Drug,NDFRT,VA Product,,N0000191188,2015-03-02,2099-12-31,,1
+44144887,Apo-Naltrexone,Drug,DPD,Brand Name,,DPD118213,1970-01-01,2099-12-31,,1
+45412761,morphine-naltrexone 80 mg-3.2 mg oral capsule. extended release,Drug,Multum,Multum,,25564,2010-11-01,2099-12-31,,1
+749454,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,1fa39cc8-20a0-492b-adf1-04a33d4e9e39,2012-02-29,2099-12-31,,1
+45142888,0.6 ML methylnaltrexone bromide 20 MG/ML Injection [Relistor],Drug,NDC,11-digit NDC,,65649055102,2011-11-01,2099-12-31,,1
+21294937,Naltrexone 25mg/5ml oral suspension,Drug,dm+d,AMP,,8638011000001109,1970-01-01,2099-12-31,,1
+37137155,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,0103a32b-14a9-48a8-8952-b2b12ef09649,2024-01-04,2099-12-31,,1
+43334237,Naltrexone Hydrochloride 50 Mg Tablet,Drug,AMT,Med Product Unit,,22898011000036104,2016-11-01,2099-12-31,,1
+2973077,Naltrexone (Apo) 50 Mg Tablet,Drug,AMT,Trade Product Unit,,919381000168100,2016-11-01,2099-12-31,,1
+35406577,NALTREXONE ACCORD,Drug,RxNorm Extension,Brand Name,,OMOP1140162,1970-01-01,2099-12-31,,1
+45415057,Naltrexone Hydrochloride. 50 mg oral tablet,Drug,Multum,Multum,,2203,1970-01-01,2099-12-31,,1
+45416393,morphine-naltrexone 30 mg-1.2 mg oral capsule. extended release,Drug,Multum,Multum,,25561,2010-11-01,2099-12-31,,1
+45169772,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,38779088705,2013-08-05,2099-12-31,,1
+42863045,MORPHINE SO4 60MG/NALTREXONE HCL 2.4MG CAP.SA,Drug,NDFRT,VA Product,,N0000181701,2012-06-04,2099-12-31,,1
+45086435,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,51224020630,2014-01-01,2099-12-31,,1
+40967478,Naltrexone 50 MG Oral Tablet [Nrexonhydrochlorid Accord] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP2165440,2017-08-24,2099-12-31,,1
+36275524,Naltrexone 50 MG Oral Tablet [NALTREXONE ACCORD],Drug,RxNorm Extension,Branded Drug,S,OMOP3126399,2017-10-01,2099-12-31,,1
+21322568,Naltrexone 3mg capsules (Part VIIID Drug Tariff Special Order) 1 capsule,Drug,dm+d,AMPP,,11480311000001107,1970-01-01,2099-12-31,,1
+21217575,Naltrexone 2mg/5ml oral solution,Drug,dm+d,VMP,,12301111000001106,1970-01-01,2099-12-31,,1
+45679621,VIVITROL - naltrexone kit,Drug,SPL,Prescription Drug,C,cd11c435-b0f0-4bb9-ae78-60f101f3703f,2022-09-30,2099-12-31,,1
+1793598,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,e3120e9c-435d-0901-e053-2a95a90a01f3,2018-04-27,2099-12-31,,1
+21047257,Naltrexone 50 MG Oral Tablet [Nalorex] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP280306,2017-08-24,2099-12-31,,1
+21108311,0.6 ML methylnaltrexone 20 MG/ML Prefilled Syringe [Relistor] Box of 1,Drug,RxNorm Extension,Quant Branded Box,S,OMOP287658,2017-08-24,2099-12-31,,1
+45853837,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,680840291,2012-12-06,2099-12-31,,1
+42949492,Naltrexone Oral Tablet [NALTREXIN],Drug,RxNorm Extension,Branded Drug Form,S,OMOP4676075,2018-08-21,2099-12-31,,1
+45947557,NALTREXONE HYDROCHLORIDE,Drug,CIEL,Drug,,80376,2006-12-17,2099-12-31,,1
+957465,3-carboxamido-4-hydroxynaltrexone,Drug,MeSH,Suppl Concept,,C000606131,2021-11-01,2099-12-31,,1
+21037366,Naltrexone 1 MG/ML,Drug,RxNorm Extension,Clinical Drug Comp,S,OMOP280309,2017-08-24,2099-12-31,,1
+45850485,naltrexone KIT,Drug,NDC,9-digit NDC,,657570301,2006-06-13,2099-12-31,,1
+36931143,Naltrexone 4.5mg capsules (Part VIIID Drug Tariff Special Order) 30 capsule,Drug,dm+d,AMPP,,40537411000001108,1970-01-01,2099-12-31,,1
+36212592,naltrexone Oral Product,Drug,RxNorm,Clinical Dose Group,C,1156982,2016-08-01,2099-12-31,,1
+44391361,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,72273a89-bfee-4193-b920-68d90375b62c,2009-07-29,2099-12-31,,1
+42881828,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,7b8b9aa6-4484-4b2b-b17f-63042d1b467c,2012-02-29,2099-12-31,,1
+44554977,NALTREXONE HYDROCHLORIDE ORAL TABLET [APO-NALTREXONE],Drug,DPD,Branded Drug Form,,OMOP151884,1970-01-01,2017-06-24,D,1
+36628726,Naltrexone Hydrochloride,Drug,NCCD,Ingredient,,100306,2020-10-02,2099-12-31,,1
+43133233,Naltrexone 50 MG Delayed Release Oral Tablet [NALTREXONE MYLAN],Drug,RxNorm Extension,Branded Drug,S,OMOP459231,2017-08-24,2099-12-31,,1
+35763240,Naltrexone 50 MG Delayed Release Oral Tablet Box of 28 by A A H,Drug,RxNorm Extension,Marketed Product,S,OMOP2764701,2017-08-24,2099-12-31,,1
+45233605,Naltrexone 25 MG Oral Tablet,Drug,NDC,11-digit NDC,,00756030401,2007-06-01,2012-06-01,D,1
+1610076,NALTREXONE (EQV-REVIA) 50MG TAB,Drug,VANDF,Drug Product,,4034567,1970-01-01,2099-12-31,,1
+40211459,CODEINE/NALTREXONE,Drug,NDFRT,Drug Interaction,,N0000177968,1970-01-01,2014-11-30,D,1
+35410131,Naltrexone 50 MG Delayed Release Oral Tablet [NALTREXONE ACCORD],Drug,RxNorm Extension,Branded Drug,S,OMOP1143716,2017-08-24,2099-12-31,,1
+45638769,VIVITROL - naltrexone kit,Drug,SPL,Prescription Drug,,74696d65-6973-6275-7461-77696e646f77,1970-01-01,2022-09-29,U,1
+41410893,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP2608855,2017-08-24,2099-12-31,,1
+40959706,Naltrexone 50 MG Delayed Release Oral Tablet Box of 30,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP2157668,2017-08-24,2099-12-31,,1
+45077102,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00056008050,2007-06-01,2011-01-01,D,1
+21125587,Naltrexone 50 MG Oral Tablet [Nalorex] by Bristol Myers Squibb,Drug,RxNorm Extension,Marketed Product,S,OMOP280304,2017-08-24,2099-12-31,,1
+36496124,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,765191160,2017-10-17,2099-12-31,,1
+44942858,Naltrexone 100 MG Oral Tablet [Depade],Drug,NDC,11-digit NDC,,00406011901,2007-06-01,2012-12-01,D,1
+45681961,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,3b36d91d-e979-42ed-9c69-736dd1fbb24a,2000-03-08,2099-12-31,,1
+43533266,Injection. methylnaltrexone. 0.1 mg,Drug,HCPCS,HCPCS,,J2212,2013-01-01,2099-12-31,,1
+35770935,Naltrexone 50 MG Delayed Release Oral Tablet [Adepend],Drug,RxNorm Extension,Branded Drug,S,OMOP2772396,2017-08-24,2099-12-31,,1
+21127845,0.6 ML methylnaltrexone 20 MG/ML Prefilled Syringe Box of 7,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP287656,2017-08-24,2099-12-31,,1
+36078464,Naltrexone 50mg tablets,Drug,dm+d,AMP,,37453611000001102,1970-01-01,2099-12-31,,1
+42828402,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,68788708403,2018-03-01,2020-06-01,D,1
+42708189,0.6 ML methylnaltrexone bromide 20 MG/ML Prefilled Syringe [Relistor],Drug,RxNorm,Quant Branded Drug,S,1244062,2012-05-07,2099-12-31,,1
+41410510,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution [Relistor],Drug,RxNorm Extension,Quant Branded Drug,,OMOP2608472,2017-08-24,2018-08-01,U,1
+43243847,Methylnaltrexone Bromide,Drug,BDPM,Ingredient,,65961,1970-01-01,2099-12-31,,1
+36492984,naltrexone hydrochloride and bupropion hydorchloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [naltrexone hydrochloride and bupropion hydrochloride extended-release],Drug,NDC,9-digit NDC,,000510629,2014-10-22,2099-12-31,,1
+43155284,Naltrexone 50 MG Delayed Release Oral Tablet [NALTREXONE INTAS],Drug,RxNorm Extension,Branded Drug,S,OMOP459203,2017-08-24,2099-12-31,,1
+40739525,Naltrexone 2.4 MG Oral Capsule,Drug,RxNorm Extension,Clinical Drug,S,OMOP4717705,2018-06-04,2099-12-31,,1
+45222565,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,504360105,1998-05-08,2099-12-31,,1
+36924133,naltrexone 4.5 MG Oral Capsule Box of 1 by Drug Tariff Special Order,Drug,RxNorm Extension,Marketed Product,S,OMOP5199520,2023-05-22,2099-12-31,,1
+42683522,Bupropion 90 MG / Naltrexone 8 MG Extended Release Oral Capsule [Mysimba] Box of 112,Drug,RxNorm Extension,Branded Drug Box,S,OMOP4912313,2020-03-01,2099-12-31,,1
+3980966,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,c67a22bb-d2bd-4da5-9d3e-6b5281f10891,2023-09-08,2099-12-31,,1
+630157,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,500904926,2012-01-18,2099-12-31,,1
+44887179,Naltrexone 112 MG/ML Injectable Suspension [Vivitrol],Drug,NDC,11-digit NDC,,63459030042,2007-06-01,2013-01-01,D,1
+43155285,Naltrexone 50 MG Delayed Release Oral Tablet [ReVia] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP459267,2017-08-24,2099-12-31,,1
+40134089,Naltrexone 95 MG/ML Injectable Suspension,Drug,RxNorm,Clinical Drug,,636639,2006-07-09,2007-01-28,U,1
+40166388,morphine / naltrexone Extended Release Oral Capsule,Drug,RxNorm,Clinical Drug Form,S,863844,2009-10-04,2099-12-31,,1
+1714346,Naltrexone 25 MG,Drug,RxNorm,Clinical Drug Comp,,451736,1970-01-01,2014-01-05,U,1
+21243837,Naltrexone 3mg/5ml oral solution 1 ml,Drug,dm+d,VMPP,,12255611000001104,1970-01-01,2099-12-31,,1
+748153,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335206206,2022-04-01,2099-12-31,,1
+21086510,Naltrexone 50 MG Oral Tablet by Alliance,Drug,RxNorm Extension,Marketed Product,S,OMOP280282,2017-08-24,2099-12-31,,1
+3991156,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,b0c2b60a-dc96-483b-933e-2fed58b64372,2012-02-29,2099-12-31,,1
+37124549,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,ab44332a-6f04-4f07-8209-e472206d5707,2012-02-29,2099-12-31,,1
+4247996,Naltrexone hydrochloride 100 mg oral tablet,Drug,SNOMED,Clinical Drug,,409461000,2004-07-31,2099-12-31,,1
+21177278,100 ML Naltrexone 1 MG/ML Oral Suspension,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP324557,2017-08-24,2099-12-31,,1
+40987711,Naltrexone Oral Tablet [Nrexon Hcl],Drug,RxNorm Extension,Branded Drug Form,,OMOP2185673,2017-07-30,2017-08-23,U,1
+42683526,Bupropion / Naltrexone Extended Release Oral Capsule [Mysimba],Drug,RxNorm Extension,Branded Drug Form,S,OMOP4912309,2020-03-01,2099-12-31,,1
+2973080,Naltrexone Hydrochloride 8 Mg + Bupropion Hydrochloride 90 Mg Modified Release Tablet,Drug,AMT,Med Product Unit,,1256781000168102,2016-11-01,2099-12-31,,1
+41155281,Naltrexone 50 MG Oral Tablet [Nrexon Hcl Kp] Box of 28,Drug,RxNorm Extension,Branded Drug Box,,OMOP2353243,2017-07-30,2023-08-02,U,1
+43133231,Naltrexone Delayed Release Oral Tablet [Nalorex],Drug,RxNorm Extension,Branded Drug Form,S,OMOP459077,2017-08-24,2099-12-31,,1
+45822948,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,473350326,2012-02-29,2099-12-31,,1
+45325401,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,51224020650,2014-01-01,2099-12-31,,1
+40221228,naltrexone hydrochloride 9.6 MG,Drug,RxNorm,Clinical Drug Comp,S,1806733,2016-10-03,2099-12-31,,1
+748331,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335206201,2022-04-01,2099-12-31,,1
+45648289,METHYLNALTREXONE BROMIDE 12 mg in 0.6 mL SUBCUTANEOUS INJECTION. SOLUTION [Relistor],Drug,SPL,SPL,,2eb244b0-5595-4fbe-026e-c5f6b3198836,1970-01-01,2099-12-31,,1
+36257631,Naltrexone 50 MG Oral Tablet [NALTREXONE ACCORD] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP3108506,2017-10-01,2099-12-31,,1
+41197064,Naltrexone 50 MG Oral Tablet [Nrexonhydrochlorid Accord] Box of 28 by Accord,Drug,RxNorm Extension,Marketed Product,S,OMOP2395026,2017-08-24,2099-12-31,,1
+45648880,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,49aa3d6d-2270-4615-aafa-b440859ab870,2024-02-15,2099-12-31,,1
+580505,NALTREXONE HYDROCHLORIDE DIHYDRATE 100 % MISCELL POWDER (GRAM),Drug,GCN_SEQNO,GCN_SEQNO,,072446,2015-11-19,2099-12-31,,1
+40151065,methylnaltrexone Injectable Solution [Relistor],Drug,RxNorm,Branded Drug Form,,796993,2008-06-29,2015-09-07,D,1
+43155282,Naltrexone Delayed Release Oral Tablet [NALTREXONE INTAS],Drug,RxNorm Extension,Branded Drug Form,S,OMOP459080,2017-08-24,2099-12-31,,1
+42949477,Naltrexone 25 MG [I-REXONE],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP4676061,2018-08-21,2099-12-31,,1
+37491820,Methylnaltrexone Bromide,Drug,CTD,Ingredient,,73232-52-7,1970-01-01,2099-12-31,,1
+41321346,Naltrexone 50 MG Oral Tablet [Nalorex] Box of 30 by Gerke,Drug,RxNorm Extension,Marketed Product,S,OMOP2519308,2017-08-24,2099-12-31,,1
+36135787,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,b6ebca52-e610-46c6-80c8-c4f458525f2b,2014-10-22,2099-12-31,,1
+3982218,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,231550886,2023-10-06,2099-12-31,,1
+4354981,LEVOMETHADYL/NALTREXONE,Drug,NDFRT,Drug Interaction,,N0000034748,1970-01-01,2014-11-30,D,1
+21125586,Naltrexone 50 MG Oral Tablet [Opizone] Box of 28 by Genus,Drug,RxNorm Extension,Marketed Product,S,OMOP280301,2017-08-24,2099-12-31,,1
+21027604,Naltrexone 4.8 MG Oral Capsule Box of 1,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP280321,2017-08-24,2099-12-31,,1
+45040335,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,63370015825,2013-08-05,2099-12-31,,1
+45125975,0.6 ML methylnaltrexone bromide 20 MG/ML Prefilled Syringe [Relistor],Drug,NDC,11-digit NDC,,65649055103,2012-03-01,2099-12-31,,1
+45854319,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,680940853,2014-10-29,2099-12-31,,1
+36952701,naltrexone 4.5 MG Oral Capsule Box of 30,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP5199521,2023-05-22,2099-12-31,,1
+36941482,naltrexone 50 MG Oral Tablet [Adepend] by Aop Orphanc,Drug,RxNorm Extension,Marketed Product,S,OMOP5199527,2023-05-22,2099-12-31,,1
+37138699,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,a222a9a2-0e79-4a6a-8f41-9d5a7d8f36ae,2002-03-22,2099-12-31,,1
+21604824,naltrexone; oral,Drug,ATC,ATC 5th,C,N07BB04,1970-01-01,2099-12-31,,1
+46320383,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,60276f5c-657a-4b60-bcd0-44234903d7e0,2019-06-18,2099-12-31,,1
+631572,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,784ff1df-0d5b-43d4-a819-0e4f45f8af1e,2012-01-18,2099-12-31,,1
+628332,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,79b4d5f1-fe38-403b-b2d9-4bdcc066b750,2022-11-09,2099-12-31,,1
+44153502,Naltrexone Hydrochloride Tablets Usp [Drug],Drug,DPD,Drug Product,,2451883,1970-01-01,2099-12-31,,1
+40739514,Naltrexone 50 MG Oral Tablet [Nalorex] Box of 28 by Sigma,Drug,RxNorm Extension,Marketed Product,S,OMOP4717715,2018-06-04,2099-12-31,,1
+36191311,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,500902866,2013-09-23,2099-12-31,,1
+40063519,Naltrexone Oral Tablet [ReVia],Drug,RxNorm,Branded Drug Form,,384662,1970-01-01,2019-03-31,D,1
+1609216,BUPROPION/NALTREXONE,Drug,VANDF,Drug Product,,4033706,1970-01-01,2099-12-31,,1
+40692868,Naltrexone 25mg/5ml oral solution 1 ml,Drug,dm+d,VMPP,,35546311000001109,1970-01-01,2099-12-31,,1
+36840445,NALTREXONE HYDROCHLORIDE DIHYDRATE,Drug,OMOP Invest Drug,Precise Ingredient,,5P80UKS30B,1970-01-01,2099-12-31,,1
+43302713,Naltrexone Hydrochloride (Qp) 50 Mg Tablet. 30,Drug,AMT,Trade Product Pack,,32354011000036103,2016-11-01,2099-12-31,,1
+43338673,Naltrexone Hydrochloride (Generic Health) 50 Mg Tablet. 30. Blister Pack,Drug,AMT,Containered Pack,,921833011000036102,2016-11-01,2099-12-31,,1
+45286582,Methylnaltrexone bromide KIT [Relistor],Drug,NDC,9-digit NDC,,065649553,2013-08-05,2099-12-31,,1
+45359183,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,50436010501,2014-01-01,2020-08-01,D,1
+42375170,naltrexone hydrochloride 25mg,Drug,EDI,Drug Product,,651903870,1970-01-01,2099-12-31,,1
+42949471,Naltrexone 25 MG Oral Tablet [WHANIN NALTREXON],Drug,RxNorm Extension,Branded Drug,S,OMOP4676055,2018-08-21,2099-12-31,,1
+4349835,Naltrexone,Drug,NDFRT,Chemical Structure,,N0000007313,1970-01-01,2099-12-31,,1
+21086513,Naltrexone 1 MG/ML Oral Suspension by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280313,2017-08-24,2023-08-02,U,1
+21030000,100 ML Naltrexone 1 MG/ML Oral Suspension by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP324559,2017-08-24,2023-08-02,U,1
+37133723,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,ab1b082f-fd25-43f7-b7ea-13a34aa05cc2,2014-10-22,2099-12-31,,1
+45196979,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00179179271,2007-06-01,2012-06-01,D,1
+45376926,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,52152010504,2007-06-01,2011-02-01,D,1
+36502310,Methylnaltrexone Bromide 150 MG Oral Tablet,Drug,GPI,GPI,,52580050100320,2017-12-14,2099-12-31,,1
+21037365,Naltrexone 50 MG Oral Tablet by Accord,Drug,RxNorm Extension,Marketed Product,S,OMOP280279,2017-08-24,2099-12-31,,1
+1626592,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,62135024290,2022-01-01,2099-12-31,,1
+44869830,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,62991124302,2013-08-05,2099-12-31,,1
+44429557,Methylnaltrexone bromide 150 MG Oral Tablet [Relistor],Drug,NDC,11-digit NDC,,65649015060,2016-09-01,2020-04-01,D,1
+37139988,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,50090682000,2023-11-14,2099-12-31,,1
+36006000,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,a9fe3f7a-3d56-460a-8dda-7aa9acac9ba8,2014-10-22,2099-12-31,,1
+37488691,Methylnaltrexone,Drug,CTD,Ingredient,,916055-93-1,1970-01-01,2099-12-31,,1
+45026807,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00179197771,2009-01-01,2012-06-01,D,1
+35505301,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. FILM COATED. EXTENDED RELEASE,Drug,NDC,9-digit NDC,,500902868,2014-09-10,2099-12-31,,1
+45376326,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,51129173501,2007-06-01,2012-06-01,D,1
+45325847,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,52152010502,2007-06-01,2013-01-01,D,1
+41061028,Naltrexone 50 MG Oral Tablet [Nrexonhydrochlorid Accord],Drug,RxNorm Extension,Branded Drug,S,OMOP2258990,2017-08-24,2099-12-31,,1
+37130649,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,ba53c1a1-0bc1-444f-9dc8-fbd07df724d0,2002-03-22,2099-12-31,,1
+42802614,NALTREXONE HYDROCHLORIDE AND BUPROPION HYDROCHLORIDE EXTENDED-RELEASE - naltrexone hydrochloride and bupropion hydorchloride tablet. extended release,Drug,SPL,Prescription Drug,C,bad555b7-ca04-47e8-bf90-559262c6c06f,2017-10-19,2099-12-31,,1
+21106130,Naltrexone 2 MG Oral Capsule Box of 1,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP280270,2017-08-24,2099-12-31,,1
+21177063,0.6 ML methylnaltrexone 20 MG/ML Prefilled Syringe [Relistor] Box of 7,Drug,RxNorm Extension,Quant Branded Box,S,OMOP287660,2017-08-24,2099-12-31,,1
+21067968,1 ML Naltrexone 1 MG/ML Oral Solution,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP301942,2017-08-24,2099-12-31,,1
+40823534,Naltrexone 50 MG [Nrexon Hcl],Drug,RxNorm Extension,Branded Drug Comp,,OMOP2021496,2017-07-30,2017-08-23,U,1
+43677406,Naltrexone 50 MG Oral Tablet [Naltrexon Hcl Aop] by Orphan,Drug,RxNorm Extension,Marketed Product,S,OMOP675755,2017-08-24,2099-12-31,,1
+35999770,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,70518271801,2020-12-01,2022-01-01,D,1
+42644671,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335148004,2020-04-01,2099-12-31,,1
+41410790,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution Box of 7,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP2608752,2017-08-24,2099-12-31,,1
+19027771,methylnaltrexone 20 MG/ML [Relistor],Drug,RxNorm,Branded Drug Comp,,796992,2008-06-29,2010-06-05,U,1
+42906700,PHARMA NALTREXONE,Drug,RxNorm Extension,Brand Name,,OMOP4633621,1970-01-01,2099-12-31,,1
+42810233,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,49cd5e96-8258-4fbb-a471-4985ae541b5a,2014-10-22,2099-12-31,,1
+41321347,Naltrexone 50 MG Oral Tablet Box of 28 by Neuraxpharm,Drug,RxNorm Extension,Marketed Product,S,OMOP2519309,2017-08-24,2099-12-31,,1
+44396734,naltrexone KIT [vivitrol],Drug,SPL,Prescription Drug,C,9e524c53-e3fe-4b53-9efc-d2a4142d2343,2006-06-13,2099-12-31,,1
+45386484,Naltrexone Powder,Drug,GPI,GPI,,96684239902900,1970-01-01,2099-12-31,,1
+3158995,Naltrexone microspheres 380mg powder for injection solution vial + diluent,Drug,Nebraska Lexicon,Pharma/Biol Product,,420553009,2017-07-30,2017-07-31,U,1
+19103121,Naltrexone 25 MG Oral Tablet,Drug,RxNorm,Clinical Drug,,406373,1970-01-01,2014-01-05,U,1
+42949490,Naltrexone Oral Tablet [PHARMA NALTREXONE],Drug,RxNorm Extension,Branded Drug Form,S,OMOP4676073,2018-08-21,2099-12-31,,1
+3981820,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,64620e9e-ef95-43e7-b03f-28d4c607b7d8,2023-10-06,2099-12-31,,1
+45797958,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,c01fef04-5201-4a2a-be9f-59955c45d1dc,2013-09-23,2099-12-31,,1
+36467300,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,50090392900,2019-01-01,2023-07-01,D,1
+41112683,Naltrexone Oral Tablet [Nrexonhydrochlorid Accord],Drug,RxNorm Extension,Branded Drug Form,S,OMOP2310645,2017-08-24,2099-12-31,,1
+35998164,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,b4901def-ccf7-db77-e053-2a95a90a1bed,2020-05-01,2099-12-31,,1
+45210206,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,61392046695,2007-06-01,2012-06-01,D,1
+45863232,12 HR Bupropion Hydrochloride 90 MG / Naltrexone hydrochloride 8 MG Extended Release Oral Tablet [Contrave],Drug,NDC,11-digit NDC,,64764089099,2014-11-01,2020-02-01,D,1
+37301980,naltrexone KIT [vivitrol],Drug,SPL,Prescription Drug,C,0838fc53-35f9-4f09-be39-1412b4cd6988,2006-06-13,2099-12-31,,1
+45675438,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,121b1289-f9a6-46f1-bbb4-5ce4a6bd89a6,1998-05-08,2099-12-31,,1
+45711520,NALTREXONE HCL 50 mg ORAL TABLET,Drug,GCN_SEQNO,GCN_SEQNO,,004518,1970-01-01,2099-12-31,,1
+35775808,Naltrexone 50 MG Delayed Release Oral Tablet by Orphan,Drug,RxNorm Extension,Marketed Product,S,OMOP2777269,2017-08-24,2099-12-31,,1
+21086511,Naltrexone 50 MG Oral Tablet Box of 28 by A A H,Drug,RxNorm Extension,Marketed Product,S,OMOP280292,2017-08-24,2099-12-31,,1
+21037368,Naltrexone 0.6 MG/ML,Drug,RxNorm Extension,Clinical Drug Comp,S,OMOP280328,2017-08-24,2099-12-31,,1
+43731063,Naltrexone Oral Tablet [Naltrexon-Hcl Neuraxpharm],Drug,RxNorm Extension,Branded Drug Form,S,OMOP675741,2017-08-24,2099-12-31,,1
+40946906,Naltrexone 50 MG Oral Tablet [Nalorex] Box of 28 by Emra-Med,Drug,RxNorm Extension,Marketed Product,S,OMOP2144868,2017-08-24,2099-12-31,,1
+36249045,bupropion / naltrexone Oral Product,Drug,RxNorm,Clinical Dose Group,C,1551464,2016-08-01,2099-12-31,,1
+40747736,Bupropion 90 MG / Naltrexone 8 MG [Mysimba],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP4709552,2018-06-04,2099-12-31,,1
+43563045,METHYLNALTREXONE BROMIDE 12MG/0.6ML INJ.SYR,Drug,NDFRT,VA Product,,N0000188234,2013-10-07,2099-12-31,,1
+21187493,Naltrexone 1.5mg capsules 1 capsule,Drug,dm+d,VMPP,,14790311000001108,1970-01-01,2099-12-31,,1
+3198411,Methylnaltrexone,Drug,Nebraska Lexicon,Substance,,431072004,2008-07-31,2099-12-31,,1
+3196300,Methylnaltrexone bromide,Drug,Nebraska Lexicon,Substance,,433519000,2008-07-31,2099-12-31,,1
+21116961,1 ML Naltrexone 0.2 MG/ML Oral Solution by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP301938,2017-08-24,2023-08-02,U,1
+40220707,methylnaltrexone Oral Tablet,Drug,RxNorm,Clinical Drug Form,S,1801513,2016-10-03,2099-12-31,,1
+46292872,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,ca7b968e-c2e5-4c04-af36-acf04e8b8f77,2018-10-23,2099-12-31,,1
+45400743,Morphine-Naltrexone 30-1.2 MG Oral Capsule Extended Release,Drug,GPI,GPI,,65100055700230,1970-01-01,2099-12-31,,1
+21066848,Naltrexone 50 MG Oral Tablet [Opizone] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP280300,2017-08-24,2099-12-31,,1
+46309676,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,15109f04-6738-4d7c-a5fa-38416d4584f6,2018-05-21,2099-12-31,,1
+40221216,naltrexone hydrochloride 4.8 MG,Drug,RxNorm,Clinical Drug Comp,S,1806721,2016-10-03,2099-12-31,,1
+40216628,NALTREXONE/OPIUM,Drug,NDFRT,Drug Interaction,,N0000177997,1970-01-01,2014-11-30,D,1
+40216632,NALTREXONE/REMIFENTANIL HYDROCHLORIDE,Drug,NDFRT,Drug Interaction,,N0000178001,1970-01-01,2014-11-30,D,1
+42863044,MORPHINE SO4 50MG/NALTREXONE HCL 2MG CAP.SA,Drug,NDFRT,VA Product,,N0000181700,2012-06-04,2099-12-31,,1
+19006313,naltrexone hydrochloride,Drug,RxNorm,Precise Ingredient,,105069,1970-01-01,2099-12-31,,1
+44424085,methylnaltrexone bromide 150 MG Oral Tablet [Relistor],Drug,NDC,11-digit NDC,,65649015090,2016-09-01,2099-12-31,,1
+748329,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335206203,2022-04-01,2099-12-31,,1
+35861564,naltrexone 50 MG [Nuoxinsheng],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP5018503,2020-10-02,2099-12-31,,1
+2918166,naltrexone 50 MG Oral Tablet Box of 30 by APO,Drug,RxNorm Extension,Marketed Product,S,OMOP5134991,2021-06-30,2099-12-31,,1
+44889432,0.4 ML Methylnaltrexone bromide 20 MG/ML Prefilled Syringe [Relistor],Drug,NDC,11-digit NDC,,00008122510,2012-03-01,2014-02-01,D,1
+1714350,Naltrexone 112 MG/ML,Drug,RxNorm,Clinical Drug Comp,,637212,2006-07-09,2016-05-01,D,1
+40739516,Naltrexone 50 MG Oral Tablet [Adepend] Box of 28 by AOP,Drug,RxNorm Extension,Marketed Product,S,OMOP4717713,2018-06-04,2099-12-31,,1
+35407059,Naltrexone 50 MG Delayed Release Oral Tablet [NALTREXONE ACCORD] Box of 28 by Accord,Drug,RxNorm Extension,Marketed Product,S,OMOP1140644,2017-08-24,2099-12-31,,1
+36375888,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,af86d6b3-98cb-528b-e053-2995a90a7da9,2013-09-23,2099-12-31,,1
+45820474,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,430630469,1998-05-08,2099-12-31,,1
+45035515,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,51552073702,2013-08-05,2099-12-31,,1
+21225638,Naltrexone 12.5mg/5ml oral suspension 1 ml,Drug,dm+d,VMPP,,8637011000001108,1970-01-01,2099-12-31,,1
+36802104,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,adb7c4dc-221a-4d91-9687-0d78913a92ad,2023-10-05,2099-12-31,,1
+36173911,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,d385eb6e-c702-40ce-8f21-a0070da6d3a6,2012-01-18,2099-12-31,,1
+1522410,Naltrexone HCl Tab 50 MG,Drug,GPI,GPI,,65400030100305,2015-05-06,2099-12-31,,1
+42819446,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,b0b57162-11f5-4654-a45b-42164674295c,2012-01-18,2099-12-31,,1
+21076748,Naltrexone 3.2 MG Oral Capsule,Drug,RxNorm Extension,Clinical Drug,S,OMOP280323,2017-08-24,2099-12-31,,1
+37204876,Morphine- and naltrexone-containing product,Drug,SNOMED,Pharma/Biol Product,,783809007,2019-07-31,2099-12-31,,1
+44855597,Naltrexone 50 MG Oral Tablet [ReVia],Drug,NDC,11-digit NDC,,00056007950,2007-06-01,2011-01-01,D,1
+21243838,Naltrexone 1mg/5ml oral solution 1 ml,Drug,dm+d,VMPP,,12254211000001102,1970-01-01,2099-12-31,,1
+21179700,Naltrexone 5mg/5ml oral suspension,Drug,dm+d,VMP,,16110311000001105,1970-01-01,2099-12-31,,1
+36087570,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,2c4e9899-d73e-420c-a158-c54600f2c03c,2013-09-23,2099-12-31,,1
+40134090,Naltrexone Injectable Suspension,Drug,RxNorm,Clinical Drug Form,,636638,2006-07-09,2016-05-01,D,1
+40185298,0.6 ML methylnaltrexone bromide 20 MG/ML Injection [Relistor],Drug,RxNorm,Quant Branded Drug,S,979115,2010-06-06,2099-12-31,,1
+45313223,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,62991124301,2013-08-05,2099-12-31,,1
+44927817,NALTREXONE HYDROCHLORIDE 50 Naltrexone Hydrochloride [HUMAN PRESCRIPTION DRUG],Drug,NDC,9-digit NDC,,043063469,2013-10-02,2099-12-31,,1
+44519038,APO-NALTREXONE,Drug,DPD,Brand Name,,OMOP99110,1970-01-01,2017-06-24,D,1
+40747733,Bupropion 90 MG / Naltrexone 8 MG Extended Release Oral Tablet [Mysimba] Box of 112,Drug,RxNorm Extension,Branded Drug Box,S,OMOP4709555,2018-06-04,2099-12-31,,1
+4324341,Methylnaltrexone-containing product,Drug,SNOMED,Pharma/Biol Product,,429838001,2008-07-31,2099-12-31,,1
+42708188,0.6 ML methylnaltrexone bromide 20 MG/ML Prefilled Syringe,Drug,RxNorm,Quant Clinical Drug,S,1244060,2012-05-07,2099-12-31,,1
+1789253,naltrexone KIT [vivitrol],Drug,SPL,Prescription Drug,C,9932a206-da79-4430-a115-61c50621a9c1,2006-06-13,2099-12-31,,1
+21026733,methylnaltrexone 20 MG/ML Prefilled Syringe [Relistor] Box of 7,Drug,RxNorm Extension,Branded Drug Box,S,OMOP264832,2017-08-24,2099-12-31,,1
+21037364,Naltrexone 0.3 MG/ML,Drug,RxNorm Extension,Clinical Drug Comp,S,OMOP280272,2017-08-24,2099-12-31,,1
+21048283,1 ML Naltrexone 1 MG/ML Oral Suspension,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP301944,2017-08-24,2099-12-31,,1
+42833541,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,76519116005,2018-01-01,2099-12-31,,1
+36470278,methylnaltrexone bromide 150mg/1 / 8mg/.4mL / 12mg/.6mL ORAL. SUBCUTANEOUS INJECTION. SOLUTION. TABLET [relistor],Drug,SPL,Prescription Drug,C,4c719f94-71b7-4293-b239-7a8928014b0e,2008-04-24,2099-12-31,,1
+3982836,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,23155088601,2023-11-01,2099-12-31,,1
+45850450,methylnaltrexone bromide KIT [relistor],Drug,NDC,9-digit NDC,,656490553,2008-08-01,2099-12-31,,1
+37618066,naltrexone KIT [vivitrol],Drug,SPL,Prescription Drug,C,cfa11721-aed7-414b-9f51-a744a873cf4d,2006-06-13,2099-12-31,,1
+21027603,Naltrexone 50 MG Oral Tablet [Nalorex] Box of 28 by Sigma-Tau,Drug,RxNorm Extension,Marketed Product,S,OMOP280307,2017-08-24,2099-12-31,,1
+45023949,naltrexone 380 MG Injection [Vivitrol],Drug,NDC,11-digit NDC,,65757030001,2007-06-01,2099-12-31,,1
+36938210,naltrexone 4.5 MG Oral Capsule by Drug Tariff Special Order,Drug,RxNorm Extension,Marketed Product,S,OMOP5199519,2023-05-22,2099-12-31,,1
+45047655,Methylnaltrexone bromide 12 mg/.6mL INJECTION. SOLUTION [Relistor],Drug,NDC,9-digit NDC,,065649551,2013-08-05,2099-12-31,,1
+40718186,1 ML Naltrexone 5 MG/ML Oral Solution,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP4738823,2018-06-04,2099-12-31,,1
+35412494,Naltrexone 50 MG Delayed Release Oral Tablet [NALTREXONE ACCORD] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP1146079,2017-08-24,2099-12-31,,1
+40825236,Naltrexone 50 MG Oral Tablet [Nrexon Hcl Neuraxpharm],Drug,RxNorm Extension,Branded Drug,,OMOP2023198,2017-07-30,2017-08-23,U,1
+21225595,Naltrexone 4.5mg capsules 1 capsule,Drug,dm+d,VMPP,,8822311000001104,1970-01-01,2099-12-31,,1
+44945211,Naltrexone Hydrochloride ORAL 20131007 TABLET. FILM COATED [Naltrexone Hydrochloride],Drug,NDC,9-digit NDC,,052125727,2013-11-04,2099-12-31,,1
+21038472,1 ML Naltrexone 0.6 MG/ML Oral Solution,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP301948,2017-08-24,2099-12-31,,1
+1215174,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,b8cffe88-be5b-3bf9-e053-2a95a90a3aa1,2018-07-19,2099-12-31,,1
+44387023,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,5939ef66-5499-b24a-e053-2a91aa0a0ec1,2012-12-10,2099-12-31,,1
+44490912,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,691890499,2016-02-10,2099-12-31,,1
+3159717,Morphine sulphate 60mg + naltrexone hydrochloride 2.4mg m/r capsule,Drug,Nebraska Lexicon,Pharma/Biol Product,,444490005,2017-07-30,2017-07-31,U,1
+45774488,bupropion hydrochloride 90 MG / naltrexone hydrochloride 8 MG [Contrave],Drug,RxNorm,Branded Drug Comp,S,1551470,2014-12-01,2099-12-31,,1
+40884593,Naltrexone 50 MG Oral Tablet Box of 28 by Kera,Drug,RxNorm Extension,Marketed Product,S,OMOP2082555,2017-08-24,2099-12-31,,1
+36154733,ADDEX-1000 - naltrexone pellet. implantable,Drug,SPL,Prescription Drug,C,6c52a716-44fb-c0a7-e053-2991aa0a93f3,2022-10-04,2099-12-31,,1
+35515480,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,8bd401f3-7879-472c-9a54-8ac386ad5f7f,2012-02-29,2099-12-31,,1
+42644670,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335148003,2020-04-01,2099-12-31,,1
+40165037,Morphine / Naltrexone Oral Capsule,Drug,RxNorm,Clinical Drug Form,,859957,2009-09-06,2009-10-03,U,1
+46274189,methylnaltrexone bromide,Drug,RxNorm,Precise Ingredient,,979111,2015-09-08,2099-12-31,,1
+36293525,Naltrexone Accord filmomh. tabl. (deelb.) 28x 50mg,Drug,GGR,Drug Product,,mpp3086428,2017-12-26,2018-08-31,D,1
+41228137,Naltrexone 50 MG Delayed Release Oral Tablet [Nalorex] Box of 30 by Gerke,Drug,RxNorm Extension,Marketed Product,S,OMOP2426099,2017-08-24,2099-12-31,,1
+35880715,Naltrexone 50 Mg,Drug,NCCD,Drug Product,,182101,2020-10-02,2099-12-31,,1
+35767346,Naltrexone 50 MG Delayed Release Oral Tablet [Opizone] Box of 28 by Genus,Drug,RxNorm Extension,Marketed Product,S,OMOP2768807,2017-08-24,2099-12-31,,1
+42642937,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,838a1e88-1179-4a2a-a737-8ce008bb96a7,2023-03-30,2099-12-31,,1
+45384777,Methylnaltrexone Bromide 12 MG/0.6ML Subcutaneous Kit,Drug,GPI,GPI,,52580050106420,1970-01-01,2099-12-31,,1
+43320495,Naltrexone Hydrochloride (Gh) 50 Mg Tablet,Drug,AMT,Trade Product Unit,,113391000036109,2016-11-01,2099-12-31,,1
+35531244,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,63629104601,2019-09-01,2099-12-31,,1
+44430926,methylnaltrexone bromide 150 MG Oral Tablet [Relistor],Drug,NDC,11-digit NDC,,65649015006,2016-09-01,2099-12-31,,1
+36966521,naltrexone 4.5 MG Oral Capsule Box of 30 by Drug Tariff Special Order,Drug,RxNorm Extension,Marketed Product,S,OMOP5199522,2023-05-22,2099-12-31,,1
+43695221,Naltrexone 50 MG Oral Tablet [Naltrexon Hcl Aop],Drug,RxNorm Extension,Branded Drug,S,OMOP675754,2017-08-24,2099-12-31,,1
+46327768,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,b2d3dda1-d90d-4c0f-bd36-ecac2b1482aa,2009-07-29,2099-12-31,,1
+46331461,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,43063059115,2015-09-01,2021-10-01,D,1
+40719700,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution [Relistor] Box of 7 by Biovitrum,Drug,RxNorm Extension,Marketed Product,S,OMOP4738000,2018-06-04,2099-12-31,,1
+35605492,naltrexone 380 MG,Drug,RxNorm,Clinical Drug Comp,S,1740870,2016-05-02,2099-12-31,,1
+36173828,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,d1502300-eed7-41de-b4a7-4cea776387ce,2013-09-23,2099-12-31,,1
+45125984,Naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,65694010003,2014-01-01,2018-01-01,D,1
+36944174,naltrexone 50 MG Oral Tablet by Aop Orphanc,Drug,RxNorm Extension,Marketed Product,S,OMOP5199523,2023-05-22,2099-12-31,,1
+35757862,Naltrexone Delayed Release Oral Tablet [Adepend],Drug,RxNorm Extension,Branded Drug Form,S,OMOP2759323,2017-08-24,2099-12-31,,1
+35786437,100 ML Naltrexone 1 MG/ML Oral Solution by Drug Tariff Special Order,Drug,RxNorm Extension,Marketed Product,S,OMOP2787898,2017-08-24,2099-12-31,,1
+21295709,Naltrexone 2mg/5ml oral solution,Drug,dm+d,AMP,,12255111000001107,1970-01-01,2099-12-31,,1
+40692863,Naltrexone 2.5mg capsules (Special Order) 1 capsule,Drug,dm+d,AMPP,,32871511000001107,1970-01-01,2099-12-31,,1
+3975161,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,721621566,2013-09-23,2099-12-31,,1
+40166414,naltrexone hydrochloride 3.2 MG,Drug,RxNorm,Clinical Drug Comp,S,863552,2009-10-04,2099-12-31,,1
+44383302,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,52159413-ff52-13a3-e054-00144ff8d46c,2014-10-22,2099-12-31,,1
+45027915,Naltrexone 100 MG Oral Tablet [Depade],Drug,NDC,11-digit NDC,,00406011903,2007-06-01,2012-12-01,D,1
+44784878,naltrexone hydrochloride 50 MG Oral Tablet,Drug,RxNorm,Clinical Drug,S,1483744,2014-01-06,2099-12-31,,1
+2051348,naltrexone 25 MG Oral Tablet [NALTRA] by Dreampharma,Drug,RxNorm Extension,Marketed Product,S,OMOP4951832,2020-07-31,2099-12-31,,1
+597313,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,df73d163-8fd0-3c8f-e053-2a95a90a832e,2022-05-20,2099-12-31,,1
+21147793,100 ML Naltrexone 1 MG/ML Oral Solution,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP324555,2017-08-24,2099-12-31,,1
+46367152,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,430630591,2009-07-29,2099-12-31,,1
+44784876,naltrexone hydrochloride 25 MG [Depade],Drug,RxNorm,Branded Drug Comp,S,1483781,2014-01-06,2099-12-31,,1
+35605494,naltrexone 380 MG [Vivitrol],Drug,RxNorm,Branded Drug Comp,S,1740873,2016-05-02,2099-12-31,,1
+43166270,Naltrexone Delayed Release Oral Tablet,Drug,RxNorm Extension,Clinical Drug Form,S,OMOP459068,2017-08-24,2099-12-31,,1
+43188231,Naltrexone 50 MG Delayed Release Oral Tablet [NALTREXONE MYLAN] Box of 28 by Mylan,Drug,RxNorm Extension,Marketed Product,S,OMOP459248,2017-08-24,2099-12-31,,1
+36215684,methylnaltrexone Injectable Product,Drug,RxNorm,Clinical Dose Group,C,1156739,2016-08-01,2099-12-31,,1
+35759032,Naltrexone 50 MG Delayed Release Oral Tablet by Waymade,Drug,RxNorm Extension,Marketed Product,S,OMOP2760493,2017-08-24,2099-12-31,,1
+35785819,0.6 ML methylnaltrexone 20 MG/ML Injection [Relistor] by TMC,Drug,RxNorm Extension,Marketed Product,S,OMOP2787280,2017-08-24,2099-12-31,,1
+36062083,naltrexone 4.5 MG Oral Capsule Box of 1,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP4988068,2020-08-17,2099-12-31,,1
+45830403,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,512240206,2013-09-23,2099-12-31,,1
+19083012,Naltrexone 50 MG,Drug,RxNorm,Clinical Drug Comp,,328402,1970-01-01,2014-01-05,U,1
+36922105,Naltrexone 4.5mg capsules 30 capsule,Drug,dm+d,VMPP,,40537311000001101,1970-01-01,2099-12-31,,1
+42808562,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,1f64bfb4-6360-4346-81a8-0adcb13b0fcf,2009-07-29,2099-12-31,,1
+44530414,METHYLNALTREXONE BROMIDE,Drug,DPD,Ingredient,,OMOP113495,1970-01-01,2017-06-24,D,1
+41061027,Naltrexone 50 MG Delayed Release Oral Tablet [Nalorex] Box of 30,Drug,RxNorm Extension,Branded Drug Box,S,OMOP2258989,2017-08-24,2099-12-31,,1
+45707100,RELISTOR - methylnaltrexone bromide tablet,Drug,SPL,Prescription Drug,C,c488fb7c-0a5b-487c-b452-996809d1cb99,2023-12-12,2099-12-31,,1
+44487938,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,680712156,2013-09-23,2099-12-31,,1
+21183755,Naltrexone 3mg/5ml oral solution,Drug,dm+d,AMP,,12255811000001100,1970-01-01,2099-12-31,,1
+43231676,NALTREXONE MYLAN,Drug,BDPM,Brand Name,,OMOP421806,1970-01-01,2017-07-16,D,1
+44463389,12 HR Bupropion Hydrochloride 90 MG / Naltrexone hydrochloride 8 MG Extended Release Oral Tablet [Contrave],Drug,NDC,11-digit NDC,,50090286800,2017-03-01,2020-01-01,D,1
+45774485,bupropion / naltrexone Extended Release Oral Tablet,Drug,RxNorm,Clinical Drug Form,S,1551466,2014-12-01,2099-12-31,,1
+21199198,Naltrexone 25mg/5ml oral suspension,Drug,dm+d,VMP,,8669611000001100,1970-01-01,2099-12-31,,1
+45224755,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,548685574,2006-04-19,2099-12-31,,1
+41134434,Naltrexone 50 MG Oral Tablet [Nalorex] Box of 30 by Kohlpharma,Drug,RxNorm Extension,Marketed Product,S,OMOP2332396,2017-08-24,2099-12-31,,1
+41410722,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution Box of 1,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP2608684,2017-08-24,2099-12-31,,1
+21145357,Naltrexone Oral Suspension,Drug,RxNorm Extension,Clinical Drug Form,S,OMOP280259,2017-08-24,2099-12-31,,1
+21273411,Naltrexone 3mg capsules,Drug,dm+d,VMP,,11490411000001101,1970-01-01,2099-12-31,,1
+21317867,Naltrexone 5mg/5ml oral solution 1 ml,Drug,dm+d,VMPP,,16106311000001105,1970-01-01,2099-12-31,,1
+44852997,Naltrexone 112 MG/ML Injectable Suspension [Vivitrol],Drug,NDC,11-digit NDC,,63459030038,2008-03-01,2011-11-01,D,1
+35531245,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,63629104701,2019-09-01,2099-12-31,,1
+37137385,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,b09b4b5e-795a-48e7-b7cc-2e29f41c5660,2023-12-13,2099-12-31,,1
+21065983,methylnaltrexone 20 MG/ML Prefilled Syringe [Relistor] Box of 1,Drug,RxNorm Extension,Branded Drug Box,S,OMOP264831,2017-08-24,2099-12-31,,1
+36795435,Naltrexone Accord filmomh. tabl. (deelb.) 28x 50mg,Drug,GGR,Med Product Pack,,3086428,2021-10-15,2099-12-31,,1
+1731960,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,02a7b3c7-42eb-056e-e063-6294a90ac13c,2018-04-27,2099-12-31,,1
+40165110,naltrexone hydrochloride 2 MG,Drug,RxNorm,Clinical Drug Comp,S,859969,2009-09-06,2099-12-31,,1
+21224250,Naltrexone 5mg/5ml oral suspension 100 ml,Drug,dm+d,VMPP,,24438811000001103,1970-01-01,2099-12-31,,1
+35750697,Naltrexone 50 MG Delayed Release Oral Tablet [Opizone] by Genus,Drug,RxNorm Extension,Marketed Product,S,OMOP2752158,2017-08-24,2099-12-31,,1
+45158771,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,61392046625,2007-06-01,2012-06-01,D,1
+45010704,Naltrexone hydrochloride 50 MG Oral Tablet [Depade],Drug,NDC,11-digit NDC,,00406009203,2014-01-01,2015-12-01,D,1
+44848312,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,51927275300,2013-08-05,2099-12-31,,1
+21310363,Methylnaltrexone bromide 12mg/0.6ml solution for injection vials,Drug,dm+d,VMP,,433520006,1970-01-01,2023-05-21,D,1
+41410766,0.6 ML methylnaltrexone 20 MG/ML Injection [Relistor] Box of 7 by Emra-Med,Drug,RxNorm Extension,Marketed Product,S,OMOP2608728,2017-08-24,2099-12-31,,1
+35880716,Naltrexone Tablets,Drug,NCCD,Drug Product,,157011,2020-10-02,2099-12-31,,1
+44185999,Naltrexone 50 MG Delayed Release Oral Tablet [Nalorex] Box of 30 by Kohlpharma,Drug,RxNorm Extension,Marketed Product,S,OMOP3062722,2017-10-06,2099-12-31,,1
+44982956,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,47335032608,2014-01-01,2099-12-31,,1
+36930103,naltrexone 3 MG Oral Capsule by Drug Tariff Special Order,Drug,RxNorm Extension,Marketed Product,S,OMOP5199515,2023-05-22,2099-12-31,,1
+44897503,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,38779088706,2013-08-05,2099-12-31,,1
+21600594,methylnaltrexone bromide; parenteral,Drug,ATC,ATC 5th,C,A06AH01,1970-01-01,2099-12-31,,1
+21106129,Naltrexone Oral Capsule,Drug,RxNorm Extension,Clinical Drug Form,S,OMOP280260,2017-08-24,2099-12-31,,1
+46305010,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,74087d2f-468d-4de1-a2fc-a489d0f2abef,2022-09-16,2099-12-31,,1
+40228622,MORPHINE SO4 20MG/NALTREXONE HCL 0.8MG CAP.SA,Drug,VANDF,Drug Product,,4029091,1970-01-01,2099-12-31,,1
+42880994,CONTRAVE EXTENDED-RELEASE - naltrexone hydrochloride and bupropion hydrochloride tablet. extended release,Drug,SPL,Prescription Drug,C,9889a75d-4197-496c-aae1-15c9058c1d1b,2020-01-18,2099-12-31,,1
+42949493,Naltrexone Oral Tablet [I-REXONE],Drug,RxNorm Extension,Branded Drug Form,S,OMOP4676076,2018-08-21,2099-12-31,,1
+45669971,NALTREXONE HYDROCHLORIDE 50 mg ORAL TABLET. FILM COATED,Drug,SPL,SPL,,1977a47c-1029-465a-8176-3c9d70c7bbc8,1970-01-01,2099-12-31,,1
+44341772,CONTRAVE EXTENDED-RELEASE - naltrexone hydrochloride and bupropion hydrochloride tablet. extended release,Drug,SPL,Prescription Drug,C,46778426-be0d-4df5-a8c1-2345d8efd241,2022-05-10,2099-12-31,,1
+36194733,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,705181146,2018-04-27,2099-12-31,,1
+37486739,Naltrexone,Drug,CTD,Ingredient,,16590-41-3,1970-01-01,2099-12-31,,1
+45893209,BUPROPION/NALTREXONE,Drug,NDFRT,Pharma Preparation,,N0000191102,2015-03-02,2099-12-31,,1
+43316076,Naltrexone Hydrochloride,Drug,AMT,AU Substance,,2754011000036100,2016-11-01,2099-12-31,,1
+21096266,Naltrexone 50 MG Oral Tablet [Adepend] Box of 28 by Orphan,Drug,RxNorm Extension,Marketed Product,S,OMOP280297,2017-08-24,2099-12-31,,1
+36677537,Bupropion and naltrexone only product,Drug,SNOMED,Pharma/Biol Product,,774939003,2019-01-31,2099-12-31,,1
+46241371,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,6cb61246-dc66-457c-a2ae-59da0dc55ccf,1998-05-08,2099-12-31,,1
+35513074,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,7883f72f-dbab-70f6-e053-2991aa0a582a,2015-03-26,2099-12-31,,1
+41217679,Naltrexone 50 MG Delayed Release Oral Tablet [Nrexon Hcl Neuraxpharm] Box of 280,Drug,RxNorm Extension,Branded Drug Box,,OMOP2415641,2017-07-30,2023-08-02,U,1
+21047260,Naltrexone 4.8 MG Oral Capsule by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280320,2017-08-24,2023-08-02,U,1
+40998827,Naltrexone 50 MG Oral Tablet [Nemexin] Box of 50,Drug,RxNorm Extension,Branded Drug Box,S,OMOP2196789,2017-08-24,2099-12-31,,1
+36161357,methylnaltrexone bromide 150mg/1 / 8mg/.4mL / 12mg/.6mL ORAL. SUBCUTANEOUS INJECTION. SOLUTION. TABLET [relistor],Drug,SPL,Prescription Drug,C,2ad59ad1-9f92-4d50-9eff-8c31e1287f31,2008-04-24,2099-12-31,,1
+44882170,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,51129368002,2007-06-01,2012-06-01,D,1
+44477781,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,NDC,9-digit NDC,,512670890,2014-10-22,2099-12-31,,1
+45774486,12 HR bupropion hydrochloride 90 MG / naltrexone hydrochloride 8 MG Extended Release Oral Tablet,Drug,RxNorm,Quant Clinical Drug,S,1551468,2014-12-01,2099-12-31,,1
+21197242,Naltrexone hydrochloride,Drug,dm+d,Ingredient,,64191009,1970-01-01,2099-12-31,,1
+21254943,Naltrexone 4.5mg capsules,Drug,dm+d,VMP,,8822911000001103,1970-01-01,2099-12-31,,1
+42828401,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,68788708402,2018-03-01,2020-06-01,D,1
+4197355,Methylnaltrexone 12mg injection solution 0.6mL vial,Drug,SNOMED,Pharma/Biol Product,,433520006,2008-07-31,2018-07-31,D,1
+45253806,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,16729008101,2014-01-01,2099-12-31,,1
+21174857,Naltrexone 5 MG/ML,Drug,RxNorm Extension,Clinical Drug Comp,S,OMOP280352,2017-08-24,2099-12-31,,1
+36470358,naltrexone hydrochloride and bupropion hydorchloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [naltrexone hydrochloride and bupropion hydrochloride extended-release],Drug,SPL,Prescription Drug,C,4f69a194-fc16-b659-80b8-45e39f872c7c,2014-10-22,2099-12-31,,1
+42708191,0.4 ML methylnaltrexone bromide 20 MG/ML Prefilled Syringe [Relistor],Drug,RxNorm,Quant Branded Drug,S,1244064,2012-05-07,2099-12-31,,1
+21217308,Naltrexone 1.5mg capsules,Drug,dm+d,VMP,,14796911000001107,1970-01-01,2099-12-31,,1
+43352328,Methylnaltrexone Bromide,Drug,AMT,AU Substance,,79326011000036108,2016-11-01,2099-12-31,,1
+1357760,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,500904925,2012-01-18,2099-12-31,,1
+45409060,morphine-naltrexone 60 mg-2.4 mg oral capsule. extended release,Drug,Multum,Multum,,25563,2010-11-01,2099-12-31,,1
+40134091,Naltrexone Injectable Suspension [Vivitrol],Drug,RxNorm,Branded Drug Form,,637215,2006-07-09,2016-05-01,D,1
+21037371,Naltrexone 1 MG Oral Capsule Box of 1 by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280351,2017-08-24,2023-08-02,U,1
+36925711,naltrexone 3 MG Oral Capsule Box of 1 by Drug Tariff Special Order,Drug,RxNorm Extension,Marketed Product,S,OMOP5199516,2023-05-22,2099-12-31,,1
+44630886,NALTREXONE HYDROCHLORIDE 50 MG [APO-NALTREXONE],Drug,DPD,Branded Drug Comp,,OMOP155471,1970-01-01,2017-06-24,D,1
+36180842,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,70518131200,2018-08-01,2021-05-01,D,1
+42644668,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335148001,2020-04-01,2099-12-31,,1
+36212591,naltrexone Injectable Product,Drug,RxNorm,Clinical Dose Group,C,1156981,2016-08-01,2099-12-31,,1
+37507639,naltrexone KIT [vivitrol],Drug,SPL,Prescription Drug,C,abdd4f9e-bbc7-4426-9849-8dd1dd44b00c,2006-06-13,2099-12-31,,1
+37603207,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,c82a0ed4-3236-4166-90a8-f5e43e6dd883,2013-09-23,2099-12-31,,1
+4203537,Methylnaltrexone bromide,Drug,SNOMED,Substance,,433519000,2008-07-31,2099-12-31,,1
+4226968,Naltrexone-containing product,Drug,SNOMED,Pharma/Biol Product,,87617007,2002-01-31,2099-12-31,,1
+43199269,Naltrexone 50 MG Delayed Release Oral Tablet [ReVia],Drug,RxNorm Extension,Branded Drug,S,OMOP459258,2017-08-24,2099-12-31,,1
+580662,NALTREXONE HCL/BUPROPION HCL 8 mg-90 mg ORAL TABLET. EXTENDED RELEASE,Drug,GCN_SEQNO,GCN_SEQNO,,072802,2015-11-19,2099-12-31,,1
+21145358,Naltrexone 2 MG Oral Capsule by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280269,2017-08-24,2023-08-02,U,1
+44865131,Naltrexone hydrochloride 50 MG Oral Tablet [ReVia],Drug,NDC,11-digit NDC,,51285027501,2014-01-01,2017-09-01,D,1
+21135478,Naltrexone 50 MG Oral Tablet by Sigma-Tau,Drug,RxNorm Extension,Marketed Product,S,OMOP280281,2017-08-24,2099-12-31,,1
+21135481,Naltrexone 3.6 MG Oral Capsule Box of 1,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP280342,2017-08-24,2099-12-31,,1
+21066850,Naltrexone 1 MG Oral Capsule,Drug,RxNorm Extension,Clinical Drug,S,OMOP280345,2017-08-24,2099-12-31,,1
+40220709,methylnaltrexone bromide 150 MG [Relistor],Drug,RxNorm,Branded Drug Comp,S,1801515,2016-10-03,2099-12-31,,1
+21313517,Naltrexone 4.5mg capsules,Drug,dm+d,AMP,,8822411000001106,1970-01-01,2099-12-31,,1
+42949472,Naltrexone 25 MG Oral Tablet [I-REXONE],Drug,RxNorm Extension,Branded Drug,S,OMOP4676056,2018-08-21,2099-12-31,,1
+37285832,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,009047036,2012-02-29,2099-12-31,,1
+45109886,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,68084029121,2014-01-01,2099-12-31,,1
+40977882,Naltrexone 50 MG Oral Tablet [Nalorex] Box of 28 by Aca Mueller,Drug,RxNorm Extension,Marketed Product,S,OMOP2175844,2017-08-24,2099-12-31,,1
+2918167,naltrexone 50 MG Oral Tablet by APO,Drug,RxNorm Extension,Marketed Product,S,OMOP5134992,2021-06-30,2099-12-31,,1
+21314180,Naltrexone 1mg/5ml oral solution,Drug,dm+d,AMP,,12254411000001103,1970-01-01,2099-12-31,,1
+40692865,Naltrexone 2.5mg capsules,Drug,dm+d,VMP,,32878511000001102,1970-01-01,2099-12-31,,1
+36394603,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,9034ebf9-19f7-4347-ac5c-27d0952c689b,2014-10-22,2099-12-31,,1
+3159480,Methylnaltrexone 12mg injection solution 0.6mL vial,Drug,Nebraska Lexicon,Pharma/Biol Product,,433520006,2008-07-30,2008-07-31,U,1
+3159715,Morphine sulphate 30mg + naltrexone hydrochloride 1.2mg m/r capsule,Drug,Nebraska Lexicon,Pharma/Biol Product,,444484006,2017-07-30,2017-07-31,U,1
+36844579,METHYLNALTREXONE,Drug,OMOP Invest Drug,Ingredient,,0RK7M7IABE,1970-01-01,2099-12-31,,1
+35623787,Naltrexone microspheres 380mg powder for conventional release solution for injection vial,Drug,SNOMED,Pharma/Biol Product,,766211008,2018-07-31,2019-07-31,D,1
+41123811,Naltrexone 50 MG Oral Tablet [Nrexon Hcl] Box of 28,Drug,RxNorm Extension,Branded Drug Box,,OMOP2321773,2017-07-30,2023-08-02,U,1
+1561600,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,8384b028-7ae8-2a7b-e053-2a91aa0a342c,2014-10-22,2099-12-31,,1
+40216630,NALTREXONE/OXYMORPHONE,Drug,NDFRT,Drug Interaction,,N0000177999,1970-01-01,2014-11-30,D,1
+40220705,methylnaltrexone Oral Product,Drug,RxNorm,Clinical Dose Group,C,1801511,2016-10-03,2099-12-31,,1
+1599969,NALTREXONE HYDROCHLORIDE,Drug,VANDF,Drug Product,,4018545,1970-01-01,2099-12-31,,1
+21280718,Methylnaltrexone bromide 12mg/0.6ml solution for injection vials 1 vial,Drug,dm+d,VMPP,,13799311000001101,2018-10-29,2099-12-31,,1
+21315059,Naltrexone 5mg/5ml oral suspension,Drug,dm+d,AMP,,16106711000001109,1970-01-01,2099-12-31,,1
+36340784,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,98bc3962-2a5f-4014-abf8-22e415bbcb21,2013-09-23,2099-12-31,,1
+1356813,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,2d672855-bb13-4efc-9c00-869fee3fc411,2012-01-18,2099-12-31,,1
+45665799,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,55b291e3-8601-4b6b-8aad-94bb16dc6cec,1998-05-08,2099-12-31,,1
+21135477,Naltrexone 50 MG [Adepend],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP280276,2017-08-24,2099-12-31,,1
+40890934,Naltrexone 50 MG [Nrexon Hcl Kp],Drug,RxNorm Extension,Branded Drug Comp,,OMOP2088896,2017-07-30,2017-08-23,U,1
+45385091,Morphine-Naltrexone 100-4 MG Oral Capsule Extended Release,Drug,GPI,GPI,,65100055700270,1970-01-01,2099-12-31,,1
+45114750,Naltrexone Hydrochloride 50 mg/1 TABLET. FILM COATED [Naltrexone Hydrochloride],Drug,NDC,9-digit NDC,,016729081,2013-08-05,2099-12-31,,1
+41302868,Naltrexone 50 MG Delayed Release Oral Tablet Box of 50,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP2500830,2017-08-24,2099-12-31,,1
+45774492,bupropion hydrochloride 90 MG / naltrexone hydrochloride 8 MG Extended Release Oral Tablet [Contrave],Drug,RxNorm,Branded Drug,S,1551476,2014-12-01,2099-12-31,,1
+42375165,naltrexone hydrochloride 50mg,Drug,EDI,Drug Product,,642400060,1970-01-01,2099-12-31,,1
+42828404,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,68788708409,2018-03-01,2020-06-01,D,1
+21037362,Naltrexone 0.2 MG/ML,Drug,RxNorm Extension,Clinical Drug Comp,S,OMOP280265,2017-08-24,2099-12-31,,1
+21096271,Naltrexone 1.5 MG Oral Capsule Box of 1,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP280338,2017-08-24,2099-12-31,,1
+21198426,Naltrexone 1.5mg/5ml oral solution,Drug,dm+d,VMP,,20091411000001105,1970-01-01,2099-12-31,,1
+21251860,Naltrexone 50mg tablets (AOP Orphan Ltd) 28 tablet 4 x 7 tablets,Drug,dm+d,AMPP,,31240811000001105,1970-01-01,2099-12-31,,1
+1601277,NALTREXONE,Drug,VANDF,Drug Product,,4019853,1970-01-01,2099-12-31,,1
+35759029,Naltrexone 50 MG Delayed Release Oral Tablet [Adepend] by Orphan,Drug,RxNorm Extension,Marketed Product,S,OMOP2760490,2017-08-24,2099-12-31,,1
+44784869,naltrexone hydrochloride 100 MG,Drug,RxNorm,Clinical Drug Comp,S,1483773,2014-01-06,2099-12-31,,1
+4227644,Naltrexone-containing product in oral dose form,Drug,SNOMED,Clinical Drug Form,,422131008,2006-07-31,2099-12-31,,1
+1780425,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,50090307600,2021-10-01,2099-12-31,,1
+41018704,Naltrexone Delayed Release Oral Tablet [Nrexon Hcl Neuraxpharm],Drug,RxNorm Extension,Branded Drug Form,,OMOP2216666,2017-07-30,2023-08-02,U,1
+21037369,Naltrexone 0.6 MG/ML Oral Solution by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280330,2017-08-24,2023-08-02,U,1
+37296857,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,ef55411d-26c2-4d47-88b0-8a05b901c885,2013-09-23,2099-12-31,,1
+2718504,Injection. naltrexone. depot form. 1 mg,Drug,HCPCS,HCPCS,,J2315,2007-01-01,2099-12-31,,1
+35759031,Naltrexone 50 MG Delayed Release Oral Tablet Box of 28 by Sigma-Tau,Drug,RxNorm Extension,Marketed Product,S,OMOP2760492,2017-08-24,2099-12-31,,1
+21096268,Naltrexone 0.4 MG/ML,Drug,RxNorm Extension,Clinical Drug Comp,S,OMOP280314,2017-08-24,2099-12-31,,1
+36062084,naltrexone 4.5 MG Oral Capsule,Drug,RxNorm Extension,Clinical Drug,S,OMOP4988069,2020-08-17,2099-12-31,,1
+45809993,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,167290081,2012-01-18,2099-12-31,,1
+40692867,Naltrexone 25mg/5ml oral solution (Special Order) 1 ml,Drug,dm+d,AMPP,,35546511000001103,1970-01-01,2099-12-31,,1
+37128505,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,72162156601,2024-01-01,2099-12-31,,1
+37593737,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution [Relistor] by Gerke,Drug,RxNorm Extension,Marketed Product,S,OMOP4783170,2019-01-17,2099-12-31,,1
+36810455,Bupropion 90 MG / Naltrexone 8 MG Extended Release Oral Tablet [Mysimba] Box of 112 by Orexigen Therapeutics Ireland,Drug,RxNorm Extension,Marketed Product,S,OMOP4824490,2019-01-28,2099-12-31,,1
+36237171,Depade Pill,Drug,RxNorm,Branded Dose Group,C,1173094,2016-08-01,2099-12-31,,1
+45025565,Methylnaltrexone bromide 20 MG/ML Injectable Solution [Relistor],Drug,NDC,11-digit NDC,,00008121801,2010-06-01,2014-02-01,D,1
+1609215,BUPROPION 90MG/NALTREXONE HCL 8MG TAB,Drug,VANDF,Drug Product,,4033705,2015-11-23,2015-11-23,D,1
+35525245,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335001405,2018-11-01,2099-12-31,,1
+45385090,Morphine-Naltrexone 20-0.8 MG Oral Capsule Extended Release,Drug,GPI,GPI,,65100055700220,1970-01-01,2099-12-31,,1
+21037367,Naltrexone 0.4 MG/ML Oral Solution,Drug,RxNorm Extension,Clinical Drug,S,OMOP280315,2017-08-24,2099-12-31,,1
+21126678,1 ML Naltrexone 0.4 MG/ML Oral Solution,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP301946,2017-08-24,2099-12-31,,1
+44784882,naltrexone hydrochloride 50 MG [ReVia],Drug,RxNorm,Branded Drug Comp,S,1483745,2014-01-06,2099-12-31,,1
+19034322,Naltrexone 50 MG Oral Tablet [ReVia],Drug,RxNorm,Branded Drug,,207028,1970-01-01,2014-01-05,U,1
+4221359,Naltrexone microspheres 380mg powder for injection solution vial + diluent,Drug,SNOMED,Pharma/Biol Product,,420553009,2006-07-31,2018-07-31,D,1
+44894063,naltrexone hydrochloride 50 mg/1 TABLET. FILM COATED [REVIA],Drug,NDC,9-digit NDC,,051285275,2013-08-05,2099-12-31,,1
+44427085,12 HR bupropion hydrochloride 90 MG / naltrexone hydrochloride 8 MG Extended Release Oral Tablet [Contrave],Drug,NDC,11-digit NDC,,43063077270,2017-07-01,2099-12-31,,1
+1779744,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,500903076,2013-09-23,2099-12-31,,1
+36930286,naltrexone 50 MG Oral Tablet Box of 28 by Aop Orphanc,Drug,RxNorm Extension,Marketed Product,S,OMOP5199525,2023-05-22,2099-12-31,,1
+21107213,1 ML Naltrexone 0.4 MG/ML Oral Solution by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP301947,2017-08-24,2023-08-02,U,1
+21321968,Naltrexone 25mg/5ml oral suspension (Special Order) 1 ml,Drug,dm+d,AMPP,,8638411000001100,1970-01-01,2099-12-31,,1
+36158680,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,13359275-0a7f-48c8-b14a-588d7c0b5f84,2020-01-18,2099-12-31,,1
+21155298,Naltrexone 2 MG Oral Capsule Box of 1 by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280271,2017-08-24,2023-08-02,U,1
+44140701,Methylnaltrexone Bromide,Drug,DPD,Ingredient,,DPD135280,1970-01-01,2099-12-31,,1
+36296587,methylnaltrexone,Drug,GGR,Ingredient,,stof01159,2017-12-26,2018-08-31,D,1
+35771695,Naltrexone 50 MG Delayed Release Oral Tablet Box of 28 by Orphan,Drug,RxNorm Extension,Marketed Product,S,OMOP2773156,2017-08-24,2099-12-31,,1
+21027602,Naltrexone Oral Tablet [Opizone],Drug,RxNorm Extension,Branded Drug Form,S,OMOP280262,2017-08-24,2099-12-31,,1
+43239899,Naltrexone Hydrochloride,Drug,BDPM,Ingredient,,11396,1970-01-01,2099-12-31,,1
+35626588,Methylnaltrexone bromide 12 mg/0.6 mL solution for injection vial,Drug,SNOMED,Clinical Drug,,769905001,2018-07-31,2019-01-31,D,1
+36699400,naltrexone KIT [vivitrol],Drug,SPL,Prescription Drug,C,59a00772-5f8d-4f18-af69-181944e538e4,2006-06-13,2099-12-31,,1
+45334930,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00406117003,2014-01-01,2099-12-31,,1
+44784870,naltrexone hydrochloride 100 MG Oral Tablet,Drug,RxNorm,Clinical Drug,S,1483774,2014-01-06,2099-12-31,,1
+21228888,Naltrexone 12.5mg/5ml oral suspension (Special Order) 1 ml,Drug,dm+d,AMPP,,8637411000001104,1970-01-01,2099-12-31,,1
+3974555,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,63bb7456-753b-4a97-a379-42919f221323,2013-09-23,2099-12-31,,1
+44432546,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,53217026130,2017-03-01,2020-11-01,D,1
+42949478,Naltrexone 25 MG [TRAXONE],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP4676062,2018-08-21,2099-12-31,,1
+3207439,Product containing precisely naltrexone hydrochloride 25 milligram/1 each conventional release oral tablet,Drug,Nebraska Lexicon,Pharma/Biol Product,,409460004,2018-07-31,2099-12-31,,1
+45079042,Naltrexone 50 MG Oral Tablet [Depade],Drug,NDC,11-digit NDC,,00406009205,2007-06-01,2012-12-01,D,1
+1606319,METHYLNALTREXONE,Drug,VANDF,Drug Product,,4027431,1970-01-01,2099-12-31,,1
+21279724,Naltrexone 50mg tablets,Drug,dm+d,AMP,,30981511000001103,1970-01-01,2099-12-31,,1
+36237170,Depade Oral Product,Drug,RxNorm,Branded Dose Group,C,1173093,2016-08-01,2099-12-31,,1
+44852381,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,61392046631,2007-06-01,2012-06-01,D,1
+35525244,Naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,63629530405,2018-11-01,2018-12-01,D,1
+43695220,Naltrexone 50 MG Oral Tablet [Nemexin],Drug,RxNorm Extension,Branded Drug,S,OMOP675750,2017-08-24,2099-12-31,,1
+41410305,0.6 ML methylnaltrexone 20 MG/ML Injection [Relistor] Box of 7 by TMC,Drug,RxNorm Extension,Marketed Product,S,OMOP2608267,2017-08-24,2099-12-31,,1
+21077792,1 ML Naltrexone 1 MG/ML Oral Suspension by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP301945,2017-08-24,2023-08-02,U,1
+45397318,Methylnaltrexone Bromide 12 MG/0.6ML Subcutaneous Solution,Drug,GPI,GPI,,52580050102020,1970-01-01,2099-12-31,,1
+45386174,Naltrexone 380 MG Intramuscular Suspension Reconstituted,Drug,GPI,GPI,,93400030001920,1970-01-01,2099-12-31,,1
+43237602,NALTREXONE ACCORD 50 mg. comprimé pelliculé sécable,Drug,BDPM,Drug Product,,3886197,2010-07-22,2099-12-31,,1
+40843497,methylnaltrexone 20 MG/ML Injection [Relistor] Box of 7,Drug,RxNorm Extension,Branded Drug Box,S,OMOP2041459,2017-08-24,2099-12-31,,1
+1375744,naltrexone KIT [vivitrol],Drug,SPL,Prescription Drug,C,7e88c2c9-c3a9-4d25-b780-2b8aa1c66a00,2006-06-13,2099-12-31,,1
+45703163,NALTREXONE HYDROCHLORIDE 50 mg ORAL TABLET. FILM COATED [REVIA],Drug,SPL,SPL,,0d929bf5-2eaa-4679-8334-1ac159b2b55c,1970-01-01,2099-12-31,,1
+44784877,naltrexone hydrochloride 50 MG,Drug,RxNorm,Clinical Drug Comp,S,1483743,2014-01-06,2099-12-31,,1
+19071208,Naltrexone 50 MG [Depade],Drug,RxNorm,Branded Drug Comp,,542213,2005-09-11,2014-01-05,U,1
+42644673,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335148006,2020-04-01,2099-12-31,,1
+36679336,Methylnaltrexone only product,Drug,SNOMED,Pharma/Biol Product,,776751006,2019-01-31,2099-12-31,,1
+36682292,Methylnaltrexone only product in parenteral dose form,Drug,SNOMED,Clinical Drug Form,,779861007,2019-01-31,2099-12-31,,1
+3205002,Naltrexone product,Drug,Nebraska Lexicon,Pharma/Biol Product,,87617007,2018-07-31,2099-12-31,,1
+44886619,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,61392046660,2007-06-01,2012-06-01,D,1
+40747735,Bupropion 90 MG / Naltrexone 8 MG Extended Release Oral Tablet [Mysimba],Drug,RxNorm Extension,Branded Drug,S,OMOP4709553,2018-06-04,2099-12-31,,1
+40747732,Bupropion 90 MG / Naltrexone 8 MG Extended Release Oral Tablet [Mysimba] Box of 112 by Consilient,Drug,RxNorm Extension,Marketed Product,S,OMOP4709556,2018-06-04,2099-12-31,,1
+4334715,METHYLNALTREXONE BROMIDE,Drug,NDFRT,Pharma Preparation,,N0000176155,1970-01-01,2099-12-31,,1
+37131580,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,72162215403,2024-01-01,2099-12-31,,1
+42706012,methylnaltrexone Prefilled Syringe,Drug,RxNorm,Clinical Drug Form,S,1244059,2012-05-07,2099-12-31,,1
+19113913,Naltrexone 100 MG [Depade],Drug,RxNorm,Branded Drug Comp,,542208,2005-09-11,2014-01-05,U,1
+21187176,Naltrexone 1.5mg/5ml oral solution 1 ml,Drug,dm+d,VMPP,,20091511000001109,1970-01-01,2099-12-31,,1
+45796126,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,ae6aabf2-9619-4672-a2fb-a83d140efc39,1998-05-08,2099-12-31,,1
+21066847,Naltrexone 50 MG Oral Tablet Box of 28,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP280286,2017-08-24,2099-12-31,,1
+21076749,Naltrexone 1.5 MG,Drug,RxNorm Extension,Clinical Drug Comp,S,OMOP280334,2017-08-24,2099-12-31,,1
+21106133,Naltrexone 1 MG,Drug,RxNorm Extension,Clinical Drug Comp,S,OMOP280344,2017-08-24,2099-12-31,,1
+45052916,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,52372075101,2013-08-05,2099-12-31,,1
+37488259,Methylnaltrexone,Drug,CTD,Ingredient,,83387-25-1,1970-01-01,2099-12-31,,1
+36169309,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,74a8c611-57f6-956a-e053-2991aa0aedcb,2014-10-22,2099-12-31,,1
+36170892,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,8759be8d-6965-4735-9a8d-be4a481f11f1,2014-10-22,2099-12-31,,1
+37301094,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,e7b40490-1415-4600-8079-4157507daae4,2014-10-22,2099-12-31,,1
+21200025,Methylnaltrexone bromide 12mg/0.6ml solution for injection vials,Drug,dm+d,VMP,,13802011000001106,1970-01-01,2018-06-03,D,1
+21184358,Naltrexone 3.5mg capsules,Drug,dm+d,AMP,,15126111000001101,1970-01-01,2099-12-31,,1
+36832936,NALTREXONE HYDROCHLORIDE,Drug,OMOP Invest Drug,Precise Ingredient,,Z6375YW9SF,1970-01-01,2099-12-31,,1
+45227412,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,61392046665,2007-06-01,2012-06-01,D,1
+36927682,naltrexone 50 MG Oral Tablet Box of 28 by Medihealth,Drug,RxNorm Extension,Marketed Product,S,OMOP5199526,2023-05-22,2099-12-31,,1
+43677405,Naltrexone 50 MG Oral Tablet [Naltrexon-Hcl Neuraxpharm],Drug,RxNorm Extension,Branded Drug,S,OMOP675748,2017-08-24,2099-12-31,,1
+41092587,Naltrexone 50 MG Delayed Release Oral Tablet [Nemexin] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP2290549,2017-08-24,2099-12-31,,1
+41116106,methylnaltrexone 20 MG/ML Injectable Solution Box of 7,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP2314068,2017-08-24,2099-12-31,,1
+43343121,Naltrexone,Drug,AMT,AU Substance,,2753011000036102,2016-11-01,2099-12-31,,1
+1714319,naltrexone,Drug,RxNorm,Ingredient,S,7243,1970-01-01,2099-12-31,,1
+36154386,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,7e126353-8d94-4163-b7f5-dc7c47e685b2,2024-02-14,2099-12-31,,1
+40220706,methylnaltrexone Pill,Drug,RxNorm,Clinical Dose Group,C,1801512,2016-10-03,2099-12-31,,1
+21242592,Naltrexone 50mg tablets,Drug,dm+d,AMP,,32402411000001102,1970-01-01,2099-12-31,,1
+35746524,Naltrexone 50 MG Delayed Release Oral Tablet [Nalorex] by Sigma-Tau,Drug,RxNorm Extension,Marketed Product,S,OMOP2747985,2017-08-24,2099-12-31,,1
+35750698,Naltrexone 1 MG/ML Oral Solution by Drug Tariff Special Order,Drug,RxNorm Extension,Marketed Product,S,OMOP2752159,2017-08-24,2099-12-31,,1
+21047255,Naltrexone 50 MG Oral Tablet Box of 28 by Waymade,Drug,RxNorm Extension,Marketed Product,S,OMOP280291,2017-08-24,2099-12-31,,1
+44781596,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335001406,2019-01-01,2099-12-31,,1
+36509329,Naltrexone 50 MG Oral Tablet [Adepend] by Amomed,Drug,RxNorm Extension,Marketed Product,S,OMOP4835390,2019-09-04,2099-12-31,,1
+44056876,Naltrexone Oral Tablet [Apo-Naltrexone],Drug,RxNorm Extension,Branded Drug Form,S,OMOP1051507,2017-08-24,2099-12-31,,1
+21115916,Naltrexone 4.8 MG Oral Capsule,Drug,RxNorm Extension,Clinical Drug,S,OMOP280319,2017-08-24,2099-12-31,,1
+40956466,Naltrexone Oral Tablet [Nrexon Hcl Kp],Drug,RxNorm Extension,Branded Drug Form,,OMOP2154428,2017-07-30,2017-08-23,U,1
+35530614,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,636291047,2013-09-23,2099-12-31,,1
+42814098,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,63ef0555-9bcf-4d21-e053-2991aa0aa9f9,2015-03-26,2099-12-31,,1
+42886369,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,7832fc22-bc68-4514-bfce-a6c796d7f3a3,2009-07-29,2099-12-31,,1
+44036807,Naltrexone 50 MG Oral Tablet [ReVia] by TEVA,Drug,RxNorm Extension,Marketed Product,S,OMOP1031438,2017-08-24,2099-12-31,,1
+40719701,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution [Relistor] Box of 1 by Biovitrum,Drug,RxNorm Extension,Marketed Product,S,OMOP4737999,2018-06-04,2099-12-31,,1
+37592905,Naltrexone 50 MG Oral Tablet [Nalorex] by BR,Drug,RxNorm Extension,Marketed Product,S,OMOP4782346,2019-01-17,2099-12-31,,1
+43155283,Naltrexone 50 MG [NALTREXONE MYLAN],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP459137,2017-08-24,2099-12-31,,1
+4319201,NALTREXONE 380MG/VIL INJ.SUSP.SA,Drug,VANDF,Drug Product,,4025730,2015-07-10,2015-07-10,D,1
+4162426,Naltrexone,Drug,SNOMED,Substance,,373546002,2002-07-31,2099-12-31,,1
+3194743,Naltrexone hydrochloride,Drug,Nebraska Lexicon,Substance,,64191009,2002-01-31,2099-12-31,,1
+36062086,naltrexone 3 MG Oral Capsule Box of 1,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP4988071,2020-08-17,2099-12-31,,1
+37129593,methylnaltrexone bromide 150mg/1 / 8mg/.4mL / 12mg/.6mL ORAL. SUBCUTANEOUS INJECTION. SOLUTION. TABLET [relistor],Drug,SPL,Prescription Drug,C,0c52697c-202f-6baa-e063-6294a90a2591,2008-04-24,2099-12-31,,1
+45616152,methylnaltrexone,Drug,MeSH,Suppl Concept,,C032257,1970-01-01,2099-12-31,,1
+36185426,ADDEX-1000 - naltrexone pellet. implantable,Drug,NDC,11-digit NDC,,57377001000,2018-05-16,2099-12-31,,1
+21135480,Naltrexone 3.2 MG Oral Capsule Box of 1,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP280325,2017-08-24,2099-12-31,,1
+41197065,Naltrexone 50 MG Oral Tablet [Nalorex] Box of 28 by Eurim-Pharm,Drug,RxNorm Extension,Marketed Product,S,OMOP2395027,2017-08-24,2099-12-31,,1
+45700913,naltrexone KIT [vivitrol],Drug,SPL,Prescription Drug,C,a74b26b1-e75c-4aea-a7e1-c5091c2771ba,2006-06-13,2099-12-31,,1
+44784871,naltrexone hydrochloride 100 MG Oral Tablet [Depade],Drug,RxNorm,Branded Drug,S,1483776,2014-01-06,2099-12-31,,1
+44784873,naltrexone hydrochloride 25 MG,Drug,RxNorm,Clinical Drug Comp,S,1483779,2014-01-06,2099-12-31,,1
+40747731,Bupropion 90 MG / Naltrexone 8 MG Extended Release Oral Tablet Box of 112,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP4709557,2018-06-04,2099-12-31,,1
+589953,0.6 ML methylnaltrexone 20 MG/ML Injection Box of 1,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP3138143,2018-08-02,2099-12-31,,1
+45832478,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,521250727,2013-10-07,2099-12-31,,1
+37513871,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,70518271800,2020-06-01,2022-01-01,D,1
+45182084,Naltrexone 100 MG Oral Tablet,Drug,NDC,11-digit NDC,,00756030601,2007-06-01,2012-06-01,D,1
+35771694,Naltrexone 50 MG Delayed Release Oral Tablet [Nalorex] Box of 28 by Sigma-Tau,Drug,RxNorm Extension,Marketed Product,S,OMOP2773155,2017-08-24,2099-12-31,,1
+35776576,1 ML Naltrexone 1 MG/ML Oral Suspension by Drug Tariff Special Order,Drug,RxNorm Extension,Marketed Product,S,OMOP2778037,2017-08-24,2099-12-31,,1
+43749000,Naltrexone 50 MG [Naltrexon-Hcl Neuraxpharm],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP675744,2017-08-24,2099-12-31,,1
+3210400,Product containing precisely naltrexone hydrochloride 50 milligram/1 each conventional release oral tablet,Drug,Nebraska Lexicon,Pharma/Biol Product,,323281004,2018-07-31,2099-12-31,,1
+36472628,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,5f256d4f-450a-87c7-e053-2a91aa0a79ef,2017-10-17,2099-12-31,,1
+36037162,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution [Relistor] Box of 7 by Eurim-Pharm,Drug,RxNorm Extension,Marketed Product,S,OMOP5047159,2021-06-17,2099-12-31,,1
+44062965,Naltrexone 50 MG Oral Tablet [ReVia] by Dupont,Drug,RxNorm Extension,Marketed Product,S,OMOP1057596,2017-08-24,2099-12-31,,1
+1714351,naltrexone 380 MG Injection,Drug,RxNorm,Clinical Drug,S,637213,2006-07-09,2099-12-31,,1
+21177277,100 ML Naltrexone 1 MG/ML Oral Solution by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP324556,2017-08-24,2023-08-02,U,1
+40220710,methylnaltrexone Oral Tablet [Relistor],Drug,RxNorm,Branded Drug Form,S,1801516,2016-10-03,2099-12-31,,1
+36959108,Naltrexone 3mg capsules 30 capsule,Drug,dm+d,VMPP,,40537111000001103,1970-01-01,2099-12-31,,1
+43144129,Naltrexone 50 MG Delayed Release Oral Tablet [NALTREXONE INTAS] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP459212,2017-08-24,2099-12-31,,1
+36300532,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,026d4218-73a0-a907-e063-6394a90af2b5,2012-12-06,2099-12-31,,1
+21037363,Naltrexone 2 MG Oral Capsule,Drug,RxNorm Extension,Clinical Drug,S,OMOP280268,2017-08-24,2099-12-31,,1
+21066846,Naltrexone 50 MG Oral Tablet by Waymade,Drug,RxNorm Extension,Marketed Product,S,OMOP280284,2017-08-24,2099-12-31,,1
+36800941,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,d3bdd90b-11c0-7598-e053-2995a90a6628,2017-07-21,2099-12-31,,1
+21076750,Naltrexone 3.6 MG Oral Capsule Box of 1 by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280343,2017-08-24,2023-08-02,U,1
+42881054,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,03019873-ea2b-4b8b-8b9d-47777f800322,2013-09-23,2099-12-31,,1
+630666,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,50090492600,2022-12-01,2022-12-01,D,1
+46275651,methylnaltrexone bromide 20 MG/ML Injection,Drug,RxNorm,Clinical Drug,S,1659743,2015-09-08,2099-12-31,,1
+19022296,Naltrexone 50 MG [ReVia],Drug,RxNorm,Branded Drug Comp,,567824,2005-09-11,2014-01-05,U,1
+21277720,Naltrexone 2mg capsules,Drug,dm+d,AMP,,16106111000001108,1970-01-01,2099-12-31,,1
+35530333,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,a6d2d9aa-5aed-4925-9b99-149b96123049,2013-09-23,2099-12-31,,1
+40216633,NALTREXONE/SUFENTANIL,Drug,NDFRT,Drug Interaction,,N0000178002,1970-01-01,2014-11-30,D,1
+45017108,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,47335032618,2014-01-01,2099-12-31,,1
+40063518,naltrexone Oral Tablet [ReVia],Drug,RxNorm,Branded Drug Form,S,368791,1970-01-01,2099-12-31,,1
+41410643,0.6 ML methylnaltrexone 20 MG/ML Injection [Relistor] Box of 1 by Cc,Drug,RxNorm Extension,Marketed Product,S,OMOP2608605,2017-08-24,2099-12-31,,1
+41410707,0.6 ML methylnaltrexone 20 MG/ML Injection [Relistor] Box of 1 by Pfizer,Drug,RxNorm Extension,Marketed Product,S,OMOP2608669,2017-08-24,2099-12-31,,1
+44904330,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,63370015835,2013-08-05,2099-12-31,,1
+45228704,0.6 ML methylnaltrexone bromide 20 MG/ML Prefilled Syringe [Relistor],Drug,NDC,11-digit NDC,,65649055107,2013-06-01,2099-12-31,,1
+45412762,morphine-naltrexone 100 mg-4 mg oral capsule. extended release,Drug,Multum,Multum,,25565,2010-11-01,2099-12-31,,1
+43177277,Naltrexone Delayed Release Oral Tablet [ReVia],Drug,RxNorm Extension,Branded Drug Form,S,OMOP459102,2017-08-24,2099-12-31,,1
+45164650,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00555090210,2007-06-01,2013-10-01,D,1
+36031107,morphine / naltrexone,Drug,RxNorm,Multiple Ingredients,,866331,2010-08-30,2099-12-31,,1
+44068781,methylnaltrexone Injectable Solution,Drug,RxNorm Extension,Clinical Drug Form,S,OMOP1063412,2017-08-24,2099-12-31,,1
+44101554,Naltrexone 50 MG Oral Tablet [Apo-Naltrexone] by Apotex,Drug,RxNorm Extension,Marketed Product,S,OMOP1096185,2017-08-24,2099-12-31,,1
+2973081,Naltrexone Hydrochloride 8 Mg + Bupropion Hydrochloride 90 Mg Modified Release Tablet. 112,Drug,AMT,Med Product Pack,,1256801000168103,2016-11-01,2099-12-31,,1
+43767005,Naltrexone 50 MG Oral Tablet [Adepend] by Orpha Devel,Drug,RxNorm Extension,Marketed Product,S,OMOP675752,2017-08-24,2099-12-31,,1
+44360456,CONTRAVE EXTENDED-RELEASE - naltrexone hydrochloride and bupropion hydrochloride tablet. extended release,Drug,SPL,Prescription Drug,C,485ff360-32c8-11df-928b-0002a5d5c51b,2023-11-30,2099-12-31,,1
+41410875,0.6 ML methylnaltrexone 20 MG/ML Injection [Relistor] Box of 7 by Sobi,Drug,RxNorm Extension,Marketed Product,S,OMOP2608837,2017-08-24,2099-12-31,,1
+45244999,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,63370015810,2013-08-05,2099-12-31,,1
+45873589,Naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,63629530401,2014-07-01,2018-12-01,D,1
+3208713,Product containing precisely methylnaltrexone bromide 12 milligram/0.6 milliliter conventional release solution for injection vial,Drug,Nebraska Lexicon,Clinical Drug,,769905001,2018-07-31,2099-12-31,,1
+44784879,naltrexone hydrochloride 50 MG Oral Tablet [Depade],Drug,RxNorm,Branded Drug,S,1483767,2014-01-06,2099-12-31,,1
+35510725,methylnaltrexone bromide 150mg/1 / 8mg/.4mL / 12mg/.6mL ORAL. SUBCUTANEOUS INJECTION. SOLUTION. TABLET [relistor],Drug,SPL,Prescription Drug,C,4469941e-ca07-42ac-89c6-7e1d02befd81,2008-04-24,2099-12-31,,1
+45618014,Naltrexone,Drug,MeSH,Main Heading,,D009271,1970-01-01,2099-12-31,,1
+41248688,Naltrexone 50 MG Oral Tablet [Nrexon Hcl Neuraxpharm] Box of 28,Drug,RxNorm Extension,Branded Drug Box,,OMOP2446650,2017-07-30,2023-08-02,U,1
+37139270,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,500906820,2002-03-22,2099-12-31,,1
+43245320,NALTREXONE ACCORD 50 mg. comprimé pelliculé sécable,Drug,BDPM,Drug Product,,3885832,2010-07-22,2099-12-31,,1
+36285929,Naltrexone Accord,Drug,GGR,Medicinal Product,,mp18291-67,2019-12-28,2020-03-31,D,1
+36643686,Naltrexone Hcl 50 Mg [Nuoxinsheng],Drug,NCCD,Drug Product,,145162,2020-10-02,2099-12-31,,1
+45641418,methylnaltrexone bromide 8mg/.4mL / 12mg/.6mL SUBCUTANEOUS INJECTION. SOLUTION. KIT [relistor],Drug,SPL,Prescription Drug,C,efdd5e38-d2d1-4105-9ea0-49a3c0ec2d67,2008-08-01,2099-12-31,,1
+42375171,naltrexone hydrochloride 25mg,Drug,EDI,Drug Product,,652604250,1970-01-01,2099-12-31,,1
+21037370,Naltrexone 3.6 MG Oral Capsule,Drug,RxNorm Extension,Clinical Drug,S,OMOP280340,2017-08-24,2099-12-31,,1
+42683880,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution [Relistor] by Bausch & Lomb,Drug,RxNorm Extension,Marketed Product,S,OMOP4912659,2020-03-01,2099-12-31,,1
+21224025,Naltrexone 50mg tablets,Drug,dm+d,AMP,,31240611000001106,1970-01-01,2099-12-31,,1
+3159718,Morphine sulphate 80mg + naltrexone hydrochloride 3.2mg m/r capsule,Drug,Nebraska Lexicon,Pharma/Biol Product,,444506008,2017-07-30,2017-07-31,U,1
+43365743,Naltrexone Hydrochloride (Generic Health) 50 Mg Tablet. 30,Drug,AMT,Trade Product Pack,,921393011000036107,2016-11-01,2099-12-31,,1
+1371486,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,7f9def94-22dd-0914-e053-2a91aa0ad610,2018-07-19,2099-12-31,,1
+44838068,Methylnaltrexone bromide 20 MG/ML Injectable Solution [Relistor],Drug,NDC,11-digit NDC,,00008251305,2010-06-01,2014-02-01,D,1
+44355167,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,f58d9be1-a428-45df-9c0b-369e93e71c6a,2017-03-10,2099-12-31,,1
+35529746,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,010108b5-e23d-4926-8a49-0f9e7acfef7a,2013-09-23,2099-12-31,,1
+42664578,naltrexone KIT [vivitrol],Drug,SPL,Prescription Drug,C,130ec946-6afd-4c07-8f02-365dc2752a23,2006-06-13,2099-12-31,,1
+19103122,Naltrexone 100 MG Oral Tablet,Drug,RxNorm,Clinical Drug,,406374,1970-01-01,2014-01-05,U,1
+19071207,Naltrexone 25 MG [Depade],Drug,RxNorm,Branded Drug Comp,,542211,2005-09-11,2014-01-05,U,1
+909862,methylnaltrexone 20 MG/ML,Drug,RxNorm,Clinical Drug Comp,,796391,2008-06-29,2010-06-05,U,1
+21125589,Naltrexone 3.6 MG Oral Capsule by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280341,2017-08-24,2023-08-02,U,1
+21097353,1 ML Naltrexone 1 MG/ML Oral Solution by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP301943,2017-08-24,2023-08-02,U,1
+598433,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,df73db00-ef4d-4e7c-e053-2a95a90a62fc,2012-01-18,2099-12-31,,1
+4293099,NALTREXONE,Drug,NDFRT,Pharma Preparation,,N0000147939,1970-01-01,2099-12-31,,1
+43361155,Naltrexone Hydrochloride 50 Mg Tablet. 30,Drug,AMT,Med Product Pack,,27559011000036103,2016-11-01,2099-12-31,,1
+36464820,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,7d50871d-55b3-f23c-e053-2991aa0a7650,2014-10-22,2099-12-31,,1
+4275130,Naltrexone hydrochloride,Drug,SNOMED,Substance,,64191009,2002-01-31,2099-12-31,,1
+44870655,Naltrexone 112 MG/ML Injectable Suspension [Vivitrol],Drug,NDC,11-digit NDC,,65757030003,2008-01-01,2010-02-01,D,1
+45179008,Naltrexone 50 MG Oral Tablet [ReVia],Drug,NDC,11-digit NDC,,00056001170,2007-06-01,2013-01-01,D,1
+37601193,methylnaltrexone bromide 150mg/1 / 8mg/.4mL / 12mg/.6mL ORAL. SUBCUTANEOUS INJECTION. SOLUTION. TABLET [relistor],Drug,SPL,Prescription Drug,C,fb7e4ad7-66cd-40db-9309-a45fcb0bd4dd,2008-04-24,2099-12-31,,1
+3973728,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,49b7b694-6fec-479b-be35-d03d816e13dd,2023-12-05,2099-12-31,,1
+43239397,NALTREXONE INTAS PHARMACEUTICALS,Drug,BDPM,Brand Name,,OMOP421805,1970-01-01,2017-07-16,D,1
+45774489,bupropion / naltrexone Extended Release Oral Tablet [Contrave],Drug,RxNorm,Branded Drug Form,S,1551471,2014-12-01,2099-12-31,,1
+40220704,methylnaltrexone bromide 150 MG,Drug,RxNorm,Clinical Drug Comp,S,1801510,2016-10-03,2099-12-31,,1
+44143124,Naltrexone Hydrochloride,Drug,DPD,Ingredient,,DPD135393,1970-01-01,2099-12-31,,1
+36828042,METHYLNALTREXONE BROMIDE,Drug,OMOP Invest Drug,Precise Ingredient,,RFO6IL3D3M,1970-01-01,2099-12-31,,1
+35759030,Naltrexone 50 MG Delayed Release Oral Tablet Box of 28 by Alliance,Drug,RxNorm Extension,Marketed Product,S,OMOP2760491,2017-08-24,2099-12-31,,1
+36509759,Naltrexone 50 MG Oral Tablet by Amomed,Drug,RxNorm Extension,Marketed Product,S,OMOP4836261,2019-09-04,2099-12-31,,1
+21322783,Naltrexone 2mg/5ml oral solution (Special Order) 1 ml,Drug,dm+d,AMPP,,12255211000001101,1970-01-01,2099-12-31,,1
+3203576,Product containing naltrexone in oral dosage form,Drug,Nebraska Lexicon,Pharma/Biol Product,,422131008,2008-07-31,2099-12-31,,1
+45378284,Naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,54868557400,2014-01-01,2019-07-01,D,1
+42480908,0.6 ML methylnaltrexone 20 MG/ML Prefilled Syringe [Relistor],Drug,RxNorm Extension,Quant Branded Drug,,OMOP419489,2015-08-17,2017-08-23,D,1
+35103239,NALTREXONE 4.5MG CAP.ORAL,Drug,VANDF,Drug Product,,4042280,2023-08-07,2099-12-31,,1
+35746523,Naltrexone 50 MG Delayed Release Oral Tablet [Nalorex] by Bristol Myers Squibb,Drug,RxNorm Extension,Marketed Product,S,OMOP2747984,2017-08-24,2099-12-31,,1
+21066845,Naltrexone 50 MG [Opizone],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP280277,2017-08-24,2099-12-31,,1
+21096265,Naltrexone 50 MG Oral Tablet by Orphan,Drug,RxNorm Extension,Marketed Product,S,OMOP280280,2017-08-24,2099-12-31,,1
+4272106,NALTREXONE HYDROCHLORIDE,Drug,NDFRT,Pharma Preparation,,N0000146867,1970-01-01,2099-12-31,,1
+1771911,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,115cbad2-8454-8559-e063-6294a90af1a5,2018-04-27,2099-12-31,,1
+45416136,naltrexone 380 mg intramuscular powder for injection. extended release,Drug,Multum,Multum,,16382,1970-01-01,2099-12-31,,1
+44784874,naltrexone hydrochloride 25 MG Oral Tablet,Drug,RxNorm,Clinical Drug,S,1483780,2014-01-06,2099-12-31,,1
+40063517,naltrexone Oral Tablet,Drug,RxNorm,Clinical Drug Form,S,372990,1970-01-01,2099-12-31,,1
+1626472,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,62135024230,2022-01-01,2099-12-31,,1
+41084868,methylnaltrexone 20 MG/ML Injectable Solution Box of 1,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP2282830,2017-08-24,2099-12-31,,1
+21106132,Naltrexone 50 MG Oral Tablet [Opizone] by Genus,Drug,RxNorm Extension,Marketed Product,S,OMOP280299,2017-08-24,2099-12-31,,1
+2918164,bupropion 90 MG / naltrexone 8 MG Extended Release Oral Tablet [Contrave] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP5134989,2021-06-30,2099-12-31,,1
+42902443,methylnaltrexone bromide 20 MG/ML Prefilled Syringe [Relistor],Drug,RxNorm,Branded Drug,S,1359556,2012-12-03,2099-12-31,,1
+1714349,Naltrexone 50 MG Oral Tablet [Depade],Drug,RxNorm,Branded Drug,,542214,2005-09-11,2014-01-05,U,1
+37128795,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,10261f2f-e4c1-415c-b722-edeaab97a112,2023-12-07,2099-12-31,,1
+41410767,0.6 ML methylnaltrexone 20 MG/ML Injection [Relistor] Box of 1 by Sobi,Drug,RxNorm Extension,Marketed Product,S,OMOP2608729,2017-08-24,2099-12-31,,1
+43338674,Naltrexone Hydrochloride (Qp) 50 Mg Tablet,Drug,AMT,Trade Product Unit,,32231011000036107,2016-11-01,2099-12-31,,1
+41061026,Naltrexone 50 MG Oral Tablet [Nrexon Hcl Neuraxpharm] Box of 280,Drug,RxNorm Extension,Branded Drug Box,,OMOP2258988,2017-07-30,2023-08-02,U,1
+40228621,MORPHINE SO4 100MG/NALTREXONE HCL 4MG CAP.SA,Drug,VANDF,Drug Product,,4029085,1970-01-01,2099-12-31,,1
+21211844,Naltrexone 1.5mg capsules (Special Order) 1 capsule,Drug,dm+d,AMPP,,14790511000001102,1970-01-01,2099-12-31,,1
+21304888,Naltrexone 3.5mg capsules (Special Order) 1 capsule,Drug,dm+d,AMPP,,15126211000001107,1970-01-01,2099-12-31,,1
+42683520,Bupropion 90 MG / Naltrexone 8 MG Extended Release Oral Capsule [Mysimba] Box of 112 by Goodlife,Drug,RxNorm Extension,Marketed Product,S,OMOP4912314,2020-03-01,2099-12-31,,1
+42683879,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution [Relistor] Box of 7 by Bausch & Lomb,Drug,RxNorm Extension,Marketed Product,S,OMOP4912660,2020-03-01,2099-12-31,,1
+40739515,Naltrexone 50 MG Oral Tablet [Nalorex] by Sigma,Drug,RxNorm Extension,Marketed Product,S,OMOP4717714,2018-06-04,2099-12-31,,1
+2999620,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,3db463fe-f016-468f-8dda-878bbbb80733,2013-09-23,2099-12-31,,1
+45387893,Methylnaltrexone Bromide 8 MG/0.4ML Subcutaneous Solution,Drug,GPI,GPI,,52580050102015,2013-11-04,2099-12-31,,1
+40117295,naltrexone Oral Tablet [Depade],Drug,RxNorm,Branded Drug Form,S,542209,2005-09-11,2099-12-31,,1
+42806469,CONTRAVE - naltrexone hydrochloride and bupropion hydrochloride tablet. film coated. extended release,Drug,SPL,Prescription Drug,C,f074eeef-312c-4e7d-869d-79c24e0c514e,2018-03-30,2099-12-31,,1
+36898977,naltrexone KIT [vivitrol],Drug,SPL,Prescription Drug,C,f3609bcd-ac6b-4cb1-96ad-d5c9476e85dc,2006-06-13,2099-12-31,,1
+45799876,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,d3778189-a2c3-4a10-939a-dbc1d3df9499,1998-05-08,2099-12-31,,1
+3159712,Morphine sulphate 100mg + naltrexone hydrochloride 4mg m/r capsule,Drug,Nebraska Lexicon,Pharma/Biol Product,,444476007,2017-07-30,2017-07-31,U,1
+43677404,Naltrexone 50 MG [Naltrexon Hcl Aop],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP675747,2017-08-24,2099-12-31,,1
+44443997,Naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,69189049901,2017-05-01,2018-06-01,D,1
+40208519,LEVORPHANOL/NALTREXONE,Drug,NDFRT,Drug Interaction,,N0000180044,1970-01-01,2014-11-30,D,1
+36644593,Naltrexone Hydrochloride Tablets [Nuoxinsheng],Drug,NCCD,Drug Product,,207824,2020-10-02,2099-12-31,,1
+43556936,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,a8d9ad39-693a-751e-e053-2a95a90a817a,2014-10-22,2099-12-31,,1
+42949480,Naltrexone 50 MG Oral Tablet [WHANIN NALTREXON],Drug,RxNorm Extension,Branded Drug,S,OMOP4676064,2018-08-21,2099-12-31,,1
+45392425,Naltrexone HCl 50 MG Oral Tablet,Drug,GPI,GPI,,93400030100305,1970-01-01,2099-12-31,,1
+1588704,bupropion and naltrexone; systemic,Drug,ATC,ATC 5th,C,A08AA62,1970-01-01,2099-12-31,,1
+40134088,Naltrexone 95 MG/ML,Drug,RxNorm,Clinical Drug Comp,,636637,2006-07-09,2008-07-27,D,1
+40185297,0.6 ML methylnaltrexone bromide 20 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,979113,2010-06-06,2099-12-31,,1
+43263281,Naltrexone 50 MG Oral Tablet Box of 30 by Generic Health,Drug,RxNorm Extension,Marketed Product,S,OMOP551516,2017-08-24,2099-12-31,,1
+21193423,Naltrexone 2mg capsules (Special Order) 1 capsule,Drug,dm+d,AMPP,,16106211000001102,1970-01-01,2099-12-31,,1
+42876392,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution [Relistor] Box of 7 by Kohlpharma,Drug,RxNorm Extension,Marketed Product,S,OMOP4873503,2020-01-15,2099-12-31,,1
+42683523,Bupropion 90 MG / Naltrexone 8 MG Extended Release Oral Capsule [Mysimba],Drug,RxNorm Extension,Branded Drug,S,OMOP4912312,2020-03-01,2099-12-31,,1
+44887822,0.6 ML methylnaltrexone bromide 20 MG/ML Injection [Relistor],Drug,NDC,11-digit NDC,,65649055305,2011-11-01,2023-12-01,D,1
+35763239,Naltrexone 50 MG Delayed Release Oral Tablet [Adepend] Box of 28 by Orphan,Drug,RxNorm Extension,Marketed Product,S,OMOP2764700,2017-08-24,2099-12-31,,1
+21165111,Naltrexone 50 MG Oral Tablet [Nalorex],Drug,RxNorm Extension,Branded Drug,S,OMOP280302,2017-08-24,2099-12-31,,1
+41175230,Naltrexone Delayed Release Oral Tablet [Nemexin],Drug,RxNorm Extension,Branded Drug Form,S,OMOP2373192,2017-08-24,2099-12-31,,1
+35529682,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,94c3e2de-36e4-42d4-b6e8-53b4aff1c4ed,2023-01-25,2099-12-31,,1
+35504090,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. EXTENDED RELEASE [contrave extended-release],Drug,SPL,Prescription Drug,C,b09fa8c2-a435-44e0-8104-dd8318a76642,2014-10-22,2099-12-31,,1
+44186000,Naltrexone 50 MG Delayed Release Oral Tablet [Nalorex] Box of 30 by Aca Mueller,Drug,RxNorm Extension,Marketed Product,S,OMOP3062723,2017-10-06,2099-12-31,,1
+3975799,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,72162156603,2023-11-01,2099-12-31,,1
+45194220,Naltrexone 112 MG/ML Injectable Suspension [Vivitrol],Drug,NDC,11-digit NDC,,65757030042,2008-01-01,2010-02-01,D,1
+45780343,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,15d827e4-bb81-4a24-adea-bde29b0d32a1,2014-10-29,2099-12-31,,1
+44369724,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,27fa185e-7ff3-4cf1-813a-5ebc6047dad2,2016-02-10,2099-12-31,,1
+44381449,methylnaltrexone bromide 150mg/1 / 8mg/.4mL / 12mg/.6mL ORAL. SUBCUTANEOUS INJECTION. SOLUTION. TABLET [relistor],Drug,SPL,Prescription Drug,C,4d9900e0-9c7d-4551-b7f4-d047b92435c8,2008-04-24,2099-12-31,,1
+21096267,Naltrexone 50 MG Oral Tablet [Nalorex] by Sigma-Tau,Drug,RxNorm Extension,Marketed Product,S,OMOP280303,2017-08-24,2099-12-31,,1
+45026786,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00179179272,2007-06-01,2012-06-01,D,1
+43144128,Naltrexone 50 MG Delayed Release Oral Tablet [Nalorex] Box of 28 by Bristol Myers Squibb,Drug,RxNorm Extension,Marketed Product,S,OMOP459192,2017-08-24,2099-12-31,,1
+42375167,naltrexone hydrochloride 50mg,Drug,EDI,Drug Product,,645400200,1970-01-01,2099-12-31,,1
+4334997,METHYLNALTREXONE,Drug,NDFRT,Pharma Preparation,,N0000176154,1970-01-01,2099-12-31,,1
+45871482,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,68094085362,2014-12-01,2099-12-31,,1
+45415087,methylnaltrexone 12 mg/0.6 mL subcutaneous solution,Drug,Multum,Multum,,23507,1970-01-01,2099-12-31,,1
+21047259,Naltrexone 4.5 MG,Drug,RxNorm Extension,Clinical Drug Comp,,OMOP280318,2015-08-17,2017-08-23,D,1
+21066849,Naltrexone 0.6 MG/ML Oral Solution,Drug,RxNorm Extension,Clinical Drug,S,OMOP280329,2017-08-24,2099-12-31,,1
+1607893,METHYLNALTREXONE BROMIDE 12MG/0.6ML INJ.SYR,Drug,VANDF,Drug Product,,4032383,1970-01-01,2099-12-31,,1
+21224120,Naltrexone 5mg/5ml oral solution 100 ml,Drug,dm+d,VMPP,,29948911000001109,1970-01-01,2099-12-31,,1
+40692870,Naltrexone 25mg/5ml oral solution,Drug,dm+d,AMP,,35546411000001102,1970-01-01,2099-12-31,,1
+4203805,Naltrexone hydrochloride 50 mg oral tablet,Drug,SNOMED,Clinical Drug,,323281004,2002-01-31,2099-12-31,,1
+45333848,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,001850039,2000-03-08,2099-12-31,,1
+44982957,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,47335032683,2014-01-01,2099-12-31,,1
+43038016,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution [Relistor] Box of 7 by Pharmaswiss,Drug,RxNorm Extension,Marketed Product,S,OMOP4853056,2019-10-06,2099-12-31,,1
+1772111,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,48b82306-b0ba-4cb8-817d-896ccde0367b,2024-02-15,2099-12-31,,1
+42829553,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335001401,2018-02-01,2099-12-31,,1
+45850448,methylnaltrexone bromide 12mg/.6mL SUBCUTANEOUS INJECTION. SOLUTION,Drug,NDC,9-digit NDC,,656490551,2008-04-24,2099-12-31,,1
+44905009,naltrexone 380 MG Injection [Vivitrol],Drug,NDC,11-digit NDC,,65757030202,2010-11-01,2099-12-31,,1
+3987253,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,080161d0-f74b-8701-e063-6294a90a8be9,2013-09-23,2099-12-31,,1
+21106134,Naltrexone 1 MG Oral Capsule Box of 1,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP280350,2017-08-24,2099-12-31,,1
+36679450,Naltrexone only product,Drug,SNOMED,Pharma/Biol Product,,776866001,2019-01-31,2099-12-31,,1
+36681004,Bupropion and naltrexone only product in oral dose form,Drug,SNOMED,Clinical Drug Form,,778571008,2019-01-31,2099-12-31,,1
+21233218,Naltrexone 50mg tablets (A A H Pharmaceuticals Ltd) 28 tablet,Drug,dm+d,AMPP,,32402511000001103,1970-01-01,2099-12-31,,1
+45149639,naltrexone KIT [VIVITROL],Drug,NDC,9-digit NDC,,065757300,2013-08-05,2099-12-31,,1
+3951086,12 HR bupropion hydrochloride 90 MG / naltrexone hydrochloride 8 MG Extended Release Oral Tablet [Contrave],Drug,NDC,11-digit NDC,,51267089007,2023-05-01,2099-12-31,,1
+45018725,Naltrexone 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,52152010511,2007-08-01,2008-08-01,D,1
+45636461,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,06ff2d5a-e62b-4fa4-bbdb-01938535bc65,2022-09-06,2099-12-31,,1
+36232090,ReVia Oral Product,Drug,RxNorm,Branded Dose Group,C,1178314,2016-08-01,2099-12-31,,1
+21322782,Naltrexone 1mg/5ml oral solution (Special Order) 1 ml,Drug,dm+d,AMPP,,12254611000001100,1970-01-01,2099-12-31,,1
+40692862,Naltrexone 8mg / Bupropion 90mg modified-release tablets,Drug,dm+d,VMP,,34557011000001101,1970-01-01,2099-12-31,,1
+40859645,Naltrexone 50 MG [Nrexon Hcl Neuraxpharm],Drug,RxNorm Extension,Branded Drug Comp,,OMOP2057607,2017-07-30,2017-08-23,U,1
+21228934,Naltrexone 4.5mg capsules (Part VIIID Drug Tariff Special Order) 1 capsule,Drug,dm+d,AMPP,,8822511000001105,1970-01-01,2099-12-31,,1
+37124227,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,3d5a3e24-b5d7-4509-8539-f62b30769898,2012-01-18,2099-12-31,,1
+35515627,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,922033e5-950d-4356-84e9-3ffb4287f120,1998-05-08,2099-12-31,,1
+40165108,naltrexone hydrochloride 0.8 MG,Drug,RxNorm,Clinical Drug Comp,S,859956,2009-09-06,2099-12-31,,1
+40905068,Naltrexone 50 MG Delayed Release Oral Tablet [Nrexon Hcl],Drug,RxNorm Extension,Branded Drug,,OMOP2103030,2017-07-30,2023-08-02,U,1
+44396816,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,9f0d222c-f87f-486b-b186-b09b1173fc9b,2013-09-23,2099-12-31,,1
+3982837,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,23155088603,2023-11-01,2099-12-31,,1
+40905069,Naltrexone 50 MG Delayed Release Oral Tablet [Nemexin],Drug,RxNorm Extension,Branded Drug,S,OMOP2103031,2017-08-24,2099-12-31,,1
+43210049,Naltrexone 50 MG Delayed Release Oral Tablet [Nalorex] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP459181,2017-08-24,2099-12-31,,1
+46317210,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,21b43dab-015c-c82f-ba6e-27da0ec12fc5,2024-01-10,2099-12-31,,1
+45850484,naltrexone KIT,Drug,NDC,9-digit NDC,,657570300,2006-06-13,2099-12-31,,1
+4287517,NALTREXONE HCL 50MG TAB,Drug,VANDF,Drug Product,,4005191,2015-07-10,2015-07-10,D,1
+21206157,Naltrexone 1mg capsules 1 capsule,Drug,dm+d,VMPP,,16015111000001107,1970-01-01,2099-12-31,,1
+21291595,Naltrexone 1mg capsules,Drug,dm+d,VMP,,16036611000001103,1970-01-01,2099-12-31,,1
+37508545,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,705182718,2020-05-01,2099-12-31,,1
+21125588,Naltrexone 2.5 MG/ML Oral Suspension,Drug,RxNorm Extension,Clinical Drug,S,OMOP280332,2017-08-24,2099-12-31,,1
+35504196,naltrexone hydrochloride and bupropion hydrochloride 8mg/1 / 90mg/1 ORAL TABLET. FILM COATED. EXTENDED RELEASE [contrave],Drug,SPL,Prescription Drug,C,c5a82f8e-c627-4d42-8046-47c94ed56884,2014-09-10,2099-12-31,,1
+45269536,Methylnaltrexone bromide 8 mg/.4mL INJECTION. SOLUTION [Relistor],Drug,NDC,9-digit NDC,,065649552,2013-08-05,2099-12-31,,1
+21048284,1 ML Naltrexone 5 MG/ML Oral Suspension,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP301953,2017-08-24,2099-12-31,,1
+42860432,NALTREXONE 380MG/VIL INJ.SUSP.SA,Drug,NDFRT,VA Product,,N0000177025,2012-06-04,2099-12-31,,1
+21225637,Naltrexone 25mg/5ml oral suspension 1 ml,Drug,dm+d,VMPP,,8637811000001102,1970-01-01,2099-12-31,,1
+43130677,NALTREXONE MYLAN,Drug,RxNorm Extension,Brand Name,,OMOP437588,1970-01-01,2099-12-31,,1
+43199270,Naltrexone 50 MG Delayed Release Oral Tablet [ReVia] Box of 28 by Bristol Myers Squibb,Drug,RxNorm Extension,Marketed Product,S,OMOP459276,2017-08-24,2099-12-31,,1
+40739524,Naltrexone 2.4 MG Oral Capsule Box of 1,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP4717706,2018-06-04,2099-12-31,,1
+42652381,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,86fc4596-52b3-46ca-9646-d207bf4e5257,2014-10-29,2099-12-31,,1
+37139990,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,68094090950,2024-02-15,2099-12-31,,1
+21198886,Naltrexone 1mg/5ml oral solution,Drug,dm+d,VMP,,12301011000001105,1970-01-01,2099-12-31,,1
+21269731,Naltrexone 5mg/5ml oral suspension (Drug Tariff Special Order) 100 ml,Drug,dm+d,AMPP,,24438911000001108,1970-01-01,2099-12-31,,1
+43544352,methylnaltrexone bromide 150mg/1 / 8mg/.4mL / 12mg/.6mL ORAL. SUBCUTANEOUS INJECTION. SOLUTION. TABLET [relistor],Drug,SPL,Prescription Drug,C,1357dc78-e4c6-4f46-818b-b3bf1f02ef97,2008-04-24,2099-12-31,,1
+589420,0.6 ML methylnaltrexone 20 MG/ML Injection Box of 7,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP3134991,2018-08-02,2099-12-31,,1
+43316213,Methylnaltrexone Bromide 12 Mg/0.6 Ml Injection. Vial,Drug,AMT,Med Product Unit,,79741011000036104,2016-11-01,2099-12-31,,1
+19089228,Naltrexone 112 MG/ML [Vivitrol],Drug,RxNorm,Branded Drug Comp,,637214,2006-07-09,2016-05-01,D,1
+41165702,Naltrexone 50 MG Oral Tablet [Nalorex] Box of 28 by Gerke,Drug,RxNorm Extension,Marketed Product,S,OMOP2363664,2017-08-24,2099-12-31,,1
+1778819,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,9d09ae34-8011-4c2e-9a7f-f039f0e58768,2013-09-23,2099-12-31,,1
+45308710,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,51927437700,2013-08-05,2099-12-31,,1
+36062082,naltrexone 50 MG Oral Tablet by DE,Drug,RxNorm Extension,Marketed Product,S,OMOP4988067,2020-08-17,2099-12-31,,1
+36963695,naltrexone 50 MG Oral Tablet by Medihealth,Drug,RxNorm Extension,Marketed Product,S,OMOP5199524,2023-05-22,2099-12-31,,1
+44858081,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00555090202,2014-01-01,2020-08-01,D,1
+43188230,Naltrexone Delayed Release Oral Tablet [NALTREXONE MYLAN],Drug,RxNorm Extension,Branded Drug Form,S,OMOP459091,2017-08-24,2099-12-31,,1
+21258175,Naltrexone 3mg capsules,Drug,dm+d,AMP,,11480211000001104,1970-01-01,2099-12-31,,1
+21216374,Methylnaltrexone bromide,Drug,dm+d,Ingredient,,13803711000001100,1970-01-01,2009-06-11,D,1
+21323740,Naltrexone 5mg/5ml oral suspension (Drug Tariff Special Order) 1 ml,Drug,dm+d,AMPP,,16106811000001101,1970-01-01,2099-12-31,,1
+21194649,Naltrexone 50mg tablets (Accord Healthcare Ltd) 28 tablet,Drug,dm+d,AMPP,,21286811000001101,1970-01-01,2099-12-31,,1
+43197986,0.6 ML methylnaltrexone 20 MG/ML Prefilled Syringe [Relistor] Box of 7 by TMC PHARMA SERVICES (ROYAUME-UNI),Drug,RxNorm Extension,Marketed Product,,OMOP507293,2016-09-10,2023-08-02,U,1
+45412760,morphine-naltrexone 50 mg-2 mg oral capsule. extended release,Drug,Multum,Multum,,25562,2010-11-01,2099-12-31,,1
+45774484,naltrexone hydrochloride 8 MG,Drug,RxNorm,Clinical Drug Comp,S,1551463,2014-12-01,2099-12-31,,1
+46275652,methylnaltrexone bromide 20 MG/ML Injection [Relistor],Drug,RxNorm,Branded Drug,S,1659744,2015-09-08,2099-12-31,,1
+21308033,Methylnaltrexone bromide,Drug,dm+d,Ingredient,,433519000,2009-06-12,2099-12-31,,1
+576958,NALTREXONE 100 % MISCELL POWDER (GRAM),Drug,GCN_SEQNO,GCN_SEQNO,,060090,2015-11-19,2099-12-31,,1
+35531483,naltrexone KIT [vivitrol],Drug,SPL,Prescription Drug,C,df80f453-207b-4a1f-b914-9641b14ee39f,2006-06-13,2099-12-31,,1
+3210537,Product containing precisely naltrexone hydrochloride 100 milligram/1 each conventional release oral tablet,Drug,Nebraska Lexicon,Pharma/Biol Product,,409461000,2018-07-31,2099-12-31,,1
+3159713,Morphine sulphate 20mg + naltrexone hydrochloride 800microgram m/r capsule,Drug,Nebraska Lexicon,Pharma/Biol Product,,444477003,2017-07-30,2017-07-31,U,1
+36827627,NALTREXONE BENZOATE,Drug,OMOP Invest Drug,Precise Ingredient,,E1D3136FZJ,1970-01-01,2099-12-31,,1
+46239346,methylnaltrexone bromide 8mg/.4mL / 12mg/.6mL SUBCUTANEOUS INJECTION. SOLUTION. KIT [relistor],Drug,SPL,Prescription Drug,C,193ad29c-3d3b-4842-b562-1d1d0ad6c7ec,2008-08-01,2099-12-31,,1
+36682398,Naltrexone only product in parenteral dose form,Drug,SNOMED,Clinical Drug Form,,779967005,2019-01-31,2099-12-31,,1
+35426359,NALTREXONE MYLAN,Drug,BDPM,Brand Name,,OMOP1136969,1970-01-01,2019-10-05,D,1
+36198064,Naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,63629530403,2018-10-01,2018-12-01,D,1
+43274290,Naltrexone 50 MG Oral Tablet by Generic Health,Drug,RxNorm Extension,Marketed Product,S,OMOP551514,2017-08-24,2099-12-31,,1
+21317868,Naltrexone 2mg capsules 1 capsule,Drug,dm+d,VMPP,,16106011000001107,1970-01-01,2099-12-31,,1
+21135475,Naltrexone Oral Tablet [Adepend],Drug,RxNorm Extension,Branded Drug Form,S,OMOP280261,2017-08-24,2099-12-31,,1
+41279465,Naltrexone 50 MG Oral Tablet [Nemexin] Box of 30,Drug,RxNorm Extension,Branded Drug Box,S,OMOP2477427,2017-08-24,2099-12-31,,1
+40216561,HYDROMORPHONE/NALTREXONE,Drug,NDFRT,Drug Interaction,,N0000177982,1970-01-01,2014-11-30,D,1
+44084206,methylnaltrexone 20 MG/ML Injectable Solution,Drug,RxNorm Extension,Clinical Drug,S,OMOP1078837,2017-08-24,2099-12-31,,1
+36212593,naltrexone Pill,Drug,RxNorm,Clinical Dose Group,C,1156983,2016-08-01,2099-12-31,,1
+45213058,Methylnaltrexone bromide KIT [Relistor],Drug,NDC,9-digit NDC,,000082513,2013-08-05,2099-12-31,,1
+46316016,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,8bce9770-4b91-447b-8581-a2aafcf2fde6,2013-04-25,2099-12-31,,1
+45075160,0.4 ML methylnaltrexone bromide 20 MG/ML Prefilled Syringe [Relistor],Drug,NDC,11-digit NDC,,65649055204,2012-03-01,2099-12-31,,1
+36187106,NALTREXONE - naltrexone implant,Drug,NDC,11-digit NDC,,69364314306,2018-02-01,2099-12-31,,1
+42644165,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,713351480,2002-03-22,2099-12-31,,1
+45308704,NALTREXONE HCL POWDER,Drug,NDC,11-digit NDC,,51927360200,2013-08-05,2099-12-31,,1
+19113914,Naltrexone 100 MG Oral Tablet [Depade],Drug,RxNorm,Branded Drug,,542210,2005-09-11,2014-01-05,U,1
+36052519,0.6 ML methylnaltrexone 20 MG/ML Injectable Solution [Relistor] Box of 1 by Bausch & Lomb,Drug,RxNorm Extension,Marketed Product,S,OMOP4977598,2020-08-17,2099-12-31,,1
+36074470,naltrexone 50 MG Oral Tablet Box of 28 by DE,Drug,RxNorm Extension,Marketed Product,S,OMOP4988066,2020-08-17,2099-12-31,,1
+44779785,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,94a0dc57-c238-4a54-8e8c-61a7a0b3eb32,2012-01-18,2099-12-31,,1
+45415098,methylnaltrexone 12 mg/0.6 mL subcutaneous kit,Drug,Multum,Multum,,23728,1970-01-01,2099-12-31,,1
+42822380,methylnaltrexone bromide 150mg/1 / 8mg/.4mL / 12mg/.6mL ORAL. SUBCUTANEOUS INJECTION. SOLUTION. TABLET [relistor],Drug,SPL,Prescription Drug,C,fdf0d0c8-f4da-406e-8d91-5f6803e2cc49,2008-04-24,2099-12-31,,1
+3981608,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,06fce480-76fd-a204-e063-6394a90a3bbc,2017-07-21,2099-12-31,,1
+37127226,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,a3b74230-f1bf-4ab3-934d-fb9f43cfae3d,2013-09-23,2099-12-31,,1
+831851,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,c28a8e0e-703a-e335-e053-2a95a90a034c,2018-04-27,2099-12-31,,1
+35775807,Naltrexone 50 MG Delayed Release Oral Tablet by Sigma-Tau,Drug,RxNorm Extension,Marketed Product,S,OMOP2777268,2017-08-24,2099-12-31,,1
+44530336,NALTREXONE HYDROCHLORIDE,Drug,DPD,Ingredient,,OMOP114530,1970-01-01,2017-06-24,D,1
+40747737,Bupropion / Naltrexone Extended Release Oral Tablet [Mysimba],Drug,RxNorm Extension,Branded Drug Form,S,OMOP4709551,2018-06-04,2099-12-31,,1
+40739520,Naltrexone 50 MG Oral Tablet Box of 28 by Sigma,Drug,RxNorm Extension,Marketed Product,S,OMOP4717710,2018-06-04,2099-12-31,,1
+42706013,methylnaltrexone Prefilled Syringe [Relistor],Drug,RxNorm,Branded Drug Form,S,1244061,2012-05-07,2099-12-31,,1
+45245737,Methylnaltrexone bromide 20 MG/ML Injectable Solution [Relistor],Drug,NDC,11-digit NDC,,65649055603,2011-11-01,2012-03-01,D,1
+42644669,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335148002,2020-04-01,2099-12-31,,1
+1771964,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,116829bb-2104-3117-e063-6294a90afdb8,2012-01-18,2099-12-31,,1
+41147463,Naltrexone 50 MG Delayed Release Oral Tablet Box of 280,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP2345425,2017-08-24,2099-12-31,,1
+40193620,Naltrexone Hydrochloride,Drug,NDFRT,Chemical Structure,,N0000179498,1970-01-01,2099-12-31,,1
+37204877,Morphine and naltrexone only product,Drug,SNOMED,Pharma/Biol Product,,783810002,2019-07-31,2099-12-31,,1
+42803473,NALTREXONE HYDROCHLORIDE - naltrexone hydrochloride tablet. film coated,Drug,SPL,Prescription Drug,C,5f256d4f-4509-87c7-e053-2a91aa0a79ef,2017-11-29,2099-12-31,,1
+42949479,Naltrexone 50 MG Oral Tablet [PHARMA NALTREXONE],Drug,RxNorm Extension,Branded Drug,S,OMOP4676063,2018-08-21,2099-12-31,,1
+3159716,Morphine sulphate 50mg + naltrexone hydrochloride 2mg m/r capsule,Drug,Nebraska Lexicon,Pharma/Biol Product,,444485007,2017-07-30,2017-07-31,U,1
+45058103,Naltrexone 112 MG/ML Injectable Suspension [Vivitrol],Drug,NDC,11-digit NDC,,65757036000,2008-01-01,2012-06-01,D,1
+599074,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,680712721,2012-01-18,2099-12-31,,1
+21259897,Naltrexone 1.5mg/5ml oral solution,Drug,dm+d,AMP,,20091611000001108,1970-01-01,2099-12-31,,1
+42644672,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,71335148005,2020-04-01,2099-12-31,,1
+40215111,HYDROCODONE/NALTREXONE,Drug,NDFRT,Drug Interaction,,N0000177972,1970-01-01,2014-11-30,D,1
+42863043,MORPHINE SO4 30MG/NALTREXONE HCL 1.2MG CAP.SA,Drug,NDFRT,VA Product,,N0000181704,2012-06-04,2099-12-31,,1
+35746525,Naltrexone 50 MG Delayed Release Oral Tablet Box of 28 by Waymade,Drug,RxNorm Extension,Marketed Product,S,OMOP2747986,2017-08-24,2099-12-31,,1
+42375173,naltrexone hydrochloride 25mg,Drug,EDI,Drug Product,,649507510,1970-01-01,2099-12-31,,1
+589390,methylnaltrexone 20 MG/ML Injection Box of 7,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP3135033,2018-08-02,2099-12-31,,1
+36108425,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,951b6335-bb5b-e663-e053-2a95a90aaba9,2012-12-06,2099-12-31,,1
+45645304,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,a3258584-041c-4671-b77c-096eefb3e421,2006-04-19,2099-12-31,,1
+40166413,naltrexone hydrochloride 2.4 MG,Drug,RxNorm,Clinical Drug Comp,S,863547,2009-10-04,2099-12-31,,1
+21174853,Naltrexone 0.2 MG/ML Oral Solution by Special Order,Drug,RxNorm Extension,Marketed Product,,OMOP280267,2017-08-24,2023-08-02,U,1
+36813866,Bupropion 90 MG / Naltrexone 8 MG Extended Release Oral Tablet [Mysimba] by Orexigen Therapeutics Ireland,Drug,RxNorm Extension,Marketed Product,S,OMOP4827903,2019-01-28,2099-12-31,,1
+42683524,Bupropion 90 MG / Naltrexone 8 MG Extended Release Oral Capsule Box of 112,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP4912311,2020-03-01,2099-12-31,,1
+35530596,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,NDC,9-digit NDC,,636291046,2013-09-23,2099-12-31,,1
+21241514,Naltrexone 50mg tablets,Drug,dm+d,AMP,,21286711000001109,1970-01-01,2099-12-31,,1
+36816853,Methylnaltrexone bromide 12mg/0.6ml solution for injection vials,Drug,dm+d,VMP,,36034311000001100,2018-10-29,2099-12-31,,1
+45777716,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,00e33865-086b-4b10-8e59-3accc7e812ae,2013-10-07,2099-12-31,,1
+45298621,Methylnaltrexone bromide 20 MG/ML Injectable Solution [Relistor],Drug,NDC,11-digit NDC,,00008121808,2010-06-01,2011-02-01,D,1
+42863041,MORPHINE SO4 100MG/NALTREXONE HCL 4MG CAP.SA,Drug,NDFRT,VA Product,,N0000181703,2012-06-04,2099-12-31,,1
+35758321,Naltrexone 50 MG Delayed Release Oral Tablet [Adepend] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP2759782,2017-08-24,2099-12-31,,1
+21086512,Naltrexone 50 MG Oral Tablet [Adepend],Drug,RxNorm Extension,Branded Drug,S,OMOP280293,2017-08-24,2099-12-31,,1
+21047256,Naltrexone 50 MG Oral Tablet [Adepend] Box of 28,Drug,RxNorm Extension,Branded Drug Box,S,OMOP280296,2017-08-24,2099-12-31,,1
+36165990,naltrexone hydrochloride 50mg/1 ORAL TABLET. FILM COATED,Drug,SPL,Prescription Drug,C,6cbd59d7-de23-3af4-e053-2991aa0afa5b,2009-07-29,2099-12-31,,1
+42949485,Naltrexone 50 MG [WHANIN NALTREXON],Drug,RxNorm Extension,Branded Drug Comp,S,OMOP4676068,2018-08-21,2099-12-31,,1
+45375274,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,47335032688,2014-01-01,2099-12-31,,1
+44891797,naltrexone hydrochloride 50 MG Oral Tablet,Drug,NDC,11-digit NDC,,00406117001,2014-01-01,2099-12-31,,1
+36942206,naltrexone 3 MG Oral Capsule Box of 30,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP5199517,2023-05-22,2099-12-31,,1
+43263280,Naltrexone 50 MG Oral Tablet Box of 30,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP551513,2017-08-24,2099-12-31,,1
+21180022,Naltrexone 3mg/5ml oral solution,Drug,dm+d,VMP,,12301211000001100,1970-01-01,2099-12-31,,1
+40692864,Naltrexone 2.5mg capsules 1 capsule,Drug,dm+d,VMPP,,32871211000001109,1970-01-01,2099-12-31,,1
+40692861,Naltrexone 8mg / Bupropion 90mg modified-release tablets 112 tablet,Drug,dm+d,VMPP,,34555211000001103,1970-01-01,2099-12-31,,1

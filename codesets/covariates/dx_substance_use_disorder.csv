@@ -1,0 +1,847 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+45562029,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Condition,ICD10,ICD10 Hierarchy,NA,F19,5/1/90,12/31/99,NA
+45586225,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, acute intoxication",Condition,ICD10,ICD10 code,NA,F19.0,5/1/90,12/31/99,NA
+45552462,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, amnesic syndrome",Condition,ICD10,ICD10 code,NA,F19.6,5/1/90,12/31/99,NA
+45557189,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, dependence syndrome",Condition,ICD10,ICD10 code,NA,F19.2,5/1/90,12/31/99,NA
+45552459,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, harmful use",Condition,ICD10,ICD10 code,NA,F19.1,5/1/90,12/31/99,NA
+45566824,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, other mental and behavioural disorders",Condition,ICD10,ICD10 code,NA,F19.8,5/1/90,12/31/99,NA
+45605484,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, psychotic disorder",Condition,ICD10,ICD10 code,NA,F19.5,5/1/90,12/31/99,NA
+45562035,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, residual and late-onset psychotic disorder",Condition,ICD10,ICD10 code,NA,F19.7,5/1/90,12/31/99,NA
+45600732,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, unspecified mental and behavioural disorder",Condition,ICD10,ICD10 code,NA,F19.9,5/1/90,12/31/99,NA
+45600731,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, withdrawal state",Condition,ICD10,ICD10 code,NA,F19.3,5/1/90,12/31/99,NA
+45552461,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, withdrawal state with delirium",Condition,ICD10,ICD10 code,NA,F19.4,5/1/90,12/31/99,NA
+40475057,Mental and behavioural disorders due to psychoactive substance use,Condition,ICD10,ICD10 SubChapter,NA,F10-F19,4/22/20,12/31/99,NA
+45581401,Mental and behavioural disorders due to use of alcohol,Condition,ICD10,ICD10 Hierarchy,NA,F10,5/1/90,12/31/99,NA
+45755372,"Mental and behavioural disorders due to use of alcohol, Acute intoxication",Condition,ICD10,ICD10 code,NA,F10.0,5/1/90,12/31/99,NA
+45547673,"Mental and behavioural disorders due to use of alcohol, Amnesic syndrome",Condition,ICD10,ICD10 code,NA,F10.6,5/1/90,12/31/99,NA
+45576496,"Mental and behavioural disorders due to use of alcohol, Dependence syndrome",Condition,ICD10,ICD10 code,NA,F10.2,5/1/90,12/31/99,NA
+45595844,"Mental and behavioural disorders due to use of alcohol, Harmful use",Condition,ICD10,ICD10 code,NA,F10.1,5/1/90,12/31/99,NA
+45581407,"Mental and behavioural disorders due to use of alcohol, Other mental and behavioural disorders",Condition,ICD10,ICD10 code,NA,F10.8,5/1/90,12/31/99,NA
+45755373,"Mental and behavioural disorders due to use of alcohol, Psychotic disorder",Condition,ICD10,ICD10 code,NA,F10.5,5/1/90,12/31/99,NA
+45547674,"Mental and behavioural disorders due to use of alcohol, Residual and late-onset psychotic disorder",Condition,ICD10,ICD10 code,NA,F10.7,5/1/90,12/31/99,NA
+45557158,"Mental and behavioural disorders due to use of alcohol, Unspecified mental and behavioural disorder",Condition,ICD10,ICD10 code,NA,F10.9,5/1/90,12/31/99,NA
+45542789,"Mental and behavioural disorders due to use of alcohol, Withdrawal state",Condition,ICD10,ICD10 code,NA,F10.3,5/1/90,12/31/99,NA
+45586191,"Mental and behavioural disorders due to use of alcohol, Withdrawal state with delirium",Condition,ICD10,ICD10 code,NA,F10.4,5/1/90,12/31/99,NA
+45571719,Mental and behavioural disorders due to use of cannabinoids,Condition,ICD10,ICD10 Hierarchy,NA,F12,5/1/90,12/31/99,NA
+45581412,"Mental and behavioural disorders due to use of cannabinoids, acute intoxication",Condition,ICD10,ICD10 code,NA,F12.0,5/1/90,12/31/99,NA
+45586202,"Mental and behavioural disorders due to use of cannabinoids, amnesic syndrome",Condition,ICD10,ICD10 code,NA,F12.6,5/1/90,12/31/99,NA
+45566788,"Mental and behavioural disorders due to use of cannabinoids, dependence syndrome",Condition,ICD10,ICD10 code,NA,F12.2,5/1/90,12/31/99,NA
+45557163,"Mental and behavioural disorders due to use of cannabinoids, harmful use",Condition,ICD10,ICD10 code,NA,F12.1,5/1/90,12/31/99,NA
+45755374,"Mental and behavioural disorders due to use of cannabinoids, other mental and behavioural disorders",Condition,ICD10,ICD10 code,NA,F12.8,5/1/90,12/31/99,NA
+45566790,"Mental and behavioural disorders due to use of cannabinoids, psychotic disorder",Condition,ICD10,ICD10 code,NA,F12.5,5/1/90,12/31/99,NA
+45538016,"Mental and behavioural disorders due to use of cannabinoids, residual and late-onset psychotic disorder",Condition,ICD10,ICD10 code,NA,F12.7,5/1/90,12/31/99,NA
+45538017,"Mental and behavioural disorders due to use of cannabinoids, unspecified mental and behavioural disorder",Condition,ICD10,ICD10 code,NA,F12.9,5/1/90,12/31/99,NA
+45586201,"Mental and behavioural disorders due to use of cannabinoids, withdrawal state",Condition,ICD10,ICD10 code,NA,F12.3,5/1/90,12/31/99,NA
+45600702,"Mental and behavioural disorders due to use of cannabinoids, withdrawal state with delirium",Condition,ICD10,ICD10 code,NA,F12.4,5/1/90,12/31/99,NA
+45595869,Mental and behavioural disorders due to use of cocaine,Condition,ICD10,ICD10 Hierarchy,NA,F14,5/1/90,12/31/99,NA
+45755379,"Mental and behavioural disorders due to use of cocaine, acute intoxication",Condition,ICD10,ICD10 code,NA,F14.0,5/1/90,12/31/99,NA
+45566801,"Mental and behavioural disorders due to use of cocaine, amnesic syndrome",Condition,ICD10,ICD10 code,NA,F14.6,5/1/90,12/31/99,NA
+45576509,"Mental and behavioural disorders due to use of cocaine, dependence syndrome",Condition,ICD10,ICD10 code,NA,F14.2,5/1/90,12/31/99,NA
+45538028,"Mental and behavioural disorders due to use of cocaine, harmful use",Condition,ICD10,ICD10 code,NA,F14.1,5/1/90,12/31/99,NA
+45581427,"Mental and behavioural disorders due to use of cocaine, other mental and behavioural disorders",Condition,ICD10,ICD10 code,NA,F14.8,5/1/90,12/31/99,NA
+45591105,"Mental and behavioural disorders due to use of cocaine, psychotic disorder",Condition,ICD10,ICD10 code,NA,F14.5,5/1/90,12/31/99,NA
+45581426,"Mental and behavioural disorders due to use of cocaine, residual and late-onset psychotic disorder",Condition,ICD10,ICD10 code,NA,F14.7,5/1/90,12/31/99,NA
+45571729,"Mental and behavioural disorders due to use of cocaine, unspecified mental and behavioural disorder",Condition,ICD10,ICD10 code,NA,F14.9,5/1/90,12/31/99,NA
+45755380,"Mental and behavioural disorders due to use of cocaine, withdrawal state",Condition,ICD10,ICD10 code,NA,F14.3,5/1/90,12/31/99,NA
+45533075,"Mental and behavioural disorders due to use of cocaine, withdrawal state with delirium",Condition,ICD10,ICD10 code,NA,F14.4,5/1/90,12/31/99,NA
+45586215,Mental and behavioural disorders due to use of hallucinogens,Condition,ICD10,ICD10 Hierarchy,NA,F16,5/1/90,12/31/99,NA
+45566807,"Mental and behavioural disorders due to use of hallucinogens, acute intoxication",Condition,ICD10,ICD10 code,NA,F16.0,5/1/90,12/31/99,NA
+45571737,"Mental and behavioural disorders due to use of hallucinogens, amnesic syndrome",Condition,ICD10,ICD10 code,NA,F16.6,5/1/90,12/31/99,NA
+45591112,"Mental and behavioural disorders due to use of hallucinogens, dependence syndrome",Condition,ICD10,ICD10 code,NA,F16.2,5/1/90,12/31/99,NA
+45542815,"Mental and behavioural disorders due to use of hallucinogens, harmful use",Condition,ICD10,ICD10 code,NA,F16.1,5/1/90,12/31/99,NA
+45542817,"Mental and behavioural disorders due to use of hallucinogens, other mental and behavioural disorders",Condition,ICD10,ICD10 code,NA,F16.8,5/1/90,12/31/99,NA
+45755384,"Mental and behavioural disorders due to use of hallucinogens, psychotic disorder",Condition,ICD10,ICD10 code,NA,F16.5,5/1/90,12/31/99,NA
+45595883,"Mental and behavioural disorders due to use of hallucinogens, residual and late-onset psychotic disorder",Condition,ICD10,ICD10 code,NA,F16.7,5/1/90,12/31/99,NA
+45581433,"Mental and behavioural disorders due to use of hallucinogens, unspecified mental and behavioural disorder",Condition,ICD10,ICD10 code,NA,F16.9,5/1/90,12/31/99,NA
+45533082,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state",Condition,ICD10,ICD10 code,NA,F16.3,5/1/90,12/31/99,NA
+45533083,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state with delirium",Condition,ICD10,ICD10 code,NA,F16.4,5/1/90,12/31/99,NA
+45595853,Mental and behavioural disorders due to use of opioids,Condition,ICD10,ICD10 Hierarchy,NA,F11,5/1/90,12/31/99,NA
+45562006,"Mental and behavioural disorders due to use of opioids, acute intoxication",Condition,ICD10,ICD10 code,NA,F11.0,5/1/90,12/31/99,NA
+45600700,"Mental and behavioural disorders due to use of opioids, amnesic syndrome",Condition,ICD10,ICD10 code,NA,F11.6,5/1/90,12/31/99,NA
+45600698,"Mental and behavioural disorders due to use of opioids, dependence syndrome",Condition,ICD10,ICD10 code,NA,F11.2,5/1/90,12/31/99,NA
+45576498,"Mental and behavioural disorders due to use of opioids, harmful use",Condition,ICD10,ICD10 code,NA,F11.1,5/1/90,12/31/99,NA
+45591094,"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders",Condition,ICD10,ICD10 code,NA,F11.8,5/1/90,12/31/99,NA
+45571716,"Mental and behavioural disorders due to use of opioids, psychotic disorder",Condition,ICD10,ICD10 code,NA,F11.5,5/1/90,12/31/99,NA
+45600701,"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder",Condition,ICD10,ICD10 code,NA,F11.7,5/1/90,12/31/99,NA
+45571718,"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder",Condition,ICD10,ICD10 code,NA,F11.9,5/1/90,12/31/99,NA
+45571715,"Mental and behavioural disorders due to use of opioids, withdrawal state",Condition,ICD10,ICD10 code,NA,F11.3,5/1/90,12/31/99,NA
+45586194,"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium",Condition,ICD10,ICD10 code,NA,F11.4,5/1/90,12/31/99,NA
+45600710,"Mental and behavioural disorders due to use of other stimulants, including caffeine",Condition,ICD10,ICD10 Hierarchy,NA,F15,5/1/90,12/31/99,NA
+45755381,"Mental and behavioural disorders due to use of other stimulants, including caffeine, acute intoxication",Condition,ICD10,ICD10 code,NA,F15.0,5/1/90,12/31/99,NA
+45576517,"Mental and behavioural disorders due to use of other stimulants, including caffeine, amnesic syndrome",Condition,ICD10,ICD10 code,NA,F15.6,5/1/90,12/31/99,NA
+45576515,"Mental and behavioural disorders due to use of other stimulants, including caffeine, dependence syndrome",Condition,ICD10,ICD10 code,NA,F15.2,5/1/90,12/31/99,NA
+45581428,"Mental and behavioural disorders due to use of other stimulants, including caffeine, harmful use",Condition,ICD10,ICD10 code,NA,F15.1,5/1/90,12/31/99,NA
+45586211,"Mental and behavioural disorders due to use of other stimulants, including caffeine, other mental and behavioural disorders",Condition,ICD10,ICD10 code,NA,F15.8,5/1/90,12/31/99,NA
+45755382,"Mental and behavioural disorders due to use of other stimulants, including caffeine, psychotic disorder",Condition,ICD10,ICD10 code,NA,F15.5,5/1/90,12/31/99,NA
+45755383,"Mental and behavioural disorders due to use of other stimulants, including caffeine, residual and late-onset psychotic disorder",Condition,ICD10,ICD10 code,NA,F15.7,5/1/90,12/31/99,NA
+45566803,"Mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder",Condition,ICD10,ICD10 code,NA,F15.9,5/1/90,12/31/99,NA
+45562018,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state",Condition,ICD10,ICD10 code,NA,F15.3,5/1/90,12/31/99,NA
+45586209,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state with delirium",Condition,ICD10,ICD10 code,NA,F15.4,5/1/90,12/31/99,NA
+45538018,Mental and behavioural disorders due to use of sedatives or hypnotics,Condition,ICD10,ICD10 Hierarchy,NA,F13,5/1/90,12/31/99,NA
+45571723,"Mental and behavioural disorders due to use of sedatives or hypnotics, acute intoxication",Condition,ICD10,ICD10 code,NA,F13.0,5/1/90,12/31/99,NA
+45755377,"Mental and behavioural disorders due to use of sedatives or hypnotics, amnesic syndrome",Condition,ICD10,ICD10 code,NA,F13.6,5/1/90,12/31/99,NA
+45600706,"Mental and behavioural disorders due to use of sedatives or hypnotics, dependence syndrome",Condition,ICD10,ICD10 code,NA,F13.2,5/1/90,12/31/99,NA
+45600705,"Mental and behavioural disorders due to use of sedatives or hypnotics, harmful use",Condition,ICD10,ICD10 code,NA,F13.1,5/1/90,12/31/99,NA
+45755378,"Mental and behavioural disorders due to use of sedatives or hypnotics, other mental and behavioural disorders",Condition,ICD10,ICD10 code,NA,F13.8,5/1/90,12/31/99,NA
+45566794,"Mental and behavioural disorders due to use of sedatives or hypnotics, psychotic disorder",Condition,ICD10,ICD10 code,NA,F13.5,5/1/90,12/31/99,NA
+45566795,"Mental and behavioural disorders due to use of sedatives or hypnotics, residual and late-onset psychotic disorder",Condition,ICD10,ICD10 code,NA,F13.7,5/1/90,12/31/99,NA
+45538026,"Mental and behavioural disorders due to use of sedatives or hypnotics, unspecified mental and behavioural disorder",Condition,ICD10,ICD10 code,NA,F13.9,5/1/90,12/31/99,NA
+45755375,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state",Condition,ICD10,ICD10 code,NA,F13.3,5/1/90,12/31/99,NA
+45755376,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state with delirium",Condition,ICD10,ICD10 code,NA,F13.4,5/1/90,12/31/99,NA
+45586218,Mental and behavioural disorders due to use of tobacco,Condition,ICD10,ICD10 Hierarchy,NA,F17,5/1/90,12/31/99,NA
+45600718,"Mental and behavioural disorders due to use of tobacco, acute intoxication",Condition,ICD10,ICD10 code,NA,F17.0,5/1/90,12/31/99,NA
+45542823,"Mental and behavioural disorders due to use of tobacco, amnesic syndrome",Condition,ICD10,ICD10 code,NA,F17.6,5/1/90,12/31/99,NA
+45571740,"Mental and behavioural disorders due to use of tobacco, dependence syndrome",Condition,ICD10,ICD10 code,NA,F17.2,5/1/90,12/31/99,NA
+45571739,"Mental and behavioural disorders due to use of tobacco, harmful use",Condition,ICD10,ICD10 code,NA,F17.1,5/1/90,12/31/99,NA
+45542824,"Mental and behavioural disorders due to use of tobacco, other mental and behavioural disorders",Condition,ICD10,ICD10 code,NA,F17.8,5/1/90,12/31/99,NA
+45542822,"Mental and behavioural disorders due to use of tobacco, psychotic disorder",Condition,ICD10,ICD10 code,NA,F17.5,5/1/90,12/31/99,NA
+45591118,"Mental and behavioural disorders due to use of tobacco, residual and late-onset psychotic disorder",Condition,ICD10,ICD10 code,NA,F17.7,5/1/90,12/31/99,NA
+45542825,"Mental and behavioural disorders due to use of tobacco, unspecified mental and behavioural disorder",Condition,ICD10,ICD10 code,NA,F17.9,5/1/90,12/31/99,NA
+45576522,"Mental and behavioural disorders due to use of tobacco, withdrawal state",Condition,ICD10,ICD10 code,NA,F17.3,5/1/90,12/31/99,NA
+45562026,"Mental and behavioural disorders due to use of tobacco, withdrawal state with delirium",Condition,ICD10,ICD10 code,NA,F17.4,5/1/90,12/31/99,NA
+45547682,Mental and behavioural disorders due to use of volatile solvents,Condition,ICD10,ICD10 Hierarchy,NA,F18,5/1/90,12/31/99,NA
+45533086,"Mental and behavioural disorders due to use of volatile solvents, acute intoxication",Condition,ICD10,ICD10 code,NA,F18.0,5/1/90,12/31/99,NA
+45571745,"Mental and behavioural disorders due to use of volatile solvents, amnesic syndrome",Condition,ICD10,ICD10 code,NA,F18.6,5/1/90,12/31/99,NA
+45586221,"Mental and behavioural disorders due to use of volatile solvents, dependence syndrome",Condition,ICD10,ICD10 code,NA,F18.2,5/1/90,12/31/99,NA
+45605478,"Mental and behavioural disorders due to use of volatile solvents, harmful use",Condition,ICD10,ICD10 code,NA,F18.1,5/1/90,12/31/99,NA
+45600722,"Mental and behavioural disorders due to use of volatile solvents, other mental and behavioural disorders",Condition,ICD10,ICD10 code,NA,F18.8,5/1/90,12/31/99,NA
+45571744,"Mental and behavioural disorders due to use of volatile solvents, psychotic disorder",Condition,ICD10,ICD10 code,NA,F18.5,5/1/90,12/31/99,NA
+45552456,"Mental and behavioural disorders due to use of volatile solvents, residual and late-onset psychotic disorder",Condition,ICD10,ICD10 code,NA,F18.7,5/1/90,12/31/99,NA
+45600723,"Mental and behavioural disorders due to use of volatile solvents, unspecified mental and behavioural disorder",Condition,ICD10,ICD10 code,NA,F18.9,5/1/90,12/31/99,NA
+45586223,"Mental and behavioural disorders due to use of volatile solvents, withdrawal state",Condition,ICD10,ICD10 code,NA,F18.3,5/1/90,12/31/99,NA
+45557186,"Mental and behavioural disorders due to use of volatile solvents, withdrawal state with delirium",Condition,ICD10,ICD10 code,NA,F18.4,5/1/90,12/31/99,NA
+1568096,Alcohol abuse,Condition,ICD10CM,4-char nonbill code,NA,F10.1,1/1/12,12/31/99,NA
+45600693,Alcohol abuse with alcohol-induced anxiety disorder,Condition,ICD10CM,6-char billing code,NA,F10.180,1/1/70,12/31/99,NA
+45581404,Alcohol abuse with alcohol-induced mood disorder,Condition,ICD10CM,5-char billing code,NA,F10.14,1/1/70,12/31/99,NA
+1568098,Alcohol abuse with alcohol-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F10.15,1/1/12,12/31/99,NA
+45600692,Alcohol abuse with alcohol-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F10.150,1/1/70,12/31/99,NA
+45595846,Alcohol abuse with alcohol-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F10.151,1/1/70,12/31/99,NA
+45571707,"Alcohol abuse with alcohol-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F10.159,1/1/70,12/31/99,NA
+45600694,Alcohol abuse with alcohol-induced sexual dysfunction,Condition,ICD10CM,6-char billing code,NA,F10.181,1/1/70,12/31/99,NA
+45538006,Alcohol abuse with alcohol-induced sleep disorder,Condition,ICD10CM,6-char billing code,NA,F10.182,1/1/70,12/31/99,NA
+1568097,Alcohol abuse with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F10.12,1/1/12,12/31/99,NA
+45576493,Alcohol abuse with intoxication delirium,Condition,ICD10CM,6-char billing code,NA,F10.121,1/1/70,12/31/99,NA
+45538005,"Alcohol abuse with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F10.120,1/1/70,12/31/99,NA
+45557154,"Alcohol abuse with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F10.129,1/1/70,12/31/99,NA
+45576494,Alcohol abuse with other alcohol-induced disorder,Condition,ICD10CM,6-char billing code,NA,F10.188,1/1/70,12/31/99,NA
+1568099,Alcohol abuse with other alcohol-induced disorders,Condition,ICD10CM,5-char nonbill code,NA,F10.18,1/1/12,12/31/99,NA
+45576495,Alcohol abuse with unspecified alcohol-induced disorder,Condition,ICD10CM,5-char billing code,NA,F10.19,1/1/70,12/31/99,NA
+725273,Alcohol abuse with withdrawal delirium,Condition,ICD10CM,6-char billing code,NA,F10.131,1/1/21,12/31/99,NA
+725274,Alcohol abuse with withdrawal with perceptual disturbance,Condition,ICD10CM,6-char billing code,NA,F10.132,1/1/21,12/31/99,NA
+725272,"Alcohol abuse with withdrawal, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F10.130,1/1/21,12/31/99,NA
+725275,"Alcohol abuse with withdrawal, unspecified",Condition,ICD10CM,6-char billing code,NA,F10.139,1/1/21,12/31/99,NA
+1326497,"Alcohol abuse, in remission",Condition,ICD10CM,5-char billing code,NA,F10.11,1/1/18,12/31/99,NA
+45595845,"Alcohol abuse, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F10.10,1/1/70,12/31/99,NA
+725271,"Alcohol abuse, with withdrawal",Condition,ICD10CM,5-char nonbill code,NA,F10.13,1/1/21,12/31/99,NA
+1568100,Alcohol dependence,Condition,ICD10CM,4-char nonbill code,NA,F10.2,1/1/12,12/31/99,NA
+45566777,Alcohol dependence with alcohol-induced anxiety disorder,Condition,ICD10CM,6-char billing code,NA,F10.280,1/1/70,12/31/99,NA
+45562002,Alcohol dependence with alcohol-induced mood disorder,Condition,ICD10CM,5-char billing code,NA,F10.24,1/1/70,12/31/99,NA
+45595847,Alcohol dependence with alcohol-induced persisting amnestic disorder,Condition,ICD10CM,5-char billing code,NA,F10.26,1/1/70,12/31/99,NA
+45566776,Alcohol dependence with alcohol-induced persisting dementia,Condition,ICD10CM,5-char billing code,NA,F10.27,1/1/70,12/31/99,NA
+45600695,Alcohol dependence with alcohol-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F10.25,12/30/06,12/31/99,NA
+45562003,Alcohol dependence with alcohol-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F10.250,1/1/70,12/31/99,NA
+45557155,Alcohol dependence with alcohol-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F10.251,1/1/70,12/31/99,NA
+45571708,"Alcohol dependence with alcohol-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F10.259,1/1/70,12/31/99,NA
+45591083,Alcohol dependence with alcohol-induced sexual dysfunction,Condition,ICD10CM,6-char billing code,NA,F10.281,1/1/70,12/31/99,NA
+45600696,Alcohol dependence with alcohol-induced sleep disorder,Condition,ICD10CM,6-char billing code,NA,F10.282,1/1/70,12/31/99,NA
+45591082,Alcohol dependence with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F10.22,12/30/06,12/31/99,NA
+45586189,Alcohol dependence with intoxication delirium,Condition,ICD10CM,6-char billing code,NA,F10.221,1/1/70,12/31/99,NA
+45586188,"Alcohol dependence with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F10.220,1/1/70,12/31/99,NA
+45538007,"Alcohol dependence with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F10.229,1/1/70,12/31/99,NA
+45571709,Alcohol dependence with other alcohol-induced disorder,Condition,ICD10CM,6-char billing code,NA,F10.288,1/1/70,12/31/99,NA
+1568101,Alcohol dependence with other alcohol-induced disorders,Condition,ICD10CM,5-char nonbill code,NA,F10.28,1/1/12,12/31/99,NA
+45591084,Alcohol dependence with unspecified alcohol-induced disorder,Condition,ICD10CM,5-char billing code,NA,F10.29,1/1/70,12/31/99,NA
+45605452,Alcohol dependence with withdrawal,Condition,ICD10CM,5-char nonbill code,NA,F10.23,12/30/06,12/31/99,NA
+45552431,Alcohol dependence with withdrawal delirium,Condition,ICD10CM,6-char billing code,NA,F10.231,1/1/70,12/31/99,NA
+45566775,Alcohol dependence with withdrawal with perceptual disturbance,Condition,ICD10CM,6-char billing code,NA,F10.232,1/1/70,12/31/99,NA
+45586190,"Alcohol dependence with withdrawal, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F10.230,1/1/70,12/31/99,NA
+45533065,"Alcohol dependence with withdrawal, unspecified",Condition,ICD10CM,6-char billing code,NA,F10.239,1/1/70,12/31/99,NA
+45581405,"Alcohol dependence, in remission",Condition,ICD10CM,5-char billing code,NA,F10.21,1/1/70,12/31/99,NA
+45586187,"Alcohol dependence, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F10.20,1/1/70,12/31/99,NA
+1568095,Alcohol related disorders,Condition,ICD10CM,3-char nonbill code,NA,F10,1/1/12,12/31/99,NA
+1568102,"Alcohol use, unspecified",Condition,ICD10CM,4-char nonbill code,NA,F10.9,1/1/12,12/31/99,NA
+45566781,"Alcohol use, unspecified with alcohol-induced anxiety disorder",Condition,ICD10CM,6-char billing code,NA,F10.980,1/1/70,12/31/99,NA
+45542791,"Alcohol use, unspecified with alcohol-induced mood disorder",Condition,ICD10CM,5-char billing code,NA,F10.94,1/1/70,12/31/99,NA
+45566780,"Alcohol use, unspecified with alcohol-induced persisting amnestic disorder",Condition,ICD10CM,5-char billing code,NA,F10.96,1/1/70,12/31/99,NA
+45547675,"Alcohol use, unspecified with alcohol-induced persisting dementia",Condition,ICD10CM,5-char billing code,NA,F10.97,1/1/70,12/31/99,NA
+1568104,"Alcohol use, unspecified with alcohol-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,NA,F10.95,1/1/12,12/31/99,NA
+45566779,"Alcohol use, unspecified with alcohol-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,NA,F10.950,1/1/70,12/31/99,NA
+45591087,"Alcohol use, unspecified with alcohol-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,NA,F10.951,1/1/70,12/31/99,NA
+45586192,"Alcohol use, unspecified with alcohol-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F10.959,1/1/70,12/31/99,NA
+45538009,"Alcohol use, unspecified with alcohol-induced sexual dysfunction",Condition,ICD10CM,6-char billing code,NA,F10.981,1/1/70,12/31/99,NA
+45562005,"Alcohol use, unspecified with alcohol-induced sleep disorder",Condition,ICD10CM,6-char billing code,NA,F10.982,1/1/70,12/31/99,NA
+1568103,"Alcohol use, unspecified with intoxication",Condition,ICD10CM,5-char nonbill code,NA,F10.92,1/1/12,12/31/99,NA
+45566778,"Alcohol use, unspecified with intoxication delirium",Condition,ICD10CM,6-char billing code,NA,F10.921,1/1/70,12/31/99,NA
+45595851,"Alcohol use, unspecified with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F10.920,1/1/70,12/31/99,NA
+45552432,"Alcohol use, unspecified with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F10.929,1/1/70,12/31/99,NA
+45576497,"Alcohol use, unspecified with other alcohol-induced disorder",Condition,ICD10CM,6-char billing code,NA,F10.988,1/1/70,12/31/99,NA
+1568105,"Alcohol use, unspecified with other alcohol-induced disorders",Condition,ICD10CM,5-char nonbill code,NA,F10.98,1/1/12,12/31/99,NA
+45605456,"Alcohol use, unspecified with unspecified alcohol-induced disorder",Condition,ICD10CM,5-char billing code,NA,F10.99,1/1/70,12/31/99,NA
+725276,"Alcohol use, unspecified with withdrawal",Condition,ICD10CM,5-char nonbill code,NA,F10.93,1/1/21,12/31/99,NA
+725278,"Alcohol use, unspecified with withdrawal delirium",Condition,ICD10CM,6-char billing code,NA,F10.931,1/1/21,12/31/99,NA
+725279,"Alcohol use, unspecified with withdrawal with perceptual disturbance",Condition,ICD10CM,6-char billing code,NA,F10.932,1/1/21,12/31/99,NA
+725277,"Alcohol use, unspecified with withdrawal, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F10.930,1/1/21,12/31/99,NA
+725280,"Alcohol use, unspecified with withdrawal, unspecified",Condition,ICD10CM,6-char billing code,NA,F10.939,1/1/21,12/31/99,NA
+37402462,"Alcohol use, unspecified, in remission",Condition,ICD10CM,5-char billing code,NA,F10.91,10/1/22,12/31/99,NA
+37402461,"Alcohol use, unspecified, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F10.90,10/1/22,12/31/99,NA
+1568118,Cannabis abuse,Condition,ICD10CM,4-char nonbill code,NA,F12.1,1/1/12,12/31/99,NA
+45533069,Cannabis abuse with cannabis-induced anxiety disorder,Condition,ICD10CM,6-char billing code,NA,F12.180,1/1/70,12/31/99,NA
+1568119,Cannabis abuse with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F12.12,1/1/12,12/31/99,NA
+45542799,Cannabis abuse with intoxication delirium,Condition,ICD10CM,6-char billing code,NA,F12.121,1/1/70,12/31/99,NA
+45586199,Cannabis abuse with intoxication with perceptual disturbance,Condition,ICD10CM,6-char billing code,NA,F12.122,1/1/70,12/31/99,NA
+45547676,"Cannabis abuse with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F12.120,1/1/70,12/31/99,NA
+45552434,"Cannabis abuse with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F12.129,1/1/70,12/31/99,NA
+1568121,Cannabis abuse with other cannabis-induced disorder,Condition,ICD10CM,5-char nonbill code,NA,F12.18,1/1/12,12/31/99,NA
+45571720,Cannabis abuse with other cannabis-induced disorder,Condition,ICD10CM,6-char billing code,NA,F12.188,1/1/70,12/31/99,NA
+1568120,Cannabis abuse with psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F12.15,1/1/12,12/31/99,NA
+45591096,Cannabis abuse with psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F12.150,1/1/70,12/31/99,NA
+45581413,Cannabis abuse with psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F12.151,1/1/70,12/31/99,NA
+45581414,"Cannabis abuse with psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F12.159,1/1/70,12/31/99,NA
+45552435,Cannabis abuse with unspecified cannabis-induced disorder,Condition,ICD10CM,5-char billing code,NA,F12.19,1/1/70,12/31/99,NA
+725282,Cannabis abuse with withdrawal,Condition,ICD10CM,5-char billing code,NA,F12.13,1/1/21,12/31/99,NA
+1326499,"Cannabis abuse, in remission",Condition,ICD10CM,5-char billing code,NA,F12.11,1/1/18,12/31/99,NA
+45538011,"Cannabis abuse, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F12.10,1/1/70,12/31/99,NA
+1568122,Cannabis dependence,Condition,ICD10CM,4-char nonbill code,NA,F12.2,1/1/12,12/31/99,NA
+45595860,Cannabis dependence with cannabis-induced anxiety disorder,Condition,ICD10CM,6-char billing code,NA,F12.280,1/1/70,12/31/99,NA
+45591098,Cannabis dependence with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F12.22,12/30/06,12/31/99,NA
+45557164,Cannabis dependence with intoxication delirium,Condition,ICD10CM,6-char billing code,NA,F12.221,1/1/70,12/31/99,NA
+45538012,Cannabis dependence with intoxication with perceptual disturbance,Condition,ICD10CM,6-char billing code,NA,F12.222,1/1/70,12/31/99,NA
+45547677,"Cannabis dependence with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F12.220,1/1/70,12/31/99,NA
+45591099,"Cannabis dependence with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F12.229,1/1/70,12/31/99,NA
+1568123,Cannabis dependence with other cannabis-induced disorder,Condition,ICD10CM,5-char nonbill code,NA,F12.28,1/1/12,12/31/99,NA
+45576502,Cannabis dependence with other cannabis-induced disorder,Condition,ICD10CM,6-char billing code,NA,F12.288,1/1/70,12/31/99,NA
+45581416,Cannabis dependence with psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F12.25,12/30/06,12/31/99,NA
+45571721,Cannabis dependence with psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F12.250,1/1/70,12/31/99,NA
+45538013,Cannabis dependence with psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F12.251,1/1/70,12/31/99,NA
+45538014,"Cannabis dependence with psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F12.259,1/1/70,12/31/99,NA
+45557165,Cannabis dependence with unspecified cannabis-induced disorder,Condition,ICD10CM,5-char billing code,NA,F12.29,1/1/70,12/31/99,NA
+1595537,Cannabis dependence with withdrawal,Condition,ICD10CM,5-char billing code,NA,F12.23,1/1/19,12/31/99,NA
+45591097,"Cannabis dependence, in remission",Condition,ICD10CM,5-char billing code,NA,F12.21,1/1/70,12/31/99,NA
+45586200,"Cannabis dependence, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F12.20,1/1/70,12/31/99,NA
+1568117,Cannabis related disorders,Condition,ICD10CM,3-char nonbill code,NA,F12,1/1/12,12/31/99,NA
+1568124,"Cannabis use, unspecified",Condition,ICD10CM,4-char nonbill code,NA,F12.9,1/1/12,12/31/99,NA
+45581417,"Cannabis use, unspecified with anxiety disorder",Condition,ICD10CM,6-char billing code,NA,F12.980,1/1/70,12/31/99,NA
+1568125,"Cannabis use, unspecified with intoxication",Condition,ICD10CM,5-char nonbill code,NA,F12.92,1/1/12,12/31/99,NA
+45595862,"Cannabis use, unspecified with intoxication delirium",Condition,ICD10CM,6-char billing code,NA,F12.921,1/1/70,12/31/99,NA
+45542800,"Cannabis use, unspecified with intoxication with perceptual disturbance",Condition,ICD10CM,6-char billing code,NA,F12.922,1/1/70,12/31/99,NA
+45595861,"Cannabis use, unspecified with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F12.920,1/1/70,12/31/99,NA
+45542801,"Cannabis use, unspecified with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F12.929,1/1/70,12/31/99,NA
+1568127,"Cannabis use, unspecified with other cannabis-induced disorder",Condition,ICD10CM,5-char nonbill code,NA,F12.98,1/1/12,12/31/99,NA
+45605465,"Cannabis use, unspecified with other cannabis-induced disorder",Condition,ICD10CM,6-char billing code,NA,F12.988,1/1/70,12/31/99,NA
+1568126,"Cannabis use, unspecified with psychotic disorder",Condition,ICD10CM,5-char nonbill code,NA,F12.95,1/1/12,12/31/99,NA
+45576504,"Cannabis use, unspecified with psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,NA,F12.950,1/1/70,12/31/99,NA
+45533071,"Cannabis use, unspecified with psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,NA,F12.951,1/1/70,12/31/99,NA
+45566791,"Cannabis use, unspecified with psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F12.959,1/1/70,12/31/99,NA
+45591101,"Cannabis use, unspecified with unspecified cannabis-induced disorder",Condition,ICD10CM,5-char billing code,NA,F12.99,1/1/70,12/31/99,NA
+1595538,"Cannabis use, unspecified with withdrawal",Condition,ICD10CM,5-char billing code,NA,F12.93,1/1/19,12/31/99,NA
+37402464,"Cannabis use, unspecified, in remission",Condition,ICD10CM,5-char billing code,NA,F12.91,10/1/22,12/31/99,NA
+45547678,"Cannabis use, unspecified, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F12.90,1/1/70,12/31/99,NA
+1568142,Cocaine abuse,Condition,ICD10CM,4-char nonbill code,NA,F14.1,1/1/12,12/31/99,NA
+45595872,Cocaine abuse with cocaine-induced anxiety disorder,Condition,ICD10CM,6-char billing code,NA,F14.180,1/1/70,12/31/99,NA
+45538030,Cocaine abuse with cocaine-induced mood disorder,Condition,ICD10CM,5-char billing code,NA,F14.14,1/1/70,12/31/99,NA
+1568144,Cocaine abuse with cocaine-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F14.15,1/1/12,12/31/99,NA
+45533074,Cocaine abuse with cocaine-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F14.150,1/1/70,12/31/99,NA
+45595871,Cocaine abuse with cocaine-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F14.151,1/1/70,12/31/99,NA
+45581424,"Cocaine abuse with cocaine-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F14.159,1/1/70,12/31/99,NA
+45566798,Cocaine abuse with cocaine-induced sexual dysfunction,Condition,ICD10CM,6-char billing code,NA,F14.181,1/1/70,12/31/99,NA
+45557170,Cocaine abuse with cocaine-induced sleep disorder,Condition,ICD10CM,6-char billing code,NA,F14.182,1/1/70,12/31/99,NA
+1568143,Cocaine abuse with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F14.12,1/1/12,12/31/99,NA
+45605467,Cocaine abuse with intoxication with delirium,Condition,ICD10CM,6-char billing code,NA,F14.121,1/1/70,12/31/99,NA
+45538029,Cocaine abuse with intoxication with perceptual disturbance,Condition,ICD10CM,6-char billing code,NA,F14.122,1/1/70,12/31/99,NA
+45557169,"Cocaine abuse with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F14.120,1/1/70,12/31/99,NA
+45586207,"Cocaine abuse with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F14.129,1/1/70,12/31/99,NA
+1568145,Cocaine abuse with other cocaine-induced disorder,Condition,ICD10CM,5-char nonbill code,NA,F14.18,1/1/12,12/31/99,NA
+45571726,Cocaine abuse with other cocaine-induced disorder,Condition,ICD10CM,6-char billing code,NA,F14.188,1/1/70,12/31/99,NA
+45552443,Cocaine abuse with unspecified cocaine-induced disorder,Condition,ICD10CM,5-char billing code,NA,F14.19,1/1/70,12/31/99,NA
+1326501,"Cocaine abuse, in remission",Condition,ICD10CM,5-char billing code,NA,F14.11,1/1/18,12/31/99,NA
+45600707,"Cocaine abuse, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F14.10,1/1/70,12/31/99,NA
+725288,"Cocaine abuse, unspecified with withdrawal",Condition,ICD10CM,5-char billing code,NA,F14.13,1/1/21,12/31/99,NA
+1568146,Cocaine dependence,Condition,ICD10CM,4-char nonbill code,NA,F14.2,1/1/12,12/31/99,NA
+45538033,Cocaine dependence with cocaine-induced anxiety disorder,Condition,ICD10CM,6-char billing code,NA,F14.280,1/1/70,12/31/99,NA
+45571727,Cocaine dependence with cocaine-induced mood disorder,Condition,ICD10CM,5-char billing code,NA,F14.24,1/1/70,12/31/99,NA
+45571728,Cocaine dependence with cocaine-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F14.25,12/30/06,12/31/99,NA
+45605468,Cocaine dependence with cocaine-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F14.250,1/1/70,12/31/99,NA
+45600708,Cocaine dependence with cocaine-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F14.251,1/1/70,12/31/99,NA
+45538032,"Cocaine dependence with cocaine-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F14.259,1/1/70,12/31/99,NA
+45600709,Cocaine dependence with cocaine-induced sexual dysfunction,Condition,ICD10CM,6-char billing code,NA,F14.281,1/1/70,12/31/99,NA
+45542807,Cocaine dependence with cocaine-induced sleep disorder,Condition,ICD10CM,6-char billing code,NA,F14.282,1/1/70,12/31/99,NA
+45562017,Cocaine dependence with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F14.22,12/30/06,12/31/99,NA
+45557171,Cocaine dependence with intoxication delirium,Condition,ICD10CM,6-char billing code,NA,F14.221,1/1/70,12/31/99,NA
+45591104,Cocaine dependence with intoxication with perceptual disturbance,Condition,ICD10CM,6-char billing code,NA,F14.222,1/1/70,12/31/99,NA
+45538031,"Cocaine dependence with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F14.220,1/1/70,12/31/99,NA
+45557172,"Cocaine dependence with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F14.229,1/1/70,12/31/99,NA
+1568147,Cocaine dependence with other cocaine-induced disorder,Condition,ICD10CM,5-char nonbill code,NA,F14.28,1/1/12,12/31/99,NA
+45605469,Cocaine dependence with other cocaine-induced disorder,Condition,ICD10CM,6-char billing code,NA,F14.288,1/1/70,12/31/99,NA
+45566800,Cocaine dependence with unspecified cocaine-induced disorder,Condition,ICD10CM,5-char billing code,NA,F14.29,1/1/70,12/31/99,NA
+45557173,Cocaine dependence with withdrawal,Condition,ICD10CM,5-char billing code,NA,F14.23,1/1/70,12/31/99,NA
+45581425,"Cocaine dependence, in remission",Condition,ICD10CM,5-char billing code,NA,F14.21,1/1/70,12/31/99,NA
+45566799,"Cocaine dependence, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F14.20,1/1/70,12/31/99,NA
+1568141,Cocaine related disorders,Condition,ICD10CM,3-char nonbill code,NA,F14,1/1/12,12/31/99,NA
+1568148,"Cocaine use, unspecified",Condition,ICD10CM,4-char nonbill code,NA,F14.9,1/1/12,12/31/99,NA
+45586208,"Cocaine use, unspecified with cocaine-induced anxiety disorder",Condition,ICD10CM,6-char billing code,NA,F14.980,1/1/70,12/31/99,NA
+45542808,"Cocaine use, unspecified with cocaine-induced mood disorder",Condition,ICD10CM,5-char billing code,NA,F14.94,1/1/70,12/31/99,NA
+1568150,"Cocaine use, unspecified with cocaine-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,NA,F14.95,1/1/12,12/31/99,NA
+45533076,"Cocaine use, unspecified with cocaine-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,NA,F14.950,1/1/70,12/31/99,NA
+45533077,"Cocaine use, unspecified with cocaine-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,NA,F14.951,1/1/70,12/31/99,NA
+45557176,"Cocaine use, unspecified with cocaine-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F14.959,1/1/70,12/31/99,NA
+45557177,"Cocaine use, unspecified with cocaine-induced sexual dysfunction",Condition,ICD10CM,6-char billing code,NA,F14.981,1/1/70,12/31/99,NA
+45576511,"Cocaine use, unspecified with cocaine-induced sleep disorder",Condition,ICD10CM,6-char billing code,NA,F14.982,1/1/70,12/31/99,NA
+1568149,"Cocaine use, unspecified with intoxication",Condition,ICD10CM,5-char nonbill code,NA,F14.92,1/1/12,12/31/99,NA
+45538034,"Cocaine use, unspecified with intoxication delirium",Condition,ICD10CM,6-char billing code,NA,F14.921,1/1/70,12/31/99,NA
+45538035,"Cocaine use, unspecified with intoxication with perceptual disturbance",Condition,ICD10CM,6-char billing code,NA,F14.922,1/1/70,12/31/99,NA
+45576510,"Cocaine use, unspecified with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F14.920,1/1/70,12/31/99,NA
+45557175,"Cocaine use, unspecified with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F14.929,1/1/70,12/31/99,NA
+45552444,"Cocaine use, unspecified with other cocaine-induced disorder",Condition,ICD10CM,6-char billing code,NA,F14.988,1/1/70,12/31/99,NA
+1568151,"Cocaine use, unspecified with other specified cocaine-induced disorder",Condition,ICD10CM,5-char nonbill code,NA,F14.98,1/1/12,12/31/99,NA
+45576512,"Cocaine use, unspecified with unspecified cocaine-induced disorder",Condition,ICD10CM,5-char billing code,NA,F14.99,1/1/70,12/31/99,NA
+725289,"Cocaine use, unspecified with withdrawal",Condition,ICD10CM,5-char billing code,NA,F14.93,1/1/21,12/31/99,NA
+37402466,"Cocaine use, unspecified, in remission",Condition,ICD10CM,5-char billing code,NA,F14.91,10/1/22,12/31/99,NA
+45557174,"Cocaine use, unspecified, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F14.90,1/1/70,12/31/99,NA
+1568165,Hallucinogen abuse,Condition,ICD10CM,4-char nonbill code,NA,F16.1,1/1/12,12/31/99,NA
+45600715,Hallucinogen abuse with hallucinogen persisting perception disorder (flashbacks),Condition,ICD10CM,6-char billing code,NA,F16.183,1/1/70,12/31/99,NA
+45566808,Hallucinogen abuse with hallucinogen-induced anxiety disorder,Condition,ICD10CM,6-char billing code,NA,F16.180,1/1/70,12/31/99,NA
+45605474,Hallucinogen abuse with hallucinogen-induced mood disorder,Condition,ICD10CM,5-char billing code,NA,F16.14,1/1/70,12/31/99,NA
+1568167,Hallucinogen abuse with hallucinogen-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F16.15,1/1/12,12/31/99,NA
+45562020,Hallucinogen abuse with hallucinogen-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F16.150,1/1/70,12/31/99,NA
+45595879,Hallucinogen abuse with hallucinogen-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F16.151,1/1/70,12/31/99,NA
+45552449,"Hallucinogen abuse with hallucinogen-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F16.159,1/1/70,12/31/99,NA
+1568166,Hallucinogen abuse with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F16.12,1/1/12,12/31/99,NA
+45533080,Hallucinogen abuse with intoxication with delirium,Condition,ICD10CM,6-char billing code,NA,F16.121,1/1/70,12/31/99,NA
+45600714,Hallucinogen abuse with intoxication with perceptual disturbance,Condition,ICD10CM,6-char billing code,NA,F16.122,1/1/70,12/31/99,NA
+45538042,"Hallucinogen abuse with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F16.120,1/1/70,12/31/99,NA
+45552448,"Hallucinogen abuse with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F16.129,1/1/70,12/31/99,NA
+1568168,Hallucinogen abuse with other hallucinogen-induced disorder,Condition,ICD10CM,5-char nonbill code,NA,F16.18,1/1/12,12/31/99,NA
+45552450,Hallucinogen abuse with other hallucinogen-induced disorder,Condition,ICD10CM,6-char billing code,NA,F16.188,1/1/70,12/31/99,NA
+45576518,Hallucinogen abuse with unspecified hallucinogen-induced disorder,Condition,ICD10CM,5-char billing code,NA,F16.19,1/1/70,12/31/99,NA
+1326503,"Hallucinogen abuse, in remission",Condition,ICD10CM,5-char billing code,NA,F16.11,1/1/18,12/31/99,NA
+45538041,"Hallucinogen abuse, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F16.10,1/1/70,12/31/99,NA
+1568169,Hallucinogen dependence,Condition,ICD10CM,4-char nonbill code,NA,F16.2,1/1/12,12/31/99,NA
+45595880,Hallucinogen dependence with hallucinogen persisting perception disorder (flashbacks),Condition,ICD10CM,6-char billing code,NA,F16.283,1/1/70,12/31/99,NA
+45571736,Hallucinogen dependence with hallucinogen-induced anxiety disorder,Condition,ICD10CM,6-char billing code,NA,F16.280,1/1/70,12/31/99,NA
+45581432,Hallucinogen dependence with hallucinogen-induced mood disorder,Condition,ICD10CM,5-char billing code,NA,F16.24,1/1/70,12/31/99,NA
+1568171,Hallucinogen dependence with hallucinogen-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F16.25,1/1/12,12/31/99,NA
+45591113,Hallucinogen dependence with hallucinogen-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F16.250,1/1/70,12/31/99,NA
+45562021,Hallucinogen dependence with hallucinogen-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F16.251,1/1/70,12/31/99,NA
+45571735,"Hallucinogen dependence with hallucinogen-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F16.259,1/1/70,12/31/99,NA
+1568170,Hallucinogen dependence with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F16.22,1/1/12,12/31/99,NA
+45533081,Hallucinogen dependence with intoxication with delirium,Condition,ICD10CM,6-char billing code,NA,F16.221,1/1/70,12/31/99,NA
+45542816,"Hallucinogen dependence with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F16.220,1/1/70,12/31/99,NA
+45586216,"Hallucinogen dependence with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F16.229,1/1/70,12/31/99,NA
+1568172,Hallucinogen dependence with other hallucinogen-induced disorder,Condition,ICD10CM,5-char nonbill code,NA,F16.28,1/1/12,12/31/99,NA
+45552451,Hallucinogen dependence with other hallucinogen-induced disorder,Condition,ICD10CM,6-char billing code,NA,F16.288,1/1/70,12/31/99,NA
+45538043,Hallucinogen dependence with unspecified hallucinogen-induced disorder,Condition,ICD10CM,5-char billing code,NA,F16.29,1/1/70,12/31/99,NA
+45571734,"Hallucinogen dependence, in remission",Condition,ICD10CM,5-char billing code,NA,F16.21,1/1/70,12/31/99,NA
+45576519,"Hallucinogen dependence, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F16.20,1/1/70,12/31/99,NA
+1568164,Hallucinogen related disorders,Condition,ICD10CM,3-char nonbill code,NA,F16,1/1/12,12/31/99,NA
+1568173,"Hallucinogen use, unspecified",Condition,ICD10CM,4-char nonbill code,NA,F16.9,1/1/12,12/31/99,NA
+45581434,"Hallucinogen use, unspecified with hallucinogen persisting perception disorder (flashbacks)",Condition,ICD10CM,6-char billing code,NA,F16.983,1/1/70,12/31/99,NA
+45552452,"Hallucinogen use, unspecified with hallucinogen-induced anxiety disorder",Condition,ICD10CM,6-char billing code,NA,F16.980,1/1/70,12/31/99,NA
+45562024,"Hallucinogen use, unspecified with hallucinogen-induced mood disorder",Condition,ICD10CM,5-char billing code,NA,F16.94,1/1/70,12/31/99,NA
+1568175,"Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,NA,F16.95,1/1/12,12/31/99,NA
+45542819,"Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,NA,F16.950,1/1/70,12/31/99,NA
+45542820,"Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,NA,F16.951,1/1/70,12/31/99,NA
+45571738,"Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F16.959,1/1/70,12/31/99,NA
+1568174,"Hallucinogen use, unspecified with intoxication",Condition,ICD10CM,5-char nonbill code,NA,F16.92,1/1/12,12/31/99,NA
+45586217,"Hallucinogen use, unspecified with intoxication with delirium",Condition,ICD10CM,6-char billing code,NA,F16.921,1/1/70,12/31/99,NA
+45566809,"Hallucinogen use, unspecified with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F16.920,1/1/70,12/31/99,NA
+45542818,"Hallucinogen use, unspecified with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F16.929,1/1/70,12/31/99,NA
+45538045,"Hallucinogen use, unspecified with other hallucinogen-induced disorder",Condition,ICD10CM,6-char billing code,NA,F16.988,1/1/70,12/31/99,NA
+1568176,"Hallucinogen use, unspecified with other specified hallucinogen-induced disorder",Condition,ICD10CM,5-char nonbill code,NA,F16.98,1/1/12,12/31/99,NA
+45591114,"Hallucinogen use, unspecified with unspecified hallucinogen-induced disorder",Condition,ICD10CM,5-char billing code,NA,F16.99,1/1/70,12/31/99,NA
+37402468,"Hallucinogen use, unspecified, in remission",Condition,ICD10CM,5-char billing code,NA,F16.91,10/1/22,12/31/99,NA
+45605475,"Hallucinogen use, unspecified, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F16.90,1/1/70,12/31/99,NA
+1568182,Inhalant abuse,Condition,ICD10CM,4-char nonbill code,NA,F18.1,1/1/12,12/31/99,NA
+45566813,Inhalant abuse with inhalant-induced anxiety disorder,Condition,ICD10CM,6-char billing code,NA,F18.180,1/1/70,12/31/99,NA
+45566812,Inhalant abuse with inhalant-induced dementia,Condition,ICD10CM,5-char billing code,NA,F18.17,1/1/70,12/31/99,NA
+45595887,Inhalant abuse with inhalant-induced mood disorder,Condition,ICD10CM,5-char billing code,NA,F18.14,1/1/70,12/31/99,NA
+1568184,Inhalant abuse with inhalant-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F18.15,1/1/12,12/31/99,NA
+45605480,Inhalant abuse with inhalant-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F18.150,1/1/70,12/31/99,NA
+45581437,Inhalant abuse with inhalant-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F18.151,1/1/70,12/31/99,NA
+45547683,"Inhalant abuse with inhalant-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F18.159,1/1/70,12/31/99,NA
+1568183,Inhalant abuse with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F18.12,1/1/12,12/31/99,NA
+45538048,Inhalant abuse with intoxication delirium,Condition,ICD10CM,6-char billing code,NA,F18.121,1/1/70,12/31/99,NA
+45557182,"Inhalant abuse with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F18.120,1/1/70,12/31/99,NA
+45605479,"Inhalant abuse with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F18.129,1/1/70,12/31/99,NA
+45557183,Inhalant abuse with other inhalant-induced disorder,Condition,ICD10CM,6-char billing code,NA,F18.188,1/1/70,12/31/99,NA
+1568185,Inhalant abuse with other inhalant-induced disorders,Condition,ICD10CM,5-char nonbill code,NA,F18.18,1/1/12,12/31/99,NA
+45595888,Inhalant abuse with unspecified inhalant-induced disorder,Condition,ICD10CM,5-char billing code,NA,F18.19,1/1/70,12/31/99,NA
+1326504,"Inhalant abuse, in remission",Condition,ICD10CM,5-char billing code,NA,F18.11,1/1/18,12/31/99,NA
+45566811,"Inhalant abuse, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F18.10,1/1/70,12/31/99,NA
+1568186,Inhalant dependence,Condition,ICD10CM,4-char nonbill code,NA,F18.2,1/1/12,12/31/99,NA
+45586222,Inhalant dependence with inhalant-induced anxiety disorder,Condition,ICD10CM,6-char billing code,NA,F18.280,1/1/70,12/31/99,NA
+45547684,Inhalant dependence with inhalant-induced dementia,Condition,ICD10CM,5-char billing code,NA,F18.27,1/1/70,12/31/99,NA
+45562028,Inhalant dependence with inhalant-induced mood disorder,Condition,ICD10CM,5-char billing code,NA,F18.24,1/1/70,12/31/99,NA
+1568188,Inhalant dependence with inhalant-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F18.25,1/1/12,12/31/99,NA
+45533087,Inhalant dependence with inhalant-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F18.250,1/1/70,12/31/99,NA
+45542827,Inhalant dependence with inhalant-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F18.251,1/1/70,12/31/99,NA
+45591120,"Inhalant dependence with inhalant-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F18.259,1/1/70,12/31/99,NA
+1568187,Inhalant dependence with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F18.22,1/1/12,12/31/99,NA
+45576524,Inhalant dependence with intoxication delirium,Condition,ICD10CM,6-char billing code,NA,F18.221,1/1/70,12/31/99,NA
+45557184,"Inhalant dependence with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F18.220,1/1/70,12/31/99,NA
+45542826,"Inhalant dependence with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F18.229,1/1/70,12/31/99,NA
+45557185,Inhalant dependence with other inhalant-induced disorder,Condition,ICD10CM,6-char billing code,NA,F18.288,1/1/70,12/31/99,NA
+1568189,Inhalant dependence with other inhalant-induced disorders,Condition,ICD10CM,5-char nonbill code,NA,F18.28,1/1/12,12/31/99,NA
+45600721,Inhalant dependence with unspecified inhalant-induced disorder,Condition,ICD10CM,5-char billing code,NA,F18.29,1/1/70,12/31/99,NA
+45576523,"Inhalant dependence, in remission",Condition,ICD10CM,5-char billing code,NA,F18.21,1/1/70,12/31/99,NA
+45562027,"Inhalant dependence, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F18.20,1/1/70,12/31/99,NA
+1568181,Inhalant related disorders,Condition,ICD10CM,3-char nonbill code,NA,F18,1/1/12,12/31/99,NA
+1568190,"Inhalant use, unspecified",Condition,ICD10CM,4-char nonbill code,NA,F18.9,1/1/12,12/31/99,NA
+45595889,"Inhalant use, unspecified with inhalant-induced anxiety disorder",Condition,ICD10CM,6-char billing code,NA,F18.980,1/1/70,12/31/99,NA
+45557187,"Inhalant use, unspecified with inhalant-induced mood disorder",Condition,ICD10CM,5-char billing code,NA,F18.94,1/1/70,12/31/99,NA
+45552458,"Inhalant use, unspecified with inhalant-induced persisting dementia",Condition,ICD10CM,5-char billing code,NA,F18.97,1/1/70,12/31/99,NA
+1568192,"Inhalant use, unspecified with inhalant-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,NA,F18.95,1/1/12,12/31/99,NA
+45552457,"Inhalant use, unspecified with inhalant-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,NA,F18.950,1/1/70,12/31/99,NA
+45547685,"Inhalant use, unspecified with inhalant-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,NA,F18.951,1/1/70,12/31/99,NA
+45605481,"Inhalant use, unspecified with inhalant-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F18.959,1/1/70,12/31/99,NA
+1568191,"Inhalant use, unspecified with intoxication",Condition,ICD10CM,5-char nonbill code,NA,F18.92,1/1/12,12/31/99,NA
+45600724,"Inhalant use, unspecified with intoxication with delirium",Condition,ICD10CM,6-char billing code,NA,F18.921,1/1/70,12/31/99,NA
+45566816,"Inhalant use, unspecified with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F18.920,1/1/70,12/31/99,NA
+45538050,"Inhalant use, unspecified with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F18.929,1/1/70,12/31/99,NA
+45547686,"Inhalant use, unspecified with other inhalant-induced disorder",Condition,ICD10CM,6-char billing code,NA,F18.988,1/1/70,12/31/99,NA
+1568193,"Inhalant use, unspecified with other inhalant-induced disorders",Condition,ICD10CM,5-char nonbill code,NA,F18.98,1/1/12,12/31/99,NA
+45586224,"Inhalant use, unspecified with unspecified inhalant-induced disorder",Condition,ICD10CM,5-char billing code,NA,F18.99,1/1/70,12/31/99,NA
+37402469,"Inhalant use, unspecified, in remission",Condition,ICD10CM,5-char billing code,NA,F18.91,10/1/22,12/31/99,NA
+45566815,"Inhalant use, unspecified, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F18.90,1/1/70,12/31/99,NA
+1568177,Nicotine dependence,Condition,ICD10CM,3-char nonbill code,NA,F17,1/1/12,12/31/99,NA
+1568178,Nicotine dependence,Condition,ICD10CM,4-char nonbill code,NA,F17.2,1/1/12,12/31/99,NA
+45571741,"Nicotine dependence unspecified, with withdrawal",Condition,ICD10CM,6-char billing code,NA,F17.203,1/1/70,12/31/99,NA
+45591117,"Nicotine dependence, chewing tobacco",Condition,ICD10CM,5-char nonbill code,NA,F17.22,12/30/06,12/31/99,NA
+45605476,"Nicotine dependence, chewing tobacco, in remission",Condition,ICD10CM,6-char billing code,NA,F17.221,1/1/70,12/31/99,NA
+45586220,"Nicotine dependence, chewing tobacco, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F17.220,1/1/70,12/31/99,NA
+45552453,"Nicotine dependence, chewing tobacco, with other nicotine-induced disorders",Condition,ICD10CM,6-char billing code,NA,F17.228,1/1/70,12/31/99,NA
+45571742,"Nicotine dependence, chewing tobacco, with unspecified nicotine-induced disorders",Condition,ICD10CM,6-char billing code,NA,F17.229,1/1/70,12/31/99,NA
+45566810,"Nicotine dependence, chewing tobacco, with withdrawal",Condition,ICD10CM,6-char billing code,NA,F17.223,1/1/70,12/31/99,NA
+1568179,"Nicotine dependence, cigarettes",Condition,ICD10CM,5-char nonbill code,NA,F17.21,1/1/12,12/31/99,NA
+45576521,"Nicotine dependence, cigarettes, in remission",Condition,ICD10CM,6-char billing code,NA,F17.211,1/1/70,12/31/99,NA
+45562025,"Nicotine dependence, cigarettes, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F17.210,1/1/70,12/31/99,NA
+45542821,"Nicotine dependence, cigarettes, with other nicotine-induced disorders",Condition,ICD10CM,6-char billing code,NA,F17.218,1/1/70,12/31/99,NA
+45595885,"Nicotine dependence, cigarettes, with unspecified nicotine-induced disorders",Condition,ICD10CM,6-char billing code,NA,F17.219,1/1/70,12/31/99,NA
+45591116,"Nicotine dependence, cigarettes, with withdrawal",Condition,ICD10CM,6-char billing code,NA,F17.213,1/1/70,12/31/99,NA
+1568180,"Nicotine dependence, other tobacco product",Condition,ICD10CM,5-char nonbill code,NA,F17.29,1/1/12,12/31/99,NA
+45571743,"Nicotine dependence, other tobacco product, in remission",Condition,ICD10CM,6-char billing code,NA,F17.291,1/1/70,12/31/99,NA
+45600719,"Nicotine dependence, other tobacco product, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F17.290,1/1/70,12/31/99,NA
+45600720,"Nicotine dependence, other tobacco product, with other nicotine-induced disorders",Condition,ICD10CM,6-char billing code,NA,F17.298,1/1/70,12/31/99,NA
+45533085,"Nicotine dependence, other tobacco product, with unspecified nicotine-induced disorders",Condition,ICD10CM,6-char billing code,NA,F17.299,1/1/70,12/31/99,NA
+45552454,"Nicotine dependence, other tobacco product, with withdrawal",Condition,ICD10CM,6-char billing code,NA,F17.293,1/1/70,12/31/99,NA
+45538046,"Nicotine dependence, unspecified",Condition,ICD10CM,5-char nonbill code,NA,F17.20,12/30/06,12/31/99,NA
+45591115,"Nicotine dependence, unspecified, in remission",Condition,ICD10CM,6-char billing code,NA,F17.201,1/1/70,12/31/99,NA
+45595884,"Nicotine dependence, unspecified, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F17.200,1/1/70,12/31/99,NA
+45586219,"Nicotine dependence, unspecified, with other nicotine-induced disorders",Condition,ICD10CM,6-char billing code,NA,F17.208,1/1/70,12/31/99,NA
+45581435,"Nicotine dependence, unspecified, with unspecified nicotine-induced disorders",Condition,ICD10CM,6-char billing code,NA,F17.209,1/1/70,12/31/99,NA
+1568107,Opioid abuse,Condition,ICD10CM,4-char nonbill code,NA,F11.1,1/1/12,12/31/99,NA
+1568108,Opioid abuse with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F11.12,1/1/12,12/31/99,NA
+45571712,Opioid abuse with intoxication delirium,Condition,ICD10CM,6-char billing code,NA,F11.121,1/1/70,12/31/99,NA
+45600697,Opioid abuse with intoxication with perceptual disturbance,Condition,ICD10CM,6-char billing code,NA,F11.122,1/1/70,12/31/99,NA
+45542792,"Opioid abuse with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F11.120,1/1/70,12/31/99,NA
+45581409,"Opioid abuse with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F11.129,1/1/70,12/31/99,NA
+45566782,Opioid abuse with opioid-induced mood disorder,Condition,ICD10CM,5-char billing code,NA,F11.14,1/1/70,12/31/99,NA
+1568109,Opioid abuse with opioid-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F11.15,1/1/12,12/31/99,NA
+45576499,Opioid abuse with opioid-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F11.150,1/1/70,12/31/99,NA
+45571713,Opioid abuse with opioid-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F11.151,1/1/70,12/31/99,NA
+45562007,"Opioid abuse with opioid-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F11.159,1/1/70,12/31/99,NA
+45542793,Opioid abuse with opioid-induced sexual dysfunction,Condition,ICD10CM,6-char billing code,NA,F11.181,1/1/70,12/31/99,NA
+45571714,Opioid abuse with opioid-induced sleep disorder,Condition,ICD10CM,6-char billing code,NA,F11.182,1/1/70,12/31/99,NA
+1568110,Opioid abuse with other opioid-induced disorder,Condition,ICD10CM,5-char nonbill code,NA,F11.18,1/1/12,12/31/99,NA
+45542794,Opioid abuse with other opioid-induced disorder,Condition,ICD10CM,6-char billing code,NA,F11.188,1/1/70,12/31/99,NA
+45576500,Opioid abuse with unspecified opioid-induced disorder,Condition,ICD10CM,5-char billing code,NA,F11.19,1/1/70,12/31/99,NA
+725281,Opioid abuse with withdrawal,Condition,ICD10CM,5-char billing code,NA,F11.13,1/1/21,12/31/99,NA
+1326498,"Opioid abuse, in remission",Condition,ICD10CM,5-char billing code,NA,F11.11,1/1/18,12/31/99,NA
+45605458,"Opioid abuse, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F11.10,1/1/70,12/31/99,NA
+1568111,Opioid dependence,Condition,ICD10CM,4-char nonbill code,NA,F11.2,1/1/12,12/31/99,NA
+45581410,Opioid dependence with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F11.22,12/30/06,12/31/99,NA
+45542796,Opioid dependence with intoxication delirium,Condition,ICD10CM,6-char billing code,NA,F11.221,1/1/70,12/31/99,NA
+45581411,Opioid dependence with intoxication with perceptual disturbance,Condition,ICD10CM,6-char billing code,NA,F11.222,1/1/70,12/31/99,NA
+45542795,"Opioid dependence with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F11.220,1/1/70,12/31/99,NA
+45557159,"Opioid dependence with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F11.229,1/1/70,12/31/99,NA
+45605460,Opioid dependence with opioid-induced mood disorder,Condition,ICD10CM,5-char billing code,NA,F11.24,1/1/70,12/31/99,NA
+45566783,Opioid dependence with opioid-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F11.25,12/30/06,12/31/99,NA
+45595854,Opioid dependence with opioid-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F11.250,1/1/70,12/31/99,NA
+45591090,Opioid dependence with opioid-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F11.251,1/1/70,12/31/99,NA
+45566784,"Opioid dependence with opioid-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F11.259,1/1/70,12/31/99,NA
+45591091,Opioid dependence with opioid-induced sexual dysfunction,Condition,ICD10CM,6-char billing code,NA,F11.281,1/1/70,12/31/99,NA
+45533067,Opioid dependence with opioid-induced sleep disorder,Condition,ICD10CM,6-char billing code,NA,F11.282,1/1/70,12/31/99,NA
+1568112,Opioid dependence with other opioid-induced disorder,Condition,ICD10CM,5-char nonbill code,NA,F11.28,1/1/12,12/31/99,NA
+45566785,Opioid dependence with other opioid-induced disorder,Condition,ICD10CM,6-char billing code,NA,F11.288,1/1/70,12/31/99,NA
+45605461,Opioid dependence with unspecified opioid-induced disorder,Condition,ICD10CM,5-char billing code,NA,F11.29,1/1/70,12/31/99,NA
+45557160,Opioid dependence with withdrawal,Condition,ICD10CM,5-char billing code,NA,F11.23,1/1/70,12/31/99,NA
+45605459,"Opioid dependence, in remission",Condition,ICD10CM,5-char billing code,NA,F11.21,1/1/70,12/31/99,NA
+45586193,"Opioid dependence, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F11.20,1/1/70,12/31/99,NA
+1568106,Opioid related disorders,Condition,ICD10CM,3-char nonbill code,NA,F11,1/1/12,12/31/99,NA
+1568113,"Opioid use, unspecified",Condition,ICD10CM,4-char nonbill code,NA,F11.9,1/1/12,12/31/99,NA
+1568114,"Opioid use, unspecified with intoxication",Condition,ICD10CM,5-char nonbill code,NA,F11.92,1/1/12,12/31/99,NA
+45566786,"Opioid use, unspecified with intoxication delirium",Condition,ICD10CM,6-char billing code,NA,F11.921,1/1/70,12/31/99,NA
+45566787,"Opioid use, unspecified with intoxication with perceptual disturbance",Condition,ICD10CM,6-char billing code,NA,F11.922,1/1/70,12/31/99,NA
+45542797,"Opioid use, unspecified with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F11.920,1/1/70,12/31/99,NA
+45576501,"Opioid use, unspecified with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F11.929,1/1/70,12/31/99,NA
+45586198,"Opioid use, unspecified with opioid-induced mood disorder",Condition,ICD10CM,5-char billing code,NA,F11.94,1/1/70,12/31/99,NA
+1568115,"Opioid use, unspecified with opioid-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,NA,F11.95,1/1/12,12/31/99,NA
+45591095,"Opioid use, unspecified with opioid-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,NA,F11.950,1/1/70,12/31/99,NA
+45605464,"Opioid use, unspecified with opioid-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,NA,F11.951,1/1/70,12/31/99,NA
+45595856,"Opioid use, unspecified with opioid-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F11.959,1/1/70,12/31/99,NA
+45557162,"Opioid use, unspecified with opioid-induced sexual dysfunction",Condition,ICD10CM,6-char billing code,NA,F11.981,1/1/70,12/31/99,NA
+45542798,"Opioid use, unspecified with opioid-induced sleep disorder",Condition,ICD10CM,6-char billing code,NA,F11.982,1/1/70,12/31/99,NA
+45595857,"Opioid use, unspecified with other opioid-induced disorder",Condition,ICD10CM,6-char billing code,NA,F11.988,1/1/70,12/31/99,NA
+1568116,"Opioid use, unspecified with other specified opioid-induced disorder",Condition,ICD10CM,5-char nonbill code,NA,F11.98,1/1/12,12/31/99,NA
+45533068,"Opioid use, unspecified with unspecified opioid-induced disorder",Condition,ICD10CM,5-char billing code,NA,F11.99,1/1/70,12/31/99,NA
+45586197,"Opioid use, unspecified with withdrawal",Condition,ICD10CM,5-char billing code,NA,F11.93,1/1/70,12/31/99,NA
+37402463,"Opioid use, unspecified, in remission",Condition,ICD10CM,5-char billing code,NA,F11.91,10/1/22,12/31/99,NA
+45586196,"Opioid use, unspecified, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F11.90,1/1/70,12/31/99,NA
+1568195,Other psychoactive substance abuse,Condition,ICD10CM,4-char nonbill code,NA,F19.1,1/1/12,12/31/99,NA
+1568196,Other psychoactive substance abuse with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F19.12,1/1/12,12/31/99,NA
+45533089,Other psychoactive substance abuse with intoxication delirium,Condition,ICD10CM,6-char billing code,NA,F19.121,1/1/70,12/31/99,NA
+45605482,Other psychoactive substance abuse with intoxication with perceptual disturbances,Condition,ICD10CM,6-char billing code,NA,F19.122,1/1/70,12/31/99,NA
+45600725,"Other psychoactive substance abuse with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F19.120,1/1/70,12/31/99,NA
+45552460,"Other psychoactive substance abuse with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F19.129,1/1/70,12/31/99,NA
+45595891,Other psychoactive substance abuse with other psychoactive substance-induced disorder,Condition,ICD10CM,6-char billing code,NA,F19.188,1/1/70,12/31/99,NA
+1568198,Other psychoactive substance abuse with other psychoactive substance-induced disorders,Condition,ICD10CM,5-char nonbill code,NA,F19.18,1/1/12,12/31/99,NA
+45562031,Other psychoactive substance abuse with psychoactive substance-induced anxiety disorder,Condition,ICD10CM,6-char billing code,NA,F19.180,1/1/70,12/31/99,NA
+45542829,Other psychoactive substance abuse with psychoactive substance-induced mood disorder,Condition,ICD10CM,5-char billing code,NA,F19.14,1/1/70,12/31/99,NA
+45595890,Other psychoactive substance abuse with psychoactive substance-induced persisting amnestic disorder,Condition,ICD10CM,5-char billing code,NA,F19.16,1/1/70,12/31/99,NA
+45581438,Other psychoactive substance abuse with psychoactive substance-induced persisting dementia,Condition,ICD10CM,5-char billing code,NA,F19.17,1/1/70,12/31/99,NA
+1568197,Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F19.15,1/1/12,12/31/99,NA
+45566818,Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F19.150,1/1/70,12/31/99,NA
+45600726,Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F19.151,1/1/70,12/31/99,NA
+45562030,"Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F19.159,1/1/70,12/31/99,NA
+45576526,Other psychoactive substance abuse with psychoactive substance-induced sexual dysfunction,Condition,ICD10CM,6-char billing code,NA,F19.181,1/1/70,12/31/99,NA
+45605483,Other psychoactive substance abuse with psychoactive substance-induced sleep disorder,Condition,ICD10CM,6-char billing code,NA,F19.182,1/1/70,12/31/99,NA
+45566819,Other psychoactive substance abuse with unspecified psychoactive substance-induced disorder,Condition,ICD10CM,5-char billing code,NA,F19.19,1/1/70,12/31/99,NA
+725291,Other psychoactive substance abuse with withdrawal,Condition,ICD10CM,5-char nonbill code,NA,F19.13,1/1/21,12/31/99,NA
+725293,Other psychoactive substance abuse with withdrawal delirium,Condition,ICD10CM,6-char billing code,NA,F19.131,1/1/21,12/31/99,NA
+725294,Other psychoactive substance abuse with withdrawal with perceptual disturbance,Condition,ICD10CM,6-char billing code,NA,F19.132,1/1/21,12/31/99,NA
+725292,"Other psychoactive substance abuse with withdrawal, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F19.130,1/1/21,12/31/99,NA
+725295,"Other psychoactive substance abuse with withdrawal, unspecified",Condition,ICD10CM,6-char billing code,NA,F19.139,1/1/21,12/31/99,NA
+1326505,"Other psychoactive substance abuse, in remission",Condition,ICD10CM,5-char billing code,NA,F19.11,1/1/18,12/31/99,NA
+45533088,"Other psychoactive substance abuse, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F19.10,1/1/70,12/31/99,NA
+1568199,Other psychoactive substance dependence,Condition,ICD10CM,4-char nonbill code,NA,F19.2,1/1/12,12/31/99,NA
+45586226,Other psychoactive substance dependence with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F19.22,12/30/06,12/31/99,NA
+45591122,Other psychoactive substance dependence with intoxication delirium,Condition,ICD10CM,6-char billing code,NA,F19.221,1/1/70,12/31/99,NA
+45547687,Other psychoactive substance dependence with intoxication with perceptual disturbance,Condition,ICD10CM,6-char billing code,NA,F19.222,1/1/70,12/31/99,NA
+45586227,"Other psychoactive substance dependence with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F19.220,1/1/70,12/31/99,NA
+45600727,"Other psychoactive substance dependence with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F19.229,1/1/70,12/31/99,NA
+45562033,Other psychoactive substance dependence with other psychoactive substance-induced disorder,Condition,ICD10CM,6-char billing code,NA,F19.288,1/1/70,12/31/99,NA
+1568200,Other psychoactive substance dependence with other psychoactive substance-induced disorders,Condition,ICD10CM,5-char nonbill code,NA,F19.28,1/1/12,12/31/99,NA
+45591124,Other psychoactive substance dependence with psychoactive substance-induced anxiety disorder,Condition,ICD10CM,6-char billing code,NA,F19.280,1/1/70,12/31/99,NA
+45600729,Other psychoactive substance dependence with psychoactive substance-induced mood disorder,Condition,ICD10CM,5-char billing code,NA,F19.24,1/1/70,12/31/99,NA
+45542833,Other psychoactive substance dependence with psychoactive substance-induced persisting amnestic disorder,Condition,ICD10CM,5-char billing code,NA,F19.26,1/1/70,12/31/99,NA
+45571746,Other psychoactive substance dependence with psychoactive substance-induced persisting dementia,Condition,ICD10CM,5-char billing code,NA,F19.27,1/1/70,12/31/99,NA
+45542832,Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F19.25,12/30/06,12/31/99,NA
+45595892,Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F19.250,1/1/70,12/31/99,NA
+45595893,Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F19.251,1/1/70,12/31/99,NA
+45562032,"Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F19.259,1/1/70,12/31/99,NA
+45581439,Other psychoactive substance dependence with psychoactive substance-induced sexual dysfunction,Condition,ICD10CM,6-char billing code,NA,F19.281,1/1/70,12/31/99,NA
+45600730,Other psychoactive substance dependence with psychoactive substance-induced sleep disorder,Condition,ICD10CM,6-char billing code,NA,F19.282,1/1/70,12/31/99,NA
+45576528,Other psychoactive substance dependence with unspecified psychoactive substance-induced disorder,Condition,ICD10CM,5-char billing code,NA,F19.29,1/1/70,12/31/99,NA
+45547688,Other psychoactive substance dependence with withdrawal,Condition,ICD10CM,5-char nonbill code,NA,F19.23,12/30/06,12/31/99,NA
+45576527,Other psychoactive substance dependence with withdrawal delirium,Condition,ICD10CM,6-char billing code,NA,F19.231,1/1/70,12/31/99,NA
+45600728,Other psychoactive substance dependence with withdrawal with perceptual disturbance,Condition,ICD10CM,6-char billing code,NA,F19.232,1/1/70,12/31/99,NA
+45542831,"Other psychoactive substance dependence with withdrawal, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F19.230,1/1/70,12/31/99,NA
+45591123,"Other psychoactive substance dependence with withdrawal, unspecified",Condition,ICD10CM,6-char billing code,NA,F19.239,1/1/70,12/31/99,NA
+45566820,"Other psychoactive substance dependence, in remission",Condition,ICD10CM,5-char billing code,NA,F19.21,1/1/70,12/31/99,NA
+45542830,"Other psychoactive substance dependence, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F19.20,1/1/70,12/31/99,NA
+1568194,Other psychoactive substance related disorders,Condition,ICD10CM,3-char nonbill code,NA,F19,1/1/12,12/31/99,NA
+1568201,"Other psychoactive substance use, unspecified",Condition,ICD10CM,4-char nonbill code,NA,F19.9,1/1/12,12/31/99,NA
+1568202,"Other psychoactive substance use, unspecified with intoxication",Condition,ICD10CM,5-char nonbill code,NA,F19.92,1/1/12,12/31/99,NA
+45538053,"Other psychoactive substance use, unspecified with intoxication with delirium",Condition,ICD10CM,6-char billing code,NA,F19.921,1/1/70,12/31/99,NA
+45557191,"Other psychoactive substance use, unspecified with intoxication with perceptual disturbance",Condition,ICD10CM,6-char billing code,NA,F19.922,1/1/70,12/31/99,NA
+45566825,"Other psychoactive substance use, unspecified with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F19.920,1/1/70,12/31/99,NA
+45591125,"Other psychoactive substance use, unspecified with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F19.929,1/1/70,12/31/99,NA
+45547692,"Other psychoactive substance use, unspecified with other psychoactive substance-induced disorder",Condition,ICD10CM,6-char billing code,NA,F19.988,1/1/70,12/31/99,NA
+1568205,"Other psychoactive substance use, unspecified with other psychoactive substance-induced disorders",Condition,ICD10CM,5-char nonbill code,NA,F19.98,1/1/12,12/31/99,NA
+45547691,"Other psychoactive substance use, unspecified with psychoactive substance-induced anxiety disorder",Condition,ICD10CM,6-char billing code,NA,F19.980,1/1/70,12/31/99,NA
+45581441,"Other psychoactive substance use, unspecified with psychoactive substance-induced mood disorder",Condition,ICD10CM,5-char billing code,NA,F19.94,1/1/70,12/31/99,NA
+45547689,"Other psychoactive substance use, unspecified with psychoactive substance-induced persisting amnestic disorder",Condition,ICD10CM,5-char billing code,NA,F19.96,1/1/70,12/31/99,NA
+45547690,"Other psychoactive substance use, unspecified with psychoactive substance-induced persisting dementia",Condition,ICD10CM,5-char billing code,NA,F19.97,1/1/70,12/31/99,NA
+1568204,"Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,NA,F19.95,1/1/12,12/31/99,NA
+45566828,"Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,NA,F19.950,1/1/70,12/31/99,NA
+45581442,"Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,NA,F19.951,1/1/70,12/31/99,NA
+45566829,"Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F19.959,1/1/70,12/31/99,NA
+45591126,"Other psychoactive substance use, unspecified with psychoactive substance-induced sexual dysfunction",Condition,ICD10CM,6-char billing code,NA,F19.981,1/1/70,12/31/99,NA
+45542834,"Other psychoactive substance use, unspecified with psychoactive substance-induced sleep disorder",Condition,ICD10CM,6-char billing code,NA,F19.982,1/1/70,12/31/99,NA
+45547693,"Other psychoactive substance use, unspecified with unspecified psychoactive substance-induced disorder",Condition,ICD10CM,5-char billing code,NA,F19.99,1/1/70,12/31/99,NA
+1568203,"Other psychoactive substance use, unspecified with withdrawal",Condition,ICD10CM,5-char nonbill code,NA,F19.93,1/1/12,12/31/99,NA
+45576530,"Other psychoactive substance use, unspecified with withdrawal delirium",Condition,ICD10CM,6-char billing code,NA,F19.931,1/1/70,12/31/99,NA
+45557192,"Other psychoactive substance use, unspecified with withdrawal with perceptual disturbance",Condition,ICD10CM,6-char billing code,NA,F19.932,1/1/70,12/31/99,NA
+45566826,"Other psychoactive substance use, unspecified with withdrawal, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F19.930,1/1/70,12/31/99,NA
+45566827,"Other psychoactive substance use, unspecified with withdrawal, unspecified",Condition,ICD10CM,6-char billing code,NA,F19.939,1/1/70,12/31/99,NA
+37402470,"Other psychoactive substance use, unspecified, in remission",Condition,ICD10CM,5-char billing code,NA,F19.91,10/1/22,12/31/99,NA
+45552463,"Other psychoactive substance use, unspecified, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F19.90,1/1/70,12/31/99,NA
+1568153,Other stimulant abuse,Condition,ICD10CM,4-char nonbill code,NA,F15.1,1/1/12,12/31/99,NA
+1568154,Other stimulant abuse with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F15.12,1/1/12,12/31/99,NA
+45576514,Other stimulant abuse with intoxication delirium,Condition,ICD10CM,6-char billing code,NA,F15.121,1/1/70,12/31/99,NA
+45591107,Other stimulant abuse with intoxication with perceptual disturbance,Condition,ICD10CM,6-char billing code,NA,F15.122,1/1/70,12/31/99,NA
+45581429,"Other stimulant abuse with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F15.120,1/1/70,12/31/99,NA
+45552445,"Other stimulant abuse with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F15.129,1/1/70,12/31/99,NA
+1568156,Other stimulant abuse with other stimulant-induced disorder,Condition,ICD10CM,5-char nonbill code,NA,F15.18,1/1/12,12/31/99,NA
+45591110,Other stimulant abuse with other stimulant-induced disorder,Condition,ICD10CM,6-char billing code,NA,F15.188,1/1/70,12/31/99,NA
+45533078,Other stimulant abuse with stimulant-induced anxiety disorder,Condition,ICD10CM,6-char billing code,NA,F15.180,1/1/70,12/31/99,NA
+45595874,Other stimulant abuse with stimulant-induced mood disorder,Condition,ICD10CM,5-char billing code,NA,F15.14,1/1/70,12/31/99,NA
+1568155,Other stimulant abuse with stimulant-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F15.15,1/1/12,12/31/99,NA
+45538036,Other stimulant abuse with stimulant-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F15.150,1/1/70,12/31/99,NA
+45591108,Other stimulant abuse with stimulant-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F15.151,1/1/70,12/31/99,NA
+45605471,"Other stimulant abuse with stimulant-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F15.159,1/1/70,12/31/99,NA
+45591109,Other stimulant abuse with stimulant-induced sexual dysfunction,Condition,ICD10CM,6-char billing code,NA,F15.181,1/1/70,12/31/99,NA
+45595875,Other stimulant abuse with stimulant-induced sleep disorder,Condition,ICD10CM,6-char billing code,NA,F15.182,1/1/70,12/31/99,NA
+45581430,Other stimulant abuse with unspecified stimulant-induced disorder,Condition,ICD10CM,5-char billing code,NA,F15.19,1/1/70,12/31/99,NA
+725290,Other stimulant abuse with withdrawal,Condition,ICD10CM,5-char billing code,NA,F15.13,1/1/21,12/31/99,NA
+1326502,"Other stimulant abuse, in remission",Condition,ICD10CM,5-char billing code,NA,F15.11,1/1/18,12/31/99,NA
+45571730,"Other stimulant abuse, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F15.10,1/1/70,12/31/99,NA
+1568157,Other stimulant dependence,Condition,ICD10CM,4-char nonbill code,NA,F15.2,1/1/12,12/31/99,NA
+45600711,Other stimulant dependence with intoxication,Condition,ICD10CM,5-char nonbill code,NA,F15.22,12/30/06,12/31/99,NA
+45595877,Other stimulant dependence with intoxication delirium,Condition,ICD10CM,6-char billing code,NA,F15.221,1/1/70,12/31/99,NA
+45571731,Other stimulant dependence with intoxication with perceptual disturbance,Condition,ICD10CM,6-char billing code,NA,F15.222,1/1/70,12/31/99,NA
+45600712,"Other stimulant dependence with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F15.220,1/1/70,12/31/99,NA
+45552446,"Other stimulant dependence with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F15.229,1/1/70,12/31/99,NA
+1568159,Other stimulant dependence with other stimulant-induced disorder,Condition,ICD10CM,5-char nonbill code,NA,F15.28,1/1/12,12/31/99,NA
+45557178,Other stimulant dependence with other stimulant-induced disorder,Condition,ICD10CM,6-char billing code,NA,F15.288,1/1/70,12/31/99,NA
+45566802,Other stimulant dependence with stimulant-induced anxiety disorder,Condition,ICD10CM,6-char billing code,NA,F15.280,1/1/70,12/31/99,NA
+45605472,Other stimulant dependence with stimulant-induced mood disorder,Condition,ICD10CM,5-char billing code,NA,F15.24,1/1/70,12/31/99,NA
+1568158,Other stimulant dependence with stimulant-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,NA,F15.25,1/1/12,12/31/99,NA
+45571732,Other stimulant dependence with stimulant-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,NA,F15.250,1/1/70,12/31/99,NA
+45542810,Other stimulant dependence with stimulant-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,NA,F15.251,1/1/70,12/31/99,NA
+45538037,"Other stimulant dependence with stimulant-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F15.259,1/1/70,12/31/99,NA
+45542811,Other stimulant dependence with stimulant-induced sexual dysfunction,Condition,ICD10CM,6-char billing code,NA,F15.281,1/1/70,12/31/99,NA
+45542812,Other stimulant dependence with stimulant-induced sleep disorder,Condition,ICD10CM,6-char billing code,NA,F15.282,1/1/70,12/31/99,NA
+45591111,Other stimulant dependence with unspecified stimulant-induced disorder,Condition,ICD10CM,5-char billing code,NA,F15.29,1/1/70,12/31/99,NA
+45576516,Other stimulant dependence with withdrawal,Condition,ICD10CM,5-char billing code,NA,F15.23,1/1/70,12/31/99,NA
+45542809,"Other stimulant dependence, in remission",Condition,ICD10CM,5-char billing code,NA,F15.21,1/1/70,12/31/99,NA
+45595876,"Other stimulant dependence, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F15.20,1/1/70,12/31/99,NA
+1568152,Other stimulant related disorders,Condition,ICD10CM,3-char nonbill code,NA,F15,1/1/12,12/31/99,NA
+1568160,"Other stimulant use, unspecified",Condition,ICD10CM,4-char nonbill code,NA,F15.9,1/1/12,12/31/99,NA
+1568161,"Other stimulant use, unspecified with intoxication",Condition,ICD10CM,5-char nonbill code,NA,F15.92,1/1/12,12/31/99,NA
+45552447,"Other stimulant use, unspecified with intoxication delirium",Condition,ICD10CM,6-char billing code,NA,F15.921,1/1/70,12/31/99,NA
+45586212,"Other stimulant use, unspecified with intoxication with perceptual disturbance",Condition,ICD10CM,6-char billing code,NA,F15.922,1/1/70,12/31/99,NA
+45581431,"Other stimulant use, unspecified with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F15.920,1/1/70,12/31/99,NA
+45566804,"Other stimulant use, unspecified with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F15.929,1/1/70,12/31/99,NA
+1568163,"Other stimulant use, unspecified with other stimulant-induced disorder",Condition,ICD10CM,5-char nonbill code,NA,F15.98,1/1/12,12/31/99,NA
+45542814,"Other stimulant use, unspecified with other stimulant-induced disorder",Condition,ICD10CM,6-char billing code,NA,F15.988,1/1/70,12/31/99,NA
+45538040,"Other stimulant use, unspecified with stimulant-induced anxiety disorder",Condition,ICD10CM,6-char billing code,NA,F15.980,1/1/70,12/31/99,NA
+45538039,"Other stimulant use, unspecified with stimulant-induced mood disorder",Condition,ICD10CM,5-char billing code,NA,F15.94,1/1/70,12/31/99,NA
+1568162,"Other stimulant use, unspecified with stimulant-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,NA,F15.95,1/1/12,12/31/99,NA
+45566805,"Other stimulant use, unspecified with stimulant-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,NA,F15.950,1/1/70,12/31/99,NA
+45586213,"Other stimulant use, unspecified with stimulant-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,NA,F15.951,1/1/70,12/31/99,NA
+45542813,"Other stimulant use, unspecified with stimulant-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F15.959,1/1/70,12/31/99,NA
+45605473,"Other stimulant use, unspecified with stimulant-induced sexual dysfunction",Condition,ICD10CM,6-char billing code,NA,F15.981,1/1/70,12/31/99,NA
+45586214,"Other stimulant use, unspecified with stimulant-induced sleep disorder",Condition,ICD10CM,6-char billing code,NA,F15.982,1/1/70,12/31/99,NA
+45571733,"Other stimulant use, unspecified with unspecified stimulant-induced disorder",Condition,ICD10CM,5-char billing code,NA,F15.99,1/1/70,12/31/99,NA
+45595878,"Other stimulant use, unspecified with withdrawal",Condition,ICD10CM,5-char billing code,NA,F15.93,1/1/70,12/31/99,NA
+37402467,"Other stimulant use, unspecified, in remission",Condition,ICD10CM,5-char billing code,NA,F15.91,10/1/22,12/31/99,NA
+45538038,"Other stimulant use, unspecified, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F15.90,1/1/70,12/31/99,NA
+1568130,"Sedative, hypnotic or anxiolytic abuse with intoxication",Condition,ICD10CM,5-char nonbill code,NA,F13.12,1/1/12,12/31/99,NA
+45538019,"Sedative, hypnotic or anxiolytic abuse with intoxication delirium",Condition,ICD10CM,6-char billing code,NA,F13.121,1/1/70,12/31/99,NA
+45552436,"Sedative, hypnotic or anxiolytic abuse with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F13.120,1/1/70,12/31/99,NA
+45562011,"Sedative, hypnotic or anxiolytic abuse with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F13.129,1/1/70,12/31/99,NA
+45581418,"Sedative, hypnotic or anxiolytic abuse with other sedative, hypnotic or anxiolytic-induced disorder",Condition,ICD10CM,6-char billing code,NA,F13.188,1/1/70,12/31/99,NA
+1568132,"Sedative, hypnotic or anxiolytic abuse with other sedative, hypnotic or anxiolytic-induced disorders",Condition,ICD10CM,5-char nonbill code,NA,F13.18,1/1/12,12/31/99,NA
+45538021,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced anxiety disorder",Condition,ICD10CM,6-char billing code,NA,F13.180,1/1/70,12/31/99,NA
+45595863,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced mood disorder",Condition,ICD10CM,5-char billing code,NA,F13.14,1/1/70,12/31/99,NA
+1568131,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,NA,F13.15,1/1/12,12/31/99,NA
+45538020,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,NA,F13.150,1/1/70,12/31/99,NA
+45562012,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,NA,F13.151,1/1/70,12/31/99,NA
+45595864,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F13.159,1/1/70,12/31/99,NA
+45591102,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced sexual dysfunction",Condition,ICD10CM,6-char billing code,NA,F13.181,1/1/70,12/31/99,NA
+45552437,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced sleep disorder",Condition,ICD10CM,6-char billing code,NA,F13.182,1/1/70,12/31/99,NA
+45571724,"Sedative, hypnotic or anxiolytic abuse with unspecified sedative, hypnotic or anxiolytic-induced disorder",Condition,ICD10CM,5-char billing code,NA,F13.19,1/1/70,12/31/99,NA
+725283,"Sedative, hypnotic or anxiolytic abuse with withdrawal",Condition,ICD10CM,5-char nonbill code,NA,F13.13,1/1/21,12/31/99,NA
+725285,"Sedative, hypnotic or anxiolytic abuse with withdrawal delirium",Condition,ICD10CM,6-char billing code,NA,F13.131,1/1/21,12/31/99,NA
+725286,"Sedative, hypnotic or anxiolytic abuse with withdrawal with perceptual disturbance",Condition,ICD10CM,6-char billing code,NA,F13.132,1/1/21,12/31/99,NA
+725284,"Sedative, hypnotic or anxiolytic abuse with withdrawal, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F13.130,1/1/21,12/31/99,NA
+725287,"Sedative, hypnotic or anxiolytic abuse with withdrawal, unspecified",Condition,ICD10CM,6-char billing code,NA,F13.139,1/1/21,12/31/99,NA
+1326500,"Sedative, hypnotic or anxiolytic abuse, in remission",Condition,ICD10CM,5-char billing code,NA,F13.11,1/1/18,12/31/99,NA
+45562010,"Sedative, hypnotic or anxiolytic abuse, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F13.10,1/1/70,12/31/99,NA
+1568134,"Sedative, hypnotic or anxiolytic dependence with intoxication",Condition,ICD10CM,5-char nonbill code,NA,F13.22,1/1/12,12/31/99,NA
+45542802,"Sedative, hypnotic or anxiolytic dependence with intoxication delirium",Condition,ICD10CM,6-char billing code,NA,F13.221,1/1/70,12/31/99,NA
+45552438,"Sedative, hypnotic or anxiolytic dependence with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F13.220,1/1/70,12/31/99,NA
+45552439,"Sedative, hypnotic or anxiolytic dependence with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F13.229,1/1/70,12/31/99,NA
+45566793,"Sedative, hypnotic or anxiolytic dependence with other sedative, hypnotic or anxiolytic-induced disorder",Condition,ICD10CM,6-char billing code,NA,F13.288,1/1/70,12/31/99,NA
+1568135,"Sedative, hypnotic or anxiolytic dependence with other sedative, hypnotic or anxiolytic-induced disorders",Condition,ICD10CM,5-char nonbill code,NA,F13.28,1/1/12,12/31/99,NA
+45562013,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced anxiety disorder",Condition,ICD10CM,6-char billing code,NA,F13.280,1/1/70,12/31/99,NA
+45595866,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced mood disorder",Condition,ICD10CM,5-char billing code,NA,F13.24,1/1/70,12/31/99,NA
+45557168,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced persisting amnestic disorder",Condition,ICD10CM,5-char billing code,NA,F13.26,1/1/70,12/31/99,NA
+45552440,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced persisting dementia",Condition,ICD10CM,5-char billing code,NA,F13.27,1/1/70,12/31/99,NA
+45538025,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,NA,F13.25,12/30/06,12/31/99,NA
+45581419,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,NA,F13.250,1/1/70,12/31/99,NA
+45542803,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,NA,F13.251,1/1/70,12/31/99,NA
+45576506,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F13.259,1/1/70,12/31/99,NA
+45552441,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced sexual dysfunction",Condition,ICD10CM,6-char billing code,NA,F13.281,1/1/70,12/31/99,NA
+45552442,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced sleep disorder",Condition,ICD10CM,6-char billing code,NA,F13.282,1/1/70,12/31/99,NA
+45576507,"Sedative, hypnotic or anxiolytic dependence with unspecified sedative, hypnotic or anxiolytic-induced disorder",Condition,ICD10CM,5-char billing code,NA,F13.29,1/1/70,12/31/99,NA
+45557167,"Sedative, hypnotic or anxiolytic dependence with withdrawal",Condition,ICD10CM,5-char nonbill code,NA,F13.23,12/30/06,12/31/99,NA
+45538024,"Sedative, hypnotic or anxiolytic dependence with withdrawal delirium",Condition,ICD10CM,6-char billing code,NA,F13.231,1/1/70,12/31/99,NA
+45595865,"Sedative, hypnotic or anxiolytic dependence with withdrawal with perceptual disturbance",Condition,ICD10CM,6-char billing code,NA,F13.232,1/1/70,12/31/99,NA
+45538023,"Sedative, hypnotic or anxiolytic dependence with withdrawal, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F13.230,1/1/70,12/31/99,NA
+45566792,"Sedative, hypnotic or anxiolytic dependence with withdrawal, unspecified",Condition,ICD10CM,6-char billing code,NA,F13.239,1/1/70,12/31/99,NA
+45538022,"Sedative, hypnotic or anxiolytic dependence, in remission",Condition,ICD10CM,5-char billing code,NA,F13.21,1/1/70,12/31/99,NA
+45576505,"Sedative, hypnotic or anxiolytic dependence, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F13.20,1/1/70,12/31/99,NA
+1568137,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication",Condition,ICD10CM,5-char nonbill code,NA,F13.92,1/1/12,12/31/99,NA
+45595867,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication delirium",Condition,ICD10CM,6-char billing code,NA,F13.921,1/1/70,12/31/99,NA
+45542805,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F13.920,1/1/70,12/31/99,NA
+45566796,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication, unspecified",Condition,ICD10CM,6-char billing code,NA,F13.929,1/1/70,12/31/99,NA
+45595868,"Sedative, hypnotic or anxiolytic use, unspecified with other sedative, hypnotic or anxiolytic-induced disorder",Condition,ICD10CM,6-char billing code,NA,F13.988,1/1/70,12/31/99,NA
+1568140,"Sedative, hypnotic or anxiolytic use, unspecified with other sedative, hypnotic or anxiolytic-induced disorders",Condition,ICD10CM,5-char nonbill code,NA,F13.98,1/1/12,12/31/99,NA
+45562015,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced anxiety disorder",Condition,ICD10CM,6-char billing code,NA,F13.980,1/1/70,12/31/99,NA
+45605466,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced mood disorder",Condition,ICD10CM,5-char billing code,NA,F13.94,1/1/70,12/31/99,NA
+45533073,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced persisting amnestic disorder",Condition,ICD10CM,5-char billing code,NA,F13.96,1/1/70,12/31/99,NA
+45542806,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced persisting dementia",Condition,ICD10CM,5-char billing code,NA,F13.97,1/1/70,12/31/99,NA
+1568139,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,NA,F13.95,1/1/12,12/31/99,NA
+45581422,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,NA,F13.950,1/1/70,12/31/99,NA
+45571725,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,NA,F13.951,1/1/70,12/31/99,NA
+45586204,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,NA,F13.959,1/1/70,12/31/99,NA
+45576508,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced sexual dysfunction",Condition,ICD10CM,6-char billing code,NA,F13.981,1/1/70,12/31/99,NA
+45586205,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced sleep disorder",Condition,ICD10CM,6-char billing code,NA,F13.982,1/1/70,12/31/99,NA
+45547679,"Sedative, hypnotic or anxiolytic use, unspecified with unspecified sedative, hypnotic or anxiolytic-induced disorder",Condition,ICD10CM,5-char billing code,NA,F13.99,1/1/70,12/31/99,NA
+1568138,"Sedative, hypnotic or anxiolytic use, unspecified with withdrawal",Condition,ICD10CM,5-char nonbill code,NA,F13.93,1/1/12,12/31/99,NA
+45581421,"Sedative, hypnotic or anxiolytic use, unspecified with withdrawal delirium",Condition,ICD10CM,6-char billing code,NA,F13.931,1/1/70,12/31/99,NA
+45538027,"Sedative, hypnotic or anxiolytic use, unspecified with withdrawal with perceptual disturbances",Condition,ICD10CM,6-char billing code,NA,F13.932,1/1/70,12/31/99,NA
+45562014,"Sedative, hypnotic or anxiolytic use, unspecified with withdrawal, uncomplicated",Condition,ICD10CM,6-char billing code,NA,F13.930,1/1/70,12/31/99,NA
+45566797,"Sedative, hypnotic or anxiolytic use, unspecified with withdrawal, unspecified",Condition,ICD10CM,6-char billing code,NA,F13.939,1/1/70,12/31/99,NA
+37402465,"Sedative, hypnotic or anxiolytic use, unspecified, in remission",Condition,ICD10CM,5-char billing code,NA,F13.91,10/1/22,12/31/99,NA
+1568129,"Sedative, hypnotic or anxiolytic-related abuse",Condition,ICD10CM,4-char nonbill code,NA,F13.1,1/1/12,12/31/99,NA
+1568133,"Sedative, hypnotic or anxiolytic-related dependence",Condition,ICD10CM,4-char nonbill code,NA,F13.2,1/1/12,12/31/99,NA
+1568136,"Sedative, hypnotic or anxiolytic-related use, unspecified",Condition,ICD10CM,4-char nonbill code,NA,F13.9,1/1/12,12/31/99,NA
+1568128,"Sedative, hypnotic, or anxiolytic related disorders",Condition,ICD10CM,3-char nonbill code,NA,F13,1/1/12,12/31/99,NA
+45542804,"Sedative, hypnotic, or anxiolytic use, unspecified, uncomplicated",Condition,ICD10CM,5-char billing code,NA,F13.90,1/1/70,12/31/99,NA
+433735,Acute alcoholic intoxication in alcoholism,Condition,SNOMED,Clinical Finding,S,191802004,1/31/02,12/31/99,NA
+607209,Acute intoxication,Condition,SNOMED,Clinical Finding,S,1149334009,7/31/21,12/31/99,NA
+46287148,Acute stimulant intoxication,Condition,SNOMED,Clinical Finding,S,9.43111E+14,4/1/15,12/31/99,NA
+433753,Alcohol abuse,Condition,SNOMED,Clinical Finding,S,15167005,1/31/02,12/31/99,NA
+374623,Alcohol amnestic disorder,Condition,SNOMED,Clinical Finding,S,73097000,1/31/02,12/31/99,NA
+435243,Alcohol dependence,Condition,SNOMED,Clinical Finding,S,66590003,1/31/02,12/31/99,NA
+372607,Alcohol hallucinosis,Condition,SNOMED,Clinical Finding,S,7052005,1/31/02,12/31/99,NA
+4104431,Alcohol intoxication,Condition,SNOMED,Clinical Finding,S,25702006,1/31/02,12/31/99,NA
+4088373,Alcohol intoxication delirium,Condition,SNOMED,Clinical Finding,S,18653004,1/31/02,12/31/99,NA
+377830,Alcohol withdrawal delirium,Condition,SNOMED,Clinical Finding,S,8635005,1/31/02,12/31/99,NA
+439277,Alcohol withdrawal hallucinosis,Condition,SNOMED,Clinical Finding,S,191476005,1/31/02,12/31/99,NA
+375519,Alcohol withdrawal syndrome,Condition,SNOMED,Clinical Finding,S,191480000,1/31/02,12/31/99,NA
+4146660,Alcohol-induced anxiety disorder,Condition,SNOMED,Clinical Finding,S,34938008,1/31/02,12/31/99,NA
+4205002,Alcohol-induced mood disorder,Condition,SNOMED,Clinical Finding,S,53936005,1/31/02,12/31/99,NA
+376383,Alcohol-induced organic mental disorder,Condition,SNOMED,Clinical Finding,S,29212009,1/31/02,12/31/99,NA
+374317,Alcohol-induced psychosis,Condition,SNOMED,Clinical Finding,S,42344001,1/31/02,12/31/99,NA
+442582,Alcohol-induced psychotic disorder with delusions,Condition,SNOMED,Clinical Finding,S,61144001,1/31/02,12/31/99,NA
+4302744,Alcohol-induced sexual dysfunction,Condition,SNOMED,Clinical Finding,S,78524005,1/31/02,12/31/99,NA
+375794,Alcohol-induced sleep disorder,Condition,SNOMED,Clinical Finding,S,41083005,1/31/02,12/31/99,NA
+434327,Cannabis abuse,Condition,SNOMED,Clinical Finding,S,37344009,1/31/02,12/31/99,NA
+4272313,Cannabis delusional disorder,Condition,SNOMED,Clinical Finding,S,63649001,1/31/02,12/31/99,NA
+440387,Cannabis dependence,Condition,SNOMED,Clinical Finding,S,85005007,1/31/02,12/31/99,NA
+440996,Cannabis dependence in remission,Condition,SNOMED,Clinical Finding,S,191839003,1/31/02,12/31/99,NA
+4052690,Cannabis intoxication,Condition,SNOMED,Clinical Finding,S,23527004,1/31/02,12/31/99,NA
+4220197,Cannabis intoxication delirium,Condition,SNOMED,Clinical Finding,S,39807006,1/31/02,12/31/99,NA
+45766641,Cannabis withdrawal,Condition,SNOMED,Clinical Finding,S,703848005,7/31/14,12/31/99,NA
+4221077,Cannabis-induced anxiety disorder,Condition,SNOMED,Clinical Finding,S,39951001,1/31/02,12/31/99,NA
+4300092,Cannabis-induced organic mental disorder,Condition,SNOMED,Clinical Finding,S,77355000,1/31/02,12/31/99,NA
+4097389,Cannabis-induced psychotic disorder with hallucinations,Condition,SNOMED,Clinical Finding,S,26714005,1/31/02,12/31/99,NA
+439005,Chronic alcoholism in remission,Condition,SNOMED,Clinical Finding,S,191813001,1/31/02,12/31/99,NA
+432303,Cocaine abuse,Condition,SNOMED,Clinical Finding,S,78267003,1/31/02,12/31/99,NA
+4148140,Cocaine delusional disorder,Condition,SNOMED,Clinical Finding,S,30491001,1/31/02,12/31/99,NA
+436389,Cocaine dependence,Condition,SNOMED,Clinical Finding,S,31956009,1/31/02,12/31/99,NA
+432302,Cocaine dependence in remission,Condition,SNOMED,Clinical Finding,S,191833002,1/31/02,12/31/99,NA
+4101256,Cocaine intoxication,Condition,SNOMED,Clinical Finding,S,27956007,1/31/02,12/31/99,NA
+4290062,Cocaine intoxication delirium,Condition,SNOMED,Clinical Finding,S,70328006,1/31/02,12/31/99,NA
+4216493,Cocaine withdrawal,Condition,SNOMED,Clinical Finding,S,80868005,1/31/02,12/31/99,NA
+4198826,Cocaine-induced anxiety disorder,Condition,SNOMED,Clinical Finding,S,51493001,1/31/02,12/31/99,NA
+4012869,Cocaine-induced mood disorder,Condition,SNOMED,Clinical Finding,S,10327003,1/31/02,12/31/99,NA
+4264766,Cocaine-induced organic mental disorder,Condition,SNOMED,Clinical Finding,S,46975003,1/31/02,12/31/99,NA
+4272033,Cocaine-induced psychotic disorder with hallucinations,Condition,SNOMED,Clinical Finding,S,6348008,1/31/02,12/31/99,NA
+4313135,Cocaine-induced sexual dysfunction,Condition,SNOMED,Clinical Finding,S,8686000,1/31/02,12/31/99,NA
+4331287,Cocaine-induced sleep disorder,Condition,SNOMED,Clinical Finding,S,22574000,1/31/02,12/31/99,NA
+42538586,Delirium caused by stimulant,Condition,SNOMED,Clinical Finding,S,762324008,1/31/18,12/31/99,NA
+37309681,Delirium due to drug withdrawal,Condition,SNOMED,Clinical Finding,S,1.62367E+16,1/31/20,12/31/99,NA
+378726,Dementia associated with alcoholism,Condition,SNOMED,Clinical Finding,S,281004,1/31/02,12/31/99,NA
+36714559,Disorder caused by alcohol,Condition,SNOMED,Clinical Finding,S,719848005,1/31/17,12/31/99,NA
+42537692,Disorder caused by cannabis,Condition,SNOMED,Clinical Finding,S,737226008,1/31/18,12/31/99,NA
+43530681,Drug abuse in remission,Condition,SNOMED,Clinical Finding,S,1.471E+12,7/31/13,12/31/99,NA
+440069,Drug dependence,Condition,SNOMED,Clinical Finding,S,191816009,1/31/02,12/31/99,NA
+43530680,Drug dependence in remission,Condition,SNOMED,Clinical Finding,S,1.461E+12,7/31/13,12/31/99,NA
+441260,Drug withdrawal,Condition,SNOMED,Clinical Finding,S,363101005,1/31/02,12/31/99,NA
+373449,Drug-induced delirium,Condition,SNOMED,Clinical Finding,S,191492000,1/31/02,12/31/99,NA
+443559,Drug-induced delusional disorder,Condition,SNOMED,Clinical Finding,S,427975003,1/31/08,12/31/99,NA
+434900,Drug-induced psychosis,Condition,SNOMED,Clinical Finding,S,191483003,1/31/02,12/31/99,NA
+435792,Drug-induced sleep disorder,Condition,SNOMED,Clinical Finding,S,418475009,1/31/06,12/31/99,NA
+444363,Drug-related disorder,Condition,SNOMED,Clinical Finding,S,87858002,1/31/02,12/31/99,NA
+437245,Hallucinogen abuse,Condition,SNOMED,Clinical Finding,S,74851005,1/31/02,12/31/99,NA
+4176286,Hallucinogen delusional disorder,Condition,SNOMED,Clinical Finding,S,50933003,1/31/02,12/31/99,NA
+433180,Hallucinogen dependence,Condition,SNOMED,Clinical Finding,S,38247002,1/31/02,12/31/99,NA
+434921,Hallucinogen dependence in remission,Condition,SNOMED,Clinical Finding,S,191851001,1/31/02,12/31/99,NA
+4137955,Hallucinogen hallucinosis,Condition,SNOMED,Clinical Finding,S,32009006,1/31/02,12/31/99,NA
+4173746,Hallucinogen intoxication,Condition,SNOMED,Clinical Finding,S,50320000,1/31/02,12/31/99,NA
+4236877,Hallucinogen intoxication delirium,Condition,SNOMED,Clinical Finding,S,40571009,1/31/02,12/31/99,NA
+4029464,Hallucinogen mood disorder,Condition,SNOMED,Clinical Finding,S,1383008,1/31/02,12/31/99,NA
+4035299,Hallucinogen-induced anxiety disorder,Condition,SNOMED,Clinical Finding,S,15277004,1/31/02,12/31/99,NA
+4203152,Hallucinogen-induced organic mental disorder,Condition,SNOMED,Clinical Finding,S,53050002,1/31/02,12/31/99,NA
+440987,Hallucinosis caused by drug,Condition,SNOMED,Clinical Finding,S,191486006,1/31/02,12/31/99,NA
+37110444,Harmful pattern of use of nicotine,Condition,SNOMED,Clinical Finding,S,724697004,7/31/17,12/31/99,NA
+443236,Hypnotic or anxiolytic dependence,Condition,SNOMED,Clinical Finding,S,268640002,1/31/02,12/31/99,NA
+434015,Hypnotic or anxiolytic dependence in remission,Condition,SNOMED,Clinical Finding,S,191827006,1/31/02,12/31/99,NA
+4290538,Inhalant abuse,Condition,SNOMED,Clinical Finding,S,70340006,1/31/02,12/31/99,NA
+4176120,Inhalant dependence,Condition,SNOMED,Clinical Finding,S,5002000,1/31/02,12/31/99,NA
+4264649,Inhalant intoxication,Condition,SNOMED,Clinical Finding,S,60901005,1/31/02,12/31/99,NA
+4092830,Inhalant intoxication delirium,Condition,SNOMED,Clinical Finding,S,18689007,1/31/02,12/31/99,NA
+4049341,Inhalant-induced anxiety disorder,Condition,SNOMED,Clinical Finding,S,20876004,1/31/02,12/31/99,NA
+4232492,Inhalant-induced mood disorder,Condition,SNOMED,Clinical Finding,S,89451009,1/31/02,12/31/99,NA
+4264889,Inhalant-induced organic mental disorder,Condition,SNOMED,Clinical Finding,S,61104008,1/31/02,12/31/99,NA
+4139421,Inhalant-induced persisting dementia,Condition,SNOMED,Clinical Finding,S,32875003,1/31/02,12/31/99,NA
+4327348,Inhalant-induced psychotic disorder with delusions,Condition,SNOMED,Clinical Finding,S,75122001,1/31/02,12/31/99,NA
+4271051,Inhalant-induced psychotic disorder with hallucinations,Condition,SNOMED,Clinical Finding,S,63983005,1/31/02,12/31/99,NA
+436079,Mood disorder caused by drug,Condition,SNOMED,Clinical Finding,S,429672007,1/31/08,12/31/99,NA
+4209423,Nicotine dependence,Condition,SNOMED,Clinical Finding,S,56294008,1/31/02,12/31/99,NA
+4284541,Nicotine poisoning,Condition,SNOMED,Clinical Finding,S,66884007,1/31/02,12/31/99,NA
+4233811,Nicotine withdrawal,Condition,SNOMED,Clinical Finding,S,90755006,1/31/02,12/31/99,NA
+4146763,Nicotine-induced organic mental disorder,Condition,SNOMED,Clinical Finding,S,30310000,1/31/02,12/31/99,NA
+435231,Nondependent cannabis abuse in remission,Condition,SNOMED,Clinical Finding,S,191895007,1/31/02,12/31/99,NA
+436098,Nondependent cocaine abuse in remission,Condition,SNOMED,Clinical Finding,S,191920007,1/31/02,12/31/99,NA
+441272,Nondependent hallucinogen abuse in remission,Condition,SNOMED,Clinical Finding,S,191901005,1/31/02,12/31/99,NA
+436088,Nondependent opioid abuse in remission,Condition,SNOMED,Clinical Finding,S,191914006,1/31/02,12/31/99,NA
+438130,Opioid abuse,Condition,SNOMED,Clinical Finding,S,5602001,1/31/02,12/31/99,NA
+438120,Opioid dependence,Condition,SNOMED,Clinical Finding,S,75544000,1/31/02,12/31/99,NA
+432301,Opioid dependence in remission,Condition,SNOMED,Clinical Finding,S,191821007,1/31/02,12/31/99,NA
+4299094,Opioid intoxication,Condition,SNOMED,Clinical Finding,S,77721001,1/31/02,12/31/99,NA
+4199769,Opioid intoxication delirium,Condition,SNOMED,Clinical Finding,S,52866005,1/31/02,12/31/99,NA
+4336384,Opioid withdrawal,Condition,SNOMED,Clinical Finding,S,87132004,1/31/02,12/31/99,NA
+4105930,Opioid-induced mood disorder,Condition,SNOMED,Clinical Finding,S,29733004,1/31/02,12/31/99,NA
+4032799,Opioid-induced organic mental disorder,Condition,SNOMED,Clinical Finding,S,14784000,1/31/02,12/31/99,NA
+4067987,Opioid-induced psychotic disorder with delusions,Condition,SNOMED,Clinical Finding,S,20385005,1/31/02,12/31/99,NA
+4024296,Opioid-induced psychotic disorder with hallucinations,Condition,SNOMED,Clinical Finding,S,19445006,1/31/02,12/31/99,NA
+4323580,Opioid-induced sexual dysfunction,Condition,SNOMED,Clinical Finding,S,71328000,1/31/02,12/31/99,NA
+4230779,Opioid-induced sleep disorder,Condition,SNOMED,Clinical Finding,S,88926005,1/31/02,12/31/99,NA
+37016267,Perceptual disturbance due to alcohol withdrawal,Condition,SNOMED,Clinical Finding,S,2.88041E+14,1/31/16,12/31/99,NA
+37110469,Perceptual disturbances co-occurrent and due to psychoactive substance withdrawal,Condition,SNOMED,Clinical Finding,S,724726005,7/31/17,12/31/99,NA
+4239381,Psychoactive substance abuse,Condition,SNOMED,Clinical Finding,S,91388009,1/31/02,12/31/99,NA
+4080762,Psychoactive substance dependence,Condition,SNOMED,Clinical Finding,S,2403008,1/31/02,12/31/99,NA
+4004672,Psychoactive substance use disorder,Condition,SNOMED,Clinical Finding,S,11061003,1/31/02,12/31/99,NA
+37110468,Psychoactive substance withdrawal without complication,Condition,SNOMED,Clinical Finding,S,724725009,7/31/17,12/31/99,NA
+607217,Psychoactive substance-induced intoxication,Condition,SNOMED,Clinical Finding,S,1149353004,7/31/21,12/31/99,NA
+4307098,Psychoactive substance-induced organic amnestic disorder,Condition,SNOMED,Clinical Finding,S,83168008,1/31/02,12/31/99,NA
+4178114,Psychoactive substance-induced organic anxiety disorder,Condition,SNOMED,Clinical Finding,S,50026000,1/31/02,12/31/99,NA
+4191592,Psychoactive substance-induced organic delirium,Condition,SNOMED,Clinical Finding,S,39003006,1/31/02,12/31/99,NA
+443930,Psychoactive substance-induced organic delusional disorder,Condition,SNOMED,Clinical Finding,S,32552001,1/31/02,12/31/99,NA
+4009647,Psychoactive substance-induced organic dementia,Condition,SNOMED,Clinical Finding,S,111480006,1/31/02,12/31/99,NA
+4155336,Psychoactive substance-induced organic hallucinosis,Condition,SNOMED,Clinical Finding,S,28368009,1/31/02,12/31/99,NA
+375504,Psychoactive substance-induced organic mental disorder,Condition,SNOMED,Clinical Finding,S,11387009,1/31/02,12/31/99,NA
+444038,Psychoactive substance-induced organic mood disorder,Condition,SNOMED,Clinical Finding,S,37331004,1/31/02,12/31/99,NA
+46284260,Psychoactive substance-induced psychosis,Condition,SNOMED,Clinical Finding,S,9.43121E+14,4/1/15,12/31/99,NA
+4192127,Psychoactive substance-induced withdrawal syndrome,Condition,SNOMED,Clinical Finding,S,74934004,1/31/02,12/31/99,NA
+4176464,Psychostimulant withdrawal,Condition,SNOMED,Clinical Finding,S,428370001,1/31/08,12/31/99,NA
+37109954,Psychotic disorder caused by cannabis,Condition,SNOMED,Clinical Finding,S,723936000,7/31/17,12/31/99,NA
+37110437,Psychotic disorder caused by cocaine,Condition,SNOMED,Clinical Finding,S,724689006,7/31/17,12/31/99,NA
+37110443,Psychotic disorder caused by hallucinogen,Condition,SNOMED,Clinical Finding,S,724696008,7/31/17,12/31/99,NA
+37110408,Psychotic disorder caused by opioid,Condition,SNOMED,Clinical Finding,S,724655005,7/31/17,12/31/99,NA
+42539146,Psychotic disorder caused by stimulant,Condition,SNOMED,Clinical Finding,S,762325009,1/31/18,12/31/99,NA
+37110448,Psychotic disorder caused by volatile inhalant,Condition,SNOMED,Clinical Finding,S,724702008,7/31/17,12/31/99,NA
+442601,Sedative abuse,Condition,SNOMED,Clinical Finding,S,64386003,1/31/02,12/31/99,NA
+43020446,Sedative withdrawal,Condition,SNOMED,Clinical Finding,S,2.3601E+13,1/31/13,12/31/99,NA
+4184438,"Sedative, hypnotic AND/OR anxiolytic intoxication delirium",Condition,SNOMED,Clinical Finding,S,5444000,1/31/02,12/31/99,NA
+4056690,"Sedative, hypnotic AND/OR anxiolytic-induced anxiety disorder",Condition,SNOMED,Clinical Finding,S,1686006,1/31/02,12/31/99,NA
+4103853,"Sedative, hypnotic AND/OR anxiolytic-induced mood disorder",Condition,SNOMED,Clinical Finding,S,28864000,1/31/02,12/31/99,NA
+4199244,"Sedative, hypnotic AND/OR anxiolytic-induced persisting amnestic disorder",Condition,SNOMED,Clinical Finding,S,301643003,1/31/02,12/31/99,NA
+4245766,"Sedative, hypnotic AND/OR anxiolytic-induced persisting dementia",Condition,SNOMED,Clinical Finding,S,59651006,1/31/02,12/31/99,NA
+4026127,"Sedative, hypnotic AND/OR anxiolytic-induced psychotic disorder with delusions",Condition,SNOMED,Clinical Finding,S,1973000,1/31/02,12/31/99,NA
+4171175,"Sedative, hypnotic AND/OR anxiolytic-induced psychotic disorder with hallucinations",Condition,SNOMED,Clinical Finding,S,47664006,1/31/02,12/31/99,NA
+4048685,"Sedative, hypnotic AND/OR anxiolytic-induced sexual dysfunction",Condition,SNOMED,Clinical Finding,S,12380008,1/31/02,12/31/99,NA
+4239812,"Sedative, hypnotic AND/OR anxiolytic-induced sleep disorder",Condition,SNOMED,Clinical Finding,S,57588009,1/31/02,12/31/99,NA
+4193868,"Sedative, hypnotic AND/OR anxiolytic-related disorder",Condition,SNOMED,Clinical Finding,S,312098001,1/31/02,12/31/99,NA
+4137236,Sexual dysfunction due to substance,Condition,SNOMED,Clinical Finding,S,425528008,7/31/07,12/31/99,NA
+40479573,Stimulant abuse,Condition,SNOMED,Clinical Finding,S,441527004,7/31/09,12/31/99,NA
+40483172,Stimulant dependence,Condition,SNOMED,Clinical Finding,S,442406005,7/31/09,12/31/99,NA
+4103418,Tobacco dependence in remission,Condition,SNOMED,Clinical Finding,S,191889006,1/31/02,12/31/99,NA
+4310679,Uncomplicated alcohol withdrawal,Condition,SNOMED,Clinical Finding,S,85561006,1/31/02,12/31/99,NA
+4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",Condition,SNOMED,Clinical Finding,S,10028000,1/31/02,12/31/99,NA
+37110447,Volatile inhalant withdrawal,Condition,SNOMED,Clinical Finding,S,724701001,7/31/17,12/31/99,NA

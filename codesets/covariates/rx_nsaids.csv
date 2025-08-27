@@ -1,0 +1,2801 @@
+concept_id,concept_name,vocabulary_id,concept_code
+36244113,St. Joseph Aspirin Chewable Product,RxNorm,1295926
+36244251,Bayer Aspirin Chewable Product,RxNorm,1295996
+36245087,Motrin Chewable Product,RxNorm,1296120
+36245864,BC Original Formula Oral Powder Product,RxNorm,1296554
+36243412,Stanback Headache Powder Reformulated Jan 2011 Oral Powder Product,RxNorm,1297128
+42800580,chlorpheniramine maleate 0.2 MG/ML / ibuprofen 20 MG/ML / pseudoephedrine hydrochloride 3 MG/ML Oral Suspension,RxNorm,1297369
+42800591,chlorpheniramine maleate 2 MG / ibuprofen 200 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,RxNorm,1297390
+42800824,ibuprofen 200 MG / pseudoephedrine hydrochloride 30 MG Oral Capsule,RxNorm,1299018
+42800827,ibuprofen 200 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,RxNorm,1299021
+42800849,ibuprofen 200 MG [Proprinal],RxNorm,1300263
+42800854,ibuprofen Oral Tablet [Proprinal],RxNorm,1300264
+42800848,ibuprofen 200 MG Oral Tablet [Proprinal],RxNorm,1300267
+42873424,Arthriten Inflammatory Pain,RxNorm,1303154
+42873425,acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG [Arthriten Inflammatory Pain],RxNorm,1303155
+42873426,acetaminophen / aspirin / caffeine Oral Tablet [Arthriten Inflammatory Pain],RxNorm,1303156
+36243636,Arthriten Inflammatory Pain Oral Product,RxNorm,1303157
+36243637,Arthriten Inflammatory Pain Pill,RxNorm,1303158
+42873633,acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Arthriten Inflammatory Pain],RxNorm,1303159
+42899146,ibuprofen 20 MG/ML / pseudoephedrine hydrochloride 3 MG/ML Oral Suspension,RxNorm,1310487
+42898699,chlorpheniramine / ibuprofen / phenylephrine Oral Tablet,RxNorm,1310501
+42898682,chlorpheniramine maleate 4 MG / ibuprofen 200 MG / phenylephrine hydrochloride 10 MG Oral Tablet,RxNorm,1310503
+42900954,Bromo Seltzer Antacid Pain Reliever,RxNorm,1312950
+36246714,Bromo Seltzer Antacid Pain Reliever Oral Product,RxNorm,1312954
+36029539,aspirin / codeine,RxNorm,135095
+42901493,Exaprin,RxNorm,1358848
+42901494,acetaminophen 110 MG / aspirin 162 MG / caffeine 32.4 MG / salicylamide 152 MG [Exaprin],RxNorm,1358849
+42901495,acetaminophen / aspirin / caffeine / salicylamide Oral Tablet [Exaprin],RxNorm,1358850
+36246654,Exaprin Oral Product,RxNorm,1358851
+36246655,Exaprin Pill,RxNorm,1358852
+42902185,acetaminophen 110 MG / aspirin 162 MG / caffeine 32.4 MG / salicylamide 152 MG Oral Tablet [Exaprin],RxNorm,1358853
+42901534,ibuprofen 200 MG [Ibutab],RxNorm,1359093
+42901535,ibuprofen Oral Tablet [Ibutab],RxNorm,1359094
+42902222,ibuprofen 200 MG Oral Tablet [Ibutab],RxNorm,1359097
+42902224,diclofenac sodium 75 MG / misoprostol 0.2 MG Delayed Release Oral Tablet,RxNorm,1359105
+42902225,diclofenac sodium 50 MG / misoprostol 0.2 MG Delayed Release Oral Tablet [Arthrotec],RxNorm,1359107
+42902226,diclofenac sodium 75 MG / misoprostol 0.2 MG Delayed Release Oral Tablet [Arthrotec],RxNorm,1359109
+42902438,ketorolac tromethamine 15 MG/ML Prefilled Syringe,RxNorm,1359551
+42903070,ketorolac tromethamine 30 MG/ML Prefilled Syringe,RxNorm,1360183
+43011491,Backaid IPF,RxNorm,1361397
+43011492,acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG [Backaid IPF],RxNorm,1361398
+43011493,acetaminophen / aspirin / caffeine Oral Tablet [Backaid IPF],RxNorm,1361399
+36246755,Backaid IPF Oral Product,RxNorm,1361400
+36246756,Backaid IPF Pill,RxNorm,1361401
+43011827,acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Backaid IPF],RxNorm,1361402
+43011763,meloxicam 5 MG/ML [Loxicom],RxNorm,1364058
+43011764,meloxicam Injectable Solution [Loxicom],RxNorm,1364059
+43012139,meloxicam 5 MG/ML Injectable Solution [Loxicom],RxNorm,1364061
+43012902,phenylbutazone 200 MG/ML [Equi-Bute],RxNorm,1365576
+43012904,phenylbutazone Injectable Solution [Equi-Bute],RxNorm,1365577
+43012900,phenylbutazone 200 MG/ML Injectable Solution [Equi-Bute],RxNorm,1365579
+43012903,phenylbutazone 200 MG/ML [Equi-Phar],RxNorm,1365695
+43012905,phenylbutazone Injectable Solution [Equi-Phar],RxNorm,1365696
+43012901,phenylbutazone 200 MG/ML Injectable Solution [Equi-Phar],RxNorm,1365698
+43012746,ketoprofen 100 MG/ML,RxNorm,1365880
+43012430,12 HR naproxen sodium 220 MG / pseudoephedrine hydrochloride 120 MG Extended Release Oral Tablet,RxNorm,1367426
+43012835,naproxen sodium 220 MG / pseudoephedrine hydrochloride 120 MG Extended Release Oral Tablet,RxNorm,1367429
+43013785,phenylbutazone 1000 MG [Phenylbute],RxNorm,1369760
+43013786,phenylbutazone Oral Tablet [Phenylbute],RxNorm,1369761
+43013784,phenylbutazone 1000 MG Oral Tablet [Phenylbute],RxNorm,1369764
+43013686,ibuprofen 200 MG / phenylephrine hydrochloride 10 MG Oral Tablet,RxNorm,1369775
+43525479,Ascomp,RxNorm,1372693
+1118084,celecoxib,RxNorm,140587
+19032725,bufexamac 50 MG/ML Topical Cream,RxNorm,141854
+1177481,ibuprofen 3 MG/ML Oral Suspension,RxNorm,141993
+1177512,ibuprofen 0.05 MG/MG Topical Gel,RxNorm,141997
+1177513,ibuprofen 50 MG/ML Topical Cream,RxNorm,141998
+19011850,ibuprofen 0.05 MG/MG / menthol 0.03 MG/MG Topical Gel,RxNorm,142103
+43532057,naproxen 250 MG / pseudoephedrine hydrochloride 60 MG Oral Capsule,RxNorm,1424649
+43560001,aspirin 120 MG Chewable Tablet,RxNorm,1433630
+44506493,meloxicam 1.5 MG/ML [Meloxidyl],RxNorm,1439978
+44506494,meloxicam Oral Suspension [Meloxidyl],RxNorm,1439979
+44506660,meloxicam 1.5 MG/ML Oral Suspension [Meloxidyl],RxNorm,1439982
+44507528,diclofenac 18 MG,RxNorm,1442115
+44507529,diclofenac 18 MG Oral Capsule,RxNorm,1442116
+44507531,diclofenac 18 MG [Zorvolex],RxNorm,1442118
+44507536,diclofenac Oral Capsule [Zorvolex],RxNorm,1442119
+44507530,diclofenac 18 MG Oral Capsule [Zorvolex],RxNorm,1442122
+44507532,diclofenac 35 MG,RxNorm,1442127
+44507533,diclofenac 35 MG Oral Capsule,RxNorm,1442128
+44507535,diclofenac 35 MG [Zorvolex],RxNorm,1442129
+44507534,diclofenac 35 MG Oral Capsule [Zorvolex],RxNorm,1442130
+44507671,meloxicam 5 MG/ML [Ostilox],RxNorm,1482671
+44507672,meloxicam Injectable Solution [Ostilox],RxNorm,1482672
+44507670,meloxicam 5 MG/ML Injectable Solution [Ostilox],RxNorm,1482674
+44785202,diclofenac sodium 20 MG/ML,RxNorm,1487073
+44785203,diclofenac sodium 20 MG/ML Topical Solution,RxNorm,1487074
+44785205,diclofenac sodium 20 MG/ML [Pennsaid],RxNorm,1487075
+44785204,diclofenac sodium 20 MG/ML Topical Solution [Pennsaid],RxNorm,1487076
+44785738,phenylbutazone 1000 MG [Vetribute],RxNorm,1487275
+44785739,phenylbutazone Oral Tablet [Vetribute],RxNorm,1487276
+44785737,phenylbutazone 1000 MG Oral Tablet [Vetribute],RxNorm,1487279
+44785696,ketoprofen 0.05 MG/MG,RxNorm,1488712
+44814309,indomethacin 20 MG Oral Capsule,RxNorm,1490727
+44814311,indomethacin 20 MG [Tivorbex],RxNorm,1491523
+44814316,indomethacin Oral Capsule [Tivorbex],RxNorm,1491524
+44814310,indomethacin 20 MG Oral Capsule [Tivorbex],RxNorm,1491527
+44814312,indomethacin 40 MG,RxNorm,1491528
+44814313,indomethacin 40 MG Oral Capsule,RxNorm,1491529
+44814315,indomethacin 40 MG [Tivorbex],RxNorm,1491530
+44814314,indomethacin 40 MG Oral Capsule [Tivorbex],RxNorm,1491531
+44815865,meloxicam 5 MG/ML [Eloxiject],RxNorm,1495052
+44815866,meloxicam Injectable Solution [Eloxiject],RxNorm,1495053
+44816218,meloxicam 5 MG/ML Injectable Solution [Eloxiject],RxNorm,1495055
+19012742,ibuprofen 200 MG Oral Tablet [Relcofen],RxNorm,151001
+19012743,ibuprofen 400 MG Oral Tablet [Relcofen],RxNorm,151002
+19012883,diclofenac sodium 100 MG Extended Release Oral Tablet [Rhumalgan CR],RxNorm,151118
+19012884,diclofenac sodium 75 MG Extended Release Oral Tablet [Rhumalgan CR],RxNorm,151119
+19013337,mefenamic acid 500 MG Oral Tablet [Contraflam],RxNorm,151225
+19013466,diclofenac sodium 75 MG Extended Release Oral Tablet [Volsaid Retard],RxNorm,151290
+19013467,diclofenac sodium 100 MG Extended Release Oral Tablet [Volsaid Retard],RxNorm,151291
+19015993,aceclofenac 100 MG Oral Tablet [Preservex],RxNorm,152542
+19029394,aceclofenac 100 MG Oral Tablet,RxNorm,152544
+19015997,ibuprofen 200 MG Oral Tablet [Inoven],RxNorm,152582
+1150346,meloxicam 15 MG Rectal Suppository,RxNorm,152694
+1150347,meloxicam 15 MG Oral Tablet,RxNorm,152695
+19016267,meloxicam 15 MG Rectal Suppository [Mobic],RxNorm,152696
+1150348,meloxicam 7.5 MG Oral Tablet [Mobic],RxNorm,152697
+1150349,meloxicam 15 MG Oral Tablet [Mobic],RxNorm,152698
+19016344,diclofenac sodium 75 MG Extended Release Oral Tablet [Lofensaid Retard],RxNorm,152728
+19016345,diclofenac sodium 100 MG Extended Release Oral Tablet [Lofensaid Retard],RxNorm,152729
+19016485,ibuprofen 0.05 MG/MG Topical Gel [fenbid],RxNorm,152795
+19016543,ketoprofen 200 MG Extended Release Oral Capsule [Ketotard],RxNorm,152875
+19016761,ibuprofen 200 MG Oral Tablet [Advil],RxNorm,153008
+19016770,tolfenamic acid 200 MG Oral Capsule,RxNorm,153033
+19016791,tolfenamic acid 200 MG Oral Capsule [Clotam],RxNorm,153034
+19016898,naproxen 250 MG Delayed Release Oral Tablet [Timpron 250 EC],RxNorm,153135
+19016991,diclofenac sodium 75 MG Extended Release Oral Tablet [Diclotard],RxNorm,153227
+19016992,diclofenac sodium 100 MG Extended Release Oral Tablet [Diclotard],RxNorm,153228
+19016997,indomethacin 75 MG Extended Release Oral Capsule [Indotard MR],RxNorm,153240
+19017029,piroxicam 0.005 MG/MG Topical Gel [Feldene P],RxNorm,153283
+19017085,naproxen 500 MG Delayed Release Oral Tablet [Timpron 500 EC],RxNorm,153315
+36029657,aspirin / carbidopa,RxNorm,1534422
+19017368,tolfenamic acid 200 MG Oral Tablet,RxNorm,153522
+19017369,tolfenamic acid 200 MG Oral Tablet [Clotam Rapid],RxNorm,153523
+19017528,diclofenac sodium 75 MG Extended Release Oral Tablet [Flamatak MR],RxNorm,153621
+44817912,aspirin / citric acid / sodium bicarbonate Effervescent Oral Tablet,RxNorm,1536466
+44818286,aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1700 MG Effervescent Oral Tablet,RxNorm,1536467
+44817930,aspirin / dextromethorphan / phenylephrine Effervescent Oral Tablet,RxNorm,1536497
+44818294,aspirin 325 MG / dextromethorphan hydrobromide 10 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet,RxNorm,1536498
+44817933,aspirin / dextromethorphan / doxylamine / phenylephrine Effervescent Oral Tablet,RxNorm,1536502
+44818296,aspirin 500 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet,RxNorm,1536503
+44818312,aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1916 MG Effervescent Oral Tablet,RxNorm,1536675
+44817951,aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1916 MG [Alka-Seltzer],RxNorm,1536678
+44817952,aspirin / citric acid / sodium bicarbonate Effervescent Oral Tablet [Alka-Seltzer],RxNorm,1536679
+44818313,aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1916 MG Effervescent Oral Tablet [Alka-Seltzer],RxNorm,1536680
+44817956,aspirin / caffeine Effervescent Oral Tablet,RxNorm,1536814
+44818316,aspirin 500 MG / caffeine 65 MG Effervescent Oral Tablet,RxNorm,1536815
+44818319,aspirin 500 MG / citric acid 1000 MG / sodium bicarbonate 1985 MG Effervescent Oral Tablet,RxNorm,1536833
+44817962,aspirin 500 MG / citric acid 1000 MG / sodium bicarbonate 1985 MG [Alka-Seltzer],RxNorm,1536834
+44818320,aspirin 500 MG / citric acid 1000 MG / sodium bicarbonate 1985 MG Effervescent Oral Tablet [Alka-Seltzer],RxNorm,1536835
+44817963,aspirin / chlorpheniramine / phenylephrine Effervescent Oral Tablet,RxNorm,1536839
+44818322,aspirin 325 MG / chlorpheniramine maleate 2 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet,RxNorm,1536840
+44818350,aspirin 500 MG / chlorpheniramine maleate 2 MG / phenylephrine bitartrate 8 MG Effervescent Oral Tablet,RxNorm,1536993
+44818009,aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1916 MG [Bromo Seltzer Antacid Pain Reliever],RxNorm,1537010
+44818010,aspirin / citric acid / sodium bicarbonate Effervescent Oral Tablet [Bromo Seltzer Antacid Pain Reliever],RxNorm,1537011
+44818355,aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1916 MG Effervescent Oral Tablet [Bromo Seltzer Antacid Pain Reliever],RxNorm,1537012
+44818356,aspirin 500 MG / caffeine 60 MG Effervescent Oral Tablet,RxNorm,1537019
+44818011,aspirin Effervescent Oral Tablet,RxNorm,1537020
+44818016,aspirin / chlorpheniramine / dextromethorphan / phenylephrine Effervescent Oral Tablet,RxNorm,1537028
+44818360,aspirin 325 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet,RxNorm,1537029
+19017902,indomethacin 75 MG Extended Release Oral Capsule [Pardelprin MR],RxNorm,153763
+19017989,diclofenac sodium 100 MG Extended Release Oral Tablet [Flexotard MR],RxNorm,153838
+19018046,diclofenac sodium 25 MG Delayed Release Oral Tablet [Diclovol],RxNorm,153871
+19018047,diclofenac sodium 50 MG Delayed Release Oral Tablet [Diclovol],RxNorm,153872
+19018049,diclofenac sodium 100 MG Extended Release Oral Tablet [Diclovol Retard],RxNorm,153874
+45776987,diphenhydramine / naproxen Oral Tablet,RxNorm,1550955
+45776988,diphenhydramine hydrochloride 25 MG / naproxen sodium 220 MG Oral Tablet,RxNorm,1550957
+45776990,diphenhydramine hydrochloride 25 MG / naproxen sodium 220 MG [Aleve PM],RxNorm,1550959
+45776991,diphenhydramine / naproxen Oral Tablet [Aleve PM],RxNorm,1550960
+45776992,diphenhydramine hydrochloride 25 MG / naproxen sodium 220 MG Oral Tablet [Aleve PM],RxNorm,1550963
+45774493,ketoprofen 100 MG/ML Injectable Solution,RxNorm,1551477
+45774495,ketoprofen 100 MG/ML [Ketofen],RxNorm,1551479
+45774496,ketoprofen Injectable Solution [Ketofen],RxNorm,1551480
+45774568,ketoprofen 100 MG/ML Injectable Solution [Ketofen],RxNorm,1551482
+36248608,acetaminophen / aspirin / diphenhydramine Oral Product,RxNorm,1593106
+36248609,acetaminophen / aspirin / diphenhydramine Pill,RxNorm,1593107
+45775629,acetaminophen / aspirin / diphenhydramine Oral Tablet,RxNorm,1593108
+36029686,acetaminophen / aspirin / diphenhydramine,RxNorm,1593109
+45775630,acetaminophen 250 MG / aspirin 250 MG / diphenhydramine citrate 38 MG Oral Tablet,RxNorm,1593110
+45775631,Excedrin PM Triple Action,RxNorm,1593111
+45775632,acetaminophen 250 MG / aspirin 250 MG / diphenhydramine citrate 38 MG [Excedrin PM Triple Action],RxNorm,1593112
+45775633,acetaminophen / aspirin / diphenhydramine Oral Tablet [Excedrin PM Triple Action],RxNorm,1593113
+36248610,Excedrin PM Triple Action Oral Product,RxNorm,1593114
+36248611,Excedrin PM Triple Action Pill,RxNorm,1593115
+45775634,acetaminophen 250 MG / aspirin 250 MG / diphenhydramine citrate 38 MG Oral Tablet [Excedrin PM Triple Action],RxNorm,1593116
+45775826,naproxen sodium 220 MG [Menstridol],RxNorm,1593656
+45775827,naproxen Oral Tablet [Menstridol],RxNorm,1593657
+45775828,naproxen sodium 220 MG Oral Tablet [Menstridol],RxNorm,1593660
+45892517,chondroitin sulfates / glucosamine / ibuprofen Oral Tablet,RxNorm,1597117
+45892518,chondroitin sulfates 200 MG / glucosamine sulfate 250 MG / ibuprofen 100 MG Oral Tablet,RxNorm,1597119
+45892881,diclofenac sodium 37.5 MG/ML,RxNorm,1599786
+45892882,1 ML diclofenac sodium 37.5 MG/ML Injection,RxNorm,1599787
+45892050,Aspi-Cor,RxNorm,1600986
+45892052,aspirin Delayed Release Oral Tablet [Aspi-Cor],RxNorm,1600988
+36248726,Aspi-Cor Oral Product,RxNorm,1600989
+36248727,Aspi-Cor Pill,RxNorm,1600990
+46221210,diclofenac sodium 37.5 MG/ML [Dyloject],RxNorm,1607579
+46221212,1 ML diclofenac sodium 37.5 MG/ML Injection [Dyloject],RxNorm,1607582
+46221322,naproxen 200 MG,RxNorm,1608796
+46221323,naproxen 200 MG Oral Tablet,RxNorm,1608797
+46234375,meloxicam 1.5 MG/ML [Loxicom],RxNorm,1648915
+46234376,meloxicam Oral Suspension [Loxicom],RxNorm,1648916
+46234377,meloxicam 1.5 MG/ML Oral Suspension [Loxicom],RxNorm,1648919
+46234388,meloxicam 1.5 MG/ML [Ostilox],RxNorm,1649010
+46234389,meloxicam Oral Suspension [Ostilox],RxNorm,1649011
+46234390,meloxicam 1.5 MG/ML Oral Suspension [Ostilox],RxNorm,1649014
+19029393,aceclofenac,RxNorm,16689
+35606609,{1 (aspirin 325 MG / dextromethorphan hydrobromide 10 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet) / 1 (aspirin 500 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG / phenylephrine bitartrate 7.8 MG Effervescent...,RxNorm,1730187
+702571,{1 (aspirin 325 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet) / 1 (aspirin 325 MG / dextromethorphan hydrobromide 10 MG / phenylephrine bitartrate 7.8 MG Effervescent...,RxNorm,2565492
+40163829,diclofenac 25 MG Oral Capsule,RxNorm,858342
+40163830,diclofenac 25 MG Oral Capsule [Zipsor],RxNorm,858346
+746948,oxaprozin Oral Capsule,RxNorm,2668161
+746949,oxaprozin 300 MG Oral Capsule,RxNorm,2668162
+746951,oxaprozin 300 MG [Coxanto],RxNorm,2668164
+746954,oxaprozin Oral Capsule [Coxanto],RxNorm,2668167
+746955,oxaprozin 300 MG Oral Capsule [Coxanto],RxNorm,2668168
+747293,diclofenac 25 MG,RxNorm,2670401
+747294,diclofenac 25 MG [Zipsor],RxNorm,2670403
+747685,{1 (aspirin 325 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet) / 1 (aspirin 325 MG / dextromethorphan hydrobromide 10 MG / phenylephrine bitartrate 7.8 MG Effervescen...,RxNorm,2664074
+40224940,Ecpirin,RxNorm,1001473
+40224187,aspirin 325 MG [Ecpirin],RxNorm,1001474
+40224188,aspirin Delayed Release Oral Tablet [Ecpirin],RxNorm,1001475
+40224186,aspirin 325 MG Delayed Release Oral Tablet [Ecpirin],RxNorm,1001476
+36027130,aluminum hydroxide / aspirin / caffeine,RxNorm,1006995
+36027140,aspirin / quinine,RxNorm,1007005
+36027242,aspirin / pyridinolcarbamate,RxNorm,1007112
+36027368,acetiamine / aspirin,RxNorm,1007240
+36027462,aspirin / isosorbide,RxNorm,1007337
+36027478,aspirin / chlorpheniramine / dextromethorphan,RxNorm,1007353
+36027530,ascorbic acid / aspirin / cysteine,RxNorm,1007407
+36027547,ascorbic acid / aspirin / diphenylpyraline,RxNorm,1007424
+36027593,aspirin / chlormezanone,RxNorm,1007472
+36027732,aspirin / chlorpheniramine / dextromethorphan / phenylpropanolamine,RxNorm,1007613
+36028116,aspirin / caffeine / magnesium salicylate,RxNorm,1008006
+36028183,aspirin / methylprednisolone,RxNorm,1008080
+36028759,aspirin / lithium / quinine,RxNorm,1008684
+36028861,aspirin / caffeine / magnesium carbonate / magnesium salicylate,RxNorm,1008791
+36028897,aspirin / sulfur,RxNorm,1008832
+36028939,aspirin / chlorpheniramine / pseudoephedrine,RxNorm,1008877
+36029046,aspirin / nafronyl,RxNorm,1008988
+36029093,aspirin / papaverine / phenobarbital,RxNorm,1009038
+19029398,acemetacin,RxNorm,16695
+46287318,ketorolac Injection,RxNorm,1665000
+46287319,ketorolac tromethamine 15 MG/ML Injection,RxNorm,1665002
+46287401,Durlaza,RxNorm,1665357
+46287402,aspirin 162.5 MG [Durlaza],RxNorm,1665358
+46287403,aspirin Extended Release Oral Capsule [Durlaza],RxNorm,1665359
+36248448,Durlaza Oral Product,RxNorm,1665360
+36248449,Durlaza Pill,RxNorm,1665361
+46287422,2 ML ketorolac tromethamine 30 MG/ML Injection,RxNorm,1665459
+46287423,ketorolac tromethamine 30 MG/ML Injection,RxNorm,1665460
+46287424,1 ML ketorolac tromethamine 30 MG/ML Injection,RxNorm,1665461
+46287459,ketorolac Cartridge,RxNorm,1665674
+46287460,1 ML ketorolac tromethamine 15 MG/ML Cartridge,RxNorm,1665675
+46287461,ketorolac tromethamine 15 MG/ML Cartridge,RxNorm,1665676
+46287462,1 ML ketorolac tromethamine 30 MG/ML Cartridge,RxNorm,1665679
+46287463,ketorolac tromethamine 30 MG/ML Cartridge,RxNorm,1665680
+46287464,2 ML ketorolac tromethamine 30 MG/ML Cartridge,RxNorm,1665682
+35605790,meloxicam 5 MG,RxNorm,1722348
+35605791,meloxicam 5 MG Oral Capsule,RxNorm,1722349
+35605793,meloxicam 5 MG [Vivlodex],RxNorm,1722351
+35605794,meloxicam Oral Capsule [Vivlodex],RxNorm,1722352
+35605795,meloxicam 5 MG Oral Capsule [Vivlodex],RxNorm,1722355
+35605796,meloxicam 10 MG,RxNorm,1722356
+35605797,meloxicam 10 MG Oral Capsule,RxNorm,1722357
+35605798,meloxicam 10 MG [Vivlodex],RxNorm,1722358
+35605799,meloxicam 10 MG Oral Capsule [Vivlodex],RxNorm,1722359
+36248203,aspirin / calcium carbonate Oral Product,RxNorm,1722686
+36248204,aspirin / calcium carbonate Pill,RxNorm,1722687
+35605959,aspirin / calcium carbonate Oral Tablet,RxNorm,1722688
+19030123,Alka-Seltzer,RxNorm,17315
+19018431,alminoprofen,RxNorm,17387
+35604183,ibuprofen Injection,RxNorm,1747293
+35604184,2 ML ibuprofen 10 MG/ML Injection,RxNorm,1747294
+35604185,ibuprofen 10 MG/ML Injection,RxNorm,1747295
+35604404,meloxicam 1.5 MG/ML [EloxiOral],RxNorm,1788848
+35604405,meloxicam Oral Suspension [EloxiOral],RxNorm,1788849
+35604406,meloxicam 1.5 MG/ML Oral Suspension [EloxiOral],RxNorm,1788852
+42628867,ibuprofen Injection [Caldolor],RxNorm,1791362
+42628868,ibuprofen 100 MG/ML Injection,RxNorm,1791364
+42628869,ibuprofen 100 MG/ML Injection [Caldolor],RxNorm,1791365
+42628870,ibuprofen Injection [Neoprofen],RxNorm,1791366
+42628871,ibuprofen 10 MG/ML Injection [Neoprofen],RxNorm,1791368
+19032724,bufexamac,RxNorm,1796
+36249249,fenoprofen 400 MG [Fenortho],RxNorm,1799319
+36249250,fenoprofen Oral Capsule [Fenortho],RxNorm,1799320
+36249253,fenoprofen 400 MG Oral Capsule [Fenortho],RxNorm,1799323
+36249254,fenoprofen 200 MG [Fenortho],RxNorm,1799324
+36249255,fenoprofen 200 MG Oral Capsule [Fenortho],RxNorm,1799325
+40220405,diclofenac / misoprostol Delayed Release Oral Tablet,RxNorm,1808539
+40220406,diclofenac / misoprostol Delayed Release Oral Tablet [Arthrotec],RxNorm,1808541
+40220677,diclofenac sodium 30 MG/ML,RxNorm,1810278
+40220767,esomeprazole strontium 24.65 MG,RxNorm,1810788
+1718968,aspirin / omeprazole Oral Product,RxNorm,1811627
+1718969,aspirin / omeprazole Pill,RxNorm,1811628
+1718970,aspirin / omeprazole Delayed Release Oral Tablet,RxNorm,1811629
+36029784,aspirin / omeprazole,RxNorm,1811630
+1718972,aspirin 325 MG / omeprazole 40 MG Delayed Release Oral Tablet,RxNorm,1811632
+1718999,Yosprala,RxNorm,1811911
+1719000,aspirin 325 MG / omeprazole 40 MG [Yosprala],RxNorm,1811912
+1719001,aspirin / omeprazole Delayed Release Oral Tablet [Yosprala],RxNorm,1811913
+1719002,Yosprala Oral Product,RxNorm,1811914
+1719003,Yosprala Pill,RxNorm,1811915
+1718069,diclofenac Injection,RxNorm,1812338
+1718070,diclofenac Injection [Dyloject],RxNorm,1812340
+1718071,diclofenac sodium 37.5 MG/ML Injection,RxNorm,1812342
+1718072,diclofenac sodium 37.5 MG/ML Injection [Dyloject],RxNorm,1812343
+1236607,sulindac,RxNorm,10237
+1036636,suprofen,RxNorm,10255
+19001950,etodolac 200 MG Oral Tablet [Ramodar],RxNorm,103148
+19001971,indomethacin 25 MG Oral Capsule [Indoflex],RxNorm,103150
+19001972,indomethacin 25 MG Oral Capsule [Indolar],RxNorm,103151
+19001973,indomethacin 50 MG Oral Capsule [Indolar],RxNorm,103152
+19001974,indomethacin 100 MG Rectal Suppository [Indolar],RxNorm,103153
+19001975,indomethacin 25 MG Oral Capsule [Mobilan],RxNorm,103154
+19001976,indomethacin 50 MG Oral Capsule [Mobilan],RxNorm,103155
+19001977,indomethacin 75 MG Extended Release Oral Capsule [Slo-Indo],RxNorm,103156
+19001978,phenylbutazone 200 MG Oral Tablet [Butacote],RxNorm,103157
+19001979,phenylbutazone 100 MG Oral Tablet [Butazolidin],RxNorm,103158
+19001980,phenylbutazone 200 MG Oral Tablet [Butazolidin],RxNorm,103159
+19002011,tolmetin 400 MG Oral Capsule [Tolectin DS],RxNorm,103161
+19002424,bufexamac 50 MG/ML Topical Cream [Jomax],RxNorm,103485
+19002674,ibuprofen 50 MG/ML Topical Cream [Proflex],RxNorm,103773
+19002860,naproxen 500 MG Oral Tablet [Timpron],RxNorm,103842
+19002900,aspirin 150 MG Rectal Suppository,RxNorm,103863
+19002982,tenoxicam 10 MG/ML Injectable Solution,RxNorm,103894
+19002983,tenoxicam 10 MG/ML Injectable Solution [Mobiflex],RxNorm,103895
+19002990,ketoprofen 150 MG Extended Release Oral Capsule,RxNorm,103903
+19003022,naproxen 250 MG Oral Tablet [Timpron],RxNorm,103907
+19003152,ibuprofen 50 MG/ML Topical Cream [Proflex Pain Relief],RxNorm,103972
+40228940,diclofenac sodium 10 MG/ML,RxNorm,1043478
+19005998,fenoprofen 200 MG Oral Tablet [Progesic],RxNorm,104910
+19005999,naproxen 250 MG Oral Tablet [Synflex],RxNorm,104911
+40234762,Pamprin Max Formula,RxNorm,1052413
+40233253,acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG [Pamprin Max Formula],RxNorm,1052414
+40233289,acetaminophen / aspirin / caffeine Oral Tablet [Pamprin Max Formula],RxNorm,1052415
+40233252,acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Pamprin Max Formula],RxNorm,1052416
+40233361,aspirin Delayed Release Oral Tablet [Miniprin],RxNorm,1052677
+36029261,aspirin / dextromethorphan / phenylephrine,RxNorm,1053102
+36029262,aspirin / dextromethorphan / doxylamine / phenylephrine,RxNorm,1053120
+40233913,Stanback Headache Powder Reformulated Jan 2011,RxNorm,1053324
+40233425,aspirin 845 MG / caffeine 65 MG [Stanback Headache Powder Reformulated Jan 2011],RxNorm,1053325
+40233381,aspirin / caffeine Oral Powder [Stanback Headache Powder Reformulated Jan 2011],RxNorm,1053326
+40233424,aspirin 845 MG / caffeine 65 MG Oral Powder [Stanback Headache Powder Reformulated Jan 2011],RxNorm,1053327
+19018512,clofezone,RxNorm,183877
+1718407,aspirin / dipyridamole Extended Release Oral Capsule,RxNorm,1856538
+1718419,diclofenac Powder for Oral Solution,RxNorm,1856554
+1718420,diclofenac potassium 50 MG [Cambia],RxNorm,1856556
+1718421,diclofenac Powder for Oral Solution [Cambia],RxNorm,1856557
+1592853,indomethacin 1 MG,RxNorm,1863326
+1592854,indomethacin Injection,RxNorm,1863327
+19044901,Naprosyn,RxNorm,203012
+1592499,aspirin / citric acid / sodium bicarbonate Granule Product,RxNorm,1872083
+1592500,aspirin / citric acid / sodium bicarbonate Granules for Oral Solution,RxNorm,1872084
+1592501,aspirin 500 MG / citric acid 1000 MG / sodium bicarbonate 1985 MG Granules for Oral Solution,RxNorm,1872085
+1592502,aspirin / citric acid / sodium bicarbonate Granules for Oral Solution [Alka-Seltzer],RxNorm,1872086
+1592503,Alka-Seltzer Granule Product,RxNorm,1872087
+1592504,aspirin 500 MG / citric acid 1000 MG / sodium bicarbonate 1985 MG Granules for Oral Solution [Alka-Seltzer],RxNorm,1872088
+1592329,aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1700 MG [Alka-Seltzer],RxNorm,1925789
+1592330,aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1700 MG Effervescent Oral Tablet [Alka-Seltzer],RxNorm,1925790
+1593173,phenylbutazone 1000 MG [Butatron],RxNorm,1928078
+1593174,phenylbutazone Oral Tablet [Butatron],RxNorm,1928079
+1593177,phenylbutazone 1000 MG Oral Tablet [Butatron],RxNorm,1928082
+794112,Arthriten Max,RxNorm,1944108
+794113,acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG [Arthriten Max],RxNorm,1944109
+794114,acetaminophen / aspirin / caffeine Oral Tablet [Arthriten Max],RxNorm,1944110
+794115,Arthriten Max Oral Product,RxNorm,1944111
+794116,Arthriten Max Pill,RxNorm,1944112
+792556,fenoprofen 600 MG [Profeno],RxNorm,1945846
+792557,fenoprofen Oral Tablet [Profeno],RxNorm,1945847
+792560,fenoprofen 600 MG Oral Tablet [Profeno],RxNorm,1945850
+749933,aspirin 325 MG / carisoprodol 200 MG Oral Tablet,RxNorm,197447
+1195496,etodolac 200 MG Oral Capsule,RxNorm,197684
+1195497,etodolac 300 MG Oral Capsule,RxNorm,197685
+1195498,etodolac 400 MG Oral Tablet,RxNorm,197686
+1153929,fenoprofen 200 MG Oral Capsule,RxNorm,197694
+1153930,fenoprofen 300 MG Oral Capsule,RxNorm,197695
+1156380,flurbiprofen 100 MG Oral Tablet,RxNorm,197724
+1156381,flurbiprofen 50 MG Oral Tablet,RxNorm,197725
+19019050,ibuprofen 20 MG/ML Oral Suspension,RxNorm,197803
+19019071,ibuprofen 300 MG Oral Tablet,RxNorm,197804
+19019072,ibuprofen 400 MG Oral Tablet,RxNorm,197805
+19019073,ibuprofen 600 MG Oral Tablet,RxNorm,197806
+19019074,ibuprofen 800 MG Oral Tablet,RxNorm,197807
+1178665,indomethacin 25 MG Oral Capsule,RxNorm,197817
+1178666,indomethacin 50 MG Oral Capsule,RxNorm,197818
+1178667,indomethacin 50 MG Rectal Suppository,RxNorm,197819
+1185926,ketoprofen 25 MG Oral Capsule,RxNorm,197854
+1185927,ketoprofen 50 MG Oral Capsule,RxNorm,197855
+1185928,ketoprofen 75 MG Oral Capsule,RxNorm,197856
+19019154,aspirin 325 MG / meprobamate 200 MG Oral Tablet,RxNorm,197930
+704946,aspirin 325 MG / methocarbamol 400 MG Oral Tablet,RxNorm,197945
+19019271,naproxen 375 MG Oral Tablet,RxNorm,198012
+19019272,naproxen 250 MG Oral Tablet,RxNorm,198013
+19019273,naproxen 500 MG Oral Tablet,RxNorm,198014
+19019665,piroxicam 10 MG Oral Capsule,RxNorm,198107
+19019666,piroxicam 20 MG Oral Capsule,RxNorm,198108
+1236609,sulindac 150 MG Oral Tablet,RxNorm,198238
+1236610,sulindac 200 MG Oral Tablet,RxNorm,198239
+1102919,tolmetin 200 MG Oral Tablet,RxNorm,198295
+1102920,tolmetin 400 MG Oral Capsule,RxNorm,198296
+1102921,tolmetin 600 MG Oral Tablet,RxNorm,198297
+19019979,ibuprofen 100 MG Oral Tablet,RxNorm,198405
+1112836,aspirin 120 MG Rectal Suppository,RxNorm,198461
+1112838,aspirin 200 MG Rectal Suppository,RxNorm,198463
+1112839,aspirin 300 MG Rectal Suppository,RxNorm,198464
+1112841,aspirin 325 MG Oral Capsule,RxNorm,198466
+1112892,aspirin 325 MG Delayed Release Oral Tablet,RxNorm,198467
+19039703,bumadizone,RxNorm,19847
+1112896,aspirin 500 MG Oral Tablet,RxNorm,198471
+1112898,aspirin 600 MG Rectal Suppository,RxNorm,198473
+1112900,aspirin 650 MG Oral Tablet,RxNorm,198475
+1134440,aspirin 400 MG / caffeine 32 MG Oral Tablet,RxNorm,198479
+19020056,aspirin 500 MG / caffeine 32 MG Oral Tablet,RxNorm,198480
+1185929,ketoprofen 12.5 MG Oral Tablet,RxNorm,199169
+1236611,sulindac 100 MG Oral Tablet,RxNorm,199279
+1185930,ketoprofen 100 MG Oral Capsule,RxNorm,199321
+19021712,etodolac 500 MG Oral Tablet,RxNorm,199390
+19021884,naproxen 500 MG Rectal Suppository,RxNorm,199490
+19021918,tenoxicam 10 MG Oral Tablet,RxNorm,199516
+1178668,indomethacin 100 MG Rectal Suppository,RxNorm,199549
+1185931,ketoprofen 100 MG Rectal Suppository,RxNorm,199553
+1146847,piroxicam 10 MG Oral Tablet,RxNorm,199559
+19022024,piroxicam 20 MG Oral Tablet,RxNorm,199560
+19022103,naproxen 1000 MG Extended Release Oral Tablet,RxNorm,199615
+1185942,ketoprofen 100 MG Delayed Release Oral Tablet,RxNorm,199758
+19022250,fenbufen 450 MG Oral Tablet,RxNorm,199740
+1156412,flurbiprofen 200 MG Extended Release Oral Capsule,RxNorm,199749
+19007727,diclofenac sodium 25 MG Delayed Release Oral Tablet [Voltarol],RxNorm,105801
+19007728,diclofenac sodium 50 MG Delayed Release Oral Tablet [Voltarol],RxNorm,105802
+19007730,diclofenac sodium 100 MG Rectal Suppository [Voltarol],RxNorm,105804
+19007761,diclofenac sodium 12.5 MG Rectal Suppository [Voltarol],RxNorm,105805
+19007762,diclofenac sodium 100 MG Extended Release Oral Tablet [Voltarol Retard],RxNorm,105806
+19007763,diclofenac sodium 25 MG Delayed Release Oral Tablet [Rhumalgan],RxNorm,105807
+19007764,diclofenac sodium 50 MG Delayed Release Oral Tablet [Rhumalgan],RxNorm,105808
+19007765,diclofenac sodium 25 MG Delayed Release Oral Tablet [Volraman],RxNorm,105809
+19007766,diclofenac sodium 50 MG Delayed Release Oral Tablet [Volraman],RxNorm,105810
+19007769,diclofenac sodium 25 MG Delayed Release Oral Tablet [Valenac],RxNorm,105813
+19007770,diclofenac sodium 50 MG Delayed Release Oral Tablet [Valenac],RxNorm,105814
+19007791,diclofenac sodium 25 MG Delayed Release Oral Tablet [Diclozip],RxNorm,105815
+19007792,diclofenac sodium 50 MG Delayed Release Oral Tablet [Diclozip],RxNorm,105816
+19007794,diclofenac sodium 100 MG Extended Release Oral Capsule [Diclomax Retard],RxNorm,105818
+19007795,diclofenac sodium 50 MG Delayed Release Oral Tablet [Isclofen],RxNorm,105819
+19007796,diclofenac sodium 25 MG Delayed Release Oral Tablet [Flamrase],RxNorm,105820
+19007797,diclofenac sodium 50 MG Delayed Release Oral Tablet [Flamrase],RxNorm,105821
+19007821,etodolac 200 MG Oral Capsule [Lodine],RxNorm,105825
+19007822,etodolac 300 MG Oral Capsule [Lodine],RxNorm,105826
+19007823,etodolac 200 MG Oral Tablet [Lodine],RxNorm,105827
+19007824,etodolac 200 MG Oral Tablet,RxNorm,105828
+19007825,fenbufen 300 MG Oral Capsule [Lederfen],RxNorm,105829
+19007826,fenbufen 300 MG Oral Tablet [Lederfen],RxNorm,105830
+19007827,fenbufen 450 MG Oral Tablet [Lederfen],RxNorm,105831
+19007828,fenbufen 300 MG Oral Capsule,RxNorm,105833
+19007829,fenbufen 300 MG Oral Tablet,RxNorm,105834
+19007830,fenbufen 300 MG Oral Capsule [Fenbuzip],RxNorm,105835
+19007861,fenbufen 300 MG Oral Tablet [Fenbuzip],RxNorm,105836
+19007862,fenbufen 450 MG Oral Tablet [Fenbuzip],RxNorm,105837
+19007863,fenoprofen 300 MG Oral Tablet [Fenopron],RxNorm,105839
+19007864,fenoprofen 600 MG Oral Tablet [Fenopron],RxNorm,105840
+19007865,flurbiprofen 50 MG Oral Tablet [Froben],RxNorm,105841
+19007866,flurbiprofen 100 MG Oral Tablet [Froben],RxNorm,105842
+19007867,flurbiprofen 100 MG Rectal Suppository [Froben],RxNorm,105843
+19007868,flurbiprofen 200 MG Extended Release Oral Capsule [Froben],RxNorm,105844
+19007869,flurbiprofen 100 MG Rectal Suppository,RxNorm,105845
+19007870,ibuprofen 200 MG Oral Tablet [Ibrufhalal],RxNorm,105846
+19007901,ibuprofen 400 MG Oral Tablet [Cuprofen Maximum Strength],RxNorm,105847
+19007902,ibuprofen 600 MG Oral Tablet [Arthrofen 600],RxNorm,105848
+19007903,ibuprofen 300 MG Extended Release Oral Capsule [fenbid],RxNorm,105849
+19007904,ibuprofen 20 MG/ML Oral Suspension [Junifen],RxNorm,105850
+19007905,ibuprofen 3 MG/ML Oral Suspension [Brufen],RxNorm,105851
+19007906,ibuprofen 300 MG Extended Release Oral Capsule [Proflex],RxNorm,105852
+19007907,indomethacin 25 MG Oral Capsule [Artracin],RxNorm,105853
+19007908,indomethacin 50 MG Oral Capsule [Artracin],RxNorm,105854
+19007909,indomethacin 25 MG Oral Capsule [Imbrilon],RxNorm,105855
+19007910,indomethacin 50 MG Oral Capsule [Imbrilon],RxNorm,105856
+19007941,indomethacin 100 MG Rectal Suppository [Imbrilon],RxNorm,105857
+19007942,indomethacin 25 MG Oral Capsule [Indocid],RxNorm,105858
+19007943,indomethacin 50 MG Oral Capsule [Indocid],RxNorm,105859
+19007944,indomethacin 25 MG Extended Release Oral Tablet [Flexin-25 Continus],RxNorm,105860
+19007945,indomethacin 5 MG/ML Oral Suspension [Indocid],RxNorm,105861
+19007946,indomethacin 50 MG Extended Release Oral Tablet [Flexin-50 Continus],RxNorm,105862
+19007947,indomethacin 100 MG Rectal Suppository [Indocid],RxNorm,105863
+19007948,indomethacin 50 MG Extended Release Oral Tablet,RxNorm,105864
+19007949,indomethacin 75 MG Extended Release Oral Capsule [Indocid R],RxNorm,105865
+19007950,indomethacin 25 MG Extended Release Oral Tablet,RxNorm,105866
+19007981,indomethacin 25 MG Oral Capsule [Rimacid],RxNorm,105867
+19007983,indomethacin 25 MG Extended Release Oral Capsule [Indomod],RxNorm,105869
+19007984,indomethacin 75 MG Extended Release Oral Capsule [Indomod],RxNorm,105870
+19007985,indomethacin 75 MG Extended Release Oral Tablet [Flexin-75 Continus],RxNorm,105871
+19007987,indomethacin 25 MG Oral Capsule [Indomax],RxNorm,105873
+19007988,ketoprofen 50 MG Oral Capsule [Alrheumat],RxNorm,105875
+19007989,ketoprofen 50 MG Oral Capsule [Orudis],RxNorm,105876
+19007990,ketoprofen 100 MG Oral Capsule [Orudis],RxNorm,105877
+19008011,ketoprofen 100 MG Rectal Suppository [Orudis],RxNorm,105878
+19008013,ketoprofen 200 MG Extended Release Oral Capsule [Oruvail],RxNorm,105880
+19008014,ketoprofen 50 MG/ML Injectable Solution [Oruvail],RxNorm,105881
+19008015,24 HR ketoprofen 100 MG Extended Release Oral Capsule [Ketovail],RxNorm,105882
+19008016,ketoprofen 200 MG Extended Release Oral Capsule [Ketovail],RxNorm,105883
+19008017,ketoprofen 50 MG Oral Capsule [Ketonal],RxNorm,105884
+19008018,ketoprofen 100 MG Oral Capsule [Ketonal],RxNorm,105885
+19008019,mefenamic acid 500 MG Oral Tablet [Ponstan],RxNorm,105887
+19008020,mefenamic acid 10 MG/ML Oral Suspension [Ponstan],RxNorm,105888
+19008021,mefenamic acid 250 MG Oral Capsule [Dysman],RxNorm,105890
+19008022,mefenamic acid 500 MG Oral Tablet [Dysman],RxNorm,105891
+19008023,mefenamic acid 250 MG Oral Capsule [Contraflam],RxNorm,105892
+19008024,naproxen 250 MG Oral Tablet [Laraflex],RxNorm,105896
+19008025,naproxen 500 MG Oral Tablet [Laraflex],RxNorm,105897
+19008026,naproxen 250 MG Oral Tablet [Naprosyn],RxNorm,105898
+19008027,naproxen 500 MG Oral Tablet [Naprosyn],RxNorm,105899
+19008028,naproxen 500 MG Rectal Suppository [Naprosyn],RxNorm,105900
+19008029,naproxen 250 MG Oral Tablet [Rheuflex],RxNorm,105902
+19008030,naproxen 250 MG Oral Tablet [Valrox],RxNorm,105903
+19008061,naproxen 500 MG Oral Tablet [Rheuflex],RxNorm,105904
+19008062,naproxen 500 MG Oral Tablet [Valrox],RxNorm,105905
+19008063,naproxen 375 MG Extended Release Oral Tablet [Pranoxen Continus],RxNorm,105906
+19008064,naproxen 250 MG Oral Tablet [Arthrosin 250],RxNorm,105907
+19008065,naproxen 500 MG Extended Release Oral Tablet [Pranoxen Continus],RxNorm,105908
+19008066,naproxen 500 MG Oral Tablet [Arthrosin 500],RxNorm,105909
+19008068,naproxen 250 MG Oral Tablet [Arthroxen],RxNorm,105911
+19008069,naproxen 500 MG Oral Tablet [Arthroxen],RxNorm,105912
+19008070,naproxen 500 MG Oral Tablet [Rimoxyn],RxNorm,105913
+19008091,naproxen 375 MG Oral Tablet [Naprosyn],RxNorm,105914
+19008092,naproxen 250 MG Oral Tablet [Rimoxyn],RxNorm,105915
+19008093,naproxen 250 MG Delayed Release Oral Tablet [Nycopren],RxNorm,105916
+19008094,naproxen 500 MG Delayed Release Oral Tablet [Nycopren],RxNorm,105917
+19008095,naproxen 250 MG Delayed Release Oral Tablet,RxNorm,105918
+19008096,naproxen 250 MG Oral Tablet [Prosaid],RxNorm,105919
+19008097,naproxen 500 MG Oral Tablet [Prosaid],RxNorm,105920
+19008098,naproxen 250 MG Delayed Release Oral Tablet [Naprosyn EC],RxNorm,105921
+19008099,phenylbutazone 200 MG Oral Tablet,RxNorm,105925
+19008100,phenylbutazone 100 MG Delayed Release Oral Tablet [Butacote],RxNorm,105926
+19008121,phenylbutazone 100 MG Oral Tablet [Butazone],RxNorm,105927
+19008122,phenylbutazone 200 MG Oral Tablet [Butazone],RxNorm,105928
+19008123,piroxicam 10 MG Oral Capsule [Feldene],RxNorm,105929
+19008124,piroxicam 20 MG Oral Capsule [Feldene],RxNorm,105930
+19008125,piroxicam 10 MG Oral Tablet [Feldene],RxNorm,105931
+19008126,piroxicam 20 MG Oral Tablet [Feldene],RxNorm,105932
+19008127,piroxicam 20 MG Rectal Suppository [Feldene],RxNorm,105933
+19008128,piroxicam 10 MG Oral Capsule [Larapam],RxNorm,105934
+19008129,piroxicam 20 MG Oral Capsule [Larapam],RxNorm,105935
+19008130,piroxicam 10 MG Oral Capsule [Pirozip],RxNorm,105936
+19008151,piroxicam 20 MG Oral Capsule [Pirozip],RxNorm,105937
+19008152,piroxicam 20 MG Disintegrating Oral Tablet [Feldene Melt],RxNorm,105938
+19008153,piroxicam 20 MG/ML Injectable Solution [Feldene],RxNorm,105939
+19008154,piroxicam 10 MG Oral Capsule [Flamatrol],RxNorm,105940
+19008155,piroxicam 20 MG Oral Capsule [Flamatrol],RxNorm,105941
+19008156,piroxicam 20 MG Rectal Suppository,RxNorm,105942
+19008157,sulindac 100 MG Oral Tablet [Clinoril],RxNorm,105943
+19008158,sulindac 200 MG Oral Tablet [Clinoril],RxNorm,105944
+19008159,tiaprofenate 200 MG Oral Tablet [Surgam],RxNorm,105945
+19008160,tiaprofenate 300 MG Oral Tablet [Surgam],RxNorm,105946
+19008181,tiaprofenate 300 MG Extended Release Oral Capsule [Surgam],RxNorm,105947
+19008182,tolmetin 200 MG Oral Capsule [Tolectin],RxNorm,105948
+19008183,acemetacin 60 MG Oral Capsule,RxNorm,105949
+19008184,acemetacin 60 MG Oral Capsule [Emflex],RxNorm,105950
+19008185,nabumetone 500 MG Oral Tablet [Relifex],RxNorm,105951
+19008186,nabumetone 100 MG/ML Oral Suspension [Relifex],RxNorm,105952
+19008187,nabumetone 100 MG/ML Oral Suspension,RxNorm,105953
+19008188,tenoxicam 20 MG Oral Tablet,RxNorm,105954
+19008189,tenoxicam 20 MG Oral Tablet [Mobiflex],RxNorm,105955
+19008204,piroxicam 0.005 MG/MG Topical Gel [Feldene Sports],RxNorm,105983
+19008207,ketoprofen 0.025 MG/MG Topical Gel,RxNorm,105999
+19008208,piroxicam 0.005 MG/MG Topical Gel,RxNorm,106002
+1102917,tolmetin,RxNorm,10636
+19009064,ketorolac tromethamine 10 MG/ML Injectable Solution [Toradol],RxNorm,106511
+19009270,aspirin 500 MG / glycine 133 MG Disintegrating Oral Tablet,RxNorm,106809
+19009664,diclofenac sodium 25 MG Delayed Release Oral Tablet [Voltarene],RxNorm,107306
+19009665,diclofenac sodium 50 MG Delayed Release Oral Tablet [Voltarene],RxNorm,107307
+19009666,diclofenac sodium 100 MG Extended Release Oral Tablet [Voltaren Retard],RxNorm,107308
+19009667,diclofenac sodium 100 MG Extended Release Oral Tablet [Voltarene LP],RxNorm,107309
+19009668,fenoprofen 600 MG Oral Tablet [Fepron],RxNorm,107312
+19009669,phenylbutazone 100 MG Delayed Release Oral Tablet,RxNorm,107313
+19009670,piroxicam 0.005 MG/MG Topical Gel [Feldene],RxNorm,107320
+19010083,ketoprofen 200 MG Extended Release Oral Capsule [Larafen CR],RxNorm,108293
+19010234,diclofenac sodium 25 MG Rectal Suppository [Voltarol],RxNorm,108470
+19010235,diclofenac sodium 50 MG Rectal Suppository [Voltarol],RxNorm,108471
+19010266,indomethacin 75 MG Extended Release Oral Capsule [Rheumacin LA],RxNorm,108497
+40234334,meloxicam 5 MG/ML,RxNorm,1086706
+40234335,meloxicam 5 MG/ML Injectable Solution,RxNorm,1086707
+40234337,meloxicam 5 MG/ML [Metacam],RxNorm,1086709
+40234338,meloxicam Injectable Solution [Metacam],RxNorm,1086710
+40234336,meloxicam 5 MG/ML Injectable Solution [Metacam],RxNorm,1086711
+19010405,mefenamic acid 250 MG Oral Capsule [Meflam],RxNorm,108767
+19010406,mefenamic acid 500 MG Oral Tablet [Meflam],RxNorm,108768
+19010407,ketoprofen 200 MG Extended Release Oral Capsule [Ketocid],RxNorm,108769
+19010435,ketoprofen 200 MG Extended Release Oral Capsule [Fenoket],RxNorm,108785
+40235197,diclofenac sodium 50 MG Disintegrating Oral Tablet,RxNorm,1088257
+40235198,diclofenac sodium 50 MG Disintegrating Oral Tablet [Voltarol],RxNorm,1088258
+19010578,ketoprofen 200 MG Extended Release Oral Capsule [Ketozip CR],RxNorm,108846
+19010679,diclofenac sodium 25 MG Delayed Release Oral Tablet [Dicloflex],RxNorm,108897
+19010680,diclofenac sodium 50 MG Delayed Release Oral Tablet [Dicloflex],RxNorm,108899
+19010701,diclofenac sodium 100 MG Extended Release Oral Tablet [Dicloflex Retard],RxNorm,108900
+19010703,ketoprofen 0.025 MG/MG Topical Gel [Powergel],RxNorm,108902
+19010748,diclofenac sodium 25 MG Delayed Release Oral Tablet [Lofensaid],RxNorm,108920
+19010749,diclofenac sodium 50 MG Delayed Release Oral Tablet [Lofensaid],RxNorm,108921
+19010771,piroxicam 10 MG Oral Capsule [Piroflam],RxNorm,108923
+19010772,piroxicam 20 MG Oral Capsule [Piroflam],RxNorm,108924
+19010810,mefenamic acid 250 MG Oral Capsule [Opustan],RxNorm,108964
+19010841,mefenamic acid 500 MG Oral Tablet [Opustan],RxNorm,108965
+40237054,meloxicam 0.5 MG/ML,RxNorm,1091875
+40237055,meloxicam 0.5 MG/ML Oral Suspension,RxNorm,1091876
+40237057,meloxicam 0.5 MG/ML [Metacam],RxNorm,1091877
+40237060,meloxicam Oral Suspension [Metacam],RxNorm,1091878
+40237056,meloxicam 0.5 MG/ML Oral Suspension [Metacam],RxNorm,1091879
+40237059,meloxicam 1.5 MG/ML [Metacam],RxNorm,1092194
+40237058,meloxicam 1.5 MG/ML Oral Suspension [Metacam],RxNorm,1092195
+40236719,aspirin 500 MG / diphenhydramine hydrochloride 25 MG Oral Tablet,RxNorm,1092398
+40239178,famotidine / ibuprofen Oral Tablet,RxNorm,1100064
+40239181,famotidine 26.6 MG / ibuprofen 800 MG Oral Tablet,RxNorm,1100066
+40239183,famotidine 26.6 MG / ibuprofen 800 MG [Duexis],RxNorm,1100068
+40239179,famotidine / ibuprofen Oral Tablet [Duexis],RxNorm,1100069
+40239182,famotidine 26.6 MG / ibuprofen 800 MG Oral Tablet [Duexis],RxNorm,1100070
+40239167,etodolac 150 MG,RxNorm,1100201
+40239168,etodolac 150 MG Oral Tablet,RxNorm,1100202
+40239170,etodolac 150 MG [Etogesic],RxNorm,1101463
+40239173,etodolac Oral Tablet [Etogesic],RxNorm,1101464
+40239169,etodolac 150 MG Oral Tablet [Etogesic],RxNorm,1101465
+40239172,etodolac 300 MG [Etogesic],RxNorm,1101468
+40239171,etodolac 300 MG Oral Tablet [Etogesic],RxNorm,1101469
+40238705,acetaminophen 194 MG / aspirin 227 MG / caffeine 33 MG [Vanquish],RxNorm,1101753
+40238704,acetaminophen 194 MG / aspirin 227 MG / caffeine 33 MG Oral Tablet [Vanquish],RxNorm,1101754
+40239211,ibuprofen 200 MG [Counteract IB],RxNorm,1101917
+40239212,ibuprofen Oral Tablet [Counteract IB],RxNorm,1101918
+40239208,ibuprofen 200 MG Oral Tablet [Counteract IB],RxNorm,1101919
+36029355,aspirin / chlorpheniramine / dextromethorphan / phenylephrine,RxNorm,1111420
+40240187,naproxen sodium 220 MG Oral Capsule,RxNorm,1112231
+40240183,naproxen Oral Capsule [Aleve],RxNorm,1112232
+40240188,naproxen sodium 220 MG Oral Capsule [Aleve],RxNorm,1112233
+40241050,naproxen 150 MG/ML,RxNorm,1114867
+40241059,naproxen Topical Cream,RxNorm,1114868
+40241051,naproxen 150 MG/ML Topical Cream,RxNorm,1114869
+40240375,24 HR naproxen 375 MG Extended Release Oral Tablet,RxNorm,1116320
+40241053,naproxen 375 MG [Naprelan],RxNorm,1116330
+40240376,24 HR naproxen 375 MG Extended Release Oral Tablet [Naprelan],RxNorm,1116331
+40241052,naproxen 375 MG Extended Release Oral Tablet [Naprelan],RxNorm,1116332
+40240377,24 HR naproxen 500 MG Extended Release Oral Tablet,RxNorm,1116339
+40241055,naproxen 500 MG [Naprelan],RxNorm,1116340
+40240378,24 HR naproxen 500 MG Extended Release Oral Tablet [Naprelan],RxNorm,1116341
+40241054,naproxen 500 MG Extended Release Oral Tablet [Naprelan],RxNorm,1116342
+40240379,24 HR naproxen 750 MG Extended Release Oral Tablet,RxNorm,1116349
+40241058,naproxen 750 MG [Naprelan],RxNorm,1116350
+40240380,24 HR naproxen 750 MG Extended Release Oral Tablet [Naprelan],RxNorm,1116351
+40241056,naproxen 750 MG Extended Release Oral Tablet,RxNorm,1116352
+40241057,naproxen 750 MG Extended Release Oral Tablet [Naprelan],RxNorm,1116353
+40241438,{14 (24 HR naproxen 500 MG Extended Release Oral Tablet) / 6 (24 HR naproxen 750 MG Extended Release Oral Tablet) } Pack,RxNorm,1116368
+40241437,{14 (24 HR naproxen 500 MG Extended Release Oral Tablet [Naprelan]) / 6 (24 HR naproxen 750 MG Extended Release Oral Tablet [Naprelan]) } Pack [Naprelan Dose Card],RxNorm,1116369
+19024537,ibuprofen 200 MG Oral Tablet [Ibular],RxNorm,201118
+19024538,ibuprofen 200 MG Oral Tablet [Ibumetin],RxNorm,201119
+19024539,ibuprofen 200 MG Oral Tablet [Paxofen],RxNorm,201120
+19024540,ibuprofen 200 MG Oral Tablet [Apsifen],RxNorm,201121
+19024591,ibuprofen 200 MG Oral Tablet [Brufen],RxNorm,201122
+19024592,ibuprofen 200 MG Oral Tablet [Ebufac],RxNorm,201123
+19024593,ibuprofen 200 MG Oral Tablet [Cuprofen],RxNorm,201124
+19024594,ibuprofen 200 MG Oral Tablet [Lidifen],RxNorm,201125
+19024595,ibuprofen 200 MG Oral Tablet [Motrin],RxNorm,201126
+19024596,ibuprofen 200 MG Oral Tablet [Rimafen],RxNorm,201127
+19024597,ibuprofen 200 MG Oral Tablet [Arthrofen 200],RxNorm,201128
+19024598,ibuprofen 200 MG Oral Tablet [Phor Pain],RxNorm,201129
+19024599,ibuprofen 200 MG Oral Tablet [Proflex],RxNorm,201130
+19024600,ibuprofen 200 MG Oral Tablet [Pacifene],RxNorm,201131
+19024621,ibuprofen 200 MG Oral Tablet [Migrafen],RxNorm,201132
+19024622,ibuprofen 400 MG Oral Tablet [Ibular],RxNorm,201133
+19024623,ibuprofen 400 MG Oral Tablet [Ibumetin],RxNorm,201134
+19024624,ibuprofen 400 MG Oral Tablet [Paxofen],RxNorm,201135
+19024625,ibuprofen 400 MG Oral Tablet [Apsifen],RxNorm,201136
+19024626,ibuprofen 400 MG Oral Tablet [Brufen],RxNorm,201137
+19024627,ibuprofen 400 MG Oral Tablet [Ebufac],RxNorm,201138
+19024628,ibuprofen 400 MG Oral Tablet [Isisfen],RxNorm,201139
+19024629,ibuprofen 400 MG Oral Tablet [Lidifen],RxNorm,201140
+19024630,ibuprofen 400 MG Oral Tablet [Ibumed],RxNorm,201141
+19024651,ibuprofen 400 MG Oral Tablet [Motrin],RxNorm,201142
+19024652,ibuprofen 400 MG Oral Tablet [Rimafen],RxNorm,201143
+19024653,ibuprofen 400 MG Oral Tablet [Arthrofen 400],RxNorm,201144
+19024654,ibuprofen 400 MG Oral Tablet [Pacifene],RxNorm,201145
+19024655,ibuprofen 400 MG Oral Tablet [Phor Pain],RxNorm,201146
+19024656,ibuprofen 600 MG Oral Tablet [Ibumetin],RxNorm,201147
+19024657,ibuprofen 600 MG Oral Tablet [Paxofen],RxNorm,201148
+19024658,ibuprofen 600 MG Oral Tablet [Brufen],RxNorm,201149
+19024659,ibuprofen 600 MG Oral Tablet [Lidifen],RxNorm,201150
+19024660,ibuprofen 600 MG Oral Tablet [Apsifen F],RxNorm,201151
+19024751,ibuprofen 600 MG Oral Tablet [Motrin],RxNorm,201152
+19026060,ibuprofen 800 MG Extended Release Oral Tablet [Brufen Retard],RxNorm,202095
+19026061,ibuprofen 800 MG Oral Tablet [Motrin],RxNorm,202098
+19042617,Motrin,RxNorm,202488
+19042937,Aspergum,RxNorm,202546
+19027494,ibuprofen 40 MG/ML Oral Suspension,RxNorm,204442
+1510443,ibuprofen 200 MG [Dragon Tabs],RxNorm,2045473
+1510444,ibuprofen Oral Tablet [Dragon Tabs],RxNorm,2045474
+1510447,ibuprofen 200 MG Oral Tablet [Dragon Tabs],RxNorm,2045477
+1510763,{100 (acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet) / 24 (acetaminophen 250 MG / aspirin 250 MG / diphenhydramine citrate 38 MG Oral Tablet) } Pack,RxNorm,2047427
+1510764,{100 (acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Excedrin]) / 24 (acetaminophen 250 MG / aspirin 250 MG / diphenhydramine citrate 38 MG Oral Tablet [Excedrin PM Triple Action]) } Pack [Excedrin PM Triple Action Caplets and Exce...,RxNorm,2047428
+19028821,acetaminophen 160 MG / aspirin 230 MG / caffeine 33 MG Oral Tablet,RxNorm,205251
+19029024,celecoxib 100 MG Oral Capsule,RxNorm,205322
+19029025,celecoxib 200 MG Oral Capsule,RxNorm,205323
+19029744,flurbiprofen 50 MG Oral Tablet [Ansaid],RxNorm,205625
+19029745,flurbiprofen 100 MG Oral Tablet [Ansaid],RxNorm,205626
+19033211,meclofenamate 100 MG Oral Capsule [Meclomen],RxNorm,206687
+19033212,meclofenamate 50 MG Oral Capsule [Meclomen],RxNorm,206688
+19033527,etodolac 400 MG Oral Tablet [Lodine],RxNorm,206812
+19033719,ibuprofen 20 MG/ML Oral Suspension [Advil],RxNorm,206878
+19033823,ibuprofen 200 MG Oral Tablet [Cap-Profen],RxNorm,206885
+19033824,ibuprofen 200 MG Oral Tablet [Genpril],RxNorm,206886
+19033825,ibuprofen 200 MG Oral Tablet [Haltran],RxNorm,206887
+19033827,ibuprofen 200 MG Oral Tablet [Ibu-Tab],RxNorm,206889
+19033828,ibuprofen 200 MG Oral Tablet [Menadol],RxNorm,206890
+19033851,ibuprofen 200 MG Oral Tablet [Nuprin],RxNorm,206893
+19033852,ibuprofen 200 MG Oral Tablet [Q-Profen],RxNorm,206894
+19033853,ibuprofen 200 MG Oral Tablet [Saleto-200],RxNorm,206895
+19033854,ibuprofen 200 MG Oral Tablet [Sup Pain Med],RxNorm,206896
+19033855,ibuprofen 200 MG Oral Tablet [Tab-Profen],RxNorm,206897
+19033856,ibuprofen 200 MG Oral Tablet [Uni-Pro],RxNorm,206898
+19033891,ibuprofen 300 MG Oral Tablet [Motrin],RxNorm,206903
+19033892,ibuprofen 400 MG Oral Tablet [Dolgesic],RxNorm,206904
+19033893,ibuprofen 400 MG Oral Tablet [Ibu],RxNorm,206905
+19033894,ibuprofen 400 MG Oral Tablet [Ibu-Tab],RxNorm,206906
+19033895,ibuprofen 400 MG Oral Tablet [Rufen],RxNorm,206907
+19033896,ibuprofen 400 MG Oral Tablet [Saleto-400],RxNorm,206908
+19033921,ibuprofen 600 MG Oral Tablet [Ibu],RxNorm,206913
+19033922,ibuprofen 600 MG Oral Tablet [Ibu-Tab],RxNorm,206914
+19033923,ibuprofen 600 MG Oral Tablet [Rufen],RxNorm,206915
+19033924,ibuprofen 600 MG Oral Tablet [Saleto-600],RxNorm,206916
+19033925,ibuprofen 800 MG Oral Tablet [Ibu],RxNorm,206917
+19033926,ibuprofen 800 MG Oral Tablet [Ibu-Tab],RxNorm,206918
+19033927,ibuprofen 800 MG Oral Tablet [Rufen],RxNorm,206919
+19033928,ibuprofen 800 MG Oral Tablet [Saleto-800],RxNorm,206920
+19033986,fenoprofen 300 MG Oral Capsule [Nalfon],RxNorm,206949
+19034015,nabumetone 500 MG Oral Tablet [Relafen],RxNorm,206958
+19034016,nabumetone 750 MG Oral Tablet [Relafen],RxNorm,206959
+19034019,indomethacin 25 MG Oral Capsule [Indocin],RxNorm,206962
+19034020,indomethacin 50 MG Oral Capsule [Indocin],RxNorm,206963
+19034046,indomethacin 50 MG Rectal Suppository [Indocin],RxNorm,206969
+19034048,indomethacin 5 MG/ML Oral Suspension [Indocin],RxNorm,206971
+19034076,24 HR ketoprofen 100 MG Extended Release Oral Capsule [Oruvail],RxNorm,206980
+19034077,24 HR ketoprofen 150 MG Extended Release Oral Capsule [Oruvail],RxNorm,206981
+19034080,24 HR ketoprofen 200 MG Extended Release Oral Capsule [Oruvail],RxNorm,206985
+19034206,ketoprofen 25 MG Oral Capsule [Orudis],RxNorm,206991
+19034207,ketoprofen 75 MG Oral Capsule [Orudis],RxNorm,206992
+19034478,naproxen 25 MG/ML Oral Suspension [Naprosyn],RxNorm,207093
+19034984,oxaprozin 600 MG Oral Tablet [Daypro],RxNorm,207243
+19037306,tolmetin 200 MG Oral Tablet [Tolectin],RxNorm,208046
+19037308,tolmetin 600 MG Oral Tablet [Tolectin 600],RxNorm,208048
+36217410,aspirin / caffeine / orphenadrine Oral Product,RxNorm,1153231
+36217411,aspirin / caffeine / orphenadrine Pill,RxNorm,1153232
+36217412,aspirin / caffeine / propoxyphene Oral Product,RxNorm,1153233
+36217413,aspirin / caffeine / propoxyphene Pill,RxNorm,1153234
+36217785,aspirin / caffeine / dihydrocodeine Oral Product,RxNorm,1153517
+36217786,aspirin / caffeine / dihydrocodeine Pill,RxNorm,1153518
+36217787,aspirin / caffeine / magnesium carbonate / magnesium salicylate Oral Product,RxNorm,1153519
+36217788,aspirin / caffeine / magnesium carbonate / magnesium salicylate Pill,RxNorm,1153520
+36217790,aspirin / caffeine / salicylamide Oral Product,RxNorm,1153522
+36217791,aspirin / caffeine / salicylamide Pill,RxNorm,1153523
+36217792,aspirin / caffeine Oral Product,RxNorm,1153525
+36217793,aspirin / caffeine Pill,RxNorm,1153526
+36217794,aspirin / carisoprodol / codeine Oral Product,RxNorm,1153529
+36217795,aspirin / carisoprodol / codeine Pill,RxNorm,1153530
+36217796,aspirin / carisoprodol Oral Product,RxNorm,1153531
+36217797,aspirin / carisoprodol Pill,RxNorm,1153532
+36217800,aspirin / chlorpheniramine / dextromethorphan / phenylephrine Oral Product,RxNorm,1153535
+36217805,aspirin / chlorpheniramine / phenylephrine Oral Product,RxNorm,1153542
+36217813,aspirin / citric acid / sodium bicarbonate Oral Product,RxNorm,1153551
+36217814,aspirin / codeine Oral Product,RxNorm,1153552
+36211884,aspirin / codeine Pill,RxNorm,1153719
+36211887,aspirin / dextromethorphan / doxylamine / phenylephrine Oral Product,RxNorm,1153723
+36211888,aspirin / dextromethorphan / phenylephrine Oral Product,RxNorm,1153725
+36211891,aspirin / diphenhydramine Oral Product,RxNorm,1153729
+36211892,aspirin / diphenhydramine Pill,RxNorm,1153730
+36211893,aspirin / dipyridamole Oral Product,RxNorm,1153731
+36211894,aspirin / dipyridamole Pill,RxNorm,1153732
+36211895,aspirin / glycine Oral Product,RxNorm,1153733
+36211896,aspirin / glycine Pill,RxNorm,1153734
+36211897,aspirin / hydrocodone Oral Product,RxNorm,1153735
+36211898,aspirin / hydrocodone Pill,RxNorm,1153736
+36211903,aspirin / meprobamate Oral Product,RxNorm,1153741
+36211904,aspirin / meprobamate Pill,RxNorm,1153742
+36211905,aspirin / methocarbamol Oral Product,RxNorm,1153743
+36211906,aspirin / methocarbamol Pill,RxNorm,1153744
+36211911,aspirin / oxycodone Oral Product,RxNorm,1153749
+36211912,aspirin / oxycodone Pill,RxNorm,1153750
+36212900,acetaminophen / aspirin / caffeine / salicylamide Oral Product,RxNorm,1153987
+36212901,acetaminophen / aspirin / caffeine / salicylamide Pill,RxNorm,1153988
+36213154,aspirin / butalbital / caffeine / codeine Oral Product,RxNorm,1154056
+36213155,aspirin / butalbital / caffeine / codeine Pill,RxNorm,1154057
+36213158,aspirin / butalbital / caffeine Oral Product,RxNorm,1154060
+36213159,aspirin / butalbital / caffeine Pill,RxNorm,1154061
+36213166,aspirin Oral Liquid Product,RxNorm,1154068
+36213167,aspirin Oral Product,RxNorm,1154069
+36213168,aspirin Pill,RxNorm,1154070
+36213169,aspirin Rectal Product,RxNorm,1154071
+36213952,acetaminophen / aspirin / caffeine Oral Product,RxNorm,1154257
+36213953,acetaminophen / aspirin / caffeine Pill,RxNorm,1154258
+36213960,acetaminophen / aspirin Oral Product,RxNorm,1154265
+36213961,acetaminophen / aspirin Pill,RxNorm,1154266
+36214106,ibuprofen Oral Liquid Product,RxNorm,1156276
+36214107,ibuprofen Oral Product,RxNorm,1156277
+36214108,ibuprofen Pill,RxNorm,1156278
+36215487,naproxen Oral Liquid Product,RxNorm,1157516
+36215488,naproxen Oral Product,RxNorm,1157517
+36215489,naproxen Pill,RxNorm,1157518
+21603935,"phenylbutazone; systemic, rectal",ATC,M01AA01
+21603936,mofebutazone; systemic,ATC,M01AA02
+21603937,"oxyphenbutazone; oral, rectal",ATC,M01AA03
+21603938,"clofezone; oral, rectal",ATC,M01AA05
+21603939,kebuzone; systemic,ATC,M01AA06
+21603941,"indometacin; systemic, rectal",ATC,M01AB01
+21603942,"sulindac; systemic, rectal",ATC,M01AB02
+21603943,"tolmetin; oral, rectal",ATC,M01AB03
+21603944,zomepirac; oral,ATC,M01AB04
+21603945,"diclofenac; systemic, rectal",ATC,M01AB05
+21603946,"alclofenac; oral, rectal",ATC,M01AB06
+21603947,bumadizone; oral,ATC,M01AB07
+21603948,etodolac; oral,ATC,M01AB08
+21603949,lonazolac; oral,ATC,M01AB09
+21603950,fentiazac,ATC,M01AB10
+21603951,acemetacin; oral,ATC,M01AB11
+21603952,difenpiramide,ATC,M01AB12
+21603953,oxametacin,ATC,M01AB13
+21603954,"proglumetacin; oral, topical",ATC,M01AB14
+21603955,ketorolac; systemic,ATC,M01AB15
+21603956,aceclofenac; oral,ATC,M01AB16
+21603957,"bufexamac; rectal, topical",ATC,M01AB17
+21603958,"indometacin, combinations; oral, rectal",ATC,M01AB51
+21603959,"diclofenac, combinations; oral",ATC,M01AB55
+21603961,"piroxicam; systemic, rectal",ATC,M01AC01
+21603962,"tenoxicam; systemic, rectal",ATC,M01AC02
+21603963,droxicam; oral,ATC,M01AC04
+21603964,"lornoxicam; systemic, rectal",ATC,M01AC05
+21603965,"meloxicam; systemic, rectal",ATC,M01AC06
+40254075,"meloxicam, combinations; systemic",ATC,M01AC56
+21603967,"ibuprofen; systemic, rectal",ATC,M01AE01
+21603968,"naproxen; oral, rectal",ATC,M01AE02
+21603969,"ketoprofen; systemic, rectal",ATC,M01AE03
+21603970,fenoprofen; oral,ATC,M01AE04
+21603971,fenbufen; oral,ATC,M01AE05
+21603972,benoxaprofen; oral,ATC,M01AE06
+21603973,suprofen; oral,ATC,M01AE07
+21603974,pirprofen; oral,ATC,M01AE08
+21603975,"flurbiprofen; oral, rectal",ATC,M01AE09
+21603976,indoprofen; systemic,ATC,M01AE10
+21603977,"tiaprofenic acid; oral, rectal",ATC,M01AE11
+21603978,oxaprozin; oral,ATC,M01AE12
+21603979,ibuproxam; oral,ATC,M01AE13
+21603980,dexibuprofen; oral,ATC,M01AE14
+21603981,flunoxaprofen,ATC,M01AE15
+21603982,alminoprofen; oral,ATC,M01AE16
+21603983,dexketoprofen; systemic,ATC,M01AE17
+40254094,naproxcinod; systemic,ATC,M01AE18
+21603984,"ibuprofen, combinations; systemic",ATC,M01AE51
+40254096,naproxen and esomeprazole; oral,ATC,M01AE52
+21603985,"ketoprofen, combinations; systemic",ATC,M01AE53
+40254098,naproxen and misoprostol; systemic,ATC,M01AE56
+21603987,mefenamic acid; oral,ATC,M01AG01
+21603988,"tolfenamic acid; oral, rectal",ATC,M01AG02
+21603989,flufenamic acid; oral,ATC,M01AG03
+21603990,meclofenamic acid; oral,ATC,M01AG04
+21603992,celecoxib; oral (coxibs),ATC,M01AH01
+21603993,rofecoxib; oral,ATC,M01AH02
+21603994,valdecoxib; oral,ATC,M01AH03
+21603995,parecoxib; parenteral,ATC,M01AH04
+21603996,etoricoxib; oral,ATC,M01AH05
+21603997,lumiracoxib; oral,ATC,M01AH06
+1502110,polmacoxib; oral,ATC,M01AH07
+21603999,nabumetone; oral,ATC,M01AX01
+19038508,sulindac 150 MG Oral Tablet [Clinoril],RxNorm,208441
+19049709,lornoxicam,RxNorm,20890
+19053949,Anacin,RxNorm,215256
+19042498,aspirin 325 MG / meprobamate 200 MG Oral Tablet [Equagesic],RxNorm,209823
+1134511,aspirin 400 MG / caffeine 32 MG Oral Tablet [Anacin],RxNorm,211292
+1134556,aspirin 400 MG / caffeine 32 MG Oral Tablet [P-A-C Analgesic],RxNorm,211297
+1195512,etodolac 500 MG Oral Tablet [Lodine],RxNorm,211498
+1366526,meloxicam Disintegrating Oral Tablet,RxNorm,2118580
+1366527,meloxicam 15 MG Disintegrating Oral Tablet,RxNorm,2118581
+1366529,meloxicam 15 MG [Qmiiz],RxNorm,2118583
+1366530,meloxicam Disintegrating Oral Tablet [Qmiiz],RxNorm,2118584
+1366534,meloxicam 15 MG Disintegrating Oral Tablet [Qmiiz],RxNorm,2118588
+1366535,meloxicam 7.5 MG Disintegrating Oral Tablet,RxNorm,2118589
+1366536,meloxicam 7.5 MG [Qmiiz],RxNorm,2118590
+1366537,meloxicam 7.5 MG Disintegrating Oral Tablet [Qmiiz],RxNorm,2118591
+1113016,aspirin 325 MG Oral Tablet [Bayer Aspirin],RxNorm,211874
+1113021,aspirin 325 MG Oral Tablet [Norwich Aspirin],RxNorm,211881
+1113055,aspirin 500 MG Oral Tablet [Bayer Aspirin],RxNorm,211887
+1113057,aspirin 500 MG Oral Tablet [Norwich Aspirin],RxNorm,211891
+1185948,ketoprofen 12.5 MG Oral Tablet [Actron],RxNorm,211961
+1185949,ketoprofen 12.5 MG Oral Tablet [Orudis KT],RxNorm,211962
+19046742,aspirin 325 MG Oral Tablet,RxNorm,212033
+1118087,celecoxib 100 MG Oral Capsule [Celebrex],RxNorm,213468
+1118088,celecoxib 200 MG Oral Capsule [Celebrex],RxNorm,213469
+36029868,aspirin / butalbital / caffeine / codeine,RxNorm,214160
+36029894,aspirin / butalbital,RxNorm,214249
+36029895,aspirin / caffeine,RxNorm,214250
+36029896,aspirin / carisoprodol,RxNorm,214251
+36029897,aspirin / hydrocodone,RxNorm,214253
+36029898,aspirin / meprobamate,RxNorm,214254
+36029899,aspirin / methocarbamol,RxNorm,214255
+36029900,aspirin / oxycodone,RxNorm,214256
+36029901,aspirin / pentazocine,RxNorm,214257
+36029902,aspirin / phenyltoloxamine,RxNorm,214258
+36029903,aspirin / pseudoephedrine,RxNorm,214259
+36220689,Equagesic Oral Product,RxNorm,1168235
+36220690,Equagesic Pill,RxNorm,1168236
+36232883,Bayer Aspirin Oral Product,RxNorm,1168628
+36232886,Bayer Aspirin Pill,RxNorm,1168631
+36233168,Bufferin Oral Product,RxNorm,1168674
+36233169,Bufferin Pill,RxNorm,1168675
+36236397,Ascomp Oral Product,RxNorm,1171456
+36236398,Ascomp Pill,RxNorm,1171457
+36234178,Aspergum Oral Product,RxNorm,1172157
+36235476,Excedrin Back & Body Oral Product,RxNorm,1172555
+36235477,Excedrin Back & Body Pill,RxNorm,1172556
+36235478,Excedrin Oral Product,RxNorm,1172559
+36235481,Excedrin Pill,RxNorm,1172562
+36235237,Anacin Advanced Headache Formula Oral Product,RxNorm,1174226
+36235238,Anacin Advanced Headache Formula Pill,RxNorm,1174227
+36235239,Anacin Aspirin Regimen Oral Product,RxNorm,1174228
+36235240,Anacin Aspirin Regimen Pill,RxNorm,1174229
+36235241,Anacin Oral Product,RxNorm,1174230
+36235244,Anacin Pill,RxNorm,1174233
+36229042,Alka-Seltzer Oral Product,RxNorm,1175547
+36229807,Norwich Aspirin Oral Product,RxNorm,1177581
+36229808,Norwich Aspirin Pill,RxNorm,1177582
+36229855,P-A-C Analgesic Oral Product,RxNorm,1177642
+36229856,P-A-C Analgesic Pill,RxNorm,1177643
+36030048,aspirin / oxycodone hydrochloride / oxycodone terephthalate,RxNorm,215451
+19055970,Bayer Aspirin,RxNorm,215568
+19057222,Bufferin,RxNorm,215770
+19065004,Excedrin,RxNorm,217020
+1361176,ibuprofen 4 MG/ML,RxNorm,2178272
+1361665,200 ML ibuprofen 4 MG/ML Injection,RxNorm,2178273
+1361177,ibuprofen 4 MG/ML [Caldolor],RxNorm,2178274
+1361666,200 ML ibuprofen 4 MG/ML Injection [Caldolor],RxNorm,2178275
+1361178,ibuprofen 4 MG/ML Injection,RxNorm,2178276
+1361179,ibuprofen 4 MG/ML Injection [Caldolor],RxNorm,2178277
+1361547,ibuprofen 200 MG / phenylephrine hydrochloride 5 MG Oral Tablet,RxNorm,2184152
+19075260,Norgesic,RxNorm,218776
+19075289,Norwich Aspirin,RxNorm,218783
+19076263,P-A-C Analgesic,RxNorm,219010
+19080479,Saleto,RxNorm,219779
+19081532,St. Joseph Aspirin,RxNorm,220011
+37496770,nabumetone 1000 MG [Relafen],RxNorm,2200290
+37496771,nabumetone 1000 MG Oral Tablet [Relafen],RxNorm,2200291
+19084986,Vanquish,RxNorm,220751
+19052755,ibuprofen 200 MG Oral Tablet [Anadin Ibuprofen],RxNorm,225463
+36230462,St. Joseph Aspirin Oral Product,RxNorm,1177786
+36230463,St. Joseph Aspirin Pill,RxNorm,1177787
+36232408,Stanback Headache Powder Reformulated Jan 2011 Oral Product,RxNorm,1178414
+36229930,Naprosyn Oral Liquid Product,RxNorm,1179303
+36229931,Naprosyn Oral Product,RxNorm,1179304
+36229932,Naprosyn Pill,RxNorm,1179305
+36230534,Pamprin Max Formula Oral Product,RxNorm,1179446
+36230535,Pamprin Max Formula Pill,RxNorm,1179447
+36231259,Miniprin Oral Product,RxNorm,1179769
+36231260,Miniprin Pill,RxNorm,1179770
+36239693,Motrin Oral Liquid Product,RxNorm,1182817
+36239694,Motrin Oral Product,RxNorm,1182818
+36239697,Motrin Pill,RxNorm,1182821
+36240152,Orphengesic Oral Product,RxNorm,1184518
+36240153,Orphengesic Pill,RxNorm,1184519
+36240977,Saleto Oral Product,RxNorm,1184781
+36240978,Saleto Pill,RxNorm,1184782
+36239532,Norgesic Oral Product,RxNorm,1185684
+36239533,Norgesic Pill,RxNorm,1185685
+36239957,Vanquish Oral Product,RxNorm,1187555
+36239958,Vanquish Pill,RxNorm,1187556
+1112807,aspirin,RxNorm,1191
+42707518,diclofenac sodium 100 MG Oral Capsule,RxNorm,1234493
+42705259,diclofenac sodium 150 MG,RxNorm,1234494
+42707519,24 HR diclofenac sodium 150 MG Extended Release Oral Capsule,RxNorm,1234495
+42707520,diclofenac sodium 150 MG Extended Release Oral Capsule,RxNorm,1234496
+42707523,acetaminophen 300 MG / diclofenac potassium 50 MG Delayed Release Oral Tablet,RxNorm,1234501
+42707525,acetaminophen 300 MG / diclofenac potassium 50 MG Oral Tablet,RxNorm,1234504
+42707528,acetaminophen 400 MG / diclofenac potassium 50 MG Oral Tablet,RxNorm,1234510
+42707529,acetaminophen 500 MG / diclofenac potassium 50 MG Oral Tablet,RxNorm,1234511
+42707571,betamethasone 0.3 MG / diclofenac potassium 50 MG / vitamin B12 5 MG Oral Tablet,RxNorm,1234595
+42707572,betamethasone 0.3 MG / diclofenac sodium 50 MG / vitamin B12 5 MG Oral Tablet,RxNorm,1234596
+42707574,cholestyramine resin 70 MG / diclofenac sodium 75 MG Oral Capsule,RxNorm,1234639
+42707575,codeine phosphate 50 MG / diclofenac sodium 50 MG Oral Tablet,RxNorm,1234667
+42705293,diclofenac sodium 0.001 MG/MG,RxNorm,1234676
+42707577,diclofenac sodium 0.001 MG/MG Topical Ointment,RxNorm,1234687
+42705294,diclofenac sodium 0.0116 MG/MG,RxNorm,1234697
+42707578,diclofenac sodium 0.0116 MG/MG / troxerutin 0.02 MG/MG Topical Gel,RxNorm,1234698
+42707579,diclofenac sodium 0.0116 MG/MG Topical Gel,RxNorm,1234719
+42705295,diclofenac epolamine 0.0129 MG/MG,RxNorm,1234734
+42707580,diclofenac epolamine 0.0129 MG/MG Topical Gel,RxNorm,1234735
+42705296,diclofenac sodium 0.05 MG/MG,RxNorm,1234747
+42707581,diclofenac sodium 0.05 MG/MG Topical Gel,RxNorm,1234748
+42705297,diclofenac potassium 1.8 MG/ML,RxNorm,1234756
+42707582,diclofenac potassium 1.8 MG/ML Oral Suspension,RxNorm,1234758
+42707583,diclofenac sodium 100 MG Delayed Release Oral Tablet,RxNorm,1234819
+42707584,diclofenac sodium 100 MG Oral Tablet,RxNorm,1234829
+42705298,diclofenac potassium 15 MG/ML,RxNorm,1234837
+42707585,diclofenac potassium 15 MG/ML Extended Release Suspension,RxNorm,1234838
+42707586,diclofenac potassium 15 MG/ML Oral Suspension,RxNorm,1234839
+42707587,diclofenac sodium 15 MG/ML Oral Suspension,RxNorm,1234840
+42707589,diclofenac sodium 150 MG Extended Release Oral Tablet,RxNorm,1234843
+42707590,diclofenac sodium 25 MG Delayed Release Oral Capsule,RxNorm,1234844
+42705299,diclofenac potassium 25 MG/ML,RxNorm,1234845
+42707591,diclofenac potassium 25 MG/ML Oral Solution,RxNorm,1234846
+42705300,diclofenac potassium 5 MG/ML,RxNorm,1234847
+42707592,diclofenac potassium 5 MG/ML Oral Suspension,RxNorm,1234848
+42707594,diclofenac sodium 50 MG / pridinol monomesylate 4 MG Delayed Release Oral Tablet,RxNorm,1234851
+42707595,diclofenac sodium 50 MG / pridinol monomesylate 4 MG Oral Tablet,RxNorm,1234852
+42707596,diclofenac sodium 50 MG Delayed Release Oral Capsule,RxNorm,1234853
+42707598,diclofenac sodium 75 MG Oral Tablet,RxNorm,1234855
+42705302,diclofenac potassium 75 MG,RxNorm,1234857
+42707599,diclofenac potassium 75 MG Rectal Suppository,RxNorm,1234858
+42707600,diclofenac sodium 75 MG Rectal Suppository,RxNorm,1234859
+42707606,aspirin 356.4 MG / caffeine 30 MG / dihydrocodeine bitartrate 16 MG Oral Capsule,RxNorm,1234872
+42706463,BC Arthritis,RxNorm,1247393
+42706464,aspirin 1000 MG / caffeine 65 MG [BC Arthritis],RxNorm,1247394
+42706465,aspirin / caffeine Oral Powder [BC Arthritis],RxNorm,1247395
+36238167,BC Arthritis Oral Product,RxNorm,1247396
+42708621,aspirin 1000 MG / caffeine 65 MG Oral Powder [BC Arthritis],RxNorm,1247397
+42706466,BC Original Formula,RxNorm,1247398
+42706467,aspirin 845 MG / caffeine 65 MG [BC Original Formula],RxNorm,1247399
+42706468,aspirin / caffeine Oral Powder [BC Original Formula],RxNorm,1247400
+36238168,BC Original Formula Oral Product,RxNorm,1247401
+42708622,aspirin 845 MG / caffeine 65 MG Oral Powder [BC Original Formula],RxNorm,1247402
+42709041,aspirin 500 MG / diphenhydramine citrate 38.3 MG Oral Tablet,RxNorm,1250907
+42799210,aspirin 325 MG / diphenhydramine citrate 38 MG Oral Tablet,RxNorm,1291868
+42799576,diphenhydramine citrate 38 MG / ibuprofen 200 MG Oral Capsule,RxNorm,1292323
+42799851,phenylbutazone 0.1 MG/MG,RxNorm,1292464
+42799852,phenylbutazone 0.1 MG/MG Oral Powder,RxNorm,1292465
+42799854,phenylbutazone 0.1 MG/MG [Equizone],RxNorm,1292467
+42799855,phenylbutazone Oral Powder [Equizone],RxNorm,1292468
+42799853,phenylbutazone 0.1 MG/MG Oral Powder [Equizone],RxNorm,1292470
+42799325,caffeine 100 MG / ergotamine tartrate 1 MG / ibuprofen 400 MG Oral Tablet,RxNorm,1294452
+36244168,acetaminophen / aspirin Oral Powder Product,RxNorm,1294760
+36244342,aspirin / caffeine Oral Powder Product,RxNorm,1294849
+36244503,aspirin / glycine Disintegrating Oral Product,RxNorm,1294922
+36244517,aspirin Chewable Product,RxNorm,1294937
+36245179,acetaminophen / aspirin / caffeine Oral Powder Product,RxNorm,1295251
+36245303,aspirin / caffeine / salicylamide Oral Powder Product,RxNorm,1295296
+36245763,ibuprofen Chewable Product,RxNorm,1295502
+36243853,aspirin Disintegrating Oral Product,RxNorm,1295715
+36243877,aspirin Oral Powder Product,RxNorm,1295740
+36243927,Aspergum Chewable Product,RxNorm,1295785
+36243969,BC Arthritis Oral Powder Product,RxNorm,1295836
+19053970,ibuprofen 0.05 MG/MG Topical Gel [Cuprofen],RxNorm,226288
+19054057,ibuprofen 200 MG Oral Tablet [Nurofen Advance],RxNorm,226333
+19054171,diclofenac sodium 100 MG Extended Release Oral Tablet [Dexomon Retard],RxNorm,226410
+19054173,diclofenac sodium 50 MG Delayed Release Oral Tablet [Acoflam],RxNorm,226412
+19054174,diclofenac sodium 25 MG Delayed Release Oral Tablet [Acoflam],RxNorm,226413
+19054175,diclofenac sodium 100 MG Extended Release Oral Tablet [Acoflam Retard],RxNorm,226414
+19054229,ibuprofen 20 MG/ML Oral Suspension [Nurofen For Children],RxNorm,226611
+19054230,diclofenac sodium 100 MG Extended Release Oral Tablet [Flamatak MR],RxNorm,226616
+19054267,diclofenac sodium 75 MG Extended Release Oral Tablet [Rheumatac Retard],RxNorm,226640
+37498131,aspirin 1000 MG / caffeine 150 MG Oral Powder,RxNorm,2267026
+36030084,aspirin / dipyridamole,RxNorm,226716
+37498198,meloxicam 5 MG/ML [Alloxate],RxNorm,2267588
+37498199,meloxicam Injectable Solution [Alloxate],RxNorm,2267589
+37498201,meloxicam 5 MG/ML Injectable Solution [Alloxate],RxNorm,2267591
+19054447,meloxicam 7.5 MG Rectal Suppository,RxNorm,226923
+19054448,meloxicam 7.5 MG Rectal Suppository [Mobic],RxNorm,226924
+19054527,piroxicam 20 MG Oral Tablet [Brexidol],RxNorm,227064
+19054654,ibuprofen 200 MG Extended Release Oral Capsule,RxNorm,227159
+37498858,meloxicam 30 MG/ML,RxNorm,2281104
+37498859,meloxicam Injection,RxNorm,2281105
+37499812,1 ML meloxicam 30 MG/ML Injection,RxNorm,2281106
+37498861,meloxicam 30 MG/ML [Anjeso],RxNorm,2281108
+37498862,meloxicam Injection [Anjeso],RxNorm,2281109
+37499813,1 ML meloxicam 30 MG/ML Injection [Anjeso],RxNorm,2281111
+37498864,meloxicam 30 MG/ML Injection,RxNorm,2281112
+37498865,meloxicam 30 MG/ML Injection [Anjeso],RxNorm,2281113
+1189754,rofecoxib,RxNorm,232158
+19055715,zomepirac 100 MG Oral Tablet,RxNorm,235992
+1145531,acetaminophen 500 MG / aspirin 500 MG / caffeine 65 MG Oral Powder,RxNorm,2360605
+19056645,droxicam,RxNorm,23687
+19056874,dexketoprofen,RxNorm,237162
+1146054,celecoxib 25 MG/ML,RxNorm,2373451
+1146056,celecoxib Oral Solution,RxNorm,2373453
+1146057,celecoxib 25 MG/ML Oral Solution,RxNorm,2373454
+1146059,celecoxib 25 MG/ML [Elyxyb],RxNorm,2373456
+1146060,celecoxib Oral Solution [Elyxyb],RxNorm,2373457
+1146063,celecoxib 25 MG/ML Oral Solution [Elyxyb],RxNorm,2373460
+1134769,aspirin 325 MG / butalbital 50 MG / caffeine 40 MG Oral Capsule,RxNorm,238134
+1134770,aspirin 325 MG / butalbital 50 MG / caffeine 40 MG Oral Tablet,RxNorm,238135
+40003488,acetaminophen / aspirin / caffeine / salicylamide Oral Tablet,RxNorm,238137
+40003492,acetaminophen / aspirin / caffeine Oral Tablet,RxNorm,238142
+37002399,ibuprofen 125 MG,RxNorm,2387531
+37002400,acetaminophen 250 MG / ibuprofen 125 MG Oral Tablet,RxNorm,2387532
+779035,aspirin / menthol,RxNorm,2394058
+19095283,Equagesic,RxNorm,24292
+1134832,aspirin 421 MG / caffeine 32 MG Oral Tablet,RxNorm,243685
+1126878,acetaminophen 194 MG / aspirin 227 MG / caffeine 33 MG Oral Tablet,RxNorm,243694
+19059094,indomethacin 25 MG Oral Tablet,RxNorm,243760
+1178696,indomethacin 50 MG Oral Tablet,RxNorm,243761
+1135733,phenylbutazone 1000 MG Oral Tablet,RxNorm,243762
+1177641,ibuprofen 300 MG Oral Capsule,RxNorm,245416
+1177662,ibuprofen 400 MG Oral Capsule,RxNorm,245417
+1185950,ketoprofen 200 MG Extended Release Oral Tablet,RxNorm,245418
+1185951,ketoprofen 50 MG Delayed Release Oral Tablet,RxNorm,245419
+19059785,naproxen 125 MG Oral Tablet,RxNorm,245420
+19059970,mephenesin 200 MG / phenylbutazone 100 MG Oral Tablet,RxNorm,245994
+1195492,etodolac,RxNorm,24605
+19060090,bufexamac 0.05 MG/MG Topical Ointment,RxNorm,246057
+19039704,bumadizone 110 MG Oral Tablet,RxNorm,246193
+19039705,bumadizone 220 MG Oral Tablet,RxNorm,246194
+1185962,ketoprofen 150 MG Oral Capsule,RxNorm,246235
+1185963,ketoprofen 50 MG/ML Injectable Solution,RxNorm,246236
+1185964,ketoprofen 7.5 MG/ML Oral Solution,RxNorm,246237
+1115039,naproxen 1000 MG Oral Tablet,RxNorm,246238
+1115040,naproxen 100 MG/ML Injectable Solution,RxNorm,246239
+19060299,naproxen 100 MG Oral Capsule,RxNorm,246240
+19060300,naproxen 250 MG Oral Capsule,RxNorm,246241
+1115062,naproxen 50 MG Rectal Suppository,RxNorm,246242
+1146849,piroxicam 20 MG Delayed Release Oral Tablet,RxNorm,246243
+1146850,piroxicam 40 MG Delayed Release Oral Tablet,RxNorm,246244
+1146851,piroxicam 7.5 MG/ML Oral Suspension,RxNorm,246245
+1146882,piroxicam 20 MG/ML Injectable Solution,RxNorm,246246
+1102944,tolmetin 20 MG/ML Oral Solution,RxNorm,246249
+1115063,naproxen 0.1 MG/MG Topical Gel,RxNorm,246323
+990155,lidocaine 10 MG/ML / phenylbutazone 200 MG/ML Injectable Solution,RxNorm,246465
+1115064,acetaminophen 300 MG / naproxen 250 MG Oral Tablet,RxNorm,246466
+1126904,acetaminophen 20 MG/ML / naproxen 25 MG/ML Oral Suspension,RxNorm,246467
+1115065,acetaminophen 200 MG / naproxen 100 MG Rectal Suppository,RxNorm,246468
+1178697,indomethacin 60 MG Extended Release Oral Capsule,RxNorm,246475
+19060438,carisoprodol 200 MG / naproxen 250 MG Oral Tablet,RxNorm,246480
+749939,carisoprodol 200 MG / naproxen 250 MG Oral Capsule,RxNorm,246481
+19060439,indomethacin 25 MG / methocarbamol 215 MG Oral Capsule,RxNorm,246483
+19060525,indomethacin 50 MG Extended Release Oral Capsule,RxNorm,246620
+19060557,acetaminophen 300 MG / ketoprofen 100 MG Oral Tablet,RxNorm,246707
+19060558,acetaminophen 17 MG/ML / ketoprofen 6 MG/ML Oral Suspension,RxNorm,246708
+19060704,piroxicam 10 MG Rectal Suppository,RxNorm,247066
+1113144,aspirin 650 MG Oral Powder,RxNorm,247137
+19060888,ketoprofen 50 MG Rectal Suppository,RxNorm,247630
+1134841,aspirin 325 MG / caffeine 15 MG Oral Tablet,RxNorm,247892
+19061253,indomethacin 10 MG/ML Topical Solution,RxNorm,248270
+19095703,fenbufen,RxNorm,24830
+1185967,ketoprofen 10 MG/ML Injectable Solution,RxNorm,248369
+19061285,ketoprofen 10 MG Oral Tablet,RxNorm,248370
+1185969,ketoprofen 20 MG Oral Tablet,RxNorm,248371
+1185970,ketoprofen 5 MG Oral Tablet,RxNorm,248372
+19061400,ketorolac 20 MG Oral Tablet,RxNorm,248650
+19029328,proglumetacin 300 MG Oral Capsule,RxNorm,248695
+749940,carisoprodol 350 MG / piroxicam 10 MG Oral Tablet,RxNorm,248724
+749941,carisoprodol 250 MG / piroxicam 10 MG Oral Tablet,RxNorm,248729
+795135,chlorzoxazone 250 MG / ibuprofen 400 MG Oral Tablet,RxNorm,248742
+749962,carisoprodol 300 MG / piroxicam 10 MG Oral Tablet,RxNorm,248767
+1178722,indomethacin 20 MG/ML Topical Cream,RxNorm,248788
+1177663,ibuprofen 120 MG Oral Tablet,RxNorm,248979
+1146884,amoxicillin 500 MG / piroxicam 10 MG Oral Tablet,RxNorm,248995
+1185971,ketoprofen 50 MG Oral Tablet,RxNorm,249394
+1185992,ketoprofen 100 MG Oral Tablet,RxNorm,249482
+1177664,acetaminophen 250 MG / ibuprofen 200 MG Oral Capsule,RxNorm,249588
+749963,carisoprodol 400 MG / piroxicam 10 MG Oral Tablet,RxNorm,249589
+1146885,piroxicam 0.01 MG/MG Topical Gel,RxNorm,249666
+1178724,indomethacin 0.01 MG/MG Topical Gel,RxNorm,249744
+1177665,ibuprofen 300 MG Extended Release Oral Tablet,RxNorm,249752
+19029400,acemetacin 60 MG Oral Tablet,RxNorm,249827
+1146886,acetaminophen 500 MG / piroxicam 20 MG Oral Tablet,RxNorm,249967
+19062040,acetaminophen 25 MG/ML / ibuprofen 20 MG/ML Oral Suspension,RxNorm,250085
+19062230,tenoxicam 20 MG Rectal Suppository,RxNorm,250197
+19062730,ibuprofen 800 MG Extended Release Oral Tablet,RxNorm,250418
+19062753,tolmetin 200 MG Oral Capsule,RxNorm,250421
+19062830,fenoprofen 300 MG Oral Tablet,RxNorm,250469
+19062851,acemetacin 60 MG / chlorzoxazone 500 MG Oral Tablet,RxNorm,250470
+19062852,fenoprofen 200 MG Oral Tablet,RxNorm,250472
+19063002,indomethacin 75 MG Extended Release Oral Tablet,RxNorm,250526
+19063234,acetaminophen 500 MG / piroxicam 10 MG Oral Tablet,RxNorm,250615
+19063477,homatropine 4 MG / ibuprofen 400 MG Oral Tablet,RxNorm,250706
+19063807,ibuprofen 200 MG / tolperisone 50 MG Oral Tablet,RxNorm,250835
+19064106,chlorzoxazone 250 MG / piroxicam 10 MG Oral Tablet,RxNorm,250990
+19064110,piroxicam 10 MG / prednisone 2 MG Delayed Release Oral Tablet,RxNorm,250996
+19064141,acetaminophen 250 MG / ibuprofen 250 MG Oral Tablet,RxNorm,250998
+19064186,ketoprofen 200 MG Oral Tablet,RxNorm,251022
+19029329,proglumetacin 300 MG Oral Tablet,RxNorm,251238
+1178727,indomethacin 25 MG Extended Release Oral Capsule,RxNorm,251255
+19064433,ibuprofen 400 MG Oral Suspension,RxNorm,251270
+1177671,ibuprofen 133 MG/ML Injectable Solution,RxNorm,251628
+749964,carisoprodol 300 MG / dexamethasone 0.25 MG / tenoxicam 10 MG Oral Tablet,RxNorm,251647
+1178728,indomethacin 20 MG / thiamine 100 MG Oral Tablet,RxNorm,251888
+1146889,piroxicam 10 MG / prednisone 2 MG Oral Tablet,RxNorm,251947
+1178729,dexamethasone 0.15 MG / indomethacin 20 MG Oral Tablet,RxNorm,251976
+19064799,carisoprodol 200 MG / dexamethasone 0.5 MG / ibuprofen 400 MG Oral Tablet,RxNorm,252035
+19064834,ibuprofen 400 MG / vitamin B12 3 MG Oral Tablet,RxNorm,252041
+19064901,ibuprofen 400 MG Extended Release Oral Tablet,RxNorm,252082
+19064902,meloxicam 10 MG/ML Injectable Solution,RxNorm,252090
+724430,orphenadrine 40 MG / piroxicam 10 MG Oral Tablet,RxNorm,252112
+19064936,piroxicam 20 MG / vitamin B12 0.5 MG Oral Tablet,RxNorm,252150
+19029441,acemetacin 160 MG Extended Release Oral Tablet,RxNorm,252187
+1146891,acetaminophen 500 MG / piroxicam 10 MG Rectal Suppository,RxNorm,252195
+1127045,acetaminophen 500 MG / piroxicam 10 MG Delayed Release Oral Tablet,RxNorm,252196
+1177705,ibuprofen 500 MG Oral Tablet,RxNorm,252337
+1146913,ascorbic acid 50 MG / piroxicam 20 MG Oral Tablet,RxNorm,252399
+1177706,cyclonium 10 MG / ibuprofen 400 MG Oral Tablet,RxNorm,252457
+19065087,ibuprofen 80 MG/ML Injectable Solution,RxNorm,252458
+1146914,piroxicam 40 MG Oral Tablet,RxNorm,252631
+19065216,ketorolac 60 MG/ML Injectable Solution,RxNorm,252660
+1536982,diclofenac sodium 0.01 MG/MG [Aleve Arthritis Pain],RxNorm,2550737
+1536983,diclofenac Topical Gel [Aleve Arthritis Pain],RxNorm,2550738
+1536985,diclofenac sodium 0.01 MG/MG Topical Gel [Aleve Arthritis Pain],RxNorm,2550740
+1537528,Vazalore,RxNorm,2563423
+1537529,aspirin 325 MG [Vazalore],RxNorm,2563424
+1537530,aspirin Oral Capsule [Vazalore],RxNorm,2563425
+1537531,Vazalore Oral Product,RxNorm,2563426
+1537532,Vazalore Pill,RxNorm,2563427
+1537533,aspirin 325 MG Oral Capsule [Vazalore],RxNorm,2563428
+701496,aspirin 325 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet,RxNorm,2565491
+701682,ketoprofen 120 MG/ML,RxNorm,2566869
+701684,ketoprofen / tulathromycin Injectable Solution,RxNorm,2566872
+701685,ketoprofen 120 MG/ML / tulathromycin 100 MG/ML Injectable Solution,RxNorm,2566873
+701687,ketoprofen 120 MG/ML / tulathromycin 100 MG/ML [Draxxin KP],RxNorm,2566875
+701689,ketoprofen / tulathromycin Injectable Solution [Draxxin KP],RxNorm,2566877
+701690,ketoprofen 120 MG/ML / tulathromycin 100 MG/ML Injectable Solution [Draxxin KP],RxNorm,2566878
+1197736,mefenamate,RxNorm,257844
+702116,aspirin 500 MG / butalbital 50 MG / caffeine 40 MG Oral Capsule,RxNorm,2583731
+702161,diclofenac potassium 25 MG [Lofena],RxNorm,2584346
+702164,diclofenac Oral Tablet [Lofena],RxNorm,2584349
+702165,diclofenac potassium 25 MG Oral Tablet [Lofena],RxNorm,2584350
+1758658,ketoprofen 100 MG/ML [Ketomed],RxNorm,2588951
+1758660,ketoprofen Injectable Solution [Ketomed],RxNorm,2588953
+1758661,ketoprofen 100 MG/ML Injectable Solution [Ketomed],RxNorm,2588954
+19066057,12 HR aspirin 25 MG / dipyridamole 200 MG Extended Release Oral Capsule,RxNorm,259081
+779491,meloxicam 5 MG/ML [Meloxidyl],RxNorm,2599513
+779493,meloxicam Injectable Solution [Meloxidyl],RxNorm,2599515
+779494,meloxicam 5 MG/ML Injectable Solution [Meloxidyl],RxNorm,2599516
+779567,diclofenac / lidocaine Topical Gel,RxNorm,2600048
+779568,diclofenac sodium 0.01 MG/MG / lidocaine hydrochloride 0.045 MG/MG Topical Gel,RxNorm,2600049
+19067480,fenoprofen 200 MG Oral Capsule [Nalfon],RxNorm,260323
+780157,aspirin 325 MG Effervescent Oral Tablet,RxNorm,2606079
+19068100,aspirin 325 MG Oral Tablet [Bufferin],RxNorm,260847
+1189755,rofecoxib 2.5 MG/ML Oral Suspension [Vioxx],RxNorm,261237
+1189756,rofecoxib 5 MG/ML Oral Suspension [Vioxx],RxNorm,261238
+1189757,rofecoxib 25 MG Oral Tablet [Vioxx],RxNorm,261239
+19068308,rofecoxib 12.5 MG Oral Tablet [Vioxx],RxNorm,261240
+19068411,rofecoxib 50 MG Oral Tablet [Vioxx],RxNorm,261370
+19099602,Orphengesic,RxNorm,261599
+741971,meloxicam 5 MG/ML [Meloxivet],RxNorm,2621703
+741973,meloxicam Injectable Solution [Meloxivet],RxNorm,2621705
+741974,meloxicam 5 MG/ML Injectable Solution [Meloxivet],RxNorm,2621706
+1301478,aspirin 650 MG / caffeine 65 MG Oral Powder,RxNorm,2626726
+1103374,valdecoxib,RxNorm,278567
+19003570,parecoxib,RxNorm,279950
+19069191,kebuzone,RxNorm,28198
+778782,aspirin / butalbital / caffeine,RxNorm,282422
+19071691,etodolac 400 MG Extended Release Oral Tablet,RxNorm,285004
+19071692,etodolac 600 MG Extended Release Oral Tablet,RxNorm,285005
+19071933,lonazolac,RxNorm,28876
+19072129,mofebutazone,RxNorm,30202
+19011355,etoricoxib,RxNorm,307296
+19072299,aluminum hydroxide 100 MG / magnesium trisilicate 150 MG / phenylbutazone 100 MG Oral Capsule,RxNorm,307743
+19073362,acetaminophen 115 MG / aspirin 210 MG / caffeine 16 MG / salicylamide 65 MG Oral Tablet,RxNorm,308278
+19073408,acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet,RxNorm,308297
+19073553,aspirin 325 MG / caffeine 16 MG / salicylamide 95 MG Oral Tablet,RxNorm,308363
+19073675,aspirin 500 MG Delayed Release Oral Tablet,RxNorm,308409
+19073677,aspirin 650 MG Delayed Release Oral Tablet,RxNorm,308411
+19073713,aspirin 975 MG Delayed Release Oral Tablet,RxNorm,308417
+19077212,24 HR etodolac 400 MG Extended Release Oral Tablet,RxNorm,310245
+19077213,etodolac 500 MG Extended Release Oral Tablet,RxNorm,310246
+19077214,24 HR etodolac 600 MG Extended Release Oral Tablet,RxNorm,310247
+19077246,fenoprofen 600 MG Oral Tablet,RxNorm,310291
+19078439,ibuprofen 100 MG Chewable Tablet,RxNorm,310963
+19078440,ibuprofen 200 MG Oral Capsule,RxNorm,310964
+19078461,ibuprofen 200 MG Oral Tablet,RxNorm,310965
+19078521,indomethacin 5 MG/ML Oral Suspension,RxNorm,310991
+19078522,indomethacin 75 MG Extended Release Oral Capsule,RxNorm,310992
+1185994,ketoprofen 12.5 MG Oral Capsule,RxNorm,311229
+19078754,24 HR ketoprofen 150 MG Extended Release Oral Capsule,RxNorm,311230
+1150351,meloxicam 7.5 MG Oral Tablet,RxNorm,311486
+1113672,nabumetone 500 MG Oral Tablet,RxNorm,311892
+1113673,nabumetone 750 MG Oral Tablet,RxNorm,311893
+1115066,naproxen 25 MG/ML Oral Suspension,RxNorm,311913
+1115067,naproxen 500 MG Delayed Release Oral Tablet,RxNorm,311915
+1115068,naproxen 375 MG Extended Release Oral Tablet,RxNorm,311916
+1115069,naproxen 500 MG Extended Release Oral Tablet,RxNorm,311917
+1118047,oxaprozin 600 MG Oral Tablet,RxNorm,312132
+19025926,oxyphenbutazone 100 MG Oral Tablet,RxNorm,312178
+1135734,phenylbutazone 100 MG Oral Capsule,RxNorm,312391
+1135735,phenylbutazone 100 MG Oral Tablet,RxNorm,312392
+1189760,rofecoxib 12.5 MG Oral Tablet,RxNorm,312841
+1189761,rofecoxib 2.5 MG/ML Oral Suspension,RxNorm,312842
+1189772,rofecoxib 5 MG/ML Oral Suspension,RxNorm,312843
+1189773,rofecoxib 50 MG Oral Tablet,RxNorm,312844
+1036639,suprofen 200 MG Oral Capsule,RxNorm,313172
+19080093,ibuprofen 50 MG Chewable Tablet,RxNorm,314047
+19080097,ketoprofen 200 MG Extended Release Oral Capsule,RxNorm,314058
+19080098,24 HR ketoprofen 100 MG Extended Release Oral Capsule,RxNorm,314059
+19080243,rofecoxib 25 MG Oral Tablet,RxNorm,314210
+19080249,acetylsalicylate sodium,RxNorm,314293
+1113648,nabumetone,RxNorm,31448
+1236613,sulindac 200 MG Delayed Release Oral Tablet,RxNorm,315222
+19080929,aspirin 356.4 MG,RxNorm,315420
+1113270,aspirin 400 MG,RxNorm,315422
+1113302,aspirin 500 MG,RxNorm,315424
+1113304,aspirin 600 MG,RxNorm,315426
+1113306,aspirin 650 MG,RxNorm,315428
+1113307,aspirin 75 MG,RxNorm,315429
+19080951,aspirin 800 MG,RxNorm,315430
+1113310,aspirin 850 MG,RxNorm,315432
+1113311,aspirin 975 MG,RxNorm,315433
+19081052,celecoxib 100 MG,RxNorm,315603
+19081053,celecoxib 200 MG,RxNorm,315604
+19081233,etodolac 200 MG,RxNorm,315906
+19081234,etodolac 300 MG,RxNorm,315907
+19081235,etodolac 400 MG,RxNorm,315908
+19081236,etodolac 500 MG,RxNorm,315909
+19081237,etodolac 600 MG,RxNorm,315910
+1156419,flurbiprofen 100 MG,RxNorm,315958
+1156420,flurbiprofen 50 MG,RxNorm,315959
+19081494,ibuprofen 100 MG,RxNorm,316072
+19081495,ibuprofen 20 MG/ML,RxNorm,316073
+19081496,ibuprofen 200 MG,RxNorm,316074
+19081497,ibuprofen 300 MG,RxNorm,316075
+19081498,ibuprofen 50 MG,RxNorm,316076
+19081499,ibuprofen 600 MG,RxNorm,316077
+19081500,ibuprofen 800 MG,RxNorm,316078
+19081524,indomethacin 25 MG,RxNorm,316082
+19081525,indomethacin 5 MG/ML,RxNorm,316083
+19081526,indomethacin 50 MG,RxNorm,316084
+19081527,indomethacin 75 MG,RxNorm,316085
+1185998,ketoprofen 12.5 MG,RxNorm,316115
+1185999,ketoprofen 150 MG,RxNorm,316116
+1186000,ketoprofen 200 MG,RxNorm,316117
+1186001,ketoprofen 25 MG,RxNorm,316118
+1186022,ketoprofen 50 MG,RxNorm,316119
+19081611,ketoprofen 75 MG,RxNorm,316120
+1115070,naproxen 250 MG,RxNorm,316326
+1115071,naproxen 375 MG,RxNorm,316327
+1115092,naproxen 500 MG,RxNorm,316328
+1118048,oxaprozin 600 MG,RxNorm,316413
+19081828,phenylbutazone 100 MG,RxNorm,316507
+1146915,piroxicam 10 MG,RxNorm,316524
+1236614,sulindac 150 MG,RxNorm,316755
+1236615,sulindac 200 MG,RxNorm,316756
+1036640,suprofen 200 MG,RxNorm,316757
+19082433,aspirin 325 MG,RxNorm,317300
+1177740,ibuprofen 400 MG,RxNorm,317388
+19025927,oxyphenbutazone 100 MG,RxNorm,317454
+1146916,piroxicam 20 MG,RxNorm,317467
+1186024,ketoprofen 100 MG,RxNorm,317643
+1115093,naproxen 25 MG/ML,RxNorm,317653
+1150372,meloxicam 7.5 MG,RxNorm,323968
+1118045,oxaprozin,RxNorm,32613
+1153966,fenoprofen 200 MG,RxNorm,328372
+1153967,fenoprofen 300 MG,RxNorm,328373
+1153968,fenoprofen 600 MG,RxNorm,328374
+19082996,indomethacin 1 MG/ML,RxNorm,328380
+1102946,tolmetin 200 MG,RxNorm,328642
+1102947,tolmetin 400 MG,RxNorm,328644
+1102948,tolmetin 600 MG,RxNorm,328645
+1137033,ketorolac 10 MG,RxNorm,328841
+1113349,aspirin 421 MG,RxNorm,329294
+1178758,indomethacin 100 MG,RxNorm,329869
+19086516,aceclofenac 100 MG,RxNorm,330874
+19086517,acemetacin 60 MG,RxNorm,330875
+19086518,acemetacin 160 MG,RxNorm,330876
+19095707,fenbufen 450 MG,RxNorm,331916
+1156452,flurbiprofen 200 MG,RxNorm,331958
+1115094,naproxen 1000 MG,RxNorm,332248
+19088348,naproxen 750 MG,RxNorm,332249
+1113373,aspirin 520 MG,RxNorm,332336
+1150373,meloxicam 15 MG,RxNorm,332451
+19039706,bumadizone 110 MG,RxNorm,332693
+19039707,bumadizone 220 MG,RxNorm,332694
+1236616,sulindac 100 MG,RxNorm,333359
+19041244,tenoxicam 10 MG,RxNorm,333369
+19032727,bufexamac 0.05 MG/MG,RxNorm,333622
+1177741,ibuprofen 80 MG/ML,RxNorm,333642
+1177762,ibuprofen 40 MG/ML,RxNorm,333683
+19041245,tenoxicam 20 MG,RxNorm,333737
+19090415,indomethacin 100 MG Oral Capsule,RxNorm,333823
+19090495,mefenamic acid 125 MG,RxNorm,334009
+19090497,meloxicam 10 MG/ML,RxNorm,334013
+19090667,proglumetacin 300 MG,RxNorm,334088
+19095708,fenbufen 300 MG,RxNorm,334736
+1177763,ibuprofen 133 MG/ML,RxNorm,334998
+1177764,ibuprofen 500 MG,RxNorm,334999
+19091196,ibuprofen 50 MG/ML,RxNorm,335000
+19091197,ibuprofen 120 MG,RxNorm,335001
+19091199,ibuprofen 250 MG,RxNorm,335002
+19091218,indomethacin 6 MG/ML,RxNorm,335014
+19091219,indomethacin 60 MG,RxNorm,335015
+19091220,indomethacin 0.01 MG/MG,RxNorm,335016
+19091241,indomethacin 10 MG/ML,RxNorm,335017
+19091243,indomethacin 20 MG,RxNorm,335019
+19091467,ketoprofen 0.025 MG/MG,RxNorm,335102
+19091468,ketoprofen 10 MG/ML,RxNorm,335103
+19091469,ketoprofen 50 MG/ML,RxNorm,335104
+19091470,ketoprofen 7.5 MG/ML,RxNorm,335105
+19091502,ketoprofen 6 MG/ML,RxNorm,335107
+19091503,ketoprofen 10 MG,RxNorm,335108
+19091504,ketoprofen 20 MG,RxNorm,335109
+19091505,ketoprofen 5 MG,RxNorm,335110
+1137038,ketorolac 60 MG/ML,RxNorm,335112
+1137039,ketorolac 20 MG,RxNorm,335113
+1113674,nabumetone 100 MG/ML,RxNorm,335255
+1115095,naproxen 0.1 MG/MG,RxNorm,335263
+1115096,naproxen 100 MG,RxNorm,335264
+1115097,naproxen 50 MG,RxNorm,335265
+1115098,naproxen 125 MG,RxNorm,335266
+1115099,naproxen 100 MG/ML,RxNorm,335267
+1135737,phenylbutazone 1000 MG,RxNorm,335387
+1135738,phenylbutazone 200 MG,RxNorm,335388
+1135739,phenylbutazone 200 MG/ML,RxNorm,335389
+19122492,naproxen 375 MG Delayed Release Oral Tablet,RxNorm,603103
+19122679,meloxicam 1.5 MG/ML [Mobic],RxNorm,603842
+40129525,meloxicam Oral Suspension [Mobic],RxNorm,603843
+19122680,meloxicam 1.5 MG/ML Oral Suspension [Mobic],RxNorm,603844
+19123011,aspirin 650 MG / caffeine 33.3 MG / salicylamide 195 MG Oral Powder,RxNorm,605252
+40129838,ibuprofen Oral Capsule [Motrin],RxNorm,606989
+19123153,ibuprofen 200 MG Oral Capsule [Motrin],RxNorm,606990
+19123280,aspirin 500 MG / caffeine 32 MG [Anacin],RxNorm,608695
+19123281,aspirin 500 MG / caffeine 32 MG Oral Tablet [Anacin],RxNorm,608696
+40130061,naproxen Delayed Release Oral Tablet [Naprosyn],RxNorm,608792
+19123299,naproxen 375 MG Delayed Release Oral Tablet [Naprosyn],RxNorm,608793
+1185922,ketoprofen,RxNorm,6142
+40131970,mefenamate Oral Tablet,RxNorm,618249
+40131967,mefenamate Disintegrating Oral Tablet,RxNorm,618252
+40131969,mefenamate Oral Suspension,RxNorm,618386
+40131968,mefenamate Oral Capsule,RxNorm,618388
+19086910,tiaprofenate,RxNorm,618442
+19086931,tiaprofenate 200 MG,RxNorm,618443
+40132234,tiaprofenate Oral Tablet,RxNorm,618444
+19086932,tiaprofenate 200 MG Oral Tablet,RxNorm,618445
+19086933,tiaprofenate 300 MG,RxNorm,618446
+19086934,tiaprofenate 300 MG Oral Tablet,RxNorm,618447
+40132233,tiaprofenate Oral Capsule,RxNorm,618448
+19086935,tiaprofenate 300 MG Oral Capsule,RxNorm,618449
+40132235,tiaprofenate Rectal Suppository,RxNorm,618451
+19086936,tiaprofenate 300 MG Rectal Suppository,RxNorm,618452
+40132232,tiaprofenate Extended Release Oral Capsule,RxNorm,618458
+19086937,tiaprofenate 300 MG Extended Release Oral Capsule,RxNorm,618459
+19086938,24 HR tiaprofenate 300 MG Extended Release Oral Capsule,RxNorm,618461
+19123787,meclofenamate 100 MG,RxNorm,618550
+40132005,meclofenamate Oral Capsule,RxNorm,618551
+1180186,meclofenamate 100 MG Oral Capsule,RxNorm,618552
+1180187,meclofenamate 50 MG,RxNorm,618556
+1180188,meclofenamate 50 MG Oral Capsule,RxNorm,618557
+40132006,meclofenamate Oral Tablet,RxNorm,618558
+1180189,meclofenamate 100 MG Oral Tablet,RxNorm,618559
+19123788,meclofenamate 50 MG Oral Tablet,RxNorm,618560
+40134022,mefenamate Oral Capsule [Ponstel],RxNorm,632274
+1177823,ibuprofen 10 MG/ML,RxNorm,637192
+19089480,ibuprofen 10 MG/ML [Neoprofen],RxNorm,637195
+1177825,2 ML ibuprofen 10 MG/ML Injection [Neoprofen],RxNorm,637197
+19124325,aspirin 325 MG / oxycodone hydrochloride 4.5 MG / oxycodone terephthalate 0.38 MG Oral Tablet,RxNorm,637540
+40133936,ibuprofen / niacin Topical Cream,RxNorm,637694
+40134023,mefenamate Oral Suspension [Ponstan],RxNorm,637788
+40134025,mefenamate Oral Tablet [Dysman],RxNorm,637789
+40134018,mefenamate Oral Capsule [Contraflam],RxNorm,637790
+40133551,tiaprofenate Oral Tablet [Surgam],RxNorm,637791
+40134020,mefenamate Oral Capsule [Meflam],RxNorm,637797
+40134026,mefenamate Oral Tablet [Meflam],RxNorm,637798
+40134021,mefenamate Oral Capsule [Opustan],RxNorm,637802
+40134027,mefenamate Oral Tablet [Opustan],RxNorm,637803
+40134024,mefenamate Oral Tablet [Contraflam],RxNorm,637806
+40134017,mefenamate Disintegrating Oral Tablet [Ponstan Dispersible],RxNorm,637834
+40134019,mefenamate Oral Capsule [Dysman],RxNorm,637835
+40133549,tiaprofenate Extended Release Oral Capsule [Surgam],RxNorm,637843
+40134028,mefenamate Oral Tablet [Ponstan],RxNorm,637851
+40134498,diphenhydramine / ibuprofen Oral Tablet,RxNorm,643059
+19124387,ibuprofen 200 MG [Wal-Profen],RxNorm,643100
+40134922,ibuprofen Oral Tablet [Wal-Profen],RxNorm,643101
+19124388,ibuprofen 200 MG Oral Tablet [Wal-Profen],RxNorm,643102
+40135052,naproxen Oral Tablet [Wal-Proxen],RxNorm,643132
+40134921,ibuprofen Oral Capsule [Wal-Profen],RxNorm,644385
+1177827,ibuprofen 200 MG Oral Capsule [Wal-Profen],RxNorm,644386
+40134497,diphenhydramine / ibuprofen Oral Capsule,RxNorm,645634
+19124731,aspirin 360 MG,RxNorm,647977
+40136034,ibuprofen / pseudoisocytidine Oral Tablet,RxNorm,656679
+19124856,ibuprofen 200 MG / pseudoisocytidine 30 MG Oral Tablet,RxNorm,656680
+19125097,meclofenamic acid,RxNorm,6678
+36030347,aspirin / diphenhydramine,RxNorm,669119
+1118114,celecoxib 50 MG,RxNorm,686378
+1118115,celecoxib 50 MG Oral Capsule,RxNorm,686379
+19125422,celecoxib 50 MG [Celebrex],RxNorm,686380
+1118116,celecoxib 50 MG Oral Capsule [Celebrex],RxNorm,686381
+36030350,acetaminophen / aspirin,RxNorm,687078
+36030423,aluminum hydroxide / aspirin / calcium carbonate / magnesium hydroxide,RxNorm,689502
+36030424,aspirin / butalbital / caffeine / phenacetin,RxNorm,689507
+36030425,aspirin / caffeine / chlorpheniramine,RxNorm,689509
+36030426,aspirin / caffeine / codeine,RxNorm,689511
+36030427,aspirin / caffeine / dihydrocodeine,RxNorm,689512
+36030428,aspirin / caffeine / dihydrocodeine / promethazine,RxNorm,689513
+36030429,aspirin / caffeine / hydrocodone,RxNorm,689515
+36030430,aspirin / caffeine / ipecac / opium,RxNorm,689516
+36030431,aspirin / caffeine / propoxyphene,RxNorm,689518
+36030432,aspirin / caffeine / salicylamide,RxNorm,689519
+36030433,aspirin / carisoprodol / codeine,RxNorm,689522
+36030434,aspirin / citric acid / sodium bicarbonate,RxNorm,689524
+36030435,aspirin / ethoheptazine / meprobamate,RxNorm,689529
+36030436,aspirin / promethazine / pseudoephedrine,RxNorm,689540
+36030437,aspirin / propoxyphene,RxNorm,689541
+36030438,acetaminophen / aspirin / caffeine / calcium gluconate,RxNorm,689551
+36030439,acetaminophen / aspirin / caffeine / codeine / salicylamide,RxNorm,689552
+36030440,acetaminophen / aspirin / caffeine / hydrocodone,RxNorm,689553
+36030441,acetaminophen / aspirin / caffeine / salicylamide,RxNorm,689554
+36030442,acetaminophen / aspirin / codeine,RxNorm,689555
+36030443,acetaminophen / aspirin / phenylpropanolamine,RxNorm,689556
+36030663,aluminum hydroxide / aspirin / codeine / magnesium hydroxide,RxNorm,690996
+36030664,aluminum hydroxide / aspirin / magnesium hydroxide,RxNorm,690997
+40137949,acetaminophen / aspirin / caffeine Oral Powder,RxNorm,692835
+19125577,acetaminophen 325 MG / aspirin 500 MG / caffeine 65 MG Oral Powder,RxNorm,692836
+40138445,aspirin / butalbital / caffeine / codeine Oral Capsule [Ascomp],RxNorm,700585
+19126141,ibuprofen 20 MG/ML [Elixsure IB],RxNorm,702241
+40139075,ibuprofen Oral Suspension [Elixsure IB],RxNorm,702242
+19126142,ibuprofen 20 MG/ML Oral Suspension [Elixsure IB],RxNorm,702243
+19126176,aspirin 500 MG / caffeine 32.5 MG Oral Tablet,RxNorm,702316
+19012056,Excedrin Back & Body,RxNorm,707765
+19013116,Anacin Advanced Headache Formula,RxNorm,721973
+19012057,acetaminophen 250 MG / aspirin 250 MG [Excedrin Back & Body],RxNorm,723528
+40140510,acetaminophen / aspirin Oral Tablet [Excedrin Back & Body],RxNorm,723529
+19126942,acetaminophen 250 MG / aspirin 250 MG Oral Tablet [Excedrin Back & Body],RxNorm,723530
+19013117,acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG [Anacin Advanced Headache Formula],RxNorm,723531
+40140509,acetaminophen / aspirin / caffeine Oral Tablet [Anacin Advanced Headache Formula],RxNorm,723532
+1128698,acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Anacin Advanced Headache Formula],RxNorm,723533
+19126976,Anacin Aspirin Regimen,RxNorm,724441
+40140561,aspirin Oral Tablet [Anacin Aspirin Regimen],RxNorm,724443
+1113581,aspirin 325 MG / oxycodone hydrochloride 2.25 MG / oxycodone terephthalate 0.19 MG Oral Tablet,RxNorm,724614
+1115008,naproxen,RxNorm,7258
+40141868,ketorolac Prefilled Syringe,RxNorm,727596
+19023313,ibuprofen 50 MG [Advil],RxNorm,731527
+40143246,ibuprofen Chewable Tablet [Advil],RxNorm,731528
+1177831,ibuprofen 50 MG Chewable Tablet [Advil],RxNorm,731529
+19127536,ibuprofen 40 MG/ML [Advil],RxNorm,731530
+1177842,ibuprofen 40 MG/ML Oral Suspension [Advil],RxNorm,731531
+40143247,ibuprofen Oral Capsule [Advil],RxNorm,731532
+1177843,ibuprofen 200 MG Oral Capsule [Advil],RxNorm,731533
+19023315,ibuprofen 100 MG [Advil],RxNorm,731534
+1177844,ibuprofen 100 MG Oral Tablet [Advil],RxNorm,731535
+1177845,ibuprofen 100 MG Chewable Tablet [Advil],RxNorm,731536
+1146917,piroxicam 0.01 MG/MG,RxNorm,335469
+19091723,piroxicam 0.005 MG/MG,RxNorm,335470
+1146919,piroxicam 20 MG/ML,RxNorm,335471
+1146920,piroxicam 40 MG,RxNorm,335472
+1124300,diclofenac,RxNorm,3355
+19042157,tolfenamic acid 200 MG,RxNorm,335755
+1102949,tolmetin 20 MG/ML,RxNorm,335756
+1113378,aspirin 389 MG,RxNorm,335933
+19092000,aspirin 742 MG,RxNorm,335990
+19092032,aspirin 385 MG,RxNorm,336010
+19092034,aspirin 770 MG,RxNorm,336012
+1146921,piroxicam 7.5 MG/ML,RxNorm,336796
+1189775,rofecoxib 50 MG,RxNorm,337553
+19095238,nabumetone 750 MG,RxNorm,343093
+19095274,nabumetone 500 MG,RxNorm,343109
+904455,esomeprazole 20 MG,RxNorm,343355
+1178785,indomethacin 20 MG/ML,RxNorm,343486
+1189776,rofecoxib 2.5 MG/ML,RxNorm,346141
+1189777,rofecoxib 5 MG/ML,RxNorm,346142
+1189778,rofecoxib 25 MG,RxNorm,346143
+1189779,rofecoxib 12.5 MG,RxNorm,346144
+19096060,indomethacin 1 MG Injection,RxNorm,346508
+19029327,proglumetacin,RxNorm,34769
+1135740,phenylbutazone 0.2 MG/MG Oral Gel,RxNorm,348548
+19096472,phenylbutazone 100 MG Oral Powder,RxNorm,348569
+19096676,oxaprozin 600 MG Delayed Release Oral Capsule,RxNorm,349188
+1103375,valdecoxib 10 MG Oral Tablet,RxNorm,349319
+1103376,valdecoxib 20 MG Oral Tablet,RxNorm,349321
+1118091,celecoxib 400 MG Oral Capsule,RxNorm,349514
+19096791,aspirin 800 MG Oral Tablet,RxNorm,349516
+19097551,aspirin 428 MG,RxNorm,350459
+19097552,aspirin 856 MG,RxNorm,350460
+19097732,valdecoxib 10 MG,RxNorm,350610
+19097733,valdecoxib 20 MG,RxNorm,350611
+19097794,celecoxib 400 MG,RxNorm,350656
+19098011,phenylbutazone 0.2 MG/MG,RxNorm,350973
+1177769,ibuprofen 600 MG Oral Tablet [Ibifon 600],RxNorm,351391
+1177770,ibuprofen 600 MG Oral Tablet [Ibren],RxNorm,351392
+1153969,fenoprofen 600 MG Oral Tablet [Nalfon],RxNorm,351398
+19098338,valdecoxib 10 MG Oral Tablet [Bextra],RxNorm,352062
+19098339,valdecoxib 20 MG Oral Tablet [Bextra],RxNorm,352063
+1118113,celecoxib 400 MG Oral Capsule [Celebrex],RxNorm,352314
+1136980,ketorolac,RxNorm,35827
+19032728,bufexamac 50 MG/ML,RxNorm,358568
+1146942,piroxicam 10 MG/ML,RxNorm,358619
+1127899,acetaminophen 110 MG / aspirin 162 MG / caffeine 32.4 MG / salicylamide 152 MG Oral Tablet,RxNorm,359221
+19099551,24 HR etodolac 500 MG Extended Release Oral Tablet,RxNorm,359500
+1186053,24 HR ketoprofen 200 MG Extended Release Oral Capsule,RxNorm,359697
+40048579,ibuprofen Topical Cream [Proflex],RxNorm,362173
+40048832,ketorolac Injectable Solution [Toradol],RxNorm,363077
+40077953,piroxicam Injectable Solution [Feldene],RxNorm,363586
+40057839,nabumetone Oral Suspension [Relifex],RxNorm,365844
+40054151,ibuprofen Oral Suspension [Advil],RxNorm,365861
+40054154,ibuprofen Oral Suspension [Junifen],RxNorm,365908
+40099354,rofecoxib Oral Suspension [Vioxx],RxNorm,366076
+40077959,piroxicam Oral Capsule [Pirozip],RxNorm,366166
+40054688,fenbufen Oral Capsule [Fenbuzip],RxNorm,366167
+40050526,indomethacin Oral Capsule [Artracin],RxNorm,366168
+40077956,piroxicam Oral Capsule [Flamatrol],RxNorm,366169
+40089139,tolmetin Oral Capsule [Tolectin],RxNorm,366170
+40048786,ketoprofen Oral Capsule [Orudis],RxNorm,366222
+40050529,indomethacin Oral Capsule [Indocin],RxNorm,366224
+40038013,fenoprofen Oral Capsule [Nalfon],RxNorm,366226
+40041349,etodolac Oral Capsule [Lodine],RxNorm,366234
+40077955,piroxicam Oral Capsule [Feldene],RxNorm,366276
+40089138,tolmetin Oral Capsule [Tolectin DS],RxNorm,366291
+40092943,celecoxib Oral Capsule [Celebrex],RxNorm,366443
+40077958,piroxicam Oral Capsule [Piroflam],RxNorm,366477
+40050531,indomethacin Oral Capsule [Indolar],RxNorm,366507
+40050530,indomethacin Oral Capsule [Indoflex],RxNorm,366508
+40054689,fenbufen Oral Capsule [Lederfen],RxNorm,366509
+40050533,indomethacin Oral Capsule [Mobilan],RxNorm,366511
+40064869,meclofenamate Oral Capsule [Meclomen],RxNorm,366742
+40097557,acemetacin Oral Capsule [Emflex],RxNorm,366796
+40077957,piroxicam Oral Capsule [Larapam],RxNorm,366799
+40032124,diclofenac Extended Release Oral Capsule [Diclomax Retard],RxNorm,366807
+40048777,ketoprofen Extended Release Oral Capsule [Ketozip CR],RxNorm,366927
+40048772,ketoprofen Extended Release Oral Capsule [Fenoket],RxNorm,366929
+40048774,ketoprofen Extended Release Oral Capsule [Ketocid],RxNorm,366932
+40048778,ketoprofen Extended Release Oral Capsule [Larafen CR],RxNorm,366933
+40050243,indomethacin Extended Release Oral Capsule [Slo-Indo],RxNorm,366940
+1156378,flurbiprofen,RxNorm,4502
+40050242,indomethacin Extended Release Oral Capsule [Rheumacin LA],RxNorm,367009
+40037717,flurbiprofen Extended Release Oral Capsule [Froben],RxNorm,367038
+40012021,aspirin Chewing Gum [Aspergum],RxNorm,367149
+40064743,naproxen Rectal Suppository [Naprosyn],RxNorm,367511
+40078257,piroxicam Rectal Suppository [Feldene],RxNorm,367512
+40032418,diclofenac Rectal Suppository [Voltarol],RxNorm,367513
+40037725,flurbiprofen Rectal Suppository [Froben],RxNorm,367514
+40050542,indomethacin Rectal Suppository [Indocin],RxNorm,367528
+40050543,indomethacin Rectal Suppository [Indolar],RxNorm,367575
+40054693,fenbufen Oral Tablet [Fenbuzip],RxNorm,367618
+40054694,fenbufen Oral Tablet [Lederfen],RxNorm,367619
+40041351,etodolac Oral Tablet [Lodine],RxNorm,367620
+40072982,phenylbutazone Oral Tablet [Butazone],RxNorm,367622
+40064736,naproxen Oral Tablet [Prosaid],RxNorm,367624
+40102523,tenoxicam Oral Tablet [Mobiflex],RxNorm,367626
+40057842,nabumetone Oral Tablet [Relifex],RxNorm,367627
+40082938,sulindac Oral Tablet [Clinoril],RxNorm,367629
+40064737,naproxen Oral Tablet [Rheuflex],RxNorm,367631
+40012253,aspirin / caffeine / orphenadrine Oral Tablet [Orphengesic],RxNorm,367716
+40012251,aspirin / caffeine / orphenadrine Oral Tablet [Norgesic],RxNorm,367717
+40012288,aspirin / caffeine Oral Tablet [P-A-C Analgesic],RxNorm,367752
+40012281,aspirin / caffeine Oral Tablet [Anacin],RxNorm,367758
+40003489,acetaminophen / aspirin / caffeine / salicylamide Oral Tablet [Saleto],RxNorm,367856
+40143248,ibuprofen Oral Solution,RxNorm,748640
+1177847,ibuprofen 20 MG/ML Oral Solution,RxNorm,748641
+40142758,aspirin Delayed Release Oral Tablet [St. Joseph Aspirin],RxNorm,749794
+40144382,diclofenac Topical Gel [Voltaren],RxNorm,752882
+19128678,ibuprofen 20 MG/ML Oral Solution [Brufen],RxNorm,755462
+19129017,ibuprofen 40 MG/ML Oral Solution,RxNorm,756109
+40146878,ibuprofen Oral Solution [Brufen],RxNorm,756958
+19129203,{7 (lansoprazole 15 MG Delayed Release Oral Capsule) / 14 (naproxen 375 MG Oral Tablet) } Pack,RxNorm,758486
+19129204,{7 (lansoprazole 15 MG Delayed Release Oral Capsule [Prevacid]) / 14 (naproxen 375 MG Oral Tablet [Naprosyn]) } Pack [Prevacid NapraPac 375],RxNorm,758487
+19129205,{7 (lansoprazole 15 MG Delayed Release Oral Capsule) / 14 (naproxen 500 MG Oral Tablet) } Pack,RxNorm,758497
+19129206,{7 (lansoprazole 15 MG Delayed Release Oral Capsule [Prevacid]) / 14 (naproxen 500 MG Oral Tablet [Naprosyn]) } Pack [Prevacid NapraPac 500],RxNorm,758498
+40148360,acetaminophen / aspirin Oral Powder,RxNorm,763110
+1128828,acetaminophen 325 MG / aspirin 500 MG Oral Powder,RxNorm,763111
+1135360,acetaminophen 260 MG / aspirin 520 MG / caffeine 32.5 MG Oral Powder,RxNorm,763116
+19025925,oxyphenbutazone,RxNorm,7816
+19129851,ibuprofen 100 MG [Motrin],RxNorm,792240
+40149378,ibuprofen Chewable Tablet [Motrin],RxNorm,792241
+1177851,ibuprofen 100 MG Chewable Tablet [Motrin],RxNorm,792242
+19129914,naproxen 375 MG Delayed Release Oral Tablet [Aflaxen],RxNorm,794012
+19130280,aspirin 650 MG / caffeine 32 MG / salicylamide 200 MG Oral Powder,RxNorm,797050
+40055252,meloxicam Oral Tablet [Mobic],RxNorm,368154
+40099356,rofecoxib Oral Tablet [Vioxx],RxNorm,368197
+40064725,naproxen Oral Tablet [Aflaxen],RxNorm,368267
+40064728,naproxen Oral Tablet [Aleve],RxNorm,368447
+40048790,ketoprofen Oral Tablet [Orudis KT],RxNorm,368448
+40048789,ketoprofen Oral Tablet [Actron],RxNorm,368449
+40010186,aspirin Oral Tablet [Bayer Aspirin],RxNorm,368457
+40010204,aspirin Oral Tablet [Norwich Aspirin],RxNorm,368468
+40038016,fenoprofen Oral Tablet [Fepron],RxNorm,368505
+40054180,ibuprofen Oral Tablet [Ibren],RxNorm,368594
+40054179,ibuprofen Oral Tablet [Ibifon 600],RxNorm,368595
+40041352,etodolac Oral Tablet [Ramodar],RxNorm,368596
+40072981,phenylbutazone Oral Tablet [Butazolidin],RxNorm,368597
+40072980,phenylbutazone Oral Tablet [Butacote],RxNorm,368598
+40038017,fenoprofen Oral Tablet [Nalfon],RxNorm,368641
+40010191,aspirin Oral Tablet [Bufferin],RxNorm,368653
+40100422,valdecoxib Oral Tablet [Bextra],RxNorm,368671
+40102010,oxaprozin Oral Tablet [Daypro],RxNorm,368765
+40057841,nabumetone Oral Tablet [Relafen],RxNorm,368811
+40048570,ibuprofen Oral Tablet [Saleto-800],RxNorm,368821
+40054185,ibuprofen Oral Tablet [Ibu-Tab],RxNorm,368822
+40054186,ibuprofen Oral Tablet [Ibu],RxNorm,368823
+40048569,ibuprofen Oral Tablet [Saleto-600],RxNorm,368824
+40048568,ibuprofen Oral Tablet [Saleto-400],RxNorm,368828
+40054174,ibuprofen Oral Tablet [Dolgesic],RxNorm,368829
+40048573,ibuprofen Oral Tablet [Uni-Pro],RxNorm,368830
+40048572,ibuprofen Oral Tablet [Tab-Profen],RxNorm,368831
+40048571,ibuprofen Oral Tablet [Sup Pain Med],RxNorm,368832
+40048567,ibuprofen Oral Tablet [Saleto-200],RxNorm,368833
+40048563,ibuprofen Oral Tablet [Q-Profen],RxNorm,368834
+40054193,ibuprofen Oral Tablet [Menadol],RxNorm,368838
+40054176,ibuprofen Oral Tablet [Genpril],RxNorm,368840
+40054171,ibuprofen Oral Tablet [Cap-Profen],RxNorm,368841
+40012589,aspirin / meprobamate Oral Tablet [Equagesic],RxNorm,368986
+40003496,acetaminophen / aspirin / caffeine Oral Tablet [Excedrin],RxNorm,369063
+40048837,ketorolac Oral Tablet [Toradol],RxNorm,369148
+40032415,diclofenac Oral Tablet [Cataflam],RxNorm,369164
+40089142,tolmetin Oral Tablet [Tolectin 600],RxNorm,369289
+40089143,tolmetin Oral Tablet [Tolectin],RxNorm,369290
+40064740,naproxen Oral Tablet [Timpron],RxNorm,369399
+40037722,flurbiprofen Oral Tablet [Ansaid],RxNorm,369463
+40037723,flurbiprofen Oral Tablet [Froben],RxNorm,369570
+40038015,fenoprofen Oral Tablet [Fenopron],RxNorm,369571
+40064738,naproxen Oral Tablet [Rimoxyn],RxNorm,369572
+40064733,naproxen Oral Tablet [Arthroxen],RxNorm,369573
+40064734,naproxen Oral Tablet [Laraflex],RxNorm,369574
+40064741,naproxen Oral Tablet [Valrox],RxNorm,369578
+40009848,aspirin Chewable Tablet [St. Joseph Aspirin],RxNorm,369693
+40093051,diclofenac Disintegrating Oral Tablet [Voltarol],RxNorm,369791
+40064712,naproxen Delayed Release Oral Tablet [Naprosyn EC],RxNorm,369793
+40032114,diclofenac Delayed Release Oral Tablet [Flamrase],RxNorm,369796
+40032115,diclofenac Delayed Release Oral Tablet [Isclofen],RxNorm,369797
+40032113,diclofenac Delayed Release Oral Tablet [Diclozip],RxNorm,369798
+40032118,diclofenac Delayed Release Oral Tablet [Valenac],RxNorm,369799
+40032116,diclofenac Delayed Release Oral Tablet [Lofensaid],RxNorm,369829
+40032111,diclofenac Delayed Release Oral Tablet [Dicloflex],RxNorm,369830
+40032121,diclofenac Delayed Release Oral Tablet [Voltarene],RxNorm,369831
+40064713,naproxen Delayed Release Oral Tablet [Nycopren],RxNorm,369832
+40064711,naproxen Delayed Release Oral Tablet [Aflaxen],RxNorm,369833
+40032120,diclofenac Delayed Release Oral Tablet [Voltaren],RxNorm,369846
+40032122,diclofenac Delayed Release Oral Tablet [Voltarol],RxNorm,369856
+40032117,diclofenac Delayed Release Oral Tablet [Rhumalgan],RxNorm,369857
+40032119,diclofenac Delayed Release Oral Tablet [Volraman],RxNorm,369858
+40072973,phenylbutazone Delayed Release Oral Tablet [Butacote],RxNorm,369859
+40064719,naproxen Extended Release Oral Tablet [Pranoxen Continus],RxNorm,369860
+40032134,diclofenac Extended Release Oral Tablet [Dicloflex Retard],RxNorm,369939
+40032402,diclofenac Extended Release Oral Tablet [Voltarene LP],RxNorm,369943
+40032149,diclofenac Extended Release Oral Tablet [Voltaren Retard],RxNorm,369944
+40064717,naproxen Extended Release Oral Tablet [Naprelan],RxNorm,369974
+40032403,diclofenac Extended Release Oral Tablet [Voltarol Retard],RxNorm,370134
+40078261,piroxicam Topical Gel [Feldene Sports],RxNorm,370367
+40032423,diclofenac Topical Gel [Solaraze],RxNorm,370383
+40078262,piroxicam Topical Gel [Feldene],RxNorm,370477
+40048794,ketoprofen Topical Gel [Powergel],RxNorm,370479
+40010213,aspirin Rectal Suppository,RxNorm,370609
+40009896,aspirin Oral Tablet,RxNorm,370611
+40009878,aspirin Extended Release Oral Tablet,RxNorm,370612
+40009842,aspirin Chewable Tablet,RxNorm,370614
+40012277,aspirin / caffeine Oral Tablet,RxNorm,370615
+40012579,aspirin / hydrocodone Oral Tablet,RxNorm,370643
+40054148,ibuprofen Oral Suspension,RxNorm,370672
+40054133,ibuprofen Chewable Tablet,RxNorm,370673
+40054158,ibuprofen Oral Tablet,RxNorm,370674
+40054144,ibuprofen Oral Capsule,RxNorm,370675
+40053096,ibuprofen / pseudoephedrine Oral Suspension,RxNorm,370677
+40053099,ibuprofen / pseudoephedrine Oral Tablet,RxNorm,370678
+40050535,indomethacin Oral Suspension,RxNorm,370686
+40050525,indomethacin Oral Capsule,RxNorm,370687
+40050539,indomethacin Rectal Suppository,RxNorm,370688
+40050233,indomethacin Extended Release Oral Capsule,RxNorm,370689
+40097538,aceclofenac Oral Tablet,RxNorm,370739
+40097556,acemetacin Oral Capsule,RxNorm,370740
+40097558,acemetacin Oral Tablet,RxNorm,370741
+40097555,acemetacin Extended Release Oral Tablet,RxNorm,370742
+40009219,amoxicillin / piroxicam Oral Tablet,RxNorm,370890
+40009857,aspirin Delayed Release Oral Tablet,RxNorm,370939
+40009890,aspirin Oral Capsule,RxNorm,370940
+40009849,aspirin Chewing Gum,RxNorm,370942
+40012311,aspirin / codeine Oral Tablet,RxNorm,370943
+40012316,aspirin / diphenhydramine Oral Tablet,RxNorm,370944
+40003505,acetaminophen / aspirin Oral Tablet,RxNorm,370945
+40012644,aspirin / butalbital Oral Tablet,RxNorm,370946
+40093264,bumadizone Oral Tablet,RxNorm,371156
+40022483,carisoprodol / naproxen Oral Capsule,RxNorm,371289
+40022484,carisoprodol / naproxen Oral Tablet,RxNorm,371290
+40022485,carisoprodol / piroxicam Oral Tablet,RxNorm,371291
+40092942,celecoxib Oral Capsule,RxNorm,371343
+40031160,chlorzoxazone / ibuprofen Oral Tablet,RxNorm,371476
+40097542,acemetacin / chlorzoxazone Oral Tablet,RxNorm,371477
+40031162,chlorzoxazone / piroxicam Oral Tablet,RxNorm,371478
+40032123,diclofenac Extended Release Oral Capsule,RxNorm,371793
+40032109,diclofenac Delayed Release Oral Tablet,RxNorm,371794
+40032405,diclofenac Injectable Solution,RxNorm,371795
+40032417,diclofenac Rectal Suppository,RxNorm,371796
+40032413,diclofenac Oral Suspension,RxNorm,371797
+40032414,diclofenac Oral Tablet,RxNorm,371798
+40032129,diclofenac Extended Release Oral Tablet,RxNorm,371799
+40002623,acetaminophen / diclofenac Delayed Release Oral Tablet,RxNorm,371801
+40002624,acetaminophen / diclofenac Oral Tablet,RxNorm,371802
+40041348,etodolac Oral Capsule,RxNorm,372125
+40041350,etodolac Oral Tablet,RxNorm,372126
+40054686,fenbufen Oral Capsule,RxNorm,372146
+40054692,fenbufen Oral Tablet,RxNorm,372147
+40038012,fenoprofen Oral Capsule,RxNorm,372153
+40038014,fenoprofen Oral Tablet,RxNorm,372154
+40037716,flurbiprofen Extended Release Oral Capsule,RxNorm,372245
+40037724,flurbiprofen Rectal Suppository,RxNorm,372247
+40037721,flurbiprofen Oral Tablet,RxNorm,372249
+40055145,homatropine / ibuprofen Oral Tablet,RxNorm,372401
+40054143,ibuprofen Injectable Solution,RxNorm,372448
+40054141,ibuprofen Extended Release Oral Tablet,RxNorm,372449
+40002727,acetaminophen / ibuprofen Oral Capsule,RxNorm,372450
+40002728,acetaminophen / ibuprofen Oral Suspension,RxNorm,372451
+40002729,acetaminophen / ibuprofen Oral Tablet,RxNorm,372452
+40053401,ibuprofen / vitamin B12 Oral Tablet,RxNorm,372454
+40050546,indomethacin Topical Solution,RxNorm,372472
+40050538,indomethacin Oral Tablet,RxNorm,372473
+40050244,indomethacin Extended Release Oral Tablet,RxNorm,372474
+40027149,dexamethasone / indomethacin Oral Tablet,RxNorm,372476
+40049850,indomethacin / thiamine Oral Tablet,RxNorm,372477
+40048783,ketoprofen Oral Capsule,RxNorm,372535
+40048771,ketoprofen Extended Release Oral Capsule,RxNorm,372536
+40048781,ketoprofen Injectable Solution,RxNorm,372537
+40048787,ketoprofen Oral Solution,RxNorm,372538
+40048791,ketoprofen Rectal Suppository,RxNorm,372539
+40048788,ketoprofen Oral Tablet,RxNorm,372540
+40002730,acetaminophen / ketoprofen Oral Suspension,RxNorm,372541
+40002731,acetaminophen / ketoprofen Oral Tablet,RxNorm,372542
+40048780,ketoprofen Extended Release Oral Tablet,RxNorm,372543
+40048770,ketoprofen Delayed Release Oral Tablet,RxNorm,372544
+40048828,ketorolac Injectable Solution,RxNorm,372545
+40048836,ketorolac Oral Tablet,RxNorm,372547
+40055249,meloxicam Injectable Solution,RxNorm,372752
+40055253,meloxicam Rectal Suppository,RxNorm,372753
+40055251,meloxicam Oral Tablet,RxNorm,372754
+40012588,aspirin / meprobamate Oral Tablet,RxNorm,372778
+40012591,aspirin / methocarbamol Oral Tablet,RxNorm,372833
+40049849,indomethacin / methocarbamol Oral Capsule,RxNorm,372834
+40057838,nabumetone Oral Suspension,RxNorm,372976
+40064721,naproxen Oral Capsule,RxNorm,373002
+40064742,naproxen Rectal Suppository,RxNorm,373003
+40064722,naproxen Oral Suspension,RxNorm,373004
+40064724,naproxen Oral Tablet,RxNorm,373005
+40064716,naproxen Extended Release Oral Tablet,RxNorm,373006
+40002742,acetaminophen / naproxen Oral Suspension,RxNorm,373007
+40002743,acetaminophen / naproxen Oral Tablet,RxNorm,373008
+40064710,naproxen Delayed Release Oral Tablet,RxNorm,373009
+40070843,orphenadrine / piroxicam Oral Tablet,RxNorm,373162
+40102009,oxaprozin Oral Tablet,RxNorm,373169
+40066993,oxyphenbutazone Oral Tablet,RxNorm,373205
+40012603,aspirin / pentazocine Oral Tablet,RxNorm,373278
+40072975,phenylbutazone Oral Capsule,RxNorm,373356
+40072979,phenylbutazone Oral Tablet,RxNorm,373357
+40072972,phenylbutazone Delayed Release Oral Tablet,RxNorm,373358
+40001292,lidocaine / phenylbutazone Injectable Solution,RxNorm,373359
+40061670,mephenesin / phenylbutazone Oral Tablet,RxNorm,373360
+40077961,piroxicam Oral Tablet,RxNorm,373485
+40077954,piroxicam Oral Capsule,RxNorm,373486
+40077952,piroxicam Injectable Solution,RxNorm,373487
+40078256,piroxicam Rectal Suppository,RxNorm,373488
+40077960,piroxicam Oral Suspension,RxNorm,373489
+40077951,piroxicam Delayed Release Oral Tablet,RxNorm,373490
+40002771,acetaminophen / piroxicam Delayed Release Oral Tablet,RxNorm,373491
+40002773,acetaminophen / piroxicam Rectal Suppository,RxNorm,373492
+40002772,acetaminophen / piroxicam Oral Tablet,RxNorm,373493
+40012859,ascorbic acid / piroxicam Oral Tablet,RxNorm,373494
+40077886,piroxicam / prednisone Delayed Release Oral Tablet,RxNorm,373495
+40036615,diclofenac / pridinol Delayed Release Oral Tablet,RxNorm,373587
+40036616,diclofenac / pridinol Oral Tablet,RxNorm,373588
+40102364,proglumetacin Oral Tablet,RxNorm,373620
+40053094,ibuprofen / pseudoephedrine Oral Capsule,RxNorm,373693
+40082937,sulindac Oral Tablet,RxNorm,374003
+40102518,tenoxicam Injectable Solution,RxNorm,374030
+40102524,tenoxicam Rectal Suppository,RxNorm,374031
+40102522,tenoxicam Oral Tablet,RxNorm,374032
+40099081,tolfenamic acid Oral Capsule,RxNorm,374154
+40089137,tolmetin Oral Capsule,RxNorm,374155
+40089140,tolmetin Oral Solution,RxNorm,374156
+40089141,tolmetin Oral Tablet,RxNorm,374157
+40053399,ibuprofen / tolperisone Oral Tablet,RxNorm,374162
+40012296,aspirin / carisoprodol Oral Tablet,RxNorm,374442
+40064313,naproxen / pseudoephedrine Extended Release Oral Tablet,RxNorm,374618
+40012254,aspirin / caffeine / propoxyphene Oral Capsule,RxNorm,374702
+40012595,aspirin / oxycodone Oral Tablet,RxNorm,374711
+40012629,aspirin / butalbital / caffeine Oral Capsule,RxNorm,374753
+40012635,aspirin / butalbital / caffeine Oral Tablet,RxNorm,374755
+40012624,aspirin / butalbital / caffeine / codeine Oral Capsule,RxNorm,374756
+40012264,aspirin / caffeine / dihydrocodeine Oral Capsule,RxNorm,374757
+40012249,aspirin / caffeine / orphenadrine Oral Tablet,RxNorm,374758
+40012294,aspirin / carisoprodol / codeine Oral Tablet,RxNorm,374760
+40012271,aspirin / caffeine / salicylamide Oral Tablet,RxNorm,374765
+40082936,sulindac Delayed Release Oral Tablet,RxNorm,375943
+40083341,suprofen Oral Capsule,RxNorm,375944
+40009892,aspirin Oral Solution,RxNorm,375972
+40007838,aluminum hydroxide / magnesium trisilicate / phenylbutazone Oral Capsule,RxNorm,375984
+40006226,aluminum hydroxide / aspirin / magnesium hydroxide Oral Tablet,RxNorm,375985
+40003490,acetaminophen / aspirin / caffeine Oral Capsule,RxNorm,375995
+19131976,ibuprofen 100 MG Oral Tablet [Motrin],RxNorm,806013
+19132061,aspirin 500 MG / caffeine 65 MG Oral Tablet,RxNorm,806446
+19132863,{7 (lansoprazole 15 MG Delayed Release Oral Capsule) / 14 (naproxen 250 MG Oral Tablet) } Pack,RxNorm,810014
+19132864,{7 (lansoprazole 15 MG Delayed Release Oral Capsule [Prevacid]) / 14 (naproxen 250 MG Oral Tablet [Naprosyn]) } Pack [PREVACID NapraPAC 250],RxNorm,810015
+36030814,aspirin / phenobarbital,RxNorm,812525
+36030850,ascorbic acid / aspirin,RxNorm,813961
+36030876,aspirin / phenylephrine,RxNorm,814664
+36030889,aspirin / diphenhydramine / phenylpropanolamine,RxNorm,815052
+1135710,phenylbutazone,RxNorm,8160
+36030920,aspirin / chlorpheniramine / phenylpropanolamine,RxNorm,816174
+36030935,acetanilide / aspirin / caffeine / ephedrine,RxNorm,816812
+36030936,aspirin / chlorpheniramine,RxNorm,816818
+36030951,aspirin / brompheniramine / dextromethorphan / phenylpropanolamine,RxNorm,817275
+36030958,aspirin / phenylpropanolamine,RxNorm,817405
+36030960,ascorbic acid / aspirin / caffeine,RxNorm,817455
+36030975,aspirin / caffeine / quinine,RxNorm,817778
+36030981,aspirin / calcium carbonate,RxNorm,817958
+36031003,aspirin / chlorpheniramine / phenylephrine,RxNorm,818496
+36031037,aspirin / papain,RxNorm,819659
+36031041,aspirin / cyclizine,RxNorm,819817
+36031061,acetaminophen / aspirin / salicylamide,RxNorm,820701
+40155229,aspirin Chewable Tablet [Bayer Aspirin],RxNorm,825179
+1135445,acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Capsule,RxNorm,827318
+1135447,aspirin 389 MG / caffeine 32.4 MG / propoxyphene hydrochloride 32 MG Oral Capsule,RxNorm,828585
+1135449,aspirin 389 MG / caffeine 32.4 MG / propoxyphene hydrochloride 65 MG Oral Capsule,RxNorm,828594
+1197739,mefenamic acid 10 MG/ML,RxNorm,829497
+1197740,mefenamic acid 10 MG/ML Oral Suspension,RxNorm,829498
+1197741,mefenamic acid 250 MG,RxNorm,829499
+19133331,mefenamic acid 250 MG Oral Capsule,RxNorm,829500
+19133332,mefenamic acid 250 MG [Ponstel],RxNorm,829501
+19133333,mefenamic acid 250 MG Oral Capsule [Ponstel],RxNorm,829502
+1197754,mefenamic acid 500 MG,RxNorm,829612
+1197755,mefenamic acid 500 MG Oral Tablet,RxNorm,829613
+40156649,acetaminophen / aspirin / caffeine Oral Tablet [Vanquish],RxNorm,830544
+19133852,ketorolac tromethamine 10 MG,RxNorm,834021
+19133853,ketorolac tromethamine 10 MG Oral Tablet,RxNorm,834022
+19134039,naproxen 500 MG Delayed Release Oral Tablet [Naprosyn],RxNorm,835560
+1146810,piroxicam,RxNorm,8356
+19134149,mefenamic acid 250 MG [Contraflam],RxNorm,844279
+19134150,mefenamic acid 500 MG [Dysman],RxNorm,844280
+19134151,mefenamic acid 250 MG [Dysman],RxNorm,844281
+19134152,mefenamic acid 10 MG/ML [Ponstan],RxNorm,844282
+19134153,mefenamic acid 500 MG [Ponstan],RxNorm,844283
+19134163,mefenamic acid 500 MG [Contraflam],RxNorm,844293
+19134164,mefenamic acid 500 MG [Opustan],RxNorm,844294
+19134165,mefenamic acid 250 MG [Opustan],RxNorm,844295
+19134170,mefenamic acid 500 MG [Meflam],RxNorm,844300
+19134171,mefenamic acid 250 MG [Meflam],RxNorm,844301
+19134398,ketoprofen 100 MG Extended Release Oral Capsule [Oruvail],RxNorm,844579
+19134399,ketoprofen 150 MG Extended Release Oral Capsule [Oruvail],RxNorm,844580
+19134640,ketoprofen 100 MG Extended Release Oral Capsule,RxNorm,844825
+19134683,ketoprofen 160 MG Extended Release Oral Capsule,RxNorm,844875
+19134684,ketoprofen 320 MG Extended Release Oral Capsule,RxNorm,844876
+19134910,ketoprofen 100 MG Extended Release Oral Capsule [Ketovail],RxNorm,845103
+40006225,aluminum hydroxide / aspirin / codeine / magnesium hydroxide Oral Tablet,RxNorm,376079
+40029205,codeine / diclofenac Oral Tablet,RxNorm,376215
+40064720,naproxen Injectable Solution,RxNorm,376265
+40002744,acetaminophen / naproxen Rectal Suppository,RxNorm,376266
+40077887,piroxicam / prednisone Oral Tablet,RxNorm,376283
+40032411,diclofenac Oral Capsule,RxNorm,376352
+40009875,aspirin Extended Release Oral Capsule,RxNorm,376394
+40099355,rofecoxib Oral Tablet,RxNorm,376431
+40020335,bufexamac Topical Ointment,RxNorm,376458
+40077889,piroxicam / vitamin B12 Oral Tablet,RxNorm,377049
+40020332,bufexamac Topical Cream,RxNorm,377615
+40048577,ibuprofen Topical Cream,RxNorm,377732
+40050544,indomethacin Topical Cream,RxNorm,377734
+19041220,tenoxicam,RxNorm,37790
+40048583,ibuprofen Topical Gel,RxNorm,377956
+40048793,ketoprofen Topical Gel,RxNorm,377957
+40078259,piroxicam Topical Gel,RxNorm,377958
+40032422,diclofenac Topical Gel,RxNorm,377959
+40064744,naproxen Topical Gel,RxNorm,378031
+40050545,indomethacin Topical Gel,RxNorm,378050
+40072978,phenylbutazone Oral Powder,RxNorm,378238
+40102008,oxaprozin Delayed Release Oral Capsule,RxNorm,378275
+40072976,phenylbutazone Oral Gel,RxNorm,378664
+40057840,nabumetone Oral Tablet,RxNorm,378684
+40100421,valdecoxib Oral Tablet,RxNorm,378686
+40032128,diclofenac Extended Release Suspension,RxNorm,378791
+40060217,cyclonium / ibuprofen Oral Tablet,RxNorm,378952
+40099353,rofecoxib Oral Suspension,RxNorm,379117
+40041347,etodolac Extended Release Oral Tablet,RxNorm,379169
+40012267,aspirin / caffeine / salicylamide Oral Powder,RxNorm,379282
+40077949,piroxicam Disintegrating Oral Tablet,RxNorm,379306
+40012577,aspirin / glycine Disintegrating Oral Tablet,RxNorm,379357
+40053089,ibuprofen / menthol Topical Gel,RxNorm,379418
+40009853,aspirin Disintegrating Oral Tablet,RxNorm,379422
+40009891,aspirin Oral Powder,RxNorm,379497
+19041246,tenoxicam 10 MG/ML,RxNorm,379539
+40054192,ibuprofen Oral Tablet [Lidifen],RxNorm,380776
+40064714,naproxen Delayed Release Oral Tablet [Timpron 250 EC],RxNorm,379826
+40064715,naproxen Delayed Release Oral Tablet [Timpron 500 EC],RxNorm,379827
+40064739,naproxen Oral Tablet [Synflex],RxNorm,379829
+40064731,naproxen Oral Tablet [Arthrosin 250],RxNorm,379833
+40064732,naproxen Oral Tablet [Arthrosin 500],RxNorm,379834
+40054163,ibuprofen Oral Tablet [Anadin Ibuprofen],RxNorm,379845
+40054170,ibuprofen Oral Tablet [Brufen],RxNorm,379846
+1177793,ibuprofen 3 MG/ML,RxNorm,379847
+40054142,ibuprofen Extended Release Oral Tablet [Brufen Retard],RxNorm,379848
+40054167,ibuprofen Oral Tablet [Arthrofen 200],RxNorm,379850
+40054168,ibuprofen Oral Tablet [Arthrofen 400],RxNorm,379851
+40054169,ibuprofen Oral Tablet [Arthrofen 600],RxNorm,379852
+40054165,ibuprofen Oral Tablet [Apsifen],RxNorm,379853
+40054164,ibuprofen Oral Tablet [Apsifen F],RxNorm,379854
+40054173,ibuprofen Oral Tablet [Cuprofen],RxNorm,379855
+40054172,ibuprofen Oral Tablet [Cuprofen Maximum Strength],RxNorm,379856
+40048584,ibuprofen Topical Gel [Cuprofen],RxNorm,379857
+40054175,ibuprofen Oral Tablet [Ebufac],RxNorm,379858
+40054181,ibuprofen Oral Tablet [Ibrufhalal],RxNorm,379860
+40054187,ibuprofen Oral Tablet [Ibular],RxNorm,379862
+40054189,ibuprofen Oral Tablet [Ibumetin],RxNorm,379863
+40055254,meloxicam Rectal Suppository [Mobic],RxNorm,379864
+40054190,ibuprofen Oral Tablet [Inoven],RxNorm,380774
+40054196,ibuprofen Oral Tablet [Migrafen],RxNorm,380779
+40048558,ibuprofen Oral Tablet [Nurofen Advance],RxNorm,380794
+40054156,ibuprofen Oral Suspension [Nurofen For Children],RxNorm,380795
+40048559,ibuprofen Oral Tablet [Pacifene],RxNorm,380798
+40048560,ibuprofen Oral Tablet [Paxofen],RxNorm,380800
+40048561,ibuprofen Oral Tablet [Phor Pain],RxNorm,380801
+40048562,ibuprofen Oral Tablet [Proflex],RxNorm,380803
+40054140,ibuprofen Extended Release Oral Capsule [Proflex],RxNorm,380804
+40048564,ibuprofen Oral Tablet [Relcofen],RxNorm,380810
+40054138,ibuprofen Extended Release Oral Capsule,RxNorm,380812
+19100579,ibuprofen 300 MG Extended Release Oral Capsule,RxNorm,380813
+40048565,ibuprofen Oral Tablet [Rimafen],RxNorm,380814
+40054152,ibuprofen Oral Suspension [Brufen],RxNorm,380821
+40054139,ibuprofen Extended Release Oral Capsule [fenbid],RxNorm,380829
+40048585,ibuprofen Topical Gel [fenbid],RxNorm,380830
+19100591,ibuprofen 0.05 MG/MG,RxNorm,380845
+40054191,ibuprofen Oral Tablet [Isisfen],RxNorm,380846
+40054188,ibuprofen Oral Tablet [Ibumed],RxNorm,380848
+40032143,diclofenac Extended Release Oral Tablet [Flexotard MR],RxNorm,381112
+40032148,diclofenac Extended Release Oral Tablet [Volsaid Retard],RxNorm,381114
+40032110,diclofenac Delayed Release Oral Tablet [Acoflam],RxNorm,381115
+40032130,diclofenac Extended Release Oral Tablet [Acoflam Retard],RxNorm,381118
+40032132,diclofenac Extended Release Oral Tablet [Dexomon Retard],RxNorm,381119
+40032136,diclofenac Extended Release Oral Tablet [Diclotard],RxNorm,381122
+40032112,diclofenac Delayed Release Oral Tablet [Diclovol],RxNorm,381124
+40032137,diclofenac Extended Release Oral Tablet [Diclovol Retard],RxNorm,381125
+40032141,diclofenac Extended Release Oral Tablet [Flamatak MR],RxNorm,381127
+40032144,diclofenac Extended Release Oral Tablet [Lofensaid Retard],RxNorm,381129
+40032145,diclofenac Extended Release Oral Tablet [Rheumatac Retard],RxNorm,381130
+40032146,diclofenac Extended Release Oral Tablet [Rhumalgan CR],RxNorm,381131
+19042155,tolfenamic acid,RxNorm,38377
+1146943,piroxicam 20 MG Disintegrating Oral Tablet,RxNorm,384786
+40050527,indomethacin Oral Capsule [Imbrilon],RxNorm,385157
+40050540,indomethacin Rectal Suppository [Imbrilon],RxNorm,385158
+40050528,indomethacin Oral Capsule [Indocid],RxNorm,385159
+40050245,indomethacin Extended Release Oral Tablet [Flexin-25 Continus],RxNorm,385160
+40050536,indomethacin Oral Suspension [Indocid],RxNorm,385161
+40050246,indomethacin Extended Release Oral Tablet [Flexin-50 Continus],RxNorm,385162
+40050541,indomethacin Rectal Suppository [Indocid],RxNorm,385163
+40050235,indomethacin Extended Release Oral Capsule [Indocid R],RxNorm,385164
+40050534,indomethacin Oral Capsule [Rimacid],RxNorm,385165
+40050238,indomethacin Extended Release Oral Capsule [Indomod],RxNorm,385167
+40050247,indomethacin Extended Release Oral Tablet [Flexin-75 Continus],RxNorm,385168
+40050532,indomethacin Oral Capsule [Indomax],RxNorm,385169
+40048784,ketoprofen Oral Capsule [Alrheumat],RxNorm,385170
+40048792,ketoprofen Rectal Suppository [Orudis],RxNorm,385171
+40048779,ketoprofen Extended Release Oral Capsule [Oruvail],RxNorm,385172
+40048782,ketoprofen Injectable Solution [Oruvail],RxNorm,385173
+40048776,ketoprofen Extended Release Oral Capsule [Ketovail],RxNorm,385174
+40048785,ketoprofen Oral Capsule [Ketonal],RxNorm,385175
+40020333,bufexamac Topical Cream [Jomax],RxNorm,385378
+40099084,tolfenamic acid Oral Tablet,RxNorm,385584
+40038018,fenoprofen Oral Tablet [Progesic],RxNorm,385727
+40048578,ibuprofen Topical Cream [Proflex Pain Relief],RxNorm,385782
+40102519,tenoxicam Injectable Solution [Mobiflex],RxNorm,385790
+40048775,ketoprofen Extended Release Oral Capsule [Ketotard],RxNorm,385988
+40099082,tolfenamic acid Oral Capsule [Clotam],RxNorm,386015
+40097539,aceclofenac Oral Tablet [Preservex],RxNorm,386030
+40050239,indomethacin Extended Release Oral Capsule [Indotard MR],RxNorm,386054
+40099085,tolfenamic acid Oral Tablet [Clotam Rapid],RxNorm,386062
+40078260,piroxicam Topical Gel [Feldene P],RxNorm,386066
+40050241,indomethacin Extended Release Oral Capsule [Pardelprin MR],RxNorm,386124
+19101596,aspirin 325 MG Delayed Release Oral Tablet [Bayer Aspirin],RxNorm,387090
+19101638,lornoxicam 4 MG/ML Injectable Solution,RxNorm,388086
+19101639,lornoxicam 8 MG Oral Tablet,RxNorm,388087
+19101640,lornoxicam 4 MG Oral Tablet,RxNorm,388088
+19003591,parecoxib 20 MG/ML Injectable Solution,RxNorm,388518
+19011356,etoricoxib 60 MG Oral Tablet,RxNorm,388519
+19101674,etoricoxib 90 MG Oral Tablet,RxNorm,388520
+19011358,etoricoxib 120 MG Oral Tablet,RxNorm,388521
+19101779,dexketoprofen 25 MG Oral Tablet,RxNorm,389243
+19101780,ibuprofen 0.1 MG/MG Topical Gel,RxNorm,389244
+19101799,aspirin 975 MG Oral Tablet,RxNorm,391930
+19101819,indomethacin 75 MG Oral Capsule,RxNorm,392073
+19101847,fenbufen 200 MG Oral Capsule,RxNorm,392295
+19101848,fenbufen 600 MG Oral Tablet,RxNorm,392296
+36030160,aspirin / glycine,RxNorm,392499
+19101870,nabumetone 2.5 MG/ML Oral Solution,RxNorm,392641
+19101877,ibuprofen 0.05 MG/MG / levomenthol 0.03 MG/MG Topical Gel,RxNorm,392668
+40032426,diclofenac Topical Solution,RxNorm,393139
+40032412,diclofenac Oral Solution,RxNorm,393225
+40077950,piroxicam Disintegrating Oral Tablet [Feldene Melt],RxNorm,393280
+40009860,aspirin Delayed Release Oral Tablet [Bayer Aspirin],RxNorm,393300
+19049813,lornoxicam 4 MG/ML,RxNorm,393316
+40059388,lornoxicam Injectable Solution,RxNorm,393317
+19049814,lornoxicam 4 MG,RxNorm,393318
+40059389,lornoxicam Oral Tablet,RxNorm,393319
+19102011,lornoxicam 8 MG,RxNorm,393320
+19003592,parecoxib 20 MG/ML,RxNorm,393345
+40098296,parecoxib Injectable Solution,RxNorm,393346
+19011359,etoricoxib 60 MG,RxNorm,393347
+40054608,etoricoxib Oral Tablet,RxNorm,393348
+19011360,etoricoxib 90 MG,RxNorm,393349
+19102018,etoricoxib 120 MG,RxNorm,393350
+19102047,dexketoprofen 25 MG,RxNorm,393429
+40028644,dexketoprofen Oral Tablet,RxNorm,393430
+19102048,ibuprofen 0.1 MG/MG,RxNorm,393432
+19102055,flurbiprofen 8.75 MG,RxNorm,393448
+19102073,fenbufen 200 MG,RxNorm,393513
+19102074,fenbufen 600 MG,RxNorm,393514
+19102082,nabumetone 2.5 MG/ML,RxNorm,393527
+40057837,nabumetone Oral Solution,RxNorm,393528
+40053087,ibuprofen / levomenthol Topical Gel,RxNorm,393550
+19102108,zomepirac,RxNorm,39994
+19102158,valdecoxib 40 MG Oral Tablet,RxNorm,401933
+19102175,ibuprofen 300 MG / pseudoephedrine 45 MG Oral Capsule,RxNorm,401976
+19102263,valdecoxib 40 MG,RxNorm,402400
+40078254,piroxicam Oral Tablet [Brexidol],RxNorm,402912
+40078255,piroxicam Oral Tablet [Feldene],RxNorm,402913
+19047850,Miniprin,RxNorm,847088
+19057224,aspirin 500 MG [Bufferin],RxNorm,848165
+1113730,aspirin 500 MG Oral Tablet [Bufferin],RxNorm,848166
+1113731,aspirin 325 MG / oxycodone hydrochloride 4.84 MG Oral Tablet,RxNorm,848768
+1115125,naproxen sodium 275 MG,RxNorm,849397
+1115126,naproxen sodium 275 MG Oral Tablet,RxNorm,849398
+19042254,naproxen sodium 275 MG [Anaprox],RxNorm,849399
+19135542,naproxen sodium 275 MG Oral Tablet [Anaprox],RxNorm,849400
+19135556,naproxen sodium 550 MG,RxNorm,849430
+1115129,naproxen sodium 550 MG Oral Tablet,RxNorm,849431
+19042255,naproxen sodium 550 MG [Anaprox],RxNorm,849437
+1115130,naproxen sodium 550 MG Oral Tablet [Anaprox],RxNorm,849438
+1115131,naproxen sodium 500 MG,RxNorm,849449
+1115170,naproxen sodium 220 MG,RxNorm,849573
+1115171,naproxen sodium 220 MG Oral Tablet,RxNorm,849574
+19031692,naproxen sodium 550 MG [Aflaxen],RxNorm,849577
+1115243,naproxen sodium 550 MG Oral Tablet [Aflaxen],RxNorm,849578
+19053149,naproxen sodium 220 MG [Aleve],RxNorm,849727
+1115244,naproxen sodium 220 MG Oral Tablet [Aleve],RxNorm,849728
+19135710,naproxen sodium 220 MG [Wal-Proxen],RxNorm,849736
+19135711,naproxen sodium 220 MG Oral Tablet [Wal-Proxen],RxNorm,849737
+19135737,mefenamic acid 250 MG Disintegrating Oral Tablet,RxNorm,849854
+19135738,mefenamic acid 250 MG [Ponstan Dispersible],RxNorm,849855
+19135739,mefenamic acid 250 MG Disintegrating Oral Tablet [Ponstan Dispersible],RxNorm,849856
+40161251,ibuprofen 200 MG [Ibuprohm],RxNorm,850422
+40161255,ibuprofen Oral Tablet [Ibuprohm],RxNorm,850423
+40161250,ibuprofen 200 MG Oral Tablet [Ibuprohm],RxNorm,850424
+40162156,{60 (caffeine 65 MG / riboflavin 6.25 MG / thiamine 25 MG / vitamin B12 0.125 MG / vitamin B6 25 MG Oral Capsule) / 60 (ibuprofen 400 MG Oral Tablet) } Pack,RxNorm,851209
+40162157,{60 (caffeine 65 MG / riboflavin 6.25 MG / thiamine 25 MG / vitamin B12 0.125 MG / vitamin B6 25 MG Oral Capsule) / 60 (ibuprofen 400 MG Oral Tablet) } Pack [IC 400 Kit],RxNorm,851210
+40161058,aspirin 228 MG [Aspergum],RxNorm,853500
+40161057,aspirin 228 MG Chewing Gum [Aspergum],RxNorm,853501
+40161246,ibuprofen 100 MG/ML,RxNorm,854182
+40161247,8 ML ibuprofen 100 MG/ML Injection,RxNorm,854183
+40161249,ibuprofen 100 MG/ML [Caldolor],RxNorm,854185
+40161248,8 ML ibuprofen 100 MG/ML Injection [Caldolor],RxNorm,854187
+40163131,ibuprofen 40 MG/ML [Motrin],RxNorm,854761
+40163130,ibuprofen 40 MG/ML Oral Suspension [Motrin],RxNorm,854762
+40163133,ibuprofen 50 MG [Motrin],RxNorm,854763
+40163132,ibuprofen 50 MG Chewable Tablet [Motrin],RxNorm,854764
+40162310,diclofenac sodium 0.01 MG/MG,RxNorm,855632
+40162311,diclofenac sodium 0.01 MG/MG Topical Gel,RxNorm,855633
+40162313,diclofenac sodium 0.01 MG/MG [Voltaren],RxNorm,855634
+40162312,diclofenac sodium 0.01 MG/MG Topical Gel [Voltaren],RxNorm,855635
+40162314,diclofenac sodium 0.03 MG/MG,RxNorm,855641
+40162315,diclofenac sodium 0.03 MG/MG Topical Gel,RxNorm,855642
+40162317,diclofenac sodium 0.03 MG/MG [Solaraze],RxNorm,855643
+40162316,diclofenac sodium 0.03 MG/MG Topical Gel [Solaraze],RxNorm,855644
+40162324,diclofenac sodium 100 MG,RxNorm,855656
+40162401,24 HR diclofenac sodium 100 MG Extended Release Oral Tablet,RxNorm,855657
+40162329,diclofenac sodium 100 MG [Voltaren],RxNorm,855658
+40162402,24 HR diclofenac sodium 100 MG Extended Release Oral Tablet [Voltaren],RxNorm,855659
+40162326,diclofenac sodium 100 MG Extended Release Oral Tablet,RxNorm,855660
+40162327,diclofenac sodium 100 MG Extended Release Oral Tablet [Voltaren],RxNorm,855661
+40162334,diclofenac sodium 25 MG,RxNorm,855663
+40162335,diclofenac sodium 25 MG Delayed Release Oral Tablet,RxNorm,855664
+40162338,diclofenac sodium 25 MG [Voltaren],RxNorm,855665
+40162336,diclofenac sodium 25 MG Delayed Release Oral Tablet [Voltaren],RxNorm,855666
+40162341,diclofenac sodium 50 MG,RxNorm,855681
+40162345,diclofenac sodium 50 MG / misoprostol 0.2 MG [Arthrotec],RxNorm,855683
+40162352,diclofenac sodium 50 MG [Voltaren],RxNorm,855900
+40162346,diclofenac sodium 50 MG Delayed Release Oral Tablet,RxNorm,855906
+40162347,diclofenac sodium 50 MG Delayed Release Oral Tablet [Voltaren],RxNorm,855907
+40162353,diclofenac sodium 75 MG,RxNorm,855915
+40162357,diclofenac sodium 75 MG / misoprostol 0.2 MG [Arthrotec],RxNorm,855917
+40162359,diclofenac sodium 75 MG Delayed Release Oral Tablet,RxNorm,855926
+40162363,diclofenac sodium 75 MG [Voltaren],RxNorm,855927
+40162360,diclofenac sodium 75 MG Delayed Release Oral Tablet [Voltaren],RxNorm,855928
+40162306,diclofenac potassium 50 MG,RxNorm,855941
+40162307,diclofenac potassium 50 MG Oral Tablet,RxNorm,855942
+40162309,diclofenac potassium 50 MG [Cataflam],RxNorm,855943
+40162308,diclofenac potassium 50 MG Oral Tablet [Cataflam],RxNorm,855944
+40162775,aspirin 500 MG / hydrocodone bitartrate 5 MG Oral Tablet,RxNorm,857121
+40162318,diclofenac sodium 0.25 MG/ML,RxNorm,857688
+40162319,diclofenac sodium 0.25 MG/ML Oral Solution,RxNorm,857689
+40162325,diclofenac sodium 100 MG Extended Release Oral Capsule,RxNorm,857690
+40162328,diclofenac sodium 100 MG Rectal Suppository,RxNorm,857696
+40162330,diclofenac sodium 12.5 MG,RxNorm,857697
+40162331,diclofenac sodium 12.5 MG Rectal Suppository,RxNorm,857698
+40162332,diclofenac sodium 15 MG/ML,RxNorm,857699
+40162333,diclofenac sodium 15 MG/ML Topical Solution,RxNorm,857700
+40162304,diclofenac potassium 25 MG,RxNorm,857701
+40162305,diclofenac potassium 25 MG Oral Tablet,RxNorm,857702
+40162337,diclofenac sodium 25 MG Rectal Suppository,RxNorm,857703
+40162339,diclofenac sodium 25 MG/ML,RxNorm,857704
+40162340,diclofenac sodium 25 MG/ML Injectable Solution,RxNorm,857705
+40162344,diclofenac sodium 50 MG / misoprostol 0.2 MG Delayed Release Oral Tablet,RxNorm,857706
+40162348,diclofenac sodium 50 MG Extended Release Oral Tablet,RxNorm,857707
+40162351,diclofenac sodium 50 MG Rectal Suppository,RxNorm,857709
+40162361,diclofenac sodium 75 MG Extended Release Oral Capsule,RxNorm,857712
+40162362,diclofenac sodium 75 MG Extended Release Oral Tablet,RxNorm,857713
+40165702,fenoprofen 400 MG,RxNorm,858115
+40165703,fenoprofen 400 MG Oral Capsule,RxNorm,858116
+40165705,fenoprofen 400 MG [Nalfon],RxNorm,858117
+40165704,fenoprofen 400 MG Oral Capsule [Nalfon],RxNorm,858118
+40163823,diclofenac Oral Capsule [Zipsor],RxNorm,858345
+40163826,diclofenac potassium 50 MG Powder for Oral Solution,RxNorm,859063
+40163827,diclofenac potassium 50 MG Powder for Oral Solution [Cambia],RxNorm,859066
+40164846,ketorolac tromethamine 15 MG/ML,RxNorm,860091
+40164847,1 ML ketorolac tromethamine 15 MG/ML Injection,RxNorm,860092
+40164850,ketorolac tromethamine 30 MG/ML,RxNorm,860095
+40164851,ketorolac tromethamine 30 MG/ML Injectable Solution,RxNorm,860096
+40164853,ketorolac tromethamine 30 MG/ML [Toradol],RxNorm,860097
+40164852,ketorolac tromethamine 30 MG/ML Injectable Solution [Toradol],RxNorm,860098
+40163867,1 ML ketorolac tromethamine 15 MG/ML Prefilled Syringe,RxNorm,860113
+40163868,1 ML ketorolac tromethamine 30 MG/ML Prefilled Syringe,RxNorm,860114
+40163891,2 ML ketorolac tromethamine 30 MG/ML Prefilled Syringe,RxNorm,860115
+40164843,ketorolac tromethamine 10 MG [Toradol],RxNorm,861843
+40164842,ketorolac tromethamine 10 MG Oral Tablet [Toradol],RxNorm,861844
+40164844,ketorolac tromethamine 10 MG/ML,RxNorm,861845
+40164845,ketorolac tromethamine 10 MG/ML Injectable Solution,RxNorm,861846
+40166171,aspirin / caffeine / magnesium carbonate / magnesium salicylate Oral Tablet,RxNorm,863183
+40166172,aspirin 360 MG / caffeine 75 MG / magnesium carbonate 100 MG / magnesium salicylate 60 MG Oral Tablet,RxNorm,863184
+40166173,aspirin 410 MG,RxNorm,863185
+40166174,aspirin 410 MG / caffeine 60 MG / salicylamide 30 MG Oral Tablet,RxNorm,863186
+40167595,etodolac Extended Release Oral Tablet [Lodine],RxNorm,865559
+40166811,24 HR etodolac 400 MG Extended Release Oral Tablet [Lodine],RxNorm,865560
+40167591,etodolac 400 MG Extended Release Oral Tablet [Lodine],RxNorm,865561
+40166812,24 HR etodolac 500 MG Extended Release Oral Tablet [Lodine],RxNorm,865562
+40167592,etodolac 500 MG Extended Release Oral Tablet [Lodine],RxNorm,865563
+40167594,etodolac 600 MG [Lodine],RxNorm,865564
+40166813,24 HR etodolac 600 MG Extended Release Oral Tablet [Lodine],RxNorm,865565
+40167593,etodolac 600 MG Extended Release Oral Tablet [Lodine],RxNorm,865566
+40166745,diclofenac sodium 25 MG [Voltarene],RxNorm,875838
+40167159,ketorolac tromethamine 10 MG/ML [Toradol],RxNorm,875839
+40166759,diclofenac sodium 50 MG [Voltarol],RxNorm,875845
+40166735,diclofenac sodium 12.5 MG [Voltarol],RxNorm,875848
+40166742,diclofenac sodium 25 MG [Rhumalgan],RxNorm,875853
+40166755,diclofenac sodium 50 MG [Rhumalgan],RxNorm,875854
+40166719,diclofenac sodium 100 MG [Diclomax Retard],RxNorm,875857
+40166753,diclofenac sodium 50 MG [Isclofen],RxNorm,875858
+40166740,diclofenac sodium 25 MG [Flamrase],RxNorm,875859
+40166752,diclofenac sodium 50 MG [Flamrase],RxNorm,875860
+40166751,diclofenac sodium 50 MG [Diclozip],RxNorm,875861
+40166757,diclofenac sodium 50 MG [Volraman],RxNorm,875863
+40166734,diclofenac sodium 100 MG [Voltarol],RxNorm,875867
+40166731,diclofenac sodium 100 MG [Voltaren Retard],RxNorm,875869
+40166733,diclofenac sodium 100 MG [Voltarol Retard],RxNorm,875871
+40166754,diclofenac sodium 50 MG [Lofensaid],RxNorm,875872
+40166732,diclofenac sodium 100 MG [Voltarene LP],RxNorm,875874
+40166741,diclofenac sodium 25 MG [Lofensaid],RxNorm,875876
+40166743,diclofenac sodium 25 MG [Valenac],RxNorm,875879
+40166756,diclofenac sodium 50 MG [Valenac],RxNorm,875880
+40166739,diclofenac sodium 25 MG [Diclozip],RxNorm,875881
+40166746,diclofenac sodium 25 MG [Voltarol],RxNorm,875883
+40166758,diclofenac sodium 50 MG [Voltarene],RxNorm,875896
+40166737,diclofenac sodium 25 MG [Dicloflex],RxNorm,875905
+40166749,diclofenac sodium 50 MG [Dicloflex],RxNorm,875906
+40166718,diclofenac sodium 100 MG [Dicloflex Retard],RxNorm,875907
+40166764,diclofenac sodium 75 MG [Diclotard],RxNorm,875916
+40166720,diclofenac sodium 100 MG [Diclotard],RxNorm,875917
+40166738,diclofenac sodium 25 MG [Diclovol],RxNorm,875923
+40166750,diclofenac sodium 50 MG [Diclovol],RxNorm,875924
+40166721,diclofenac sodium 100 MG [Diclovol Retard],RxNorm,875926
+40166726,diclofenac sodium 100 MG [Flexotard MR],RxNorm,875931
+40166773,diclofenac sodium 75 MG [Volsaid Retard],RxNorm,875943
+40166728,diclofenac sodium 100 MG [Rhumalgan CR],RxNorm,875944
+40166771,diclofenac sodium 75 MG [Rhumalgan CR],RxNorm,875945
+40166768,diclofenac sodium 75 MG [Lofensaid Retard],RxNorm,875946
+40166727,diclofenac sodium 100 MG [Lofensaid Retard],RxNorm,875947
+40009855,aspirin Delayed Release Oral Capsule,RxNorm,405802
+40022021,chlorpheniramine / ibuprofen / pseudoephedrine Oral Tablet,RxNorm,405928
+19103287,acemetacin 30 MG Oral Capsule,RxNorm,409822
+19103379,droxicam 20 MG Oral Capsule,RxNorm,410300
+19103397,meloxicam 15 MG Oral Capsule,RxNorm,410336
+19103398,meloxicam 7.5 MG Oral Capsule,RxNorm,410338
+19103403,mofebutazone 200 MG Oral Capsule,RxNorm,410376
+19103410,phenylbutazone 300 MG Oral Capsule,RxNorm,410423
+19103639,proglumetacin 150 MG Oral Capsule,RxNorm,411208
+19103718,dexamethasone 0.5 MG / indomethacin 25 MG Oral Capsule,RxNorm,411549
+19103806,ibuprofen 400 MG Extended Release Oral Capsule,RxNorm,411781
+1124636,24 HR diclofenac sodium 100 MG Extended Release Oral Capsule,RxNorm,411846
+1124637,24 HR diclofenac sodium 75 MG Extended Release Oral Capsule,RxNorm,411848
+19103863,indomethacin 25 MG / methocarbamol 215 MG Delayed Release Oral Capsule,RxNorm,411899
+19103930,acemetacin 90 MG Extended Release Oral Capsule,RxNorm,412041
+19103999,12 HR indomethacin 60 MG Extended Release Oral Capsule,RxNorm,412158
+19104000,12 HR ketoprofen 160 MG Extended Release Oral Capsule,RxNorm,412159
+19104001,24 HR ketoprofen 320 MG Extended Release Oral Capsule,RxNorm,412160
+19104100,piroxicam 40 MG/ML Injectable Solution,RxNorm,412497
+19104117,piroxicam 4 MG/ML Injectable Solution,RxNorm,412573
+19104136,ketorolac 20 MG/ML Injectable Solution,RxNorm,412716
+19104200,dibucaine 2 MG/ML / phenylbutazone 200 MG/ML Injectable Solution,RxNorm,413132
+19104238,ibuprofen 133 MG/ML / lidocaine 10 MG/ML Injectable Solution,RxNorm,413270
+1177796,hydroxocobalamin 2 MG/ML / ibuprofen 80 MG/ML Injectable Solution,RxNorm,413271
+19104290,mofebutazone 217 MG/ML Injectable Solution,RxNorm,413454
+19104308,phenylbutazone 200 MG/ML Injectable Solution,RxNorm,413640
+1150345,meloxicam,RxNorm,41493
+19104775,methylnicotinate 0.005 MG/MG / phenylbutazone 0.05 MG/MG / piperazine 0.001 MG/MG Topical Gel,RxNorm,416549
+19104878,bufexamac 10 MG/ML Topical Cream,RxNorm,416980
+19104892,proglumetacin 0.05 MG/MG Topical Ointment,RxNorm,417021
+19104951,ibuprofen 50 MG/ML / nicotinic acid benzyl ester 0.74 MG/ML Topical Cream,RxNorm,417387
+19105090,clofexamide 0.03 MG/MG / clofezone 0.05 MG/MG Topical Ointment,RxNorm,418165
+19105126,dextran 0.02 MG/MG / phenylbutazone 0.04 MG/MG Topical Ointment,RxNorm,418342
+19105128,lidocaine 0.02 MG/MG / phenylbutazone 0.02 MG/MG Topical Ointment,RxNorm,418346
+19105190,chloramphenicol 0.1 MG/MG / oxyphenbutazone 0.01 MG/MG Topical Ointment,RxNorm,418620
+19105253,indomethacin 0.05 MG/MG / polidocanol 0.05 MG/MG Topical Ointment,RxNorm,418935
+19105407,dexamethasone 0.25 MG / indomethacin 75 MG Rectal Suppository,RxNorm,420634
+19105412,piroxicam 10 MG / prednisone 2 MG Rectal Suppository,RxNorm,420639
+19105453,phenylbutazone 250 MG Rectal Suppository,RxNorm,420777
+19105454,ibuprofen 500 MG Rectal Suppository,RxNorm,420778
+19105457,naproxen 250 MG Rectal Suppository,RxNorm,420857
+19105458,phenylbutazone 300 MG Rectal Suppository,RxNorm,420858
+19105470,bufexamac 50 MG/ML Topical Lotion,RxNorm,420877
+19105542,piroxicam 40 MG Rectal Suppository,RxNorm,421470
+19105544,piroxicam 30 MG Rectal Suppository,RxNorm,421474
+19105627,naproxen 50 MG/ML Oral Suspension,RxNorm,421828
+19105805,piroxicam 1.5 MG/ML Oral Suspension,RxNorm,422645
+19105867,tolfenamic acid 10 MG/ML Oral Suspension,RxNorm,422852
+19106210,oxaprozin 400 MG Oral Tablet,RxNorm,427448
+19106211,oxaprozin 300 MG Oral Tablet,RxNorm,427449
+19106212,oxaprozin 200 MG Oral Tablet,RxNorm,427450
+19106273,nabumetone 1000 MG Oral Tablet,RxNorm,427726
+19106298,piroxicam 30 MG Oral Tablet,RxNorm,427927
+19106418,etodolac 100 MG Oral Tablet,RxNorm,428497
+1195536,etodolac 300 MG Oral Tablet,RxNorm,428498
+19106457,naproxen 750 MG Oral Tablet,RxNorm,428604
+19106458,naproxen 100 MG Oral Tablet,RxNorm,428605
+19106554,pridinol 4 MG / rofecoxib 25 MG Oral Tablet,RxNorm,428895
+19106645,ketoprofen 25 MG Oral Tablet,RxNorm,429192
+19106678,tiaprofenic acid 100 MG Oral Tablet,RxNorm,429267
+19106688,mofebutazone 300 MG Oral Tablet,RxNorm,429327
+19106802,carisoprodol 50 MG / ibuprofen 200 MG Oral Tablet,RxNorm,429695
+19106803,carisoprodol 200 MG / ibuprofen 400 MG Oral Tablet,RxNorm,429696
+19106827,lonazolac 300 MG Oral Tablet,RxNorm,429762
+19106828,lonazolac 200 MG Oral Tablet,RxNorm,429763
+19106853,mephenesin 250 MG / phenylbutazone 200 MG Oral Tablet,RxNorm,429828
+19107088,ibuprofen 300 MG / methocarbamol 300 MG Oral Tablet,RxNorm,430407
+19107089,ibuprofen 200 MG / methocarbamol 500 MG Oral Tablet,RxNorm,430408
+19107142,chlorzoxazone 125 MG / flufenamic acid 125 MG Oral Tablet,RxNorm,430592
+19107240,ibuprofen 400 MG / scopolamine 20 MG Oral Tablet,RxNorm,430830
+19107260,celecoxib 100 MG Oral Tablet,RxNorm,430889
+19107261,celecoxib 200 MG Oral Tablet,RxNorm,430890
+19107275,ibuprofen 1000 MG Oral Tablet,RxNorm,430923
+19107293,kebuzone 250 MG Oral Tablet,RxNorm,431004
+19107323,phenylbutazone 100 MG / salicylamide 400 MG Extended Release Oral Tablet,RxNorm,431682
+19107340,ibuprofen 600 MG Extended Release Oral Tablet,RxNorm,431742
+19107371,ketoprofen 150 MG Extended Release Oral Tablet,RxNorm,431823
+19107414,alminoprofen 300 MG Oral Tablet,RxNorm,432448
+1113563,acetaminophen 250 MG / aspirin 250 MG Oral Tablet,RxNorm,432638
+19107570,chlorzoxazone 250 MG / ketoprofen 50 MG Oral Tablet,RxNorm,432708
+19107641,flufenamic acid 250 MG Oral Tablet,RxNorm,432808
+19107694,misoprostol 0.2 MG / naproxen 500 MG Oral Tablet,RxNorm,432947
+1153928,fenoprofen,RxNorm,4331
+19107783,nabumetone 1000 MG Chewable Tablet,RxNorm,433335
+19107838,ibuprofen 200 MG Chewable Tablet,RxNorm,433554
+19107839,ibuprofen 120 MG Chewable Tablet,RxNorm,433555
+19107862,naproxen 250 MG / thiamine 10 MG Oral Tablet,RxNorm,433629
+19107865,phenylbutazone 200 MG Delayed Release Oral Tablet,RxNorm,433653
+19107866,indomethacin 60 MG Delayed Release Oral Tablet,RxNorm,433654
+1186054,24 HR ketoprofen 200 MG Extended Release Oral Tablet,RxNorm,433796
+19107929,piroxicam 10 MG Delayed Release Oral Tablet,RxNorm,433829
+19107938,24 HR naproxen 1000 MG Extended Release Oral Tablet,RxNorm,433845
+19108006,orphenadrine 40 MG / piroxicam 10 MG Delayed Release Oral Tablet,RxNorm,433962
+19108132,tolfenamic acid 300 MG Extended Release Oral Tablet,RxNorm,434384
+19108432,zomepirac 100 MG,RxNorm,435560
+40101587,zomepirac Oral Tablet,RxNorm,435561
+19108553,alminoprofen 300 MG,RxNorm,437011
+40092758,alminoprofen Oral Tablet,RxNorm,437012
+19108607,acemetacin 30 MG,RxNorm,437144
+19108608,acemetacin 90 MG,RxNorm,437148
+40097554,acemetacin Extended Release Oral Capsule,RxNorm,437149
+19108710,flufenamic acid 125 MG,RxNorm,437397
+40031159,chlorzoxazone / flufenamic acid Oral Tablet,RxNorm,437398
+40166766,diclofenac sodium 75 MG [Flamatak MR],RxNorm,875949
+40166730,diclofenac sodium 100 MG [Volsaid Retard],RxNorm,875950
+40166717,diclofenac sodium 100 MG [Dexomon Retard],RxNorm,875997
+40166748,diclofenac sodium 50 MG [Acoflam],RxNorm,875999
+40166736,diclofenac sodium 25 MG [Acoflam],RxNorm,876000
+40166716,diclofenac sodium 100 MG [Acoflam Retard],RxNorm,876001
+40166724,diclofenac sodium 100 MG [Flamatak MR],RxNorm,876004
+40166770,diclofenac sodium 75 MG [Rheumatac Retard],RxNorm,876005
+40166744,diclofenac sodium 25 MG [Volraman],RxNorm,876022
+40169435,aspirin 15600 MG,RxNorm,891133
+40169436,aspirin 15600 MG Oral Tablet,RxNorm,891134
+40169437,aspirin 31200 MG,RxNorm,891135
+40169438,aspirin 31200 MG Oral Tablet,RxNorm,891136
+40169659,indomethacin 75 MG [Indocin],RxNorm,891865
+40169660,indomethacin Extended Release Oral Capsule [Indocin],RxNorm,891866
+40169658,indomethacin 75 MG Extended Release Oral Capsule [Indocin],RxNorm,891867
+40169454,aspirin 3900 MG,RxNorm,892159
+40169455,aspirin 3900 MG Oral Tablet,RxNorm,892160
+40169182,diphenhydramine / ibuprofen Oral Tablet [Motrin PM],RxNorm,895658
+40169179,diphenhydramine citrate 38 MG / ibuprofen 200 MG Oral Tablet,RxNorm,895664
+40169181,diphenhydramine citrate 38 MG / ibuprofen 200 MG [Motrin PM],RxNorm,895665
+40169180,diphenhydramine citrate 38 MG / ibuprofen 200 MG Oral Tablet [Motrin PM],RxNorm,895666
+40169410,aspirin 742 MG / caffeine 38 MG / salicylamide 222 MG Oral Powder,RxNorm,896884
+40173036,ibuprofen 200 MG [Addaprin],RxNorm,900432
+40173044,ibuprofen Oral Tablet [Addaprin],RxNorm,900433
+40173034,ibuprofen 200 MG Oral Tablet [Addaprin],RxNorm,900434
+40173037,ibuprofen 200 MG [Ultraprin],RxNorm,900436
+40173054,ibuprofen Oral Tablet [Ultraprin],RxNorm,900437
+40173035,ibuprofen 200 MG Oral Tablet [Ultraprin],RxNorm,900438
+40171627,aspirin / caffeine Oral Powder,RxNorm,900527
+40171592,aspirin 850 MG / caffeine 65 MG Oral Powder,RxNorm,900528
+40173380,diphenhydramine hydrochloride 25 MG / ibuprofen 200 MG Oral Capsule,RxNorm,901814
+40174526,{30 (aspirin 325 MG Oral Tablet) / 30 (pravastatin sodium 80 MG Oral Tablet) } Pack,RxNorm,904664
+40054162,ibuprofen Oral Tablet [Advil],RxNorm,91703
+40064730,naproxen Oral Tablet [Anaprox],RxNorm,91796
+40054177,ibuprofen Oral Tablet [Haltran],RxNorm,92852
+40050537,indomethacin Oral Suspension [Indocin],RxNorm,92965
+40054200,ibuprofen Oral Tablet [Motrin],RxNorm,93358
+40064723,naproxen Oral Suspension [Naprosyn],RxNorm,93416
+40064735,naproxen Oral Tablet [Naprosyn],RxNorm,93417
+40048557,ibuprofen Oral Tablet [Nuprin],RxNorm,93574
+40048566,ibuprofen Oral Tablet [Rufen],RxNorm,94014
+19109080,bufexamac 10 MG/ML,RxNorm,438100
+40020334,bufexamac Topical Lotion,RxNorm,438101
+40092944,celecoxib Oral Tablet,RxNorm,438395
+19109239,oxyphenbutazone 0.01 MG/MG,RxNorm,438431
+40022939,chloramphenicol / oxyphenbutazone Topical Ointment,RxNorm,438432
+19109402,clofezone 0.05 MG/MG,RxNorm,438725
+40095857,clofexamide / clofezone Topical Ointment,RxNorm,438726
+40036617,diclofenac / troxerutin Topical Gel,RxNorm,438941
+40025609,cholestyramine resin / diclofenac Oral Capsule,RxNorm,438945
+40032108,diclofenac Delayed Release Oral Capsule,RxNorm,438955
+40022481,carisoprodol / diclofenac Oral Tablet,RxNorm,438958
+40032425,diclofenac Topical Ointment,RxNorm,439029
+19109675,droxicam 20 MG,RxNorm,439219
+40058303,droxicam Oral Capsule,RxNorm,439220
+19109871,etodolac 100 MG,RxNorm,439556
+19109952,flufenamic acid 250 MG,RxNorm,439684
+40041036,flufenamic acid Oral Tablet,RxNorm,439685
+40048574,ibuprofen Rectal Suppository,RxNorm,440444
+19110250,ibuprofen 1000 MG,RxNorm,440446
+40051275,hydroxocobalamin / ibuprofen Injectable Solution,RxNorm,440451
+40053088,ibuprofen / lidocaine Injectable Solution,RxNorm,440452
+40022479,carisoprodol / dexamethasone / ibuprofen Oral Tablet,RxNorm,440457
+40022482,carisoprodol / ibuprofen Oral Tablet,RxNorm,440459
+19110261,ketoprofen 160 MG,RxNorm,440476
+19110262,ketoprofen 320 MG,RxNorm,440478
+40031161,chlorzoxazone / ketoprofen Oral Tablet,RxNorm,440479
+19110263,ketorolac 20 MG/ML,RxNorm,440480
+40017303,caffeine / ergotamine / ibuprofen Oral Tablet,RxNorm,440489
+40053090,ibuprofen / methocarbamol Oral Tablet,RxNorm,440494
+40053398,ibuprofen / scopolamine Oral Tablet,RxNorm,440512
+40050232,indomethacin Delayed Release Oral Tablet,RxNorm,440624
+40027148,dexamethasone / indomethacin Oral Capsule,RxNorm,440625
+40027150,dexamethasone / indomethacin Rectal Suppository,RxNorm,440626
+40049848,indomethacin / methocarbamol Delayed Release Oral Capsule,RxNorm,440627
+19110339,indomethacin 0.05 MG/MG,RxNorm,440628
+40049851,indomethacin / polidocanol Topical Ointment,RxNorm,440629
+19110557,kebuzone 250 MG,RxNorm,440982
+40057787,kebuzone Oral Tablet,RxNorm,440983
+19110566,lonazolac 200 MG,RxNorm,440996
+40059331,lonazolac Oral Tablet,RxNorm,440997
+19110567,lonazolac 300 MG,RxNorm,440998
+19110711,flufenamic acid,RxNorm,4453
+40055250,meloxicam Oral Capsule,RxNorm,446251
+19110904,mofebutazone 200 MG,RxNorm,446522
+40057114,mofebutazone Oral Capsule,RxNorm,446523
+19110905,mofebutazone 300 MG,RxNorm,446524
+40057115,mofebutazone Oral Tablet,RxNorm,446525
+19110906,mofebutazone 217 MG/ML,RxNorm,446526
+40057113,mofebutazone Injectable Solution,RxNorm,446527
+19110942,nabumetone 1000 MG,RxNorm,446597
+40057836,nabumetone Chewable Tablet,RxNorm,446598
+19110944,naproxen 50 MG/ML,RxNorm,446602
+40064314,naproxen / pseudoephedrine Oral Capsule,RxNorm,446616
+40065519,misoprostol / naproxen Oral Tablet,RxNorm,446617
+40064316,naproxen / thiamine Oral Tablet,RxNorm,446618
+19111123,oxaprozin 200 MG,RxNorm,446923
+19111124,oxaprozin 300 MG,RxNorm,446924
+19111125,oxaprozin 400 MG,RxNorm,446925
+19111356,phenylbutazone 0.05 MG/MG,RxNorm,450661
+40056349,methylnicotinate / phenylbutazone / piperazine Topical Gel,RxNorm,450663
+19111358,phenylbutazone 250 MG,RxNorm,450665
+40072983,phenylbutazone Rectal Suppository,RxNorm,450666
+19111359,phenylbutazone 300 MG,RxNorm,450667
+40072974,phenylbutazone Injectable Solution,RxNorm,450670
+40036259,dibucaine / phenylbutazone Injectable Solution,RxNorm,450673
+19111363,phenylbutazone 0.04 MG/MG,RxNorm,450675
+40028964,dextran / phenylbutazone Topical Ointment,RxNorm,450676
+19111364,phenylbutazone 0.02 MG/MG,RxNorm,450677
+40001293,lidocaine / phenylbutazone Topical Ointment,RxNorm,450678
+40078623,phenylbutazone / salicylamide Extended Release Oral Tablet,RxNorm,450683
+19111473,piroxicam 30 MG,RxNorm,450876
+19111474,piroxicam 40 MG/ML,RxNorm,450877
+19111475,piroxicam 4 MG/ML,RxNorm,450878
+19111476,piroxicam 1.5 MG/ML,RxNorm,450879
+40070842,orphenadrine / piroxicam Delayed Release Oral Tablet,RxNorm,450880
+40077888,piroxicam / prednisone Rectal Suppository,RxNorm,450881
+19111551,proglumetacin 150 MG,RxNorm,450983
+40102363,proglumetacin Oral Capsule,RxNorm,450984
+19111552,proglumetacin 0.05 MG/MG,RxNorm,450985
+40102365,proglumetacin Topical Ointment,RxNorm,450986
+40102105,pridinol / rofecoxib Oral Tablet,RxNorm,451331
+40022480,carisoprodol / dexamethasone / tenoxicam Oral Tablet,RxNorm,451961
+19112151,tiaprofenic acid 100 MG,RxNorm,452098
+19112206,tolfenamic acid 300 MG,RxNorm,452210
+40099080,tolfenamic acid Extended Release Oral Tablet,RxNorm,452211
+19112207,tolfenamic acid 10 MG/ML,RxNorm,452212
+40099083,tolfenamic acid Oral Suspension,RxNorm,452213
+36030197,aspirin / caffeine / cinnamedrine,RxNorm,466424
+36030228,aspirin / caffeine / orphenadrine,RxNorm,466549
+36030237,acetaminophen / aspirin / caffeine,RxNorm,466584
+19112592,ibuprofen 20 MG/ML Oral Gel,RxNorm,476974
+40054147,ibuprofen Oral Gel,RxNorm,476975
+40175473,diclofenac sodium 15 MG/ML [Pennsaid],RxNorm,967942
+40175471,diclofenac Topical Solution [Pennsaid],RxNorm,967943
+40175472,diclofenac sodium 15 MG/ML Topical Solution [Pennsaid],RxNorm,967944
+40182881,esomeprazole / naproxen Delayed Release Oral Tablet,RxNorm,977953
+40182882,esomeprazole / naproxen Delayed Release Oral Tablet [Vimovo],RxNorm,977957
+40222715,ibuprofen / phenylephrine Oral Tablet,RxNorm,993798
+40222575,esomeprazole 20 MG / naproxen 375 MG Delayed Release Oral Tablet,RxNorm,994005
+40222577,esomeprazole 20 MG / naproxen 375 MG [Vimovo],RxNorm,994006
+40222576,esomeprazole 20 MG / naproxen 375 MG Delayed Release Oral Tablet [Vimovo],RxNorm,994007
+40222578,esomeprazole 20 MG / naproxen 500 MG Delayed Release Oral Tablet,RxNorm,994008
+40222580,esomeprazole 20 MG / naproxen 500 MG [Vimovo],RxNorm,994009
+40222579,esomeprazole 20 MG / naproxen 500 MG Delayed Release Oral Tablet [Vimovo],RxNorm,994010
+40221996,aspirin 325 MG / carisoprodol 200 MG / codeine phosphate 16 MG Oral Tablet,RxNorm,994226
+40221999,aspirin 325 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG Oral Capsule,RxNorm,994237
+40222002,aspirin 325 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG [Ascomp],RxNorm,994238
+40222000,aspirin 325 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG Oral Capsule [Ascomp],RxNorm,994239
+40221994,aspirin 1000 MG,RxNorm,994429
+40221995,aspirin 1000 MG / caffeine 65 MG Oral Powder,RxNorm,994430
+40222018,aspirin 845 MG,RxNorm,994434
+40222019,aspirin 845 MG / caffeine 65 MG Oral Powder,RxNorm,994435
+40222006,aspirin 385 MG / caffeine 30 MG / orphenadrine citrate 25 MG Oral Tablet,RxNorm,994528
+40222009,aspirin 385 MG / caffeine 30 MG / orphenadrine citrate 25 MG [Norgesic],RxNorm,994529
+40222007,aspirin 385 MG / caffeine 30 MG / orphenadrine citrate 25 MG Oral Tablet [Norgesic],RxNorm,994530
+40222013,aspirin 770 MG / caffeine 60 MG / orphenadrine citrate 50 MG Oral Tablet,RxNorm,994535
+40222016,aspirin 770 MG / caffeine 60 MG / orphenadrine citrate 50 MG [Norgesic],RxNorm,994536
+40222014,aspirin 770 MG / caffeine 60 MG / orphenadrine citrate 50 MG Oral Tablet [Norgesic],RxNorm,994537
+40222017,aspirin 770 MG / caffeine 60 MG / orphenadrine citrate 50 MG [Orphengesic],RxNorm,994538
+40222015,aspirin 770 MG / caffeine 60 MG / orphenadrine citrate 50 MG Oral Tablet [Orphengesic],RxNorm,994539
+40222012,aspirin 428 MG / caffeine 30 MG / orphenadrine citrate 25 MG Oral Tablet,RxNorm,994810
+40222020,aspirin 856 MG / caffeine 60 MG / orphenadrine citrate 50 MG Oral Tablet,RxNorm,994811
+40222965,phenylbutazone 1000 MG [Pributazone],RxNorm,995495
+40222966,phenylbutazone Oral Tablet [Pributazone],RxNorm,995496
+40222964,phenylbutazone 1000 MG Oral Tablet [Pributazone],RxNorm,995497
+40223265,aspirin 300 MG / codeine phosphate 8 MG Oral Tablet,RxNorm,996988
+40223267,aspirin 325 MG / codeine phosphate 30 MG Oral Tablet,RxNorm,996991
+40223268,aspirin 325 MG / codeine phosphate 60 MG Oral Tablet,RxNorm,996994
+40102879,diclofenac Extended Release Oral Tablet [Voltaren],RxNorm,491344
+19113321,fenoprofen 600 MG [Naprofen],RxNorm,540364
+40112435,fenoprofen Oral Tablet [Naprofen],RxNorm,540365
+19113322,fenoprofen 600 MG Oral Tablet [Naprofen],RxNorm,540366
+19113499,etodolac 400 MG [Etoplac],RxNorm,540834
+40111803,etodolac Oral Tablet [Etoplac],RxNorm,540835
+19113500,etodolac 400 MG Oral Tablet [Etoplac],RxNorm,540836
+19113507,etodolac 500 MG [Etodalac],RxNorm,540853
+40111802,etodolac Oral Tablet [Etodalac],RxNorm,540854
+19113508,etodolac 500 MG Oral Tablet [Etodalac],RxNorm,540855
+19070730,phenylbutazone 100 MG [Cotylbutazone],RxNorm,541155
+40119662,phenylbutazone Oral Capsule [Cotylbutazone],RxNorm,541156
+1135763,phenylbutazone 100 MG Oral Capsule [Cotylbutazone],RxNorm,541157
+19071002,ibuprofen 800 MG [Samson 8],RxNorm,541711
+40115424,ibuprofen Oral Tablet [Samson 8],RxNorm,541712
+1177801,ibuprofen 800 MG Oral Tablet [Samson 8],RxNorm,541713
+19042618,ibuprofen 20 MG/ML [Motrin],RxNorm,544391
+40115343,ibuprofen Oral Suspension [Motrin],RxNorm,544392
+1177822,ibuprofen 20 MG/ML Oral Suspension [Motrin],RxNorm,544393
+19072730,phenylbutazone 0.2 MG/MG [Butasone],RxNorm,544578
+40119663,phenylbutazone Oral Gel [Butasone],RxNorm,544579
+19114512,phenylbutazone 0.2 MG/MG Oral Gel [Butasone],RxNorm,544580
+40111096,diclofenac Disintegrating Oral Tablet,RxNorm,562077
+19115531,etodolac 200 MG [Ramodar],RxNorm,563241
+19115532,indomethacin 25 MG [Indoflex],RxNorm,563242
+19115533,indomethacin 25 MG [Indolar],RxNorm,563243
+19115534,indomethacin 50 MG [Indolar],RxNorm,563244
+19115535,indomethacin 100 MG [Indolar],RxNorm,563245
+19115536,indomethacin 25 MG [Mobilan],RxNorm,563246
+19115537,indomethacin 50 MG [Mobilan],RxNorm,563247
+19115538,indomethacin 75 MG [Slo-Indo],RxNorm,563248
+19115539,phenylbutazone 200 MG [Butacote],RxNorm,563249
+19115540,phenylbutazone 100 MG [Butazolidin],RxNorm,563250
+19115541,phenylbutazone 200 MG [Butazolidin],RxNorm,563251
+19082947,tolmetin 400 MG [Tolectin DS],RxNorm,563252
+19115617,bufexamac 50 MG/ML [Jomax],RxNorm,563334
+19115678,ibuprofen 50 MG/ML [Proflex],RxNorm,563401
+19115697,naproxen 500 MG [Timpron],RxNorm,563420
+19115710,tenoxicam 10 MG/ML [Mobiflex],RxNorm,563436
+19115716,naproxen 250 MG [Timpron],RxNorm,563444
+19115740,ibuprofen 50 MG/ML [Proflex Pain Relief],RxNorm,563475
+19115997,fenoprofen 200 MG [Progesic],RxNorm,563821
+19115998,naproxen 250 MG [Synflex],RxNorm,563822
+1177480,ibuprofen,RxNorm,5640
+19044792,etodolac 200 MG [Lodine],RxNorm,564181
+19044793,etodolac 300 MG [Lodine],RxNorm,564182
+19116276,fenbufen 300 MG [Lederfen],RxNorm,564183
+19116277,fenbufen 450 MG [Lederfen],RxNorm,564184
+19116278,fenbufen 300 MG [Fenbuzip],RxNorm,564186
+19116279,fenbufen 450 MG [Fenbuzip],RxNorm,564187
+19116280,fenoprofen 300 MG [Fenopron],RxNorm,564188
+19116281,fenoprofen 600 MG [Fenopron],RxNorm,564189
+19116282,flurbiprofen 50 MG [Froben],RxNorm,564190
+19116283,flurbiprofen 100 MG [Froben],RxNorm,564191
+19116284,flurbiprofen 200 MG [Froben],RxNorm,564192
+19116285,ibuprofen 200 MG [Ibrufhalal],RxNorm,564193
+19116286,ibuprofen 400 MG [Cuprofen Maximum Strength],RxNorm,564194
+19116287,ibuprofen 600 MG [Arthrofen 600],RxNorm,564195
+19116288,ibuprofen 300 MG [fenbid],RxNorm,564196
+19116289,ibuprofen 20 MG/ML [Junifen],RxNorm,564197
+19116290,ibuprofen 3 MG/ML [Brufen],RxNorm,564198
+19116291,ibuprofen 300 MG [Proflex],RxNorm,564199
+19116292,indomethacin 25 MG [Artracin],RxNorm,564200
+19116293,indomethacin 50 MG [Artracin],RxNorm,564201
+19116294,indomethacin 25 MG [Imbrilon],RxNorm,564202
+19116295,indomethacin 50 MG [Imbrilon],RxNorm,564203
+19116296,indomethacin 100 MG [Imbrilon],RxNorm,564204
+19116297,indomethacin 25 MG [Indocid],RxNorm,564205
+19116298,indomethacin 50 MG [Indocid],RxNorm,564206
+19116299,indomethacin 25 MG [Flexin-25 Continus],RxNorm,564207
+19116300,indomethacin 5 MG/ML [Indocid],RxNorm,564208
+19116301,indomethacin 50 MG [Flexin-50 Continus],RxNorm,564209
+19116302,indomethacin 100 MG [Indocid],RxNorm,564210
+19116303,indomethacin 75 MG [Indocid R],RxNorm,564211
+19116304,indomethacin 25 MG [Rimacid],RxNorm,564212
+19116306,indomethacin 25 MG [Indomod],RxNorm,564214
+19116307,indomethacin 75 MG [Indomod],RxNorm,564215
+19116308,indomethacin 75 MG [Flexin-75 Continus],RxNorm,564216
+19116310,indomethacin 25 MG [Indomax],RxNorm,564218
+19116311,ketoprofen 50 MG [Alrheumat],RxNorm,564219
+19116312,ketoprofen 50 MG [Orudis],RxNorm,564220
+19116313,ketoprofen 100 MG [Orudis],RxNorm,564221
+19022353,ketoprofen 100 MG [Oruvail],RxNorm,564222
+19022354,ketoprofen 200 MG [Oruvail],RxNorm,564223
+19116314,ketoprofen 50 MG/ML [Oruvail],RxNorm,564224
+19116315,ketoprofen 100 MG [Ketovail],RxNorm,564225
+19116316,ketoprofen 200 MG [Ketovail],RxNorm,564226
+19116317,ketoprofen 50 MG [Ketonal],RxNorm,564227
+19116318,ketoprofen 100 MG [Ketonal],RxNorm,564228
+19116319,naproxen 250 MG [Laraflex],RxNorm,564235
+19116320,naproxen 500 MG [Laraflex],RxNorm,564236
+19044902,naproxen 250 MG [Naprosyn],RxNorm,564237
+19044903,naproxen 500 MG [Naprosyn],RxNorm,564238
+19116321,naproxen 250 MG [Rheuflex],RxNorm,564239
+19116322,naproxen 250 MG [Valrox],RxNorm,564240
+19116323,naproxen 500 MG [Rheuflex],RxNorm,564241
+19116324,naproxen 500 MG [Valrox],RxNorm,564242
+19116325,naproxen 375 MG [Pranoxen Continus],RxNorm,564243
+19116326,naproxen 250 MG [Arthrosin 250],RxNorm,564244
+19116327,naproxen 500 MG [Pranoxen Continus],RxNorm,564245
+19116328,naproxen 500 MG [Arthrosin 500],RxNorm,564246
+19116330,naproxen 250 MG [Arthroxen],RxNorm,564248
+19116331,naproxen 500 MG [Arthroxen],RxNorm,564249
+19116332,naproxen 500 MG [Rimoxyn],RxNorm,564250
+19044904,naproxen 375 MG [Naprosyn],RxNorm,564251
+19116333,naproxen 250 MG [Rimoxyn],RxNorm,564252
+19116334,naproxen 250 MG [Nycopren],RxNorm,564253
+19116335,naproxen 500 MG [Nycopren],RxNorm,564254
+19116336,naproxen 250 MG [Prosaid],RxNorm,564255
+19116337,naproxen 500 MG [Prosaid],RxNorm,564256
+19116338,naproxen 250 MG [Naprosyn EC],RxNorm,564257
+19116339,phenylbutazone 100 MG [Butacote],RxNorm,564260
+19116340,phenylbutazone 100 MG [Butazone],RxNorm,564261
+19116341,phenylbutazone 200 MG [Butazone],RxNorm,564262
+19039186,piroxicam 10 MG [Feldene],RxNorm,564263
+19039187,piroxicam 20 MG [Feldene],RxNorm,564264
+19116342,piroxicam 10 MG [Larapam],RxNorm,564265
+19116343,piroxicam 20 MG [Larapam],RxNorm,564266
+19116344,piroxicam 10 MG [Pirozip],RxNorm,564267
+19116345,piroxicam 20 MG [Pirozip],RxNorm,564268
+19116346,piroxicam 20 MG [Feldene Melt],RxNorm,564269
+19116347,piroxicam 20 MG/ML [Feldene],RxNorm,564270
+19116348,piroxicam 10 MG [Flamatrol],RxNorm,564271
+19116349,piroxicam 20 MG [Flamatrol],RxNorm,564272
+19116350,sulindac 100 MG [Clinoril],RxNorm,564273
+19021282,sulindac 200 MG [Clinoril],RxNorm,564274
+19116351,tiaprofenate 200 MG [Surgam],RxNorm,564275
+19116352,tiaprofenate 300 MG [Surgam],RxNorm,564276
+19088424,tolmetin 200 MG [Tolectin],RxNorm,564277
+19116353,acemetacin 60 MG [Emflex],RxNorm,564278
+19116354,nabumetone 500 MG [Relifex],RxNorm,564279
+19116355,nabumetone 100 MG/ML [Relifex],RxNorm,564280
+19116356,tenoxicam 20 MG [Mobiflex],RxNorm,564281
+19116360,piroxicam 0.005 MG/MG [Feldene Sports],RxNorm,564285
+19116476,fenoprofen 600 MG [Fepron],RxNorm,564428
+19116477,piroxicam 0.005 MG/MG [Feldene],RxNorm,564429
+19116534,ketoprofen 200 MG [Larafen CR],RxNorm,564495
+19116571,ibuprofen 50 MG/ML [Ibuleve],RxNorm,564548
+19116575,indomethacin 75 MG [Rheumacin LA],RxNorm,564553
+19116591,ketoprofen 200 MG [Ketocid],RxNorm,564578
+19116597,ketoprofen 200 MG [Fenoket],RxNorm,564587
+19116625,ketoprofen 200 MG [Ketozip CR],RxNorm,564621
+19116637,ketoprofen 0.025 MG/MG [Powergel],RxNorm,564639
+19116652,piroxicam 10 MG [Piroflam],RxNorm,564656
+19116653,piroxicam 20 MG [Piroflam],RxNorm,564657
+19116802,ibuprofen 200 MG [Relcofen],RxNorm,564892
+19116803,ibuprofen 400 MG [Relcofen],RxNorm,564893
+19116875,aceclofenac 100 MG [Preservex],RxNorm,564983
+19116879,ibuprofen 200 MG [Inoven],RxNorm,564988
+19116915,meloxicam 15 MG [Mobic],RxNorm,565024
+19116916,meloxicam 7.5 MG [Mobic],RxNorm,565025
+19116957,ibuprofen 0.05 MG/MG [fenbid],RxNorm,565071
+19116970,ketoprofen 200 MG [Ketotard],RxNorm,565091
+19023311,ibuprofen 200 MG [Advil],RxNorm,565143
+19117011,tolfenamic acid 200 MG [Clotam],RxNorm,565147
+19117031,naproxen 250 MG [Timpron 250 EC],RxNorm,565182
+19117051,indomethacin 75 MG [Indotard MR],RxNorm,565208
+19117058,piroxicam 0.005 MG/MG [Feldene P],RxNorm,565216
+19117069,naproxen 500 MG [Timpron 500 EC],RxNorm,565230
+19117118,tolfenamic acid 200 MG [Clotam Rapid],RxNorm,565297
+19117179,indomethacin 75 MG [Pardelprin MR],RxNorm,565381
+19117430,ibuprofen 200 MG [Ibular],RxNorm,565681
+19117431,ibuprofen 200 MG [Ibumetin],RxNorm,565682
+19117432,ibuprofen 200 MG [Paxofen],RxNorm,565683
+19117433,ibuprofen 200 MG [Apsifen],RxNorm,565684
+19117434,ibuprofen 200 MG [Brufen],RxNorm,565685
+19117435,ibuprofen 200 MG [Ebufac],RxNorm,565686
+19117436,ibuprofen 200 MG [Cuprofen],RxNorm,565687
+19117437,ibuprofen 200 MG [Lidifen],RxNorm,565688
+19042619,ibuprofen 200 MG [Motrin],RxNorm,565689
+19117438,ibuprofen 200 MG [Rimafen],RxNorm,565690
+19117439,ibuprofen 200 MG [Arthrofen 200],RxNorm,565691
+19117440,ibuprofen 200 MG [Phor Pain],RxNorm,565692
+19117441,ibuprofen 200 MG [Proflex],RxNorm,565693
+19117442,ibuprofen 200 MG [Pacifene],RxNorm,565694
+19117443,ibuprofen 200 MG [Migrafen],RxNorm,565695
+19117444,ibuprofen 400 MG [Ibular],RxNorm,565696
+19117445,ibuprofen 400 MG [Ibumetin],RxNorm,565697
+19117446,ibuprofen 400 MG [Paxofen],RxNorm,565698
+19117447,ibuprofen 400 MG [Apsifen],RxNorm,565699
+19117448,ibuprofen 400 MG [Brufen],RxNorm,565700
+19117449,ibuprofen 400 MG [Ebufac],RxNorm,565701
+19117450,ibuprofen 400 MG [Isisfen],RxNorm,565702
+19117451,ibuprofen 400 MG [Lidifen],RxNorm,565703
+19117452,ibuprofen 400 MG [Ibumed],RxNorm,565704
+19117453,ibuprofen 400 MG [Motrin],RxNorm,565705
+19117454,ibuprofen 400 MG [Rimafen],RxNorm,565706
+19117455,ibuprofen 400 MG [Arthrofen 400],RxNorm,565707
+19117456,ibuprofen 400 MG [Pacifene],RxNorm,565708
+19117457,ibuprofen 400 MG [Phor Pain],RxNorm,565709
+19117458,ibuprofen 600 MG [Ibumetin],RxNorm,565710
+19117459,ibuprofen 600 MG [Paxofen],RxNorm,565711
+19117460,ibuprofen 600 MG [Brufen],RxNorm,565712
+19117461,ibuprofen 600 MG [Lidifen],RxNorm,565713
+19117462,ibuprofen 600 MG [Apsifen F],RxNorm,565714
+19042671,ibuprofen 600 MG [Motrin],RxNorm,565715
+19117724,ibuprofen 800 MG [Brufen Retard],RxNorm,566093
+19117725,ibuprofen 20 MG/ML [Brufen],RxNorm,566094
+19117726,ibuprofen 800 MG [Motrin],RxNorm,566095
+19046362,flurbiprofen 50 MG [Ansaid],RxNorm,566517
+19046363,flurbiprofen 100 MG [Ansaid],RxNorm,566518
+19118174,meclofenamate 100 MG [Meclomen],RxNorm,567500
+19118175,meclofenamate 50 MG [Meclomen],RxNorm,567501
+19044794,etodolac 400 MG [Lodine],RxNorm,567619
+19118219,ibuprofen 20 MG/ML [Advil],RxNorm,567680
+19057827,ibuprofen 200 MG [Cap-Profen],RxNorm,567687
+19066957,ibuprofen 200 MG [Genpril],RxNorm,567688
+19068102,ibuprofen 200 MG [Haltran],RxNorm,567689
+19069508,ibuprofen 200 MG [Ibu-Tab],RxNorm,567691
+19072941,ibuprofen 200 MG [Menadol],RxNorm,567692
+19042676,ibuprofen 200 MG [Nuprin],RxNorm,567695
+19079192,ibuprofen 200 MG [Q-Profen],RxNorm,567696
+19080502,ibuprofen 200 MG [Saleto-200],RxNorm,567697
+19082016,ibuprofen 200 MG [Sup Pain Med],RxNorm,567698
+19082206,ibuprofen 200 MG [Tab-Profen],RxNorm,567699
+19118221,ibuprofen 200 MG [Uni-Pro],RxNorm,567700
+19118226,ibuprofen 300 MG [Motrin],RxNorm,567705
+19118227,ibuprofen 400 MG [Dolgesic],RxNorm,567706
+19118228,ibuprofen 400 MG [Ibu],RxNorm,567707
+19118229,ibuprofen 400 MG [Ibu-Tab],RxNorm,567708
+19118230,ibuprofen 400 MG [Rufen],RxNorm,567709
+19118231,ibuprofen 400 MG [Saleto-400],RxNorm,567710
+19069505,ibuprofen 600 MG [Ibu],RxNorm,567715
+19069510,ibuprofen 600 MG [Ibu-Tab],RxNorm,567716
+19042679,ibuprofen 600 MG [Rufen],RxNorm,567717
+19080506,ibuprofen 600 MG [Saleto-600],RxNorm,567718
+19069506,ibuprofen 800 MG [Ibu],RxNorm,567719
+19118233,ibuprofen 800 MG [Ibu-Tab],RxNorm,567720
+19042680,ibuprofen 800 MG [Rufen],RxNorm,567721
+19080508,ibuprofen 800 MG [Saleto-800],RxNorm,567722
+19118236,fenoprofen 300 MG [Nalfon],RxNorm,567750
+19047955,nabumetone 500 MG [Relafen],RxNorm,567759
+19118237,nabumetone 750 MG [Relafen],RxNorm,567760
+19046016,indomethacin 25 MG [Indocin],RxNorm,567763
+19046017,indomethacin 50 MG [Indocin],RxNorm,567764
+19046018,indomethacin 5 MG/ML [Indocin],RxNorm,567771
+19022355,ketoprofen 150 MG [Oruvail],RxNorm,567778
+19045222,ketoprofen 25 MG [Orudis],RxNorm,567787
+19045223,ketoprofen 75 MG [Orudis],RxNorm,567788
+19044905,naproxen 25 MG/ML [Naprosyn],RxNorm,567887
+19118323,oxaprozin 600 MG [Daypro],RxNorm,568030
+19082945,tolmetin 600 MG [Tolectin 600],RxNorm,568777
+19021283,sulindac 150 MG [Clinoril],RxNorm,569138
+19118906,acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG [Excedrin],RxNorm,570079
+19119176,aspirin 325 MG / meprobamate 200 MG [Equagesic],RxNorm,570399
+19080480,acetaminophen 115 MG / aspirin 210 MG / caffeine 16 MG / salicylamide 65 MG [Saleto],RxNorm,571342
+19053950,aspirin 400 MG / caffeine 32 MG [Anacin],RxNorm,571734
+19076264,aspirin 400 MG / caffeine 32 MG [P-A-C Analgesic],RxNorm,571739
+19044795,etodolac 500 MG [Lodine],RxNorm,571883
+19120022,aspirin 325 MG [Bayer Aspirin],RxNorm,572203
+19120027,aspirin 325 MG [Norwich Aspirin],RxNorm,572210
+19055992,aspirin 500 MG [Bayer Aspirin],RxNorm,572216
+19120030,aspirin 500 MG [Norwich Aspirin],RxNorm,572220
+19052673,ketoprofen 12.5 MG [Actron],RxNorm,572287
+19076039,ketoprofen 12.5 MG [Orudis KT],RxNorm,572288
+19058154,celecoxib 100 MG [Celebrex],RxNorm,573356
+19058155,celecoxib 200 MG [Celebrex],RxNorm,573357
+19120465,ibuprofen 200 MG [Anadin Ibuprofen],RxNorm,573961
+19120467,ibuprofen 0.05 MG/MG [Cuprofen],RxNorm,573963
+19120468,ibuprofen 200 MG [Nurofen Advance],RxNorm,573964
+19120495,ibuprofen 20 MG/ML [Nurofen For Children],RxNorm,574003
+19120541,piroxicam 20 MG [Brexidol],RxNorm,574055
+19120543,ibuprofen 50 MG/ML [Ibumousse],RxNorm,574062
+19045660,fenoprofen 200 MG [Nalfon],RxNorm,574119
+19120621,aspirin 325 MG [Bufferin],RxNorm,574308
+19100502,rofecoxib 2.5 MG/ML [Vioxx],RxNorm,574466
+19100503,rofecoxib 5 MG/ML [Vioxx],RxNorm,574467
+19100504,rofecoxib 25 MG [Vioxx],RxNorm,574468
+19100505,rofecoxib 12.5 MG [Vioxx],RxNorm,574469
+19100506,rofecoxib 50 MG [Vioxx],RxNorm,574585
+19033267,ibuprofen 600 MG [Ibifon 600],RxNorm,575323
+19033269,ibuprofen 600 MG [Ibren],RxNorm,575324
+19045701,fenoprofen 600 MG [Nalfon],RxNorm,575329
+19120865,naproxen 375 MG [Aflaxen],RxNorm,575336
+19016199,valdecoxib 10 MG [Bextra],RxNorm,575811
+19016200,valdecoxib 20 MG [Bextra],RxNorm,575812
+19121004,celecoxib 400 MG [Celebrex],RxNorm,576008
+40125462,chlorpheniramine / ibuprofen / pseudoephedrine Oral Suspension,RxNorm,577191
+1178663,indomethacin,RxNorm,5781
+1180182,meclofenamate,RxNorm,588003
+19122172,meloxicam 1.5 MG/ML,RxNorm,597404
+40128023,meloxicam Oral Suspension,RxNorm,597405
+19122173,meloxicam 1.5 MG/ML Oral Suspension,RxNorm,597406

@@ -1,0 +1,19 @@
+concept_id,concept_name,vocabulary_id,concept_code
+4137855,Secondary progressive multiple sclerosis,SNOMED,425500002
+4105353,Multiple sclerosis of the brainstem,SNOMED,192926004
+374919,Multiple sclerosis,SNOMED,24700007
+37116351,"Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome",SNOMED,733028000
+37166088,Autonomic disorder due to multiple sclerosis,SNOMED,1259083006
+4102337,Exacerbation of multiple sclerosis,SNOMED,192929006
+35623817,Marburg acute multiple sclerosis,SNOMED,766246000
+45571794,Multiple sclerosis,ICD10,G35
+37162102,Pediatric multiple sclerosis,SNOMED,1186728004
+4145049,Relapsing remitting multiple sclerosis,SNOMED,426373005
+4046108,Acute relapsing multiple sclerosis,SNOMED,230372003
+4231948,Benign multiple sclerosis,SNOMED,438511000
+4258676,Malignant multiple sclerosis,SNOMED,439567002
+37110514,Progressive relapsing multiple sclerosis,SNOMED,724778008
+4101729,Multiple sclerosis of the spinal cord,SNOMED,192927008
+4178929,Primary progressive multiple sclerosis,SNOMED,428700003
+35207365,Multiple sclerosis,ICD10CM,G35
+37311816,Progressive multiple sclerosis,SNOMED,816984002

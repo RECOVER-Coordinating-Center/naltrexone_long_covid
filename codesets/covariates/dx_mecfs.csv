@@ -1,0 +1,126 @@
+concept_id,concept_name,vocabulary_id,concept_code
+45553737,Other symptoms and signs involving cognitive functions and awareness,ICD10CM,R41.89
+1572255,Malaise and fatigue,ICD10CM,R53
+35207493,Other disorders of autonomic nervous system,ICD10CM,G90.8
+45547741,Other specified headache syndromes,ICD10,G44.8
+372448,Loss of consciousness,SNOMED,419045004
+442077,Anxiety disorder,SNOMED,197480006
+45534458,Other fatigue,ICD10CM,R53.83
+45595925,Emotional disorders with onset specific to childhood,ICD10,F93
+45755639,Symptoms and signs involving emotional state,ICD10,R45
+45533172,Other disorders of autonomic nervous system,ICD10,G90.8
+439926,Malaise and fatigue,SNOMED,271795006
+4282316,Recurrent major depression,SNOMED,66344007
+35225282,Limitation of activities due to disability,ICD10CM,Z73.6
+45544146,Other symptoms and signs involving cognitive functions and awareness,ICD10,R41
+4202045,Postviral fatigue syndrome,SNOMED,51771007
+4098302,Recurrent depression,SNOMED,191616006
+45582718,Other malaise,ICD10CM,R53.81
+35207505,Postviral and related fatigue syndromes,ICD10CM,G93.3
+45538145,"Disorder of autonomic nervous system, unspecified",ICD10,G90.9
+1576173,Reduced mobility,ICD10CM,Z74.0
+45755638,Other symptoms and signs involving general sensations and perceptions,ICD10,R44
+45606790,"Tachycardia, unspecified",ICD10,R00.0
+45592420,Symptoms and signs involving appearance and behaviour,ICD10,R46
+35207492,Autonomic dysreflexia,ICD10CM,G90.4
+35211269,Nonspecific low blood-pressure reading,ICD10CM,R03.1
+45581522,Autonomic dysreflexia,ICD10,G90.4
+45605252,Sequelae of other specified infectious and parasitic diseases,ICD10,B94.8
+45595904,Depressive episode,ICD10,F32
+45571763,Other anxiety disorders,ICD10,F41
+45576877,Other specified cardiac arrhythmias,ICD10,I49.8
+1568236,Somatoform disorders,ICD10CM,F45
+1572233,"Somnolence, stupor and coma",ICD10CM,R40
+1572244,Symptoms and signs involving emotional state,ICD10CM,R45
+35206022,Sequelae of other specified infectious and parasitic diseases,ICD10CM,B94.8
+313792,Paroxysmal tachycardia,SNOMED,12026006
+35211263,Palpitations,ICD10CM,R00.2
+45605799,"Paroxysmal tachycardia, unspecified",ICD10,I47.9
+4024707,Perception AND/OR perception disturbance,SNOMED,106134006
+45568132,Dizziness and giddiness,ICD10,R42
+314171,Low blood pressure reading,SNOMED,271870002
+43530714,Sensory disorder of smell and/or taste,SNOMED,2611000119103
+1572240,Other symptoms and signs involving cognitive functions and awareness,ICD10CM,R41.8
+1568218,"Major depressive disorder, recurrent",ICD10CM,F33
+35207790,Other specified cardiac arrhythmias,ICD10CM,I49.8
+725458,"Headache with orthostatic component, not elsewhere classified",ICD10CM,R51.0
+432738,Chronic fatigue syndrome,SNOMED,52702003
+36714927,Sequelae of infectious disease,SNOMED,720349002
+35207783,"Paroxysmal tachycardia, unspecified",ICD10CM,I47.9
+376961,Disturbance of consciousness,SNOMED,3006004
+45552491,Nonorganic sleep disorders,ICD10,F51
+1568220,Persistent mood [affective] disorders,ICD10CM,F34
+1572243,Other symptoms and signs involving general sensations and perceptions,ICD10CM,R44
+45538151,"Other disorders of nervous system, not elsewhere classified",ICD10,G98
+434633,Disorder of autonomic nervous system,SNOMED,15241006
+4204047,Neurological symptom,SNOMED,308921004
+35211261,"Tachycardia, unspecified",ICD10CM,R00.0
+435784,Somatoform disorder,SNOMED,31297008
+45534452,Other and unspecified symptoms and signs involving cognitive functions and awareness,ICD10,R41.8
+433760,Autonomic dysreflexia,SNOMED,129618003
+4293175,"Mental state, behavior and/or psychosocial function finding",SNOMED,384821006
+4304010,Phobic disorder,SNOMED,386810004
+45557203,Persistent mood [affective] disorders,ICD10,F34
+45591157,Mixed disorders of conduct and emotions,ICD10,F92
+45582710,Attention and concentration deficit,ICD10CM,R41.840
+1568359,Other specified headache syndromes,ICD10CM,G44.8
+45571765,Somatoform disorders,ICD10,F45
+710706,"Post COVID-19 condition, unspecified",ICD10,U09.9
+37402487,Myalgic encephalomyelitis/chronic fatigue syndrome,ICD10CM,G93.32
+45597164,Nonspecific low blood-pressure reading,ICD10,R03.1
+444070,Tachycardia,SNOMED,3424008
+4254485,Finding related to attentiveness,SNOMED,409083006
+45553741,Malaise and fatigue,ICD10,R53
+45576178,Limitation of activities due to disability,ICD10,Z73.6
+45539345,Unspecified symptoms and signs involving cognitive functions and awareness,ICD10CM,R41.9
+45576542,Recurrent depressive disorder,ICD10,F33
+45595906,Phobic anxiety disorders,ICD10,F40
+1572239,Other symptoms and signs involving cognitive functions and awareness,ICD10CM,R41
+45755637,"Somnolence, stupor and coma",ICD10,R40
+45544147,Disturbances of smell and taste,ICD10,R43
+45568141,Syncope and collapse,ICD10,R55
+433758,Childhood emotional disorder,SNOMED,268664001
+4025215,Emotional state finding,SNOMED,106126000
+45573032,"Chronic fatigue, unspecified",ICD10CM,R53.82
+45595967,Postviral fatigue syndrome,ICD10,G93.3
+35207489,Familial dysautonomia [Riley-Day],ICD10CM,G90.1
+35207916,Orthostatic hypotension,ICD10CM,I95.1
+1568217,Depressive episode,ICD10CM,F32
+42535090,Need for personal care assistance,SNOMED,15936341000119106
+40483832,Orthostatic headache,SNOMED,445511002
+4105183,Childhood disorder of conduct and emotion,SNOMED,192099000
+45553725,Unspecified symptoms and signs involving the nervous system,ICD10CM,R29.90
+1568221,Phobic anxiety disorders,ICD10CM,F40
+45581521,Familial dysautonomia [Riley-Day],ICD10,G90.1
+378253,Headache,SNOMED,25064002
+44784217,Cardiac arrhythmia,SNOMED,698247007
+4282096,"Major depression, single episode",SNOMED,36923009
+440383,Depressive disorder,SNOMED,35489007
+37402486,Postviral fatigue syndrome,ICD10CM,G93.31
+45558446,Palpitations,ICD10,R00.2
+45605872,Orthostatic hypotension,ICD10,I95.1
+315078,Palpitations,SNOMED,80313002
+4024013,Sensory nervous system finding,SNOMED,106147001
+35211350,Dizziness and giddiness,ICD10CM,R42
+1572242,Disturbances of smell and taste,ICD10CM,R43
+1572246,Symptoms and signs involving appearance and behavior,ICD10CM,R46
+374905,Non-organic sleep disorder,SNOMED,270487001
+45600355,Need for assistance due to reduced mobility,ICD10,Z74.0
+4223659,Fatigue,SNOMED,84229001
+433316,Dizziness and giddiness,SNOMED,271789005
+4137049,Disability affecting daily living,SNOMED,413298002
+45568125,Other symptoms and signs involving the nervous system,ICD10CM,R29.818
+1568441,Other disorders of nervous system not elsewhere classified,ICD10CM,G98
+35207494,"Disorder of the autonomic nervous system, unspecified",ICD10CM,G90.9
+1568265,Emotional disorders with onset specific to childhood,ICD10CM,F93
+376337,Disorder of nervous system,SNOMED,118940003
+444100,Mood disorder,SNOMED,46206005
+319041,Orthostatic hypotension,SNOMED,28651003
+4104196,Familial dysautonomia,SNOMED,29159009
+1568242,Sleep disorders not due to a substance or known physiological condition,ICD10CM,F51
+766503,"Post COVID-19 condition, unspecified",ICD10CM,U09.9
+35211391,Syncope and collapse,ICD10CM,R55
+4116798,Finding of general observation of appearance,SNOMED,301305006
+4310235,Reduced mobility,SNOMED,8510008
+1568230,Other anxiety disorders,ICD10CM,F41
+4272240,Malaise,SNOMED,367391008

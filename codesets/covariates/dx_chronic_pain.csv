@@ -1,0 +1,257 @@
+concept_id,concept_name,concept_code,vocabulary_id
+35207436,Phantom limb syndrome with pain,G54.6,ICD10CM
+45605564,Phantom limb syndrome with pain,G54.6,ICD10
+45557241,Phantom limb syndrome without pain,G54.7,ICD10
+35207437,Phantom limb syndrome without pain,G54.7,ICD10CM
+1568379,Causalgia of upper limb,G56.4,ICD10CM
+45571818,Causalgia,G56.4,ICD10
+45557245,Causalgia of unspecified upper limb,G56.40,ICD10CM
+45576598,Causalgia of right upper limb,G56.41,ICD10CM
+45533154,Causalgia of left upper limb,G56.42,ICD10CM
+37200336,Causalgia of bilateral upper limbs,G56.43,ICD10CM
+1568390,Causalgia of lower limb,G57.7,ICD10CM
+45605568,Causalgia of unspecified lower limb,G57.70,ICD10CM
+45591191,Causalgia of right lower limb,G57.71,ICD10CM
+45595953,Causalgia of left lower limb,G57.72,ICD10CM
+37200346,Causalgia of bilateral lower limbs,G57.73,ICD10CM
+45566906,Central pain syndrome,G89.0,ICD10CM
+1568422,"Chronic pain, not elsewhere classified",G89.2,ICD10CM
+45547763,Chronic pain due to trauma,G89.21,ICD10CM
+45566907,Chronic post-thoracotomy pain,G89.22,ICD10CM
+45581519,Other chronic postprocedural pain,G89.28,ICD10CM
+45542912,Other chronic pain,G89.29,ICD10CM
+45591201,Neoplasm related pain (acute) (chronic),G89.3,ICD10CM
+45562109,Chronic pain syndrome,G89.4,ICD10CM
+1568425,Complex regional pain syndrome I (CRPS I),G90.5,ICD10CM
+710654,Complex regional pain syndrome type I,G90.5,ICD10
+45562110,"Complex regional pain syndrome I, unspecified",G90.50,ICD10CM
+1568426,Complex regional pain syndrome I of upper limb,G90.51,ICD10CM
+45591202,Complex regional pain syndrome I of right upper limb,G90.511,ICD10CM
+45538144,Complex regional pain syndrome I of left upper limb,G90.512,ICD10CM
+45552552,"Complex regional pain syndrome I of upper limb, bilateral",G90.513,ICD10CM
+45547764,Complex regional pain syndrome I of unspecified upper limb,G90.519,ICD10CM
+1568427,Complex regional pain syndrome I of lower limb,G90.52,ICD10CM
+45566909,Complex regional pain syndrome I of right lower limb,G90.521,ICD10CM
+45542913,Complex regional pain syndrome I of left lower limb,G90.522,ICD10CM
+45586319,"Complex regional pain syndrome I of lower limb, bilateral",G90.523,ICD10CM
+45581523,Complex regional pain syndrome I of unspecified lower limb,G90.529,ICD10CM
+45571834,Complex regional pain syndrome I of other specified site,G90.59,ICD10CM
+710655,Complex regional pain syndrome type II,G90.6,ICD10
+710656,"Complex regional pain syndrome, other and unspecified type",G90.7,ICD10
+45548604,Algoneurodystrophy,M89.0,ICD10
+1571296,Algoneurodystrophy,M89.0,ICD10CM
+45592067,"Algoneurodystrophy, unspecified site",M89.00,ICD10CM
+42619104,"Algoneurodystrophy, multiple sites",M89.00,ICD10
+42619105,"Algoneurodystrophy, shoulder region",M89.01,ICD10
+1571297,"Algoneurodystrophy, shoulder",M89.01,ICD10CM
+45543801,"Algoneurodystrophy, right shoulder",M89.011,ICD10CM
+45596802,"Algoneurodystrophy, left shoulder",M89.012,ICD10CM
+45601670,"Algoneurodystrophy, unspecified shoulder",M89.019,ICD10CM
+1571298,"Algoneurodystrophy, upper arm",M89.02,ICD10CM
+42619106,"Algoneurodystrophy, upper arm",M89.02,ICD10
+45534064,"Algoneurodystrophy, right upper arm",M89.021,ICD10CM
+45567782,"Algoneurodystrophy, left upper arm",M89.022,ICD10CM
+45601671,"Algoneurodystrophy, unspecified upper arm",M89.029,ICD10CM
+42619107,"Algoneurodystrophy, forearm",M89.03,ICD10
+1571299,"Algoneurodystrophy, forearm",M89.03,ICD10CM
+45538985,"Algoneurodystrophy, right forearm",M89.031,ICD10CM
+45582342,"Algoneurodystrophy, left forearm",M89.032,ICD10CM
+45553392,"Algoneurodystrophy, unspecified forearm",M89.039,ICD10CM
+42619108,"Algoneurodystrophy, hand",M89.04,ICD10
+1571300,"Algoneurodystrophy, hand",M89.04,ICD10CM
+45587193,"Algoneurodystrophy, right hand",M89.041,ICD10CM
+45567783,"Algoneurodystrophy, left hand",M89.042,ICD10CM
+45592068,"Algoneurodystrophy, unspecified hand",M89.049,ICD10CM
+1571301,"Algoneurodystrophy, thigh",M89.05,ICD10CM
+42619109,"Algoneurodystrophy, pelvic region and thigh",M89.05,ICD10
+45601672,"Algoneurodystrophy, right thigh",M89.051,ICD10CM
+45538986,"Algoneurodystrophy, left thigh",M89.052,ICD10CM
+45596803,"Algoneurodystrophy, unspecified thigh",M89.059,ICD10CM
+1571302,"Algoneurodystrophy, lower leg",M89.06,ICD10CM
+42619110,"Algoneurodystrophy, lower leg",M89.06,ICD10
+45572657,"Algoneurodystrophy, right lower leg",M89.061,ICD10CM
+45562961,"Algoneurodystrophy, left lower leg",M89.062,ICD10CM
+45553393,"Algoneurodystrophy, unspecified lower leg",M89.069,ICD10CM
+1571303,"Algoneurodystrophy, ankle and foot",M89.07,ICD10CM
+42619111,"Algoneurodystrophy, ankle and foot",M89.07,ICD10
+45567784,"Algoneurodystrophy, right ankle and foot",M89.071,ICD10CM
+45582343,"Algoneurodystrophy, left ankle and foot",M89.072,ICD10CM
+45582344,"Algoneurodystrophy, unspecified ankle and foot",M89.079,ICD10CM
+42619112,"Algoneurodystrophy, other",M89.08,ICD10
+45592069,"Algoneurodystrophy, other site",M89.08,ICD10CM
+45548605,"Algoneurodystrophy, multiple sites",M89.09,ICD10CM
+42619113,"Algoneurodystrophy, site unspecified",M89.09,ICD10
+37201092,Chronic bladder pain,R39.82,ICD10CM
+45582717,Chronic intractable pain,R52.1,ICD10
+45568139,Other chronic pain,R52.2,ICD10
+4044411,Abdominal cutaneous nerve entrapment syndrome,230648001,SNOMED
+40480688,Acute exacerbation of chronic abdominal pain,444746004,SNOMED
+4030546,Alteration in comfort: chronic pain,14150005,SNOMED
+4010966,Arm claudication,102557007,SNOMED
+761828,Atherosclerosis of bypass graft of bilateral lower limbs with intermittent claudication,16014071000119107,SNOMED
+761827,Atherosclerosis of bypass graft of left lower limb with intermittent claudication,16014031000119109,SNOMED
+761826,Atherosclerosis of bypass graft of right lower limb with intermittent claudication,16013711000119104,SNOMED
+35611580,Bilateral chronic pain following total hip arthroplasty,12400141000119103,SNOMED
+36687087,Bilateral chronic pain of feet,15749801000119104,SNOMED
+35615072,Bilateral chronic pain of upper limbs,16002671000119106,SNOMED
+609009,Bilateral intermittent claudication of lower limbs due to atherosclerosis of nonbiological bypass graft,16013431000119104,SNOMED
+37108778,Bilateral total knee chronic pain following arthroplasty,12400181000119108,SNOMED
+193523,Broad ligament laceration syndrome,69186005,SNOMED
+37312248,Central sensitization,789494008,SNOMED
+4008102,Chronic abdominal pain,111985007,SNOMED
+45763561,Chronic ankle pain,5.1881E+13,SNOMED
+42537212,Chronic arthralgia of temporomandibular joint,736428003,SNOMED
+4046660,Chronic back pain,134407002,SNOMED
+43530938,Chronic back pain greater than three months duration,6.31E+11,SNOMED
+42538797,Chronic central neuropathic pain,762602002,SNOMED
+37155910,Chronic central neuropathic pain due to brain injury,3.9171E+13,SNOMED
+37170539,Chronic central neuropathic pain due to multiple sclerosis,3.9181E+13,SNOMED
+37171581,Chronic central neuropathic pain due to spinal cord injury,3.9191E+13,SNOMED
+4079008,Chronic central post-stroke pain,277286006,SNOMED
+762941,Chronic chest pain,4.34011E+14,SNOMED
+37155935,Chronic dental pain,3.9631E+13,SNOMED
+42534971,Chronic female pelvic pain syndrome,11892641000119101,SNOMED
+4148541,Chronic idiopathic anal pain,35074008,SNOMED
+42539629,Chronic idiopathic pain syndrome,736464002,SNOMED
+4168685,Chronic intractable pain,274665008,SNOMED
+4132891,Chronic low back pain,278860009,SNOMED
+37310730,Chronic mechanical low back pain,1.44951E+14,SNOMED
+42538794,Chronic mechanical visceral pain,762599007,SNOMED
+42538688,Chronic musculoskeletal pain,762452003,SNOMED
+42538793,Chronic musculoskeletal pain due to disease of nervous system,762598004,SNOMED
+37171578,Chronic musculoskeletal pain due to disorder,3.9141E+13,SNOMED
+42538792,Chronic musculoskeletal pain due to persistent inflammation,762597009,SNOMED
+43530622,Chronic neck pain,1.121E+12,SNOMED
+37016631,Chronic neck pain for greater than 3 months,6.74051E+14,SNOMED
+42536909,Chronic neuropathic pain,735936005,SNOMED
+37155930,Chronic neuropathic pain following brain injury,3.9441E+13,SNOMED
+37155931,Chronic neuropathic pain following spinal cord injury,3.9451E+13,SNOMED
+42536695,Chronic nociceptive pain,735644008,SNOMED
+43530731,Chronic nonmalignant pain,3.061E+12,SNOMED
+4340938,Chronic nonspecific abdominal pain,235841007,SNOMED
+42538690,Chronic orofacial pain,762454002,SNOMED
+37171579,Chronic orofacial pain due to disorder,3.9151E+13,SNOMED
+37172119,Chronic orofacial pain due to infectious disease,4.4511E+13,SNOMED
+37155936,Chronic orofacial pain due to nonvascular intracranial disorder,3.9651E+13,SNOMED
+37171608,Chronic orofacial pain due to temporomandibular joint disorder,3.9721E+13,SNOMED
+436096,Chronic pain,82423001,SNOMED
+37312006,Chronic pain after cancer treatment,788891004,SNOMED
+4331953,Chronic pain due to injury,431481001,SNOMED
+42536908,Chronic pain due to malignant neoplastic disease,735935009,SNOMED
+37155938,Chronic pain following amputation,3.9661E+13,SNOMED
+37171604,Chronic pain following arthroplasty,3.9671E+13,SNOMED
+37151047,Chronic pain following breast surgery,3.9071E+13,SNOMED
+37171573,Chronic pain following burn injury,3.9081E+13,SNOMED
+37171605,Chronic pain following cholecystectomy,3.9681E+13,SNOMED
+37171575,Chronic pain following hysterectomy,3.9101E+13,SNOMED
+37108779,Chronic pain following left total hip arthroplasty,12400221000119100,SNOMED
+37108780,Chronic pain following left total knee arthroplasty,12400261000119105,SNOMED
+37171584,Chronic pain following musculoskeletal injury,3.9221E+13,SNOMED
+42539375,Chronic pain following radiotherapy,762596000,SNOMED
+37171574,Chronic pain following repair of hernia,3.9091E+13,SNOMED
+37108781,Chronic pain following right total hip arthroplasty,12400301000119102,SNOMED
+37117142,Chronic pain following right total knee arthroplasty,12400341000119100,SNOMED
+37171577,Chronic pain following spinal surgery,3.9111E+13,SNOMED
+42538790,Chronic pain following surgical procedure for cancer,762594002,SNOMED
+42538687,Chronic pain following trauma,762451005,SNOMED
+37155909,Chronic pain following whiplash injury to neck,3.9121E+13,SNOMED
+43530631,Chronic pain in coccyx for more than three months,1.29511E+14,SNOMED
+4196899,Chronic pain in face,432615008,SNOMED
+43530684,Chronic pain in male pelvis,1.33731E+14,SNOMED
+37160602,Chronic pain of cardiac implantable electronic device pocket following implantation of cardiac implantable electronic device,1162829009,SNOMED
+37108974,Chronic pain of left foot,16002911000119108,SNOMED
+37108941,Chronic pain of left upper limb,15743561000119103,SNOMED
+37108973,Chronic pain of right foot,16002871000119105,SNOMED
+37108940,Chronic pain of right upper limb,15743521000119108,SNOMED
+440704,Chronic pain syndrome,373621006,SNOMED
+4105639,Chronic painful neuropathy due to diabetes mellitus,193184006,SNOMED
+37171585,Chronic painful polyneuropathy,3.9231E+13,SNOMED
+4044392,Chronic painful polyneuropathy due to diabetes mellitus,230575000,SNOMED
+42538791,Chronic painful polyneuropathy following chemotherapy,762595001,SNOMED
+37171586,Chronic painful radiculopathy,3.9241E+13,SNOMED
+4034006,Chronic pelvic pain of female,237067000,SNOMED
+4133035,Chronic pelvic pain without obvious pathology,279032003,SNOMED
+42538798,Chronic peripheral neuropathic pain,762603007,SNOMED
+37171583,Chronic peripheral neuropathic pain following peripheral nerve injury,3.9211E+13,SNOMED
+44784644,Chronic post-thoracotomy pain syndrome,9.8611E+13,SNOMED
+43531612,Chronic postoperative pain,1.09771E+14,SNOMED
+1246430,Chronic primary cervical pain,3.8741E+13,SNOMED
+42538786,Chronic primary generalized pain,762590006,SNOMED
+1246433,Chronic primary low back pain,3.8781E+13,SNOMED
+1246432,Chronic primary musculoskeletal limb pain,3.8771E+13,SNOMED
+42538787,Chronic primary musculoskeletal pain,762591005,SNOMED
+42538789,Chronic primary orofacial pain,762593008,SNOMED
+1246434,Chronic primary thoracic pain,3.8811E+13,SNOMED
+42538785,Chronic primary visceral pain,762589002,SNOMED
+37162891,Chronic proctalgia,1197734000,SNOMED
+4138333,Chronic prostatitis - chronic pelvic pain syndrome,426135001,SNOMED
+40480423,Chronic psychogenic pain,441711008,SNOMED
+43530630,Chronic sacral pain for greater than three months,1.29501E+14,SNOMED
+37204166,Chronic sacroiliac joint pain,782661001,SNOMED
+4143863,Chronic sciatica,307177001,SNOMED
+42539376,Chronic secondary facial pain,762604001,SNOMED
+42538799,Chronic secondary oral pain,762605000,SNOMED
+608602,Chronic shoulder pain,1362941000000102,SNOMED
+4168068,Chronic sore throat,275488008,SNOMED
+43530661,Chronic thoracic back pain,1.36791E+14,SNOMED
+37209550,Chronic urinary bladder pain,16580691000119107,SNOMED
+4142567,Chronic vaginal pain,426628005,SNOMED
+42537749,Chronic visceral pain,737306007,SNOMED
+37171580,Chronic visceral pain due to disorder,3.9161E+13,SNOMED
+42538796,Chronic visceral pain due to persistent inflammation,762601009,SNOMED
+42538795,Chronic visceral pain due to vascular disorder,762600005,SNOMED
+37171606,Chronic visceral pain in abdominal region due to disorder,3.9691E+13,SNOMED
+37171607,Chronic visceral pain in pelvic region due to disorder,3.9701E+13,SNOMED
+37155941,Chronic visceral pain in thoracic region due to disorder,3.9711E+13,SNOMED
+4134577,Complex regional pain syndrome,128200000,SNOMED
+42536258,Complex regional pain syndrome of foot,734987002,SNOMED
+42536260,Complex regional pain syndrome of hand,734989004,SNOMED
+42536259,Complex regional pain syndrome of knee,734988007,SNOMED
+42539474,Complex regional pain syndrome of lower limb,734986006,SNOMED
+46273207,Complex regional pain syndrome of upper limb,712537009,SNOMED
+761850,Complex regional pain syndrome type 2 of bilateral lower limbs,16058471000119101,SNOMED
+765318,Complex regional pain syndrome type 2 of bilateral upper limbs,16058511000119105,SNOMED
+42536233,Complex regional pain syndrome type I,734947007,SNOMED
+42535471,Complex regional pain syndrome type I of bilateral lower limbs,2.93951E+14,SNOMED
+42539169,Complex regional pain syndrome type I of bilateral upper limbs,2.93921E+14,SNOMED
+42535469,Complex regional pain syndrome type I of left lower limb,2.93931E+14,SNOMED
+42535470,Complex regional pain syndrome type I of left upper limb,2.93941E+14,SNOMED
+42539285,Complex regional pain syndrome type I of right lower limb,2.93961E+14,SNOMED
+42535472,Complex regional pain syndrome type I of right upper limb,2.93971E+14,SNOMED
+42535432,Complex regional pain syndrome type II of left lower limb,2.91781E+14,SNOMED
+42535430,Complex regional pain syndrome type II of left upper limb,2.91761E+14,SNOMED
+42535433,Complex regional pain syndrome type II of right lower limb,2.91791E+14,SNOMED
+42535431,Complex regional pain syndrome type II of right upper limb,2.91771E+14,SNOMED
+4256912,"Complex regional pain syndrome, type II",408751001,SNOMED
+4237198,"Complex regional pain syndrome, type II, lower limb",408749000,SNOMED
+4237315,"Complex regional pain syndrome, type II, upper limb",408750000,SNOMED
+4010338,Generalized chronic body pains,102481003,SNOMED
+442774,Intermittent claudication,63491006,SNOMED
+37312529,Intermittent claudication due to atherosclerosis of artery of limb,792845002,SNOMED
+36717006,Intermittent claudication of bilateral lower limbs co-occurrent and due to atherosclerosis,12236951000119108,SNOMED
+36717286,Intermittent claudication of left lower limb co-occurrent and due to atherosclerosis,12237071000119100,SNOMED
+36712806,Intermittent claudication of right lower limb co-occurrent and due to atherosclerosis,12237191000119103,SNOMED
+4200298,Intermittent pain,314642004,SNOMED
+4133645,Internal mammary artery syndrome,279048002,SNOMED
+46270414,Intractable low back pain,29930001000004103,SNOMED
+4186213,Jaw claudication,43922008,SNOMED
+37118025,Myofascial pain syndrome,726531007,SNOMED
+4133038,Myofascial pain syndrome of lower back,279041008,SNOMED
+36684460,Myofascial pain syndrome of lumbar spine,1.13611E+14,SNOMED
+4150753,Myofascial pain syndrome of neck,279030006,SNOMED
+36684438,Myofascial pain syndrome of thoracic spine,4.1321E+13,SNOMED
+4133641,Myofascial pain syndrome of thorax,279036000,SNOMED
+4119307,Neurogenic claudication,303081002,SNOMED
+201347,Pelvic congestion syndrome,39402007,SNOMED
+37206118,Persistent idiopathic facial pain,785723001,SNOMED
+4150125,Persistent pain following procedure,279047007,SNOMED
+4345337,Persistent prosthetic joint pain,240271006,SNOMED
+4343237,Persistent wound pain,239166000,SNOMED
+37017894,Post-mastectomy chronic pain syndrome,714252004,SNOMED
+42539699,Primary chronic pain,737305006,SNOMED
+4161973,Progressive angina,371806006,SNOMED
+761867,Reflex sympathetic dystrophy of bilateral upper limbs,16206661000119108,SNOMED
+4119942,Stable angina,233819005,SNOMED
+37209632,Stable angina due to coronary arteriosclerosis,16754391000119100,SNOMED
+4316222,Venous intermittent claudication,95443002,SNOMED
+1246661,Vertebrogenic low back pain,616839841000119101,SNOMED

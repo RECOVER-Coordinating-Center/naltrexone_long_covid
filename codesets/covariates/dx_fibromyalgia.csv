@@ -1,0 +1,15 @@
+concept_id,concept_name,concept_code,vocabulary_id
+40405599,Fibromyalgia,203082005,SNOMED
+4316217,Primary fibromyalgia syndrome,95417003,SNOMED
+35209011,Fibromyalgia,M79.7,ICD10CM
+45553272,Fibromyalgia,M79.7,ICD10
+42618491,"Fibromyalgia, multiple sites",M79.70,ICD10
+42618492,"Fibromyalgia, shoulder region",M79.71,ICD10
+42618493,"Fibromyalgia, upper arm",M79.72,ICD10
+42618494,"Fibromyalgia, forearm",M79.73,ICD10
+42618495,"Fibromyalgia, hand",M79.74,ICD10
+42618496,"Fibromyalgia, pelvic region and thigh",M79.75,ICD10
+42618497,"Fibromyalgia, lower leg",M79.76,ICD10
+42618498,"Fibromyalgia, ankle and foot",M79.77,ICD10
+42618499,"Fibromyalgia, other",M79.78,ICD10
+42618500,"Fibromyalgia, site unspecified",M79.79,ICD10

@@ -1,0 +1,122 @@
+concept_id,concept_name,vocabulary_id,concept_code
+46269887,Rectal hemorrhage due to Crohn's disease of small intestine,SNOMED,1085891000119100
+42616806,"Juvenile arthritis in Crohn disease [regional enteritis], other",ICD10,M09.18
+37116713,Perianal fistula due to Crohn's disease,SNOMED,733533008
+4055884,Crohn's disease of oral soft tissues,SNOMED,196578009
+4212992,Exacerbation of Crohn's disease of small intestine,SNOMED,414154002
+36716986,Arthritis co-occurrent and due to Crohn's disease,SNOMED,8161000119106
+4253620,Iritis with Crohn's disease,SNOMED,410485009
+45576987,Crohn's disease of large intestine with intestinal obstruction,ICD10CM,K50.112
+45538530,Crohn's disease of small intestine with unspecified complications,ICD10CM,K50.019
+46269886,Intestinal obstruction due to Crohn's disease of small intestine,SNOMED,1085881000119103
+45596326,Crohn's disease of large intestine with abscess,ICD10CM,K50.114
+45586716,Crohn's disease of small intestine with other complication,ICD10CM,K50.018
+4242392,Crohn's disease of rectum,SNOMED,3815005
+45562490,"Crohn disease, unspecified",ICD10,K50.9
+45581902,Crohn's disease of both small and large intestine with unspecified complications,ICD10CM,K50.819
+1569613,Crohn's disease of large intestine,ICD10CM,K50.1
+195585,Crohn's disease of small intestine,SNOMED,56689002
+4342643,Crohn's disease of stomach,SNOMED,235664007
+36715915,Crohn disease of anal canal,SNOMED,721702009
+4264850,Gastrointestinal Crohn's disease,SNOMED,397172008
+36716695,Crohn's disease of gastrointestinal anastomosis,SNOMED,722850002
+42537666,Crohn disease of upper gastrointestinal tract,SNOMED,737195007
+45601172,Crohn's disease of small intestine with rectal bleeding,ICD10CM,K50.011
+4246693,Crohn's disease of intestine,SNOMED,397173003
+4266370,Crohn's disease of pylorus,SNOMED,61424003
+45557654,"Crohn's disease, unspecified, with intestinal obstruction",ICD10CM,K50.912
+4297644,Metastatic Crohn's disease of skin,SNOMED,402378006
+4177488,Crohn's disease of colon,SNOMED,50440006
+45581901,Crohn's disease of large intestine with other complication,ICD10CM,K50.118
+4116143,Arthropathy in Crohn's disease,SNOMED,201728006
+46269874,Complication due to Crohn's disease of large intestine,SNOMED,1085761000119103
+45596327,Crohn's disease of both small and large intestine without complications,ICD10CM,K50.80
+46269882,Rectal hemorrhage due to Crohn's disease of small and large intestines,SNOMED,1085841000119108
+1569617,"Crohn's disease, unspecified",ICD10CM,K50.9
+45755435,Crohn disease [regional enteritis],ICD10,K50
+1569615,Crohn's disease of both small and large intestine,ICD10CM,K50.8
+45533600,Crohn's disease of both small and large intestine with intestinal obstruction,ICD10CM,K50.812
+46269883,Abscess of intestine co-occurrent and due to Crohn's disease of small intestine,SNOMED,1085851000119105
+45601173,Crohn disease of large intestine,ICD10,K50.1
+45533601,Crohn's disease of both small and large intestine with abscess,ICD10CM,K50.814
+42616700,"Arthropathy in Crohn disease [regional enteritis], other",ICD10,M07.48
+37111373,Extraintestinal Crohn's,SNOMED,726101009
+45601175,Crohn's disease of both small and large intestine with other complication,ICD10CM,K50.818
+37116446,Crohn disease of appendix,SNOMED,733157003
+45543316,"Crohn's disease, unspecified, with fistula",ICD10CM,K50.913
+45533598,Crohn's disease of small intestine without complications,ICD10CM,K50.00
+4290835,Crohn's disease of skin,SNOMED,399946006
+46269884,Complication due to Crohn's disease of small intestine,SNOMED,1085861000119107
+42616804,"Juvenile arthritis in Crohn disease [regional enteritis], lower leg",ICD10,M09.16
+42616694,"Arthropathy in Crohn disease [regional enteritis], shoulder region",ICD10,M07.41
+45543315,Crohn's disease of small intestine with intestinal obstruction,ICD10CM,K50.012
+1569612,Crohn's disease of small intestine with complications,ICD10CM,K50.01
+4299294,Crohn's disease of penis,SNOMED,402376005
+4340812,Perianal Crohn's disease,SNOMED,235796008
+4239382,Crohn's disease of jejunum,SNOMED,91390005
+42616802,"Juvenile arthritis in Crohn disease [regional enteritis], hand",ICD10,M09.14
+4292361,Crohn's disease of scrotum,SNOMED,402377001
+46269878,Abscess of intestine co-occurrent and due to Crohn's disease of small and large intestine,SNOMED,1085801000119106
+42619384,"Arthropathy in Crohn disease [regional enteritis], upper arm",ICD10,M07.42
+45577121,Arthropathy in Crohn disease [regional enteritis],ICD10,M07.4
+4297643,Crohn's disease of vulva,SNOMED,402375009
+45572211,"Crohn's disease, unspecified, with unspecified complications",ICD10CM,K50.919
+4210469,Crohn's disease of duodenum,SNOMED,56287005
+4323289,Crohn's disease of pyloric antrum,SNOMED,70622003
+45596324,Crohn disease of small intestine,ICD10,K50.0
+4122617,Crohn's disease of gingivae,SNOMED,234999001
+42616698,"Arthropathy in Crohn disease [regional enteritis], lower leg",ICD10,M07.46
+46269891,Rectal hemorrhage due to Crohn's disease,SNOMED,1085941000119104
+42616701,"Arthropathy in Crohn disease [regional enteritis], site unspecified",ICD10,M07.49
+201606,Crohn's disease,SNOMED,34000006
+36686095,Crohn's disease of small intestine with stenosis,SNOMED,10743231000119101
+46269876,Intestinal obstruction due to Crohn's disease of large intestine,SNOMED,1085781000119107
+195575,Crohn's disease of small and large intestines,SNOMED,71833008
+46269879,Complication due to Crohn's disease of small and large intestines,SNOMED,1085811000119109
+4115377,Juvenile arthritis in Crohn disease,SNOMED,201805000
+45576986,Crohn's disease of large intestine without complications,ICD10CM,K50.10
+46269890,Intestinal obstruction due to Crohn's disease,SNOMED,1085931000119108
+1569610,Crohn's disease [regional enteritis],ICD10CM,K50
+45562491,"Crohn's disease, unspecified, with abscess",ICD10CM,K50.914
+45567306,Crohn's disease of both small and large intestine with rectal bleeding,ICD10CM,K50.811
+194684,Crohn's disease of large bowel,SNOMED,7620006
+4055020,Crohn's disease of terminal ileum,SNOMED,196977009
+46269880,Fistula of intestine due to Crohn's disease of small and large intestine,SNOMED,1085821000119102
+42616696,"Arthropathy in Crohn disease [regional enteritis], hand",ICD10,M07.44
+45567307,"Crohn's disease, unspecified, with rectal bleeding",ICD10CM,K50.911
+42616697,"Arthropathy in Crohn disease [regional enteritis], pelvic region and thigh",ICD10,M07.45
+46269889,Complication due to Crohn's disease,SNOMED,1085911000119103
+46269885,Fistula of small intestine due to Crohn's disease,SNOMED,1085871000119101
+42616807,"Juvenile arthritis in Crohn disease [regional enteritis], site unspecified",ICD10,M09.19
+42616803,"Juvenile arthritis in Crohn disease [regional enteritis], pelvic region and thigh",ICD10,M09.15
+1569618,"Crohn's disease, unspecified, with complications",ICD10CM,K50.91
+46269888,Abscess of intestine co-occurrent and due to Crohn's disease,SNOMED,1085901000119101
+46274073,Abscess of intestine co-occurrent and due to Crohn's disease of large intestine,SNOMED,1085751000119100
+42616695,"Arthropathy in Crohn disease [regional enteritis], forearm",ICD10,M07.43
+42616805,"Juvenile arthritis in Crohn disease [regional enteritis], ankle and foot",ICD10,M09.17
+45591593,Crohn's disease of small intestine with fistula,ICD10CM,K50.013
+45562489,Crohn's disease of large intestine with unspecified complications,ICD10CM,K50.119
+46269875,Fistula of large intestine due to Crohn's disease,SNOMED,1085771000119109
+42616798,"Juvenile arthritis in Crohn disease [regional enteritis], multiple sites",ICD10,M09.10
+46269877,Rectal hemorrhage due to Crohn's disease of large intestine,SNOMED,1085791000119105
+42616799,"Juvenile arthritis in Crohn disease [regional enteritis], shoulder region",ICD10,M09.11
+45548159,Crohn's disease of large intestine with fistula,ICD10CM,K50.113
+42616699,"Arthropathy in Crohn disease [regional enteritis], ankle and foot",ICD10,M07.47
+42616800,"Juvenile arthritis in Crohn disease [regional enteritis], upper arm",ICD10,M09.12
+45557653,Crohn's disease of small intestine with abscess,ICD10CM,K50.014
+4340114,Crohn's disease of esophagus,SNOMED,235607002
+4131542,Crohn's stricture of colon,SNOMED,413276006
+45548286,Juvenile arthritis in Crohn disease [regional enteritis],ICD10,M09.1
+4244235,Crohn's disease of ileum,SNOMED,38106008
+45601174,Crohn's disease of both small and large intestine with fistula,ICD10CM,K50.813
+1569611,Crohn's disease of small intestine,ICD10CM,K50.0
+45596325,Crohn's disease of large intestine with rectal bleeding,ICD10CM,K50.111
+46269881,Intestinal obstruction due to Crohn's disease of small and large intestine,SNOMED,1085831000119104
+4212991,Exacerbation of Crohn's disease of large intestine,SNOMED,414153008
+42616801,"Juvenile arthritis in Crohn disease [regional enteritis], forearm",ICD10,M09.13
+45533599,Other Crohn disease,ICD10,K50.8
+45601176,"Crohn's disease, unspecified, without complications",ICD10CM,K50.90
+1569614,Crohn's disease of large intestine with complications,ICD10CM,K50.11
+45576988,"Crohn's disease, unspecified, with other complication",ICD10CM,K50.918
+42616693,"Arthropathy in Crohn disease [regional enteritis], multiple sites",ICD10,M07.40
+1569616,Crohn's disease of both small and large intestine with complications,ICD10CM,K50.81
